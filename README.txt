@@ -2,7 +2,8 @@
 Summary and licensing information
 ======================================
 This code is for extraction of technical phrases and their relations from a domain corpus (e.g. medical device incident reports, or netwrok tickets) to populate the classes and relationships in a pre-defined ontology model.
-It is partly adapted from the techniques proposed for extracting domain-specific n-grams and relations between noun categories , respectively, in the following papers:
+
+It is partly adapted based on the techniques proposed for extracting domain-specific n-grams and relations between noun categories , respectively, in the following papers:
 - R. Potharaju, N. Jain, and C. Nita-Rotaru, “Juggling the Jigsaw: Towards Automated Problem Inference from Network
   Trouble Tickets,” in NSDI, 2013.
 - T. Mohamed, E.R. Hruschka, T.M. Mitchell: Discovering Relations between Noun Categories, EMNLP, pp. 1447-1455, 2011.
