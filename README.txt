@@ -1,4 +1,6 @@
-# MedSafe_Ontology
+======================================
+Summary and licensing information
+======================================
 This code is for extraction of technical phrases and their relations from a domain corpus (e.g. medical device incident reports, or netwrok tickets) to populate the classes and relationships in a pre-defined ontology model.
 It is partly adapted from the techniques proposed for extracting domain-specific n-grams and relations between noun categories , respectively, in the following papers:
 - R. Potharaju, N. Jain, and C. Nita-Rotaru, “Juggling the Jigsaw: Towards Automated Problem Inference from Network
