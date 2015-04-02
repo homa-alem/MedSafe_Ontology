@@ -1,0 +1,489 @@
+,"The service functions provide details for the service provider
+to gather information about hardware problems while under the direction
+of the next level of support.Before using this information, you should know how to service this
+particular hardware model. You must also know how to safely work with
+electrical components.""PDF files for IBM¨ i service
+functions",You can view and print a PDF of this information.Dedicated service tools,"Use dedicated service tools (DST) to work with Licensed
+Internal Code, disk units, configuration and resources, and to verify
+devices and communications. You can also use DST to display logs on
+the system.To make a printout, attach the printer to the workstation
+I/O processor or storage media unit that is performing the service
+function. The printer that is used with DST for service tool output
+must be an SCS-type data stream printer."Hardware service manager,"The hardware service manager allows you to display and
+work with system hardware (logical or packaging) and debug input-output
+processors (IOP) and devices.The Hardware
+Service Manager display provides the following information:"Product activity log,"The product activity log (PAL) allows you to display or
+print system data, Licensed Internal Code data, software components,
+subsystem information, and I/O device data that has been logged.It allows you to display
+or print system, Licensed Internal Code, software components, subsystem,
+and I/O device data that has been logged. It also provides data summaries,
+allows data to be sorted, displays reference code descriptions, and
+allows you to work with removable media statistics.The PAL is the
+general use system log containing entries for informational events,
+thresholding incidents, dumps, and errors that need to trigger service
+actions. The entries are full of basic and detailed information on
+the event in a somewhat raw form.This option is selected from
+the Start a Service Tool menu. It allows you to display or print data
+that has been logged for various components of the system. It also
+provides data summaries, allows data to be sorted, and allows you
+to work with removable media statistics and display reference code
+descriptions. It was formerly called the Error Log Utility. In the limited paging environment, you cannot change PAL
+area sizes, work with tape statistics, or examine session or lifetime
+counters for a specific volume or removable media type."Service reference procedures,"The service reference procedures include general tasks such as
+setting the system date and time, setting the system password, determining
+the dominant operating system, accessing the history file, and so on."Control panel functions,System reference code information,"System reference codes (SRCs) are a sequence of data words
+(codes) that can help identify system status, describe a failure (for
+example, hardware, Licensed Internal Code, or software), and identify
+the failing unit and its location.In summary, the SRC provides the first-failure-data-capture information.
+The customer or support representative uses SRCs during problem determination,
+repair actions, and verification. The SRC provides a link to the problem
+determination procedures (hardcopy or softcopy). Use the SRC and the
+problem determination procedures to isolate the problem."Initial program load information,This topic provides initial program load (IPL) information.Licensed Internal Code,Lists various fixes and PTF packages.System architecture and configuration,"Provides information about the system architecture and
+configuration."Working with storage dumps,"A main storage dump (MSD) is a process of collecting data
+from the system's main storage. ",Provides information about the list of operating systems.,IBM¨ i service functions,"The service functions provide details for the service provider
+to gather information about hardware problems while under the direction
+of the next level of support.Large
+PDF files can be difficult to open online. For best results, save
+the PDF file to your local drive for viewing or printing. Follow these
+steps:","The service functions provide details for the service provider
+to gather information about hardware problems while under the direction
+of the next level of support.Before using this information, you should know how to service this
+particular hardware model. You must also know how to safely work with
+electrical components.",System paging environments,"The amount of assistance that software provides for service
+depends on how you perform the system IPL. The service tools and functions
+that are available depend on how you access DST and which operating
+system is in use."Work with service tools user IDs,"Service tools user IDs control access to DST functions,
+system service tools (STRSST command), and Licensed Internal Code
+service functions.  When a Service tools user ID is changed, the old
+ID is replaced with the new one."System paging environments,"The amount of assistance that software provides for service
+depends on how you perform the system IPL. The service tools and functions
+that are available depend on how you access DST and which operating
+system is in use."Accessing dedicated service tools,"You can access dedicated service tools (DST) in several
+ways, including by performing an IPL to DST, using the System Request
+Key, and selecting Function 21 while the system is operational."Changing user IDs,"You can change a service tools user ID or
+reset the QSECOFR service tools ID."Using function keys in dedicated service tools,"The F3, F12, F16, and System Request function keys allow
+navigation through DST."Exiting dedicated service tools,"You can exit dedicated service tools (DST) and end all
+DST functions, or you can allow the DST functions to remain active."DST options,"DST options vary depending on the paging environment and
+how you access DST.","The service functions provide details for the service provider
+to gather information about hardware problems while under the direction
+of the next level of support.Before using this information, you should know how to service this
+particular hardware model. You must also know how to safely work with
+electrical components.",Determining the dominant operating system,How to determine the dominant operating system.This indicates that an alternate IPL was performed.Hardware service manager options,"Options on the Hardware Service Manager display
+vary according to the paging environment. In the nonpaging (stand-alone)
+environment (type D IPL), the Hardware Service Manager display shows
+a subset of the options that are allowed when the operating system
+is available.""Collecting information and performing functions from the hardware
+service manager displays","This section describes how to collect information and perform
+specific functions by using the options and function keys from the
+various packaging and logical hardware resources displays."System architecture and configuration,"Provides information about the system architecture and
+configuration."Resource names,"Communications lines, I/O processors, and devices are system
+resources. All system resources are identified by a resource name. During an IPL, all powered-on resources that do not have
+a name are assigned a name. The Licensed Internal Code assigns the
+name according to the order in which the resource reports to the system.
+The resource name is used for identification (by the Licensed Internal
+Code) during the next IPL, on displays, in printouts, and during system
+configuration."Hardware service manager options,"Options on the Hardware Service Manager display
+vary according to the paging environment. In the nonpaging (stand-alone)
+environment (type D IPL), the Hardware Service Manager display shows
+a subset of the options that are allowed when the operating system
+is available.""Collecting information and performing functions from the hardware
+service manager displays","This section describes how to collect information and perform
+specific functions by using the options and function keys from the
+various packaging and logical hardware resources displays."Symbols on the hardware service manager displays,"Describes symbol fields.These and other symbols may also
+appear on screens which are used for a specific function, for example
+for concurrent maintenance. See the Help text for these screens for
+a description of these symbols for these specific functions.""Printing the system configuration list and details of the system
+bus, main storage, or processor","This information describes the system configuration list
+and how to print the list.You can sort the printout by location or by logical address
+data.To collect more details on the information that is listed
+on the system configuration list, press F6 (Print) from a display
+other than the Hardware Service Manager display.This
+ends the procedure."Verification procedures,"You can check communications and various hardware units
+and devices for correct operation by performing verification procedures.","The service functions provide details for the service provider
+to gather information about hardware problems while under the direction
+of the next level of support.Before using this information, you should know how to service this
+particular hardware model. You must also know how to safely work with
+electrical components.",Service action log,"The service action log (SAL) is a subset of the product
+activity log.The SAL is a utility that scans the PAL and displays entries
+that require service representative action. It pulls out the relevant
+information from those entries and formats it to the display to show
+service information, such as failing resource names, field replaceable
+unit (FRU) part numbers, and FRU locations. If FRU part numbers and
+locations cannot be determined, the SAL display shows symbolic FRU
+names and isolation procedure names, which then correspond to problem
+analysis procedures for the service representative. The SAL runs before
+the operating system is operational."Product activity log location,"The log files can be stored on any disk unit, so the system
+must IPL past storage management recovery to view the data.The product activity log is maintained by
+the Licensed Internal Code EREP component. The log files can be stored
+on any disk unit, so the system must IPL past storage management recovery
+to view the data."Recovering from product activity log errors while in DST,"In the limited paging environment, you are limited to messages
+sent to the display or the SRC on the control panel."Paging environment,"The product activity log is maintained by the system Licensed
+Internal Code."Options for the product activity log,"Options within the product activity log include
+working with logs, working with removable media, and learning more
+about reference code descriptions."Function keys for the product activity log,"Function keys allow you to gather more information about
+a product activity log entry. The function keys that
+appear at the bottom of the screen vary for each display. "Interpreting product activity log reports,"This topic provides information about product activity
+log reports.","The service functions provide details for the service provider
+to gather information about hardware problems while under the direction
+of the next level of support.Before using this information, you should know how to service this
+particular hardware model. You must also know how to safely work with
+electrical components.",Setting the system date and time,"The system date and time can be set with various tools.Use one of the following
+methods to set the date and time:"Determining the dominant operating system,How to determine the dominant operating system.This indicates that an alternate IPL was performed.System password,"If a system password is required, the Verification of System
+Password Failed display appears just prior to the IPL or Install the
+System display.If the Verification of System Password Failed display
+appears after a repair action, contact your next level of support
+for assistance.When customer information is known by manufacturing, the
+new system will be shipped with the correct system password.The
+system requires a new system password each time someone enters the
+system serial number and at each model and processor card feature
+change. The new system password, which is required at the time of
+the first IPL, is provided by IBM¨ if IBM knows the end user. Customers
+who do not have the system password when they need it must contact
+their marketing representative to place a system password order.If
+the correct system password is not entered, you can select a system
+password bypass period to allow time to obtain the correct system
+password from the marketing representative. If the bypass period expires,
+the system will not complete the next IPL unless the correct system
+password is entered. While in bypass mode, by way of control console
+messages, the system indicates the amount of time that remains before
+the bypass period expiration date."System unique identifier,"The system unique identifier (SUID) is a 12-character ID
+that is assigned by the manufacturer. New systems are shipped with
+the specific value assigned. The SUID is used by specific software
+support to identify that a system object model was generated.A
+new SUID can be assigned for the following reasons:The SUID is needed only to support system object model software
+functions. An incorrect SUID does not affect other system functions.
+To order a new SUID, contact the marketing representative (hardware
+feature code 1311)."Primary consoles or alternative consoles,"The primary console is the first workstation that the system
+identifies. It is attached to the first input/output adapter (IOA)
+or input-output processor (IOP) that supports workstations. The alternative
+console is the workstation that functions as the console when the
+primary console is not operational.A console is a workstation that is used to view and control system
+operations. The system can assign alternative consoles. The alternative
+console can be a workstation that is attached to the next IOA or IOP
+that is capable of supporting workstations.The IOA or IOP that supports a console must be on the system bus
+(bus 1).If a workstation is not correctly attached to the first IOA or
+IOP that is capable of attaching workstations, the system will not
+assign a primary console. If it does not assign a primary console,
+the system displays a reference code on the control panel. If the
+system is set for manual mode, it stops during the initial program
+load (IPL).For a workstation
+to be the primary console, it must be operational and attached to
+the system bus. It must also have the correct port and address assigned.
+If the workstation is a personal computer, it must also have an active
+workstation emulation program."Locating the system's load source from the system console,"Use this procedure to locate the system load-source and
+alternate load-source input/output processors (IOPs), load-source
+I/O adapter, and load-source disk unit.The special characters percent
+(%) and equals (=) might also appear in the description of logical
+hardware resources. These characters indicate that those resources
+are alternate IPL resources. To better understand the special characters
+that indicate load-source resources and alternate load-source resources,
+use the Help function key (F1)."History file,"The history file provides a high-level audit trail of the
+actions that are performed by the system.The history file information can assist
+the system operator, the data processing manager, and the service
+representative."Low-level debug and data collecting procedures,"Use these procedures to collect data for problems with
+Licensed Internal Code or hardware that you have been unable to solve
+with other methods.The low-level debug functions (Functions 63-70) use sub-functions.
+This means that these functions have a function range inside them
+(00-FF) where you can display or enter information.Before you start, ensure that Manual mode is selected.To
+enable the low-level debug functions, perform the following steps:"Logical partitions,"Logical partitions are the distribution of resources within
+a single system to make it operate as if it were two or more independent
+systems."cluster command,"To create
+a cluster:To remove a cluster from the system:To display the health status of a cluster:To synchronize the cluster and Object Data Manager
+(ODM):To list all clusters:Cluster newcluster
+has been created successfully.Cluster
+newcluster has been removed successfully.myhost2
+has been removed from the newcluster cluster.myhost2
+has been added to the newcluster cluster.""Adding expansion units to a large configuration with SPCN firmware
+update control","You can add expansion units to a running system with 10
+or more expansion units, including those being added with SPCN firmware
+update control.Depending on various factors in the system configuration
+and procedures, you might see the following error logs: Broadcast SPCN firmware
+updates: HSL/RIO SPCN firmware updates:  ","The service functions provide details for the service provider
+to gather information about hardware problems while under the direction
+of the next level of support.Before using this information, you should know how to service this
+particular hardware model. You must also know how to safely work with
+electrical components.","Values for IPL types, system operating modes, and speeds","Reference tables for IPL types, system operating modes,
+and speeds."Accessing the control panel functions,Service extended control panel functions,"Service functions 50 through 99 are enabled when you select
+Manual mode and enter function 25 (service switch 1), then function
+26 (service switch 2). Sub-functions are used with Functions 51 and
+57 through 64. Functions 50 through 99 are now available.You can disable the service functions by selecting and entering
+either function 25 (service switch 1) or function 26 (service switch
+2).To disable functions 50 through 99, select function 25 and press
+Enter. Functions 50 through 99 are then no longer available.","The service functions provide details for the service provider
+to gather information about hardware problems while under the direction
+of the next level of support.Before using this information, you should know how to service this
+particular hardware model. You must also know how to safely work with
+electrical components.",Product activity log,"The product activity log (PAL) allows you to display or
+print system data, Licensed Internal Code data, software components,
+subsystem information, and I/O device data that has been logged.It allows you to display
+or print system, Licensed Internal Code, software components, subsystem,
+and I/O device data that has been logged. It also provides data summaries,
+allows data to be sorted, displays reference code descriptions, and
+allows you to work with removable media statistics.The PAL is the
+general use system log containing entries for informational events,
+thresholding incidents, dumps, and errors that need to trigger service
+actions. The entries are full of basic and detailed information on
+the event in a somewhat raw form.This option is selected from
+the Start a Service Tool menu. It allows you to display or print data
+that has been logged for various components of the system. It also
+provides data summaries, allows data to be sorted, and allows you
+to work with removable media statistics and display reference code
+descriptions. It was formerly called the Error Log Utility. In the limited paging environment, you cannot change PAL
+area sizes, work with tape statistics, or examine session or lifetime
+counters for a specific volume or removable media type."SRC formats,"SRC formats describe the SRC record structure.The
+SRC record structure provides information about the machine at the
+time of the failure.Bxxx
+uuuuIf any of these SRCs appears in a serviceable event
+view or in the control panel, the operator or service provider must
+take some action.Dxxx
+uuuuInitial program load (IPL) progress codes."SRC formats,"SRC formats describe the SRC record structure.The
+SRC record structure provides information about the machine at the
+time of the failure.Bxxx
+uuuuIf any of these SRCs appears in a serviceable event
+view or in the control panel, the operator or service provider must
+take some action.Dxxx
+uuuuInitial program load (IPL) progress codes."System reference codes,"This topic provides information about system reference
+codes.","The service functions provide details for the service provider
+to gather information about hardware problems while under the direction
+of the next level of support.Before using this information, you should know how to service this
+particular hardware model. You must also know how to safely work with
+electrical components.","IPL type, mode, and speed options",Methods to perform IPL,"This topic provides information about methods that can
+be used to perform an IPL."Alternate installation IPL,"This topic provides information about how to enable an
+alternative installation IPL."Platform IPL sequence,"This topic provides information about the steps for initial
+program load."Status SRCs,"Status system reference codes (SRCs) indicate the current
+state of the system for informational purposes.","The service functions provide details for the service provider
+to gather information about hardware problems while under the direction
+of the next level of support.Before using this information, you should know how to service this
+particular hardware model. You must also know how to safely work with
+electrical components.",Fixes and cumulative PTF packages,"Between code releases, problems that are found with the
+code are fixed with program temporary fixes (PTFs).The term PTF can refer to a Licensed Internal Code, an
+operating system, or other IBM¨ licensed
+program fix. Because some PTFs repair problems that might appear to
+be hardware failures, your actions with PTFs are important for both
+the customer and for IBM. It
+is often difficult to tell the difference between a hardware failure
+and a code problem that is fixed by a PTF.The customer is responsible for maintaining fixes to Licensed
+Internal Code and the operating system.Obtain information about preventive service
+planning (PSP) by contacting the customer's software service provider.Before
+generating a Licensed Internal Code APAR, ask your next level of support
+to screen the APAR and enter the symptoms of the problem into the
+service support system.Licensed programs are represented
+by names in the form xxxxyyy, where xxxx is the base operating system
+software and yyy is a unique, 3-character alphanumeric identifier."Displaying Licensed Internal Code fixes,,"Before performing problem analysis for Licensed Internal
+Code, ensure that the latest level of Licensed Internal Code is on
+your system."Authorized program analysis report,You can submit problem analysis report.,"The service functions provide details for the service provider
+to gather information about hardware problems while under the direction
+of the next level of support.Before using this information, you should know how to service this
+particular hardware model. You must also know how to safely work with
+electrical components.", System power overview,Provides information about the system power.High-speed link and remote I/O,"High-speed link (HSL), also known as remote I/O (RIO),
+resources provide the connection between system I/O busses and the
+system processor.HSL/RIO resources are normally configured in loops with
+the system unit having an HSL/RIO controller resource that handles
+routing of the data between the system processor and the system I/O
+busses. System I/O busses connect to the loop with HSL I/O adapter
+or RIO adapter resources. When you view the logical resources of a
+High Speed Link loop using hardware service manager, you will see:Loops start and end on the same port pair of an HSL/RIO
+controller, for example, the A0 and A1 ports.In some cases
+a link is an internal connection in a system unit or expansion unit.
+In that case the link will be labeled as ""internal"" and there will
+not be port label information.When port pairs are on a system
+unit they are labeled on the frame as A0 and A1; B0 and B1; and so
+on, or as ÐTx. When port pairs are on an expansion unit they are labeled
+on the frame as 00 and 01, or as Tx."Multi-adapter bridge,"A multi-adapter bridge is a resource which provides the
+connection between PCI I/O processors and a system PCI bus under an
+HSL I/O or RIO adapter."Resource names,"Communications lines, I/O processors, and devices are system
+resources. All system resources are identified by a resource name. During an IPL, all powered-on resources that do not have
+a name are assigned a name. The Licensed Internal Code assigns the
+name according to the order in which the resource reports to the system.
+The resource name is used for identification (by the Licensed Internal
+Code) during the next IPL, on displays, in printouts, and during system
+configuration."Hardware configuration restrictions,"Provides information about the lists of restrictions that
+apply for the hardware that is associated with resources.""Communications card, cable, and wrap connector reference","A few of the communication cards, cables, and wrap connectors
+include: single-port communications adapter card and TPAC wrap connector,
+high-speed communications card and wrap connector wiring, and the
+advanced PCI communications console cable."Communications signal voltage levels,"Communications signal voltage levels for several interface types,
+including V.24 EIA-232 X.21bis, V.35, X21, and ISDN.When terminated by a 100 ohm resistive load, the differential
+voltage (B-A) is the larger of 2.0 volts or 50% of the open circuit voltage.
+The open circuit voltage is between 2.0 and 6.0 volts.When terminated by a 100 ohm resistive load, the differential
+voltage (A-B) is the larger of 2.0 volts or 50% of the open circuit voltage.
+The open circuit voltage is between 2.0 and 6.0 volts.The differential voltage (A-B)
+is less than +.75 volts and more than -.75 volts (nominal).The differential voltage (A-B)
+is 0.0 volts (nominal).","The service functions provide details for the service provider
+to gather information about hardware problems while under the direction
+of the next level of support.Before using this information, you should know how to service this
+particular hardware model. You must also know how to safely work with
+electrical components.",Control panel functions,Automatic main storage dump,"When the system stops due to a hardware or software failure,
+the service processor begins the main storage dump process.When the system completes the dump, some of the data for
+the current MSD is copied to the load-source disk, and the other data
+is held temporarily in main storage. The Main Storage Dump Manager
+(MSDM) function then starts.When a failure causes the system
+to perform a main storage dump, the Main Storage Dump Manager SRC
+display will appear as soon as the last disk unit reports in.If
+you select F3/F12 to exit Main Storage Dump Manager without copying
+the MSD, the following message appears: Selecting
+F3/F12 a second time ends the main storage dump manager function,
+and the system performs an IPL again."Performing a main storage dump to disk,Copying a main storage dump,"Provides information about how to copy main storage dump
+data."Main storage dump status,"During a main storage dump (MSD), the control panel shows
+MSD status system reference codes (SRCs).During a main storage dump, the control
+panel shows MSD status SRCs (D1xx 3xxx and C6xx 44xx).The main
+storage dump ends successfully if the Main Storage Dump Occurred display
+appears. The main storage dump ends unsuccessfully if a terminating
+SRC appears at the control panel.11 A6xx4404or 11 B1xx4698or
+11 B2xx5117"Error recovery for dumps,"Provides information about how to determine whether main
+storage dump data was written to disk, and reporting the error."Performing a service processor dump,"A service processor dump is a collection of data from a
+service processor either after a failure, external reset, or manual
+request.Perform the following to obtain a storage dump of the
+service processor:"Copying the IOP storage dump to removable media,"Start from the Start a Service Tool display to begin the
+storage dump.Press the Enter key."Performing an IOP dump,"You can perform I/O processor storage dumps by using the
+control panel or by using the hardware service manager."IOP dump information in the product activity log,"IOP storage dumps occur at the time the system detects
+the problem. If the IOP failure does not cause a system failure, the
+dump information is placed in the product activity log.","The service functions provide details for the service provider
+to gather information about hardware problems while under the direction
+of the next level of support.Before using this information, you should know how to service this
+particular hardware model. You must also know how to safely work with
+electrical components.",,"Dedicated service tools (DST) operates in
+stand-alone (nonpaging), limited, and full paging environments.","Dedicated service tools (DST) operates in
+stand-alone (nonpaging), limited, and full paging environments."System service tools,"The system service tools (SST) run one or more Licensed
+Internal Code or hardware service functions under the control of the
+operating system.","Problem analysis and resolution (PAR) manages system errors
+and gives the customer maximum system availability, effective problem
+analysis, and a set of software tools for analyzing, repairing, and
+reporting problems.Online PAR manages system errors and gives the customer maximum
+system availability, effective problem analysis, and a set of software
+tools for analyzing, repairing, and reporting problems. It runs concurrently
+with other customer programs; therefore any part of the system that
+is not usable by the customer is also unavailable for a problem analysis
+task. The customer should be aware of this when deciding to run Online
+PAR.System failures fall into two groups:  System-detected and customer-detected.","Between code releases, problems that are found with the
+code are fixed with program temporary fixes (PTFs). These PTFs can
+be displayed.","This topic provides information about the tasks to
+perform before requesting a new APAR."How to reset an I/O processor card while the system is running,"This topic provides information about how to reset an I/O
+processor card while the system is running.Resetting an IOP restarts and reloads that IOP. Use this
+procedure to recover from an intermittent error condition."Varying configuration descriptions on and off,"Access all lines, devices, and IOPs and to see and change
+(vary on or off) the configuration status for these resources.","This topic provides information about commonly used service
+commands."Verify commands,"Use the verify command to check for the correct operation
+of hardware and communications."Communications tests,"Communications tests include the wireless LAN adapter and indicators
+test, communications interface trace, and concurrent LPDA-2 tests.","The service functions provide details for the service provider
+to gather information about hardware problems while under the direction
+of the next level of support.Before using this information, you should know how to service this
+particular hardware model. You must also know how to safely work with
+electrical components.","PDF files for IBM¨ i service
+functions",You can view and print a PDF of this information."PDF files for IBM¨ i service
+functions","PDF files for IBM¨ i service
+functions",You can view and print a PDF of this information.Dedicated service tools,"Use dedicated service tools (DST) to work with Licensed
+Internal Code, disk units, configuration and resources, and to verify
+devices and communications. You can also use DST to display logs on
+the system.To make a printout, attach the printer to the workstation
+I/O processor or storage media unit that is performing the service
+function. The printer that is used with DST for service tool output
+must be an SCS-type data stream printer."Hardware service manager,"The hardware service manager allows you to display and
+work with system hardware (logical or packaging) and debug input-output
+processors (IOP) and devices.The Hardware
+Service Manager display provides the following information:"Product activity log,"The product activity log (PAL) allows you to display or
+print system data, Licensed Internal Code data, software components,
+subsystem information, and I/O device data that has been logged.It allows you to display
+or print system, Licensed Internal Code, software components, subsystem,
+and I/O device data that has been logged. It also provides data summaries,
+allows data to be sorted, displays reference code descriptions, and
+allows you to work with removable media statistics.The PAL is the
+general use system log containing entries for informational events,
+thresholding incidents, dumps, and errors that need to trigger service
+actions. The entries are full of basic and detailed information on
+the event in a somewhat raw form.This option is selected from
+the Start a Service Tool menu. It allows you to display or print data
+that has been logged for various components of the system. It also
+provides data summaries, allows data to be sorted, and allows you
+to work with removable media statistics and display reference code
+descriptions. It was formerly called the Error Log Utility. In the limited paging environment, you cannot change PAL
+area sizes, work with tape statistics, or examine session or lifetime
+counters for a specific volume or removable media type."Service reference procedures,"The service reference procedures include general tasks such as
+setting the system date and time, setting the system password, determining
+the dominant operating system, accessing the history file, and so on."Control panel functions,System reference code information,"System reference codes (SRCs) are a sequence of data words
+(codes) that can help identify system status, describe a failure (for
+example, hardware, Licensed Internal Code, or software), and identify
+the failing unit and its location.In summary, the SRC provides the first-failure-data-capture information.
+The customer or support representative uses SRCs during problem determination,
+repair actions, and verification. The SRC provides a link to the problem
+determination procedures (hardcopy or softcopy). Use the SRC and the
+problem determination procedures to isolate the problem."Initial program load information,This topic provides initial program load (IPL) information.Licensed Internal Code,Lists various fixes and PTF packages.System architecture and configuration,"Provides information about the system architecture and
+configuration."Working with storage dumps,"A main storage dump (MSD) is a process of collecting data
+from the system's main storage. ",Provides information about the list of operating systems.,Stand-alone paging (nonpaging),"You can access dedicated service tools (DST) while the
+system is in the stand-alone paging environment, but not all DST options
+are available. In this environment, there is no operating system available,
+and only some functions of Licensed Internal Code are operational."Limited paging,"The limited paging environment is the first servicing environment
+you access when you begin to start the system in Manual mode. This
+environment contains all the functions of the Licensed Internal Code,
+including storage management.You can access DST while the system is in the limited paging environment.
+This environment accesses the temporary files that are needed and
+the Licensed Internal Code on the load-source disk. The operating
+system is not available."Full paging,"The full paging environment is used during normal system
+operation. The DST options vary depending on the release level of
+the operating system.All disk units, the Licensed Internal Code, and the operating system
+are available."Dedicated service tools,"Use dedicated service tools (DST) to work with Licensed
+Internal Code, disk units, configuration and resources, and to verify
+devices and communications. You can also use DST to display logs on
+the system.To make a printout, attach the printer to the workstation
+I/O processor or storage media unit that is performing the service
+function. The printer that is used with DST for service tool output
+must be an SCS-type data stream printer."Dedicated service tools,Work with dedicated service tools environment,"Use this option to work with active service functions and
+system devices while you are in dedicated service tools
+(DST). If you are logged on with service tools security authority,
+you can also change service tools user IDs and work with some system
+values."Work with dedicated service tools environment,Stand-alone paging (nonpaging),"You can access dedicated service tools (DST) while the
+system is in the stand-alone paging environment, but not all DST options
+are available. In this environment, there is no operating system available,
+and only some functions of Licensed Internal Code are operational."Limited paging,"The limited paging environment is the first servicing environment
+you access when you begin to start the system in Manual mode. This
+environment contains all the functions of the Licensed Internal Code,
+including storage management.You can access DST while the system is in the limited paging environment.
+This environment accesses the temporary files that are needed and
+the Licensed Internal Code on the load-source disk. The operating
+system is not available."Full paging,"The full paging environment is used during normal system
+operation. The DST options vary depending on the release level of
+the operating system.All disk units, the Licensed Internal Code, and the operating system
+are available."Dedicated service tools,"Use dedicated service tools (DST) to work with Licensed
+Internal Code, disk units, configuration and resources, and to verify
+devices and communications. You can also use DST to display logs on
+the system.To make a printout, attach the printer to the workstation
+I/O processor or storage media unit that is performing the service
+function. The printer that is used with DST for service tool output
+must be an SCS-type data stream printer."Dedicated service tools,Performing an IPL to dedicated service tools,"Use this procedure to perform an initial program load (IPL)
+to dedicated service tools (DST).This procedure is for the entire system, or if logical
+partitions are installed, for the primary partition.Perform
+the following steps:The IPL or
+Install the System display is shown on the primary console."Using the System Request Key,"You can access DST by using the System Request Key
+only when the system is in debug mode.From the
+console, perform the following steps:"Selecting function 21 from the control panel,"Use this information to learn about the detailed instructions
+for selecting function 21 while the system is operational.Perform
+the following steps:"Performing an alternate IPL to DST (type D IPL),"You can use this procedure to perform a type D initial
+program load (IPL).To perform
+a type D IPL, complete the following steps:"Dedicated service tools,"Use dedicated service tools (DST) to work with Licensed
+Internal Code, disk units, configuration and resources, and to verify
+devices and communications. You can also use DST to display logs on
+the system.To make a printout, attach the printer to the workstation
+I/O processor or storage media unit that is performing the service
+function. The printer that is used with DST for service tool output
+must be an SCS-type data stream printer."Dedicated service tools,Changing a service tools user ID,"You can use the dedicated service tools (DST)
+to change a service tools user ID."Resetting QSECOFR service tools user ID,"Use this procedure to recover from a disabled QSECOFR service
+tools user ID."Dedicated service tools,"Use dedicated service tools (DST) to work with Licensed
+Internal Code, disk units, configuration and resources, and to verify
+devices and communications. You can also use DST to display logs on
+the system.To make a printout, attach the printer to the workstation
+I/O processor or storage media unit that is performing the service
+function. The printer that is used with DST for service tool output
+must be an SCS-type data stream printer."Dedicated service tools,Dedicated service tools,"Use dedicated service tools (DST) to work with Licensed
+Internal Code, disk units, configuration and resources, and to verify
+devices and communications. You can also use DST to display logs on
+the system.To make a printout, attach the printer to the workstation
+I/O processor or storage media unit that is performing the service
+function. The printer that is used with DST for service tool output
+must be an SCS-type data stream printer."Dedicated service tools,Select DST console mode,"This option causes the operating system to share the console
+workstation with DST during an IPL of the operating system.The
+DST Console Mode display includes options to exit DST and to start
+DST in debug mode."Dedicated service tools,"Use dedicated service tools (DST) to work with Licensed
+Internal Code, disk units, configuration and resources, and to verify
+devices and communications. You can also use DST to display logs on
+the system.To make a printout, attach the printer to the workstation
+I/O processor or storage media unit that is performing the service
+function. The printer that is used with DST for service tool output
+must be an SCS-type data stream printer."Dedicated service tools,Dedicated service tools,
