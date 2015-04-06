@@ -32,7 +32,7 @@ import re
 
 bigram_measures = nltk.collocations.BigramAssocMeasures()
 trigram_measures = nltk.collocations.TrigramAssocMeasures()
-pos = POSTagger('../../stanford-postagger-2013-06-20/models/wsj-0-18-bidirectional-nodistsim.tagger', '../../stanford-postagger-2013-06-20/stanford-postagger.jar')
+pos = POSTagger('./stanford-postagger-2013-06-20/models/wsj-0-18-bidirectional-nodistsim.tagger', './stanford-postagger-2013-06-20/stanford-postagger.jar')
 
 unipatterns = [['NN']]
 bipatterns = [['JJ', 'NN'], ['NN','NN']]
@@ -40,7 +40,7 @@ tripatterns = [['JJ', 'JJ', 'NN'], ['JJ', 'NN', 'NN'], ['NN', 'JJ', 'NN'], ['NN'
 fourpatterns = [['JJ', 'JJ', 'JJ','NN'], ['JJ', 'JJ', 'NN','NN'], ['JJ', 'NN', 'NN','NN'], ['NN', 'NN', 'NN','NN']]
 
 CSV_In = './Data/Sample_Data_1.csv'
-f1 = open(CSV_In, 'rb')
+f1 = open(CSV_In, 'rU')
 f3 = open('./Data/Unigrams.txt','wb')
 f2 = open('./Data/Bigrams_Trigrams.txt','wb')
 f4 = open('./Data/Fourgrams.txt','wb')
@@ -56,7 +56,7 @@ def cleanseNN(list):
 # Get all the text in the data
 Text = ''
 for line in csv_rd:
-    Text = Text + ' ' + line[0].rstrip('\n\r')+ ' ' + line[3].rstrip('\n\r')
+    Text = Text + ' ' + line[0].rstrip('\n\r')+ ' ' + line[1].rstrip('\n\r')
 Text = Text.lower()
 
 # Punctuation filtering
