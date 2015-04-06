@@ -22,3 +22,12 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+======================================
+How to run?
+======================================
+- python tech_ngrams.py
+- python relation_extraction.py -r 5 -k 5 -c1 Instruments -c2 Operators
+
+The input data files are in the: ./Data folder
+The stanford pos tagger library is called from: ./stanford-postagger-2013-06-20
