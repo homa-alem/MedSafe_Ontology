@@ -17,6 +17,9 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 '''
+
+# TWO CATEGORIES IMPLIED
+
 # import statements
 import numpy as np
 from mpl_toolkits.mplot3d import Axes3D
@@ -40,10 +43,12 @@ parser.add_argument('-k', metavar='--clusters', dest='clusters', nargs='?', acti
 parser.add_argument('-v', metavar='--verbose', dest='verbose', action='store_const', required=False, const=True, default=False,
                    help='print various messages during execution')
 # add args for categories
-parser.add_argument('-c1', metavar='--category1', dest='cat1', action='store', nargs = '?', required=True, const=True, default='Instruments',
+parser.add_argument('-c1', metavar='--category1', dest='cat1', action='store', nargs = '?', required=False, const=True, default='Instruments',
                    help='category1 for clustering')
-parser.add_argument('-c2', metavar='--category2', dest='cat2', action='store', nargs = '?', required=True, const=True, default='Operators',
+parser.add_argument('-c2', metavar='--category2', dest='cat2', action='store', nargs = '?', required=False, const=True, default='Operators',
                    help='category2 for clustering')
+parser.add_argument('-s', metavar='--sentences', dest='cat3', action='store', nargs = '?', required=False, const=True, default='Event',
+                   help='sentences')
 # add args for input/output files
 parser.add_argument('-i1', metavar='--input1', dest='inp1', action='store', nargs='?', required=False, const=None, default=None,
                     help='input1 filepath')
@@ -58,26 +63,61 @@ parser.add_argument('-o', metavar='--output', dest='out', action='store', nargs=
 args = parser.parse_args()
 
 # use default files unless otherwise specified
-instrumentsIn = './Data/Instruments.csv' if args.inp1==None else args.inp1
-operatorsIn = './Data/Operators.csv' if args.inp2==None else args.inp2
-sentencesIn = './Data/davinci.csv' if args.inp3==None else args.inp3
+instrumentsIn = './Instruments.csv' if args.inp1==None else args.inp1
+operatorsIn = './Operators.csv' if args.inp2==None else args.inp2
+sentencesIn = './davinci.csv' if args.inp3==None else args.inp3
 
-# read input files (assume cols called instruments, operators, event)
-df = pd.read_csv(instrumentsIn)
-Instruments_dic = list(df['Instruments'][:len(df['Instruments'])])
+try:
+    df = pd.read_csv(instrumentsIn)
+except:
+    print 'Bad file input1'
+    sys.exit(0)
+try:
+    if(args.cat1 == 'Instruments'):
+        # read input files (assume cols called instruments, operators, event)
+        Instruments_dic = list(df['Instruments'][:len(df['Instruments'])])
+    else:
+        Instruments_dic = list(df[args.cat1][:len(df[args.cat1])])
+        print Instruments_dic
+except:
+    print 'Bad input category 1'
+    sys.exit(0)
 
-df = pd.read_csv(operatorsIn)
-Operators_dic = list(df['Operators'][:len(df['Operators'])])
+try:
+    df = pd.read_csv(operatorsIn)
+except:
+    print 'Bad file input2'
+    sys.exit(0)
+try:
+    if(args.cat2 == 'Operators'):
+        Operators_dic = list(df['Operators'][:len(df['Operators'])])
+    else:
+        Operators_dic = list(df[args.cat2][:len(df[args.cat2])])
+except:
+    print 'Bad input category 2'
+    sys.exit(0)
 
-df = pd.read_csv(sentencesIn)
-sample_sentences = list(df['Event'][:len(df['Event'])])
-tmp_sent = []
-for i in sample_sentences:
-    i = str(i)
-    for k in i.split('.'):
-        tmp_sent.append(k)
-sample_sentences = tmp_sent
-print len(sample_sentences)
+try:
+    df = pd.read_csv(sentencesIn)
+except:
+    print 'Bad file input_sentences'
+    sys.exit(0)
+try:
+    if(args.cat3 == 'Event'):
+        sample_sentences = list(df['Event'][:len(df['Event'])])
+    else:
+        sample_sentences = list(df[args.cat3][:len(df[args.cat3])])
+    tmp_sent = []
+    for i in sample_sentences:
+        i = str(i)
+        for k in i.split('.'):
+            tmp_sent.append(k)
+    sample_sentences = tmp_sent
+    print len(sample_sentences)
+except:
+    print 'Bad input sentences'
+    sys.exit(0)
+
 
 # predefined categories
 Category_nums = {0: 'Instruments', 1: 'Operators'}
@@ -85,8 +125,9 @@ Categories = {'Instruments': Instruments_dic, 'Operators': Operators_dic}
 
 def preProcess(sentences, rarityThresh=-1, coThresh=-1, lexPatterns = []):
     if(rarityThresh == -1 and coThresh == -1):
+        print 'gg'
         return sentences
-
+        
     # category indices
     idx1 = -1
     idx2 = -1
@@ -103,8 +144,8 @@ def preProcess(sentences, rarityThresh=-1, coThresh=-1, lexPatterns = []):
     # selected subset
     subSet = []
 
-    # lowercase versions for all categories
-    CategoriesLower = [[f.lower() for f in Categories[k]] for k in Categories.keys()]
+    # lowercase versions for all values in the categories
+    CategoriesLower = [frozenset([f.lower() for f in Categories[k]]) for k in Categories.keys()]
 
     # check each sentence
     for i in xrange(len(sentences)):
@@ -113,25 +154,30 @@ def preProcess(sentences, rarityThresh=-1, coThresh=-1, lexPatterns = []):
         words = sentences[i].lower().split()
         idx1 = -1
         idx2 = -1
+        category_1 = -1
+        category_2 = -1
+        cat_idx = 0
 
-        # loop through words of the sentence
-        for k in xrange(len(words)):
-
-            # check each category
-            for category in CategoriesLower:
-
+        # check each category
+        for category in CategoriesLower:
+            # loop through words of the sentence
+            for k in xrange(len(words)): 
                 # mark if found
                 if (words[k] in category):
                     if(idx1 == -1):
                         idx1 = k
-                        break
+                        category_1 = cat_idx
+                        #break
+                        continue
                     else:
                         idx2 = k
+                        category_2 = cat_idx
                         break
 
             #identified now so pass out
             if(idx1 != -1 and idx2 != -1):
                 break
+            cat_idx += 1
 
         # if found a pair, add to the output sentences
         if(idx1 != -1 and idx2 != -1):
@@ -139,13 +185,12 @@ def preProcess(sentences, rarityThresh=-1, coThresh=-1, lexPatterns = []):
             # pull out context
             context = ' '.join(words[idx1+1 : idx2])
 
-            # if already seen, increment number of times seen and what lines
+            # if already seen, increment number of times seen and what lines it has been seen at
             if(context in contextHash):
                 val = contextHash[context]
                 val[0] += 1
                 val[1].append(i)
-                contextHash[context] = val
-
+               
             # new entry
             else:
                 contextHash[context] = [1, [i]]
@@ -167,7 +212,7 @@ def preProcess(sentences, rarityThresh=-1, coThresh=-1, lexPatterns = []):
                     lines = val[g][3]
 
                     # check if this category combo has been seen
-                    if((cat1 == idx1 and cat2 == idx2) or (cat1 == idx2 and cat2 == idx1)):
+                    if((cat1 == category_1 and cat2 == category_2) or (cat1 == category_1 and cat2 == category_2)):
 
                         # update info
                         value += 1
@@ -183,11 +228,11 @@ def preProcess(sentences, rarityThresh=-1, coThresh=-1, lexPatterns = []):
 
                 # new entry for this context
                 else:
-                    occHash[context].append([idx1, idx2, 1, [i]])
+                    occHash[context].append([category_1, category_2, 1, [i]])
 
             # new entry
             else:
-                occHash[context] = [[idx1, idx2, 1, [i]]]
+                occHash[context] = [[category_1, category_2, 1, [i]]]
 
         else:
             if(args.verbose):
@@ -199,11 +244,11 @@ def preProcess(sentences, rarityThresh=-1, coThresh=-1, lexPatterns = []):
     if(rarityThresh != -1):
         for key in contextHash.keys():
             val = contextHash[key]
+            # does not meet min so kill all of its sentencces
             if(val[0] < rarityThresh):
                 for v in val[1]:
                     if(not v in unselected):
                         unselected.append(v)
-        pass
 
     # 2nd Pruning Step
     if(coThresh != -1):
@@ -214,17 +259,22 @@ def preProcess(sentences, rarityThresh=-1, coThresh=-1, lexPatterns = []):
                     for v in f[3]:
                         if(not v in unselected):
                             unselected.append(v)
-        pass
 
-    # Final Pruning Step
-    if(lexPatterns != []):
-        pass
-
-    for i in xrange(len(sentences)):
-        if(not i in unselected):
-            subSet.append(sentences[i])
-
-    print len(subSet)
+    print 'idling'
+    unselected = sorted(unselected)
+    unsel_val = 0
+    sentence_val =0
+    while(1):
+        if(sentence_val == len(sentences)):
+            break
+        if(sentence_val < unselected[unsel_val]):
+            subSet.append(sentences[sentence_val])
+        elif(sentence_val == unselected[unsel_val]):
+            unsel_val += 1
+        sentence_val += 1
+ 
+    #subSet = [sentences[i] for i in xrange(len(sentences)) if not i in unselected]
+    
     return subSet
 
 def performClustering(matrix, order, K=3):
@@ -401,7 +451,11 @@ def constructMatrix(C1, C2, sentences, indices=True, threshold=-1):
         matrixDump.close()
     return (contextHash, matrix, order)
 
-subset = preProcess(sample_sentences, rarityThresh=args.rarity, coThresh=-args.co)
+print 'Starting preprocessing..'
+subset = preProcess(sample_sentences, rarityThresh=args.rarity, coThresh=args.co)
+print 'Constructing the matrix'
 matrixHash = constructMatrix(args.cat1, args.cat2, subset, indices=False)
+print 'Performing clustering'
 centersLabels = performClustering(matrixHash[1], matrixHash[2], K=args.clusters)
+print 'Deciding new relations'
 decideNewRelation(centersLabels[0], centersLabels[1], matrixHash[0], matrixHash[2])
