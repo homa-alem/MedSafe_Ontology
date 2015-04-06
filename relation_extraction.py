@@ -63,9 +63,9 @@ parser.add_argument('-o', metavar='--output', dest='out', action='store', nargs=
 args = parser.parse_args()
 
 # use default files unless otherwise specified
-instrumentsIn = './Instruments.csv' if args.inp1==None else args.inp1
-operatorsIn = './Operators.csv' if args.inp2==None else args.inp2
-sentencesIn = './davinci.csv' if args.inp3==None else args.inp3
+instrumentsIn = './Data/Instruments.csv' if args.inp1==None else args.inp1
+operatorsIn = './Data/Operators.csv' if args.inp2==None else args.inp2
+sentencesIn = './Data/davinci.csv' if args.inp3==None else args.inp3
 
 try:
     df = pd.read_csv(instrumentsIn)
