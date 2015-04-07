@@ -1,7 +1,7 @@
 ''' 
 Finding Technical Phrases (n-grams) from Text
 
-Copyright (C) 2015 University of Illinois Board of Trustees, DEPEND Research Group, Homa Alemzadeh and Raymond Hoagland
+Copyright (C) 2015 University of Illinois Board of Trustees, DEPEND Research Group, Homa Alemzadeh
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
