@@ -66,23 +66,26 @@ def doc_f(word, docs):
 	
 # Filter n-grams with low Mutual Information (statistically insignificant)
 def entropy_filter(phrase_list, docs, text):
-	RIDF = {'WORD': 0};
-	filtered_list = [];
+    # Dictionary of n-grams with their RIDFs and TFs
+	RIDF = {'WORD': [0,0]};
+	filtered_list = {'WORD':-1};
 	for phrase in phrase_list:
 		#print phrase
 		IDF = math.log(len(docs)/(0.5+doc_f(phrase, docs)))
-		eIDF = math.log(1-math.exp((-term_f(phrase,text))/len(docs)))	
-		RIDF[phrase] = IDF+eIDF
+		tf = term_f(phrase,text);
+		eIDF = math.log(1-math.exp((-tf)/len(docs)))	
+		RIDF[phrase] = [IDF+eIDF,tf-0.5]
 	RIDF.pop("WORD", None)
 	print "\nCalculated RIDFs"
 	
 	# Sort the n-grams based on their RIDF values
 	sorted_RIDF = sorted(RIDF.items(), key=operator.itemgetter(1))
 	print "\nSorted n-grams"
-	# Filter those with negative RIDF values
-	for key, value in sorted_RIDF:
-		if (value > 0):
-			filtered_list.append(key)	
+	# Filter those with negative RIDF values and save the rest with their TFs in results
+	for key, values in sorted_RIDF:
+		if (values[0] > 0):
+			filtered_list[key] = values[1]	
+	filtered_list.pop("WORD", None)
 	print "\nFiltered n-grams"
 	return filtered_list
 
@@ -147,38 +150,39 @@ for tag in tags:
 		Tag_set[str(tag[0])] = str(tag[1])		
 
 # Look for longest n-gram appearing in the text with the patterns of technical terms			
-n_gram = [];
-tags = [];
-n_gram_str = '';
+n_gram = []
+tags = []
+n_gram_str = ''
 for tok in raw_tokens:
-	phrase = str(tok);
+	phrase = str(tok)
 	if (len(n_gram) < 5) and (Tag_set.has_key(phrase)):
-		n_gram.append(phrase);
-		tags.append(Tag_set[phrase]);
+		n_gram.append(phrase)
+		tags.append(Tag_set[phrase])
 	else:
 		# Only if we found something
 		if (len(n_gram) > 1):
 			# If the pattern of tags is of interest, save it
 			if (cleanseNN(tags) in patterns):
 				for n in n_gram:
-					n_gram_str = n_gram_str + ' ' + n; 
+					n_gram_str = n_gram_str + ' ' + n 
 				if (results.has_key(n_gram_str)):
-					results[n_gram_str] = results[n_gram_str]+1;
-				else:
-					results[n_gram_str] = 1;
-					print n_gram_str;
+					results[n_gram_str] = results[n_gram_str]+1
+				else:						
+					results[n_gram_str] = 1
+					print n_gram_str
 			# Restart searching for next n-gram
-			n_gram = []; 
-			tags = [];
-			n_gram_str = '';
+			n_gram = []
+			tags = []
+			n_gram_str = ''
 
 print "\n"+str(len(results.keys()))+" n-grams found.."	
 
 # Filtering n-grams	
-filtered_result = entropy_filter(results.keys(), docs, Text);
-for f in filtered_result:
+filtered_result = entropy_filter(results.keys(), docs, Text)
+sorted_filtered = sorted(filtered_result.items(), key=operator.itemgetter(0))
+for key, value in sorted_filtered:
 	#print f
-	f2.write(f+'\n')
+	f2.write(key+','+str(value)+'\n')
 	
 f1.close();
 f2.close();
