@@ -1,7 +1,7 @@
 ''' 
 Finding Technical Phrases (n-grams) from Text
 
-Copyright (C) 2015 University of Illinois Board of Trustees, DEPEND Research Group, Homa Alemzadeh and Raymond Hoagland
+Copyright (C) 2015 University of Illinois Board of Trustees, DEPEND Research Group, Homa Alemzadeh
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -182,6 +182,7 @@ for f in filtered_result:
 	
 f1.close();
 f2.close();
+<<<<<<< HEAD
 
 t1 = time()
 # Main code ends here
@@ -191,3 +192,9 @@ print str(len(docs))+" Reports"
 print str(len(sentences))+" Sentences"
 print str(len(words))+" Words"
 print "In "+str(t1-t0)+' seconds..\n'
+=======
+f3.close();
+f4.close();
+f5.close();
+f6.close();
+>>>>>>> 384b031693822b2d7440e889c47c6d0d42480167
