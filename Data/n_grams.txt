@@ -1,2998 +1,1674 @@
- 12v supply,1.0
- 230v power supply,2.0
- 2nd back,2.0
- 390in length,1.0
- 3d endoscope,63.0
- 5mm cannula,29.0
- 5mm instrument,10.0
- 5mm monopolar cautery,7.0
- 5mm needle driver instrument,5.0
- 8mm tip cover accessory,3.0
- aa video recording,1.0
- aafter completion,1.0
- abdominal cavity,7.0
- abdominal muscle,2.0
- abdominal pain,11.0
- abdominal wall,8.0
- aborted post anesthesia,6.0
- abraded cable pulley,1.0
- abrasion wear,3.0
- ac power,11.0
- acceptable engineering,1.0
- accessory addition,52.0
- accessory engineering,3.0
- accessory evaluation,1.0
- accessory isi,18.0
- accessory review,9.0
- accessory tip,3.0
- ace insert,33.0
- ace instrument,8.0
- activation engineering,1.0
- adapter breakage evidence,1.0
- additional damage,95.0
- additional finding,307.0
- additional info,3876.0
- additional information,3711.0
- additional information isi,3.0
- additional investigation,276.0
- additional medwatch,1.0
- additional observation,965.0
- additional testing,4.0
- additional tip,3.0
- additional tip cover accessory,3.0
- advanced cervical cancer isi,1.0
- adverse event product problem,1.0
- adverse event rument,1.0
- adverse outcome,68.0
- aesop system,3.0
- afailure analysis,3.0
- afailure analysis investigation,1.0
- affected area,25.0
- affected cautery cord,2.0
- affected ecm,62.0
- affected engineering,1.0
- affected instrument,27.0
- affected psm,116.0
- affected psm system error,4.0
- affected ria pca,8.0
- affected vessel,5.0
- affected vision cable,2.0
- aggressive usage,2.0
- agreement system,5.0
- agreement system error code,5.0
- alarm ac power,1.0
- alignment evidence,1.0
- alignment target,4.0
- alleged arcing event,5.0
- alleged complaint engineering,6.0
- alleged error,9.0
- alleged error message,6.0
- alleged incident,2.0
- alleged instrument recognition,2.0
- alleged issue,84.0
- alleged malfunction,36.0
- alleged malfunction failure analysis,8.0
- alleged vision issue,3.0
- amp pulley,25.0
- analysis instrument,1.0
- analysis investigation,745.0
- analysis testing,1.0
- anesthesia patient,1.0
- angular position,134.0
- ano conclusion,1.0
- ano malfunction,2.0
- anti depressant,2.0
- apb pca,2.0
- applier tip,3.0
- arc path,5.0
- arc trac,146.0
- arc track,137.0
- arc tracking,71.0
- arching localize melting,1.0
- arcing addition,16.0
- arcing additional finding,2.0
- arcing additional observation,11.0
- arcing damage,13.0
- arcing damage failure,1.0
- arcing disassembly,1.0
- arcing electrical continuity,9.0
- arcing engineering,30.0
- arcing engineering evaluation,6.0
- arcing event,262.0
- arcing event engineering evaluation,1.0
- arcing event evidence,3.0
- arcing event failure analysis,1.0
- arcing evidence,4.0
- arcing failure analysis,10.0
- arcing failure analysis investigation,3.0
- arcing grip,3.0
- arcing grip cable,3.0
- arcing high generator,5.0
- arcing hole,3.0
- arcing hole size,1.0
- arcing medwatch mfr report,2.0
- arcing medwatch report,1.0
- arcing yaw,1.0
- arcing yaw pulley,1.0
- area failure analysis,5.0
- area instrument,2.0
- area material,1.0
- arm position gravity compensation,1.0
- articulink screw,8.0
- assistant monitor,19.0
- athe accessory,2.0
- athe allegation,1.0
- athe cable,1.0
- athe cannula seal accessory,1.0
- athe hospital,3.0
- athe insert accessory,1.0
- athe instrument,198.0
- athe instrument accessory,1.0
- athe instrument sterile adapter,1.0
- athe investigation,77.0
- athe obturator,1.0
- athe site,1.0
- athe surgeon,1.0
- athe system,2.0
- athe system endoscope,1.0
- athe tip cover accessory,14.0
- athis mdr,2.0
- atrial artery,3.0
- attached failure analysis,3.0
- attached hook accessory,2.0
- attached nothing,1.0
- audible tone,5.0
- available review,1.0
- average engineering,1.0
- axial direction engineering,3.0
- axial direction isi,1.0
- axis engineering,248.0
- axis evidence,39.0
- axis motor encoder,7.0
- axis potentiometer,47.0
- axis string pot,2.0
- back end,95.0
- back end engineering,1.0
- back end housing,1.0
- back experimentation,1.0
- back idler,62.0
- back idler pulley,59.0
- back idler pulley engineering,1.0
- back luer surface engineering,1.0
- back side,3.0
- backend cable,12.0
- backend failure analysis,1.0
- backend luer plate,1.0
- backup camera cable,6.0
- backup camera cable inspection,1.0
- backup equipment,44.0
- banana plug,69.0
- bare metal,4.0
- bare wire,36.0
- bare wire boss feature,1.0
- bare wire engineering,1.0
- bare wire failure analysis,1.0
- base broken piece,1.0
- base clevis,3.0
- base clevis ear,3.0
- base ear,1.0
- base electrical continuity,5.0
- base engineering,7.0
- base evidence,1.0
- base failure,1.0
- battery backup,13.0
- battery box,12.0
- battery issue,3.0
- battery mode,2.0
- battery pack module,5.0
- battery power,5.0
- bearing engineering,1.0
- bedside assistant,4.0
- bend angle,5.0
- bend engineering,1.0
- bent banana plug,16.0
- bent base,1.0
- bent bipolar pin,27.0
- bent bipolar pin engineering,1.0
- bent damage,5.0
- bent damaged wrist link,1.0
- bent edge,3.0
- bent engineering,15.0
- bent evidence,2.0
- bent failure analysis,1.0
- bent failure analysis investigation,1.0
- bent grip,169.0
- bent grip tip,9.0
- bent inside evidence,1.0
- bent instrument,2.0
- bent rotation,1.0
- bent shaft shaft,1.0
- bent tip,16.0
- bent tip engineering,1.0
- bent upward engineering,4.0
- bent visual inspection,1.0
- bi polar instrument,1.0
- bifurcated light guide,19.0
- bifurcated light guide cable,16.0
- bilateral oophorectomy,2.0
- bilateral salpingo oophorectomy,17.0
- bilateral salpingo oophorectomy procedure,7.0
- bilateral salpingoo oophorectomy,1.0
- bile duct,6.0
- bio debris,22.0
- bio debris engineering,1.0
- bio material examination,1.0
- biocompatibility testing,5.0
- bipolar cable,6.0
- bipolar cord,50.0
- bipolar cord damage,1.0
- bipolar force,89.0
- bipolar insert,36.0
- bipolar instrument,48.0
- bipolar output set,4.0
- bipolar pin,142.0
- bipolar pin damage,5.0
- bipolar pin engineering,2.0
- black insulation,7.0
- black paint evidence,1.0
- black section,3.0
- black tube insulation,71.0
- black white balance,1.0
- bladder flap,3.0
- bladder injury,15.0
- bladder laceration,2.0
- blade accessory,30.0
- blade damage,24.0
- blade edge,88.0
- blade edge additional observation,1.0
- blade engineering,4.0
- blade failure,17.0
- blade fracture,78.0
- blade jam,9.0
- blade repeated opening,1.0
- blade surface engineering,1.0
- blade track,10.0
- blade tract,5.0
- blade tract instrument,1.0
- blood level,1.0
- blood loss,5.0
- blood loss isi,1.0
- blue cable,2.0
- blue energy cable,2.0
- blue fiber cable,7.0
- blue housing,16.0
- blue system cable,3.0
- blue vision cable,3.0
- blurry vision,2.0
- board system,2.0
- body cavity,3.0
- body wall,4.0
- boss feature,43.0
- bottom bipolar pin,21.0
- bottom pin,38.0
- bottom plane,2.0
- bowel colon,5.0
- bowel damage,3.0
- bowel endometriosis colorectal surgeon,1.0
- bowel injury,58.0
- bowel obstruction,6.0
- bowel obstruction procedure,2.0
- bowel resection,6.0
- bowl tube interface,22.0
- brazing surface,19.0
- break conductor cap,1.0
- break electrical continuity,3.0
- break engineering,10.0
- break failure analysis,1.0
- break point visual evidence,1.0
- break site,3.0
- break tube,1.0
- break tube insulation,1.0
- breakage damage,1.0
- breakage dislodgment,1.0
- breakage electrical continuity,2.0
- breakage engineering,44.0
- breakage engineering evaluation,3.0
- breakage evidence,3.0
- broken additional observation,3.0
- broken banana plug instrument,1.0
- broken base,1.0
- broken blade,50.0
- broken cable,551.0
- broken cable cable segment,1.0
- broken cable engineering,4.0
- broken cable failure analysis,2.0
- broken cable performance testing,1.0
- broken ceramic sleeve,19.0
- broken ceramic sleeve cap,1.0
- broken conductor,52.0
- broken conductor wire,47.0
- broken drive,3.0
- broken drive cable,3.0
- broken ear,7.0
- broken electrical continuity,4.0
- broken electrical continuity testing,4.0
- broken engineering,20.0
- broken evidence,1.0
- broken failure,3.0
- broken failure analysis,3.0
- broken fragment,22.0
- broken grip,187.0
- broken grip cable,136.0
- broken grip cable engineering,2.0
- broken hub,1.0
- broken instrument,105.0
- broken instrument piece,53.0
- broken loose cable,1.0
- broken luer plate,3.0
- broken missing piece,1.0
- broken part,3.0
- broken piece,234.0
- broken pitch,185.0
- broken pitch cable,178.0
- broken pitch cable engineering,1.0
- broken screw,4.0
- broken section,23.0
- broken section conductor cap,1.0
- broken section engineering,2.0
- broken section evidence,4.0
- broken section spatula,1.0
- broken side,2.0
- broken surgeon,1.0
- broken threaded part,1.0
- broken tip,18.0
- broken tube,17.0
- broken tube extension,17.0
- broken visual inspection,1.0
- broken wire,112.0
- broken wire engineering,3.0
- broken wire failure analysis,1.0
- broken wire segment,4.0
- broken yaw pulley,22.0
- burned area engineering,1.0
- burned section,5.0
- burned section instrument,1.0
- burning engineering,3.0
- burning part,1.0
- burnt engineering,1.0
- cable additional observation,7.0
- cable breakage,70.0
- cable breakage additional observation,3.0
- cable breakage engineering,8.0
- cable breakage engineering evaluation,1.0
- cable breakage evidence,1.0
- cable breakage heavy biodebris,1.0
- cable breakage snake wrist,2.0
- cable breaking evidence,1.0
- cable cable,1.0
- cable clevis,1.0
- cable damage,114.0
- cable derailment,109.0
- cable derailment additional observation,3.0
- cable derailment distal end,1.0
- cable engineering,25.0
- cable engineering evaluation,3.0
- cable evidence,3.0
- cable failure,48.0
- cable failure analysis,7.0
- cable fray,43.0
- cable fraying engeneering,1.0
- cable fraying engineering,2.0
- cable grip,1.0
- cable grip cable,1.0
- cable groove,26.0
- cable groove engineering,1.0
- cable harness,14.0
- cable instrument,4.0
- cable main tube,2.0
- cable pulley,1.0
- cable same cable,1.0
- cable same grip,1.0
- cable segment,1802.0
- cable stop component,3.0
- cable system,1.0
- cable tension,55.0
- cable tension engineering,2.0
- cable wear,34.0
- cadiere grasper instrument,3.0
- camera arm,81.0
- camera arm engineering,1.0
- camera arm sterile adapter,2.0
- camera cable,212.0
- camera cannula,15.0
- camera control,80.0
- camera control unit,20.0
- camera controller,60.0
- camera endoscope,1.0
- camera head,237.0
- camera head cable,4.0
- camera head issue,2.0
- camera manipulator ecm,1.0
- cannula accessory,595.0
- cannula accessory additional investigation,51.0
- cannula accessory electrical continuity,6.0
- cannula accessory engineering,2.0
- cannula additional observation,1.0
- cannula bowl tube transition,1.0
- cannula cannula,1.0
- cannula engineering,8.0
- cannula engineering evaluation,1.0
- cannula evidence,1.0
- cannula failure,1.0
- cannula gage pin,5.0
- cannula high loading,1.0
- cannula resistance,1.0
- cannula roll,1.0
- cannula seal,20.0
- cannula seal accessory,14.0
- cannula seal trap,3.0
- cannula sensor,5.0
- cannula surgical staff,1.0
- cannula tip engineering,2.0
- cannula tube,9.0
- cap coupling tube,6.0
- cap engineering,10.0
- carbide insert,62.0
- carbide tip,5.0
- case isi,1.0
- case patient,1.0
- case post,1.0
- cautery adapter,5.0
- cautery adapter engineering,1.0
- cautery cable,21.0
- cautery cord,6.0
- cautery energy,12.0
- cautery function,20.0
- cautery hook,90.0
- cautery hook engineering,1.0
- cautery hook tip,17.0
- cautery hook tip accessory,7.0
- cautery instrument,184.0
- cautery spatula,84.0
- cautery spatula accessory,35.0
- cautery system,2.0
- cautery test,18.0
- cautery tip,13.0
- caution dr,1.0
- central processing,10.0
- central processing engineering,1.0
- ceramic engineering,1.0
- ceramic sleeve,149.0
- certain loading condition site,4.0
- cervix physician,1.0
- changed damage,1.0
- char mark,245.0
- charing melting,1.0
- charring arcing,1.0
- charring charring,1.0
- charring evidence,1.0
- charring localized melting,2.0
- charring melting,8.0
- chassis additional observation,1.0
- chassis backend engineering,1.0
- chassis electrical continuity,4.0
- chassis electrical continuity test,1.0
- chassis engineering,11.0
- chassis feature,53.0
- chassis feature electric continuity,1.0
- chassis feature electrical continuity,2.0
- chassis feature engineering,5.0
- chassis insert,1.0
- chemical attack site,1.0
- chip engineering,1.0
- cholecystectomy procedure,10.0
- circuit assembly,91.0
- circuit assembly pca,1.0
- circular char mark,2.0
- clamp arm,273.0
- clamp arm curved blade,1.0
- clamp arm engineering,5.0
- clamp arm groove evidence,1.0
- clamp arm pad,1.0
- clamp arm pin,58.0
- clamp arm pin engineering,2.0
- clamp arm testing,1.0
- clean remote fe,1.0
- cleaning agent evidence,1.0
- cleaning engineering,12.0
- cleaning handling,1.0
- cleaning instrument,2.0
- cleaning process electrical continuity,1.0
- cleaning process engineering,6.0
- cleaning sterilization,3.0
- cleaning sterilization process,2.0
- clear inner part,2.0
- clevis additional damage,4.0
- clevis additional finding,2.0
- clevis additional observation,14.0
- clevis area,18.0
- clevis area failure analysis,2.0
- clevis area instrument,2.0
- clevis breakage,9.0
- clevis breakage engineering,3.0
- clevis cable,90.0
- clevis clevis,104.0
- clevis crack,1.0
- clevis ear,121.0
- clevis electrical continuity,16.0
- clevis electrical continuity test,7.0
- clevis electrical continuity testing,5.0
- clevis engineering,48.0
- clevis engineering evaluation,9.0
- clevis evidence,6.0
- clevis failure analysis,19.0
- clevis failure analysis investigation,10.0
- clevis fracture engineering,1.0
- clevis hub additional observation,8.0
- clevis idler pulley,2.0
- clevis indentation,2.0
- clevis instrument,12.0
- clevis pin,13.0
- clevis post,5.0
- clevis removal,1.0
- clevis seal,10.0
- clinical coordinator,2.0
- clinical type evaluation,4.0
- clip applier,54.0
- clip applier grip,17.0
- clip applier instrument,20.0
- clip engineering,3.0
- clip engineering evaluation,1.0
- clip groove,10.0
- clip installation,4.0
- clip rack engineering,1.0
- close additional observation,5.0
- close cable,766.0
- close engineering,6.0
- close fine additional observation,2.0
- close function,3.0
- close grip,5.0
- close motion,1.0
- close move,4.0
- close movement,4.0
- closed additional finding,2.0
- closed electrical continuity,2.0
- closed engineering,19.0
- closed engineering evaluation,2.0
- closed evidence,4.0
- closed failure analysis,1.0
- closed fine additional observation,1.0
- closed instrument,1.0
- closed position engineering,3.0
- closed position engineering evaluation,2.0
- closing additional finding,1.0
- closing engineering,9.0
- closing recognition,1.0
- closure failure analysis,1.0
- clutch button,5.0
- coag fulgurate setting,2.0
- collapsed engineering,1.0
- colorectal surgeon,6.0
- combined silicone pellethane section,4.0
- combo silicone pellethane section,1.0
- communication failure,5.0
- communication issue,25.0
- communication timeout,2.0
- complaint additional observation,1.0
- complaint broken cable,10.0
- complaint broken tip,1.0
- complaint broken wire,8.0
- complaint cable,4.0
- complaint engineering,307.0
- complaint engineering evaluation,116.0
- complaint failure analysis,21.0
- complaint grip cable,1.0
- complaint instrument,3.0
- complaint insulation,2.0
- complaint insulation part,1.0
- complaint intuitive motion,1.0
- complaint loose wire,3.0
- complaint tip,6.0
- complaint visual inspection,9.0
- complaint wire,10.0
- composite video cable,2.0
- computer motion,7.0
- conductor cable cover,2.0
- conductor cap,146.0
- conductor cap engineering,2.0
- conductor damage,3.0
- conductor engineering,2.0
- conductor wire,641.0
- conductor wire cap,26.0
- conductor wire cap engineering,2.0
- conductor wire correlation,1.0
- conductor wire damage,5.0
- conductor wire engineering evaluation,1.0
- conductor wire exit material,1.0
- conductor wire hole installation,1.0
- conductor wire installation,2.0
- conductor wire insulation,16.0
- console surgeon,26.0
- console vision cable,12.0
- contact additional observation,1.0
- contact info,4.0
- contact information,4.0
- contact isi,10.0
- control processor,4.0
- correct isi,1.0
- corrective action,15.0
- corresponding motor encoder assembly,1.0
- corroded engineering,1.0
- corrosion contamination,3.0
- corrosion engineering,7.0
- corrosion evidence,1.0
- corrosion failure analysis,1.0
- cover tip,2.0
- crack engineering,1.0
- crimped engineering,1.0
- critical fault,3.0
- cross section,125.0
- csr report,5.0
- curved blade,75.0
- curved engineering,1.0
- curved scissors instrument,185.0
- curved scissors instrument investigation,1.0
- customer engineering,9.0
- customer engineering evaluation,3.0
- customer failure analysis,1.0
- customer functional testing,2.0
- customer investigation,1.0
- customer reported complaint engineering,234.0
- customer reported complaint instrument,1.0
- customer reported issue isi,1.0
- customer reported problem,48.0
- customer reported symptom,17.0
- customer review,1.0
- customer site,8.0
- customer system,2.0
- customer system alarm,1.0
- customer system error code,1.0
- cut bowel,2.0
- cut coag mode,2.0
- cut drive,1.0
- cut end,2.0
- cut function,4.0
- cut latex electrical continuity,1.0
- cut mode,4.0
- cut performance,52.0
- cut performance additional damage,1.0
- cut performance additional observation,5.0
- cut performance electrical continuity,8.0
- cut performance engineering,8.0
- cut performance failure analysis,2.0
- cut performance instrument,9.0
- cut test,122.0
- cut test additional observation,1.0
- cut test instrument,1.0
- cut visual inspection,2.0
- cutting engineering,1.0
- cutting force,1.0
- cutting issue,5.0
- cutting performance,16.0
- cutting performance electrical continuity,2.0
- cutting performance engineering,9.0
- cyclic loading,3.0
- da vinci,2749.0
- da vinci cholecystectomy procedure,5.0
- da vinci coordinator,43.0
- da vinci hysterectomy,39.0
- da vinci hysterectomy procedure,32.0
- da vinci procedure,20.0
- da vinci prostatovesiculectomy procedure,2.0
- da vinci robot system,51.0
- da vinci safety,80.0
- da vinci safety system,78.0
- da vinci si,630.0
- da vinci si hysterectomy,86.0
- da vinci si surgery,2.0
- da vinci si system,132.0
- da vinci sonic pro,6.0
- da vinci surgical system,155.0
- da vinci system,429.0
- dallas chip,43.0
- dallas chip programmer verification,3.0
- damage addition,15.0
- damage additional observation,13.0
- damage area,15.0
- damage base,1.0
- damage cable,13.0
- damage cable segment,12.0
- damage cannula,2.0
- damage damage,1.0
- damage distal end,22.0
- damage electrical continuity,6.0
- damage electrical continuity testing,2.0
- damage engineering,81.0
- damage engineering evaluation,38.0
- damage evidence,7.0
- damage failure analysis,10.0
- damage grip,1.0
- damage housing,2.0
- damage indentation,3.0
- damage instrument,15.0
- damage ot,3.0
- damage pocket,1.0
- damage visual inspection,2.0
- damaged addition,203.0
- damaged additional damage,18.0
- damaged additional finding,27.0
- damaged additional observation,138.0
- damaged area,349.0
- damaged blade,8.0
- damaged blade engineering,1.0
- damaged cable,64.0
- damaged cable segment,46.0
- damaged cable wear,5.0
- damaged cannula,38.0
- damaged cannulae,16.0
- damaged component conductor wire,1.0
- damaged conductor engineering,1.0
- damaged conductor wire,11.0
- damaged conductor wire instrument,1.0
- damaged distal idler pulley,4.0
- damaged electrical continuity,27.0
- damaged electrical continuity test,18.0
- damaged electrical continuity testing,14.0
- damaged engineering,145.0
- damaged engineering evaluation,44.0
- damaged evidence,10.0
- damaged failure analysis,24.0
- damaged failure analysis investigation,20.0
- damaged field service engineering,1.0
- damaged idler pulley,4.0
- damaged indentation,2.0
- damaged instrument,83.0
- damaged instrument component,57.0
- damaged pulley engineering,1.0
- damaged section,52.0
- damaged tip,4.0
- damaged tube,8.0
- damaged tube extension,4.0
- damaged visual inspection,1.0
- damaged wire section charring,2.0
- damaged wrist,1.0
- dark mark,5.0
- data file,3.0
- davinci robot system,20.0
- davinci robotic coordinator,3.0
- davinci system,8.0
- davinci system robot,3.0
- day post op,3.0
- dc power,5.0
- dcp remote fe verification,1.0
- dcp verification,16.0
- deep gouge,3.0
- deep scratch,474.0
- deep scratch gouge,1.0
- defective 5mm cannula,2.0
- defective camera cable,20.0
- defective camera head,3.0
- defective cannula,150.0
- defective cannula accessory,57.0
- defective cannulae,13.0
- defective mtm,2.0
- definitive root cause,37.0
- degree angle,16.0
- degree angle engineering,1.0
- degree blade failure analysis,1.0
- degree endoscope,5.0
- demise isi,8.0
- depressed engineering,1.0
- derailment additional finding,1.0
- derailment additional observation,11.0
- derailment distal end,1.0
- derailment electrical continuity testing,1.0
- derailment engineering,5.0
- derailment engineering evaluation,1.0
- derailment failure analysis,2.0
- derailment failure analysis evaluation,1.0
- derailment instrument,1.0
- device evaluation,11.0
- device failure analysis,1.0
- device investigation,1.0
- device isi,1.0
- diameter section,6.0
- dielectric strength,54.0
- different instrument engineering,2.0
- difficult anatomy,5.0
- difficulty additional observation,2.0
- direct visualization,4.0
- discharge summary report,4.0
- dislodged disk engineering,1.0
- dislodged engineering,3.0
- dislodged instrument,5.0
- dislodged snake wrist,8.0
- dislodgement engineering,2.0
- disposable cautery hook instrument,1.0
- disposable cautery tip,8.0
- disposable hook spatula tip,1.0
- dissection transection,1.0
- distal clevis area engineering,1.0
- distal clevis breakage engineering,2.0
- distal clevis ear,63.0
- distal clevis engineering,9.0
- distal clevis failure analysis,2.0
- distal clevis hub cable,98.0
- distal clevis hub engineering,4.0
- distal clevis hub instrument,1.0
- distal clevis instrument,1.0
- distal clevis pin,8.0
- distal clevis pulley,9.0
- distal clevis pulley engineering,1.0
- distal damage engineering,1.0
- distal end,2990.0
- distal end clamp arm,1.0
- distal end engineering,26.0
- distal end engineering evaluation,4.0
- distal end evidence,3.0
- distal end fa,2.0
- distal end instrument,5.0
- distal end insulation,17.0
- distal end material,2.0
- distal end opening,26.0
- distal end opening engineering,2.0
- distal end shaft,3.0
- distal end tube,1.0
- distal end yaw,1.0
- distal grip tip,1.0
- distal idler,1254.0
- distal idler engineering,1.0
- distal idler failure analysis,1.0
- distal idler pulley,473.0
- distal idler pulley engineering,3.0
- distal idler pulley part,1.0
- distal insulation,3.0
- distal proximal clevis,1.0
- distal pulley,778.0
- distal pulley damage instrument,1.0
- distal pulley engineering,57.0
- distal pulley evidence,6.0
- distal pulley fa,50.0
- distal pulley failure analysis,49.0
- distal pulley indentation,3.0
- distal tip,201.0
- distal tip engineering,4.0
- distal tip isi,4.0
- distalmost disk evidence,1.0
- dizziness post surgery,1.0
- downward removal,1.0
- dr harden,2.0
- drive cable,174.0
- drive shaft,3.0
- driven clamp arm,1.0
- driven insert,1.0
- driven instrument,8.0
- driven instrument recognition,1.0
- driven performance testing,1.0
- driven recognition,63.0
- dull engineering,3.0
- duplicated cause,2.0
- duplicated engineering,7.0
- dvi cable,4.0
- ear engineering,3.0
- ear piece,14.0
- ease engineering,1.0
- ecm cannula,18.0
- ecm switch,2.0
- ecm system,5.0
- ecm system verification,1.0
- edge cable segment,2.0
- edge engineering,11.0
- edge evidence,2.0
- edge failure analysis,2.0
- egg crate,1.0
- electric continuity,8.0
- electrical arcing,9.0
- electrical conductor,5.0
- electrical connector,4.0
- electrical contact,19.0
- electrical continuity,1221.0
- electrical continuity test,873.0
- electrical continuity test engineering,20.0
- electrical continuity testing,626.0
- electrical continuity testing engineering,107.0
- electrical continuity testing recurrence,1.0
- electrical energy,13.0
- electrical insulation,5.0
- electrical outlet,4.0
- electrical safety,18.0
- electrical safety test,15.0
- electrical surgical unit,36.0
- electrical testing,6.0
- electrical wire,4.0
- electro lube,26.0
- electrocautery tip accessory,9.0
- electrocautery tip accessory installation,1.0
- electrosurgical unit,63.0
- embedded serializer,32.0
- embedded sterilizer,3.0
- emergency stop,4.0
- encoder assembly,30.0
- end cap engineering,2.0
- end effector,3.0
- end flange,5.0
- end instrument,5.0
- end shaft,3.0
- endo wrist,3.0
- endo wrist instrument,3.0
- endoscope angle,2.0
- endoscope fogginess issue,2.0
- endoscope tip,10.0
- endoscopic camera,90.0
- endoscopic camera manipulator,89.0
- endoscopic camera manipulator ecm,1.0
- endowrist instrument isi,1.0
- endowrist instrument psm,1.0
- endowrist vessel sealer,2.0
- endowrist vessel sealer instrument,2.0
- energy activation,17.0
- energy activation cable,11.0
- energy heat related engineering,1.0
- energy instrument,5.0
- engagement additional damage,1.0
- engagement motion,1.0
- engagement pogo,1.0
- engagement test,131.0
- engagement test instrument,5.0
- engagement testing,72.0
- engagement testing engineering evaluation,1.0
- engineer fse,2.0
- engineering analysis,7.0
- engineering department,2.0
- engineering engineering,2.0
- engineering evaluation,1900.0
- engineering inspection,7.0
- engineering instrument,1.0
- engineering investigation,8.0
- engineering review,7.0
- engineering review engineering,1.0
- engineering system,3.0
- entire blade length burr,1.0
- entire thickness,5.0
- entire tube length evidence,1.0
- entire tube length housing,1.0
- equipment failure,50.0
- error code,990.0
- error engineering,1.0
- error log queue,1.0
- error message,49.0
- error message issue,5.0
- escape electrical continuity,2.0
- escape electrical continuity test,1.0
- escape high generator,1.0
- essj system,3.0
- esu cable,11.0
- esu manufacturer,8.0
- european urology,1.0
- eval engineering,6.0
- eval failure analysis,4.0
- evaluation complaint,5.0
- evaluation complaint broken cable,1.0
- evaluation complaint cable,1.0
- evaluation engineering,78.0
- evaluation engineering evaluation,8.0
- evaluation evaluation,1.0
- evaluation failure analysis,5.0
- evaluation failure analysis investigation,4.0
- evaluation investigation,1.0
- event date,3.0
- event engineering,3.0
- event instrument,2.0
- event isi,71.0
- event mdr,1.0
- event medwatch report,1.0
- event mfr report,5.0
- evident engineering,1.0
- evident failure analysis,1.0
- evident yaw pulley,1.0
- excess cable slack engineering,1.0
- excess debris,1.0
- excess force,66.0
- excess force contact,35.0
- excess play,2.0
- excessive bio debris,2.0
- excessive cleaning residue engineering,1.0
- excessive force,37.0
- excessive heat isi,1.0
- excessive loading engineering,1.0
- excessive side loading engineering,11.0
- excessive torquing,4.0
- exhibit char,23.0
- exhibit charring,19.0
- exhibit damage,160.0
- exhibit damage cable segment,11.0
- exhibit damage electrical continuity,1.0
- exhibit damage engineering,9.0
- exhibit damage engineering evaluation,5.0
- exhibit excessive damage engineering,4.0
- exhibit excessive damage instrument,1.0
- exhibit localized charring melting,1.0
- exhibit obvious damage engineering,1.0
- experienced failure analysis,1.0
- experienced post operative,22.0
- extended psm,46.0
- extension failure analysis,1.0
- extension tube,23.0
- extension tube engineering,1.0
- extension tube evidence,2.0
- external energy generator isi,1.0
- external iliac vein,4.0
- extra force,2.0
- face damage instrument,1.0
- facility site,1.0
- failed engineering,17.0
- failed friction testing,2.0
- failed yaw pulley,8.0
- failure analysis,3014.0
- failure analysis engineering,9.0
- failure analysis evaluation,508.0
- failure analysis evaluation engineering,7.0
- failure analysis evaluation review,1.0
- failure analysis fa,1.0
- failure analysis investigation,742.0
- failure analysis investigation engineering,207.0
- failure analysis investigation inspection,4.0
- failure analysis investigation performance,1.0
- failure analysis investigation testing,3.0
- failure analysis review,1.0
- failure anaysis,2.0
- failure anslysis investigation engineering,1.0
- failure distal end,1.0
- failure instrument,2.0
- failure mode electrical continuity,1.0
- fan assembly,2.0
- fault code,324.0
- fault energy,1.0
- fault system error code,2.0
- faulty camera,22.0
- faulty camera cable,20.0
- faulty motor encoder,1.0
- faulty rti board engineering,1.0
- fda isi,20.0
- fda medwatch report number,1.0
- fda operative,1.0
- fda operative report,1.0
- fda pelvic abscess,1.0
- fda review,1.0
- fda serial,1.0
- fda vesico vaginal fistula,1.0
- fe data,5.0
- fiber cable,39.0
- fiber optic cable,13.0
- field investigation,10.0
- field mtm,1.0
- field service,926.0
- field service engineer,924.0
- field service engineer fse,2.0
- field service engineering testing,2.0
- filler material,9.0
- filler metal,10.0
- first night post op,1.0
- first psm,2.0
- fixture evidence,1.0
- flat flex cable,6.0
- flat spot,9.0
- fleet angle,69.0
- flex cable,10.0
- flush port,15.0
- flush port engineering,1.0
- flush tube,74.0
- foam pad,11.0
- focus controller,16.0
- focus controller cable,3.0
- following information,20.0
- following medwatch,62.0
- following medwatch report,53.0
- following mode,8.0
- following mode failure,3.0
- following procedure,2.0
- following week,3.0
- foot pedal,41.0
- footrest cautery cable,2.0
- force amp pulley,22.0
- force amp pulley engineering,1.0
- force amp pulley wrist,1.0
- force engineering,3.0
- force fx,18.0
- foreign black material substance,1.0
- foreign body dr,1.0
- foreign object,7.0
- fracture surface,31.0
- fracture surface additional observation,1.0
- fractured surface,11.0
- fractured surface engineering,2.0
- fractured surface engineering evaluation,1.0
- fray engineering,2.0
- fraying engineering,10.0
- fraying evidence,2.0
- fraying repeated cable,1.0
- friction engineering evaluation,1.0
- friction test,5.0
- friction testing,3.0
- fse review,7.0
- function use,1.0
- functional additional damage,1.0
- functional additional finding,2.0
- functional additional observation,10.0
- functional cautery test,5.0
- functional engineering,10.0
- functional engineering evaluation,1.0
- functional failure,3.0
- functional instrument,1.0
- functional performance,28.0
- functional performance testing,27.0
- functional test,98.0
- functional test failure,2.0
- functional testing,81.0
- functional testing engineering,1.0
- functionality additional observation,1.0
- functionality system,1.0
- further analysis engineering,1.0
- further bleeding,4.0
- further complication,10.0
- further evaluation,46.0
- further examination,1.0
- further info,79.0
- further information,77.0
- further inspection,15.0
- further investigation,7.0
- further issue,16.0
- further observation,3.0
- further testing,1.0
- fuse holder,2.0
- gage pin,39.0
- gain control,5.0
- gall bladder,4.0
- gastric bypass procedure,2.0
- gastric leak,2.0
- gear clamp,6.0
- general surgeon,6.0
- gimbal grip,2.0
- gimbal plate,9.0
- glass tip,4.0
- glue joint engineering,6.0
- glue joint failure analysis,1.0
- goose neck,4.0
- gouge mark,85.0
- gouge scratch,1.0
- gpd pca,2.0
- gpd system,2.0
- grasper instrument,32.0
- gravity calibration,7.0
- gravity compensation,10.0
- gray color,2.0
- gray plastic sleeve material,1.0
- grease lubrication,1.0
- green cannula seal accessory,2.0
- green tint,3.0
- grey area,2.0
- grip additional observation,3.0
- grip area failure analysis,2.0
- grip arm,11.0
- grip assembly,15.0
- grip assembly intuitive motion,1.0
- grip axis,12.0
- grip axis pin,7.0
- grip base,68.0
- grip base charring,1.0
- grip base damage,1.0
- grip base electrical continuity,4.0
- grip base engineering,4.0
- grip cable,939.0
- grip cable engineering,5.0
- grip cable evidence,2.0
- grip cable failure analysis,2.0
- grip close cable,757.0
- grip damage additional observation,1.0
- grip electrical continuity testing,16.0
- grip engineering,12.0
- grip engineering evaluation,7.0
- grip failure,4.0
- grip failure analysis,2.0
- grip fracture,16.0
- grip hub,51.0
- grip hub engineering,1.0
- grip instrument,11.0
- grip open cable,47.0
- grip scissor,2.0
- grip surface,7.0
- grip tip,92.0
- grip yaw,2.0
- grip yaw motion,1.0
- ground pad,7.0
- grounding pad,20.0
- hairline crack,80.0
- handling endoscope,2.0
- handling instrument,2.0
- hard stop,11.0
- harmonic ace insert,26.0
- harmonic ace insert accessory,18.0
- harmonic ace instrument,6.0
- harmonic curved shear,79.0
- head sensor,7.0
- health system,5.0
- heat electrical energy,3.0
- heavy tissue mass engineering,1.0
- hemorrhaging event,2.0
- high amount,4.0
- high force evidence,1.0
- high frequency leakage,2.0
- high friction engineering,1.0
- high generator,54.0
- high magnification,19.0
- high magnification camera,18.0
- high pitched sound,1.0
- high pressure,7.0
- high resolution stereo viewer,41.0
- high speed force,1.0
- hinge feature,19.0
- hinge testing,1.0
- hole crack,2.0
- hole crack combo,1.0
- hole engineering,10.0
- hole engineering evaluation,1.0
- hole evidence,1.0
- hole feature,7.0
- hole instrument,1.0
- hole opening,4.0
- hole position,11.0
- hole recommended power,1.0
- hole site,8.0
- hole size,33.0
- hole wall orientation,1.0
- homing additional observation,1.0
- hook accessory,12.0
- hook base engineering,1.0
- hook engineering,2.0
- hook evidence,2.0
- hook instrument,52.0
- hook shank engineering,1.0
- hook shank fa,1.0
- hook tip,26.0
- hormonal status contribution,1.0
- hospital consultation,1.0
- hospital correction,1.0
- hospital engineer,1.0
- hospital engineering,1.0
- hospital isi,2.0
- hospital name contact information,3.0
- house da vinci,58.0
- house davinci robot system,12.0
- house davinci robotic system,7.0
- house engineering,1.0
- house failure analysis,5.0
- house hook accessory,1.0
- house instrument,1.0
- house is13000 system,1.0
- house is2000 system,3.0
- house is2000 test system,1.0
- house is3000 system,68.0
- house is3000 test system,7.0
- house isi endowrist instrument,1.0
- house pca system,4.0
- house si system,2.0
- house snap fit blade,1.0
- house sterile adapter,1.0
- house system,141.0
- house system is3000 system,1.0
- house system system,3.0
- house test clip,3.0
- house test instrument,4.0
- house test instrument jaws,1.0
- house test system,9.0
- house testing,5.0
- house tip cover accessory,1.0
- house weighted drop test,1.0
- housing engineer,14.0
- housing engineering,14.0
- housing evidence,1.0
- housing failure analysis,3.0
- housing housing,1.0
- housing snap,25.0
- housing tube,1.0
- hrsv monitor,7.0
- hrsv system,1.0
- hrsv system error code,1.0
- hub clevis,1.0
- hygiene specialist,3.0
- hypotube evidence,2.0
- hypotube failure analysis,1.0
- hypotube half,1.0
- hypotube instrument,1.0
- hysterectomy procedure,193.0
- hysterectomy procedure isi,2.0
- hysterectomy risk,1.0
- idler additional observation,1.0
- idler axle,1.0
- idler block engineering,1.0
- idler block gimbal plate,1.0
- idler engineering,1.0
- idler pin,12.0
- idler pulley,1416.0
- idler pulley engineering,6.0
- idler pulley evidence,3.0
- idler pulley rim,12.0
- idler pulley spin,234.0
- ileus medwatch report,1.0
- iliac artery,5.0
- iliac vein,12.0
- illuminator brightness,2.0
- illuminator lamp module,11.0
- ima vessel,2.0
- image issue,7.0
- improper cleaning,150.0
- improper cleaning engineering,10.0
- improper cleaning failure analysis,8.0
- improper connection,3.0
- improper handling,8.0
- improper insufficient cleaning,2.0
- inch hole,5.0
- inch long section,113.0
- incident discussion,1.0
- incident isi,3.0
- incision port,11.0
- inefficient information,1.0
- inflammatory reaction,2.0
- information isi,4.0
- initial mdr,33.0
- initial report,720.0
- initial reporter,695.0
- injury isi,2.0
- injury med watch report,2.0
- inner corner,2.0
- inner diameter,67.0
- inner surface,42.0
- inner wall,10.0
- input disc,57.0
- input disk shaft,1.0
- input gear,4.0
- input output panel,1.0
- input shaft,3.0
- insert accessory,190.0
- insert accessory investigation,1.0
- insert engineering,1.0
- insert evidence,1.0
- insert mate,1.0
- insertion axis,10.0
- insertion axis retraction,2.0
- inside lip,2.0
- inside lip damage,1.0
- inspection instrument,1.0
- installation evidence,1.0
- instrument accessory,55.0
- instrument ace insert,1.0
- instrument addition,13.0
- instrument additional investigation,1.0
- instrument additional observation,11.0
- instrument arc,58.0
- instrument arcing,19.0
- instrument arm,176.0
- instrument back,5.0
- instrument base,12.0
- instrument blade,39.0
- instrument break,12.0
- instrument breakage,10.0
- instrument cable,38.0
- instrument cable segment,1.0
- instrument cannula,19.0
- instrument ceramic sleeve,9.0
- instrument clevis,6.0
- instrument clutch button,2.0
- instrument collision,462.0
- instrument collision additional investigation,4.0
- instrument collision electrical continuity,2.0
- instrument collision engineering,1.0
- instrument component,124.0
- instrument coordinator,4.0
- instrument damage,195.0
- instrument damage evidence,2.0
- instrument difficult evidence,1.0
- instrument distal end,3.0
- instrument electrical continuity,6.0
- instrument electrical continuity test,3.0
- instrument electrical continuity testing,3.0
- instrument engagement,14.0
- instrument engagement issue,10.0
- instrument engineer,50.0
- instrument engineering,50.0
- instrument engineering evaluation,13.0
- instrument error care,10.0
- instrument evaluation,1.0
- instrument evidence,5.0
- instrument exchange,6.0
- instrument exhibit,24.0
- instrument failed engineering evaluation,1.0
- instrument failure,22.0
- instrument failure analysis,15.0
- instrument failure analysis investigation,1.0
- instrument fragment,45.0
- instrument grasp,3.0
- instrument grip,118.0
- instrument grip base,3.0
- instrument grip cable,45.0
- instrument grip issue,2.0
- instrument half,1.0
- instrument housing,27.0
- instrument idler pulley,1.0
- instrument info,2.0
- instrument information,2.0
- instrument information system,2.0
- instrument information system fund,1.0
- instrument insert,8.0
- instrument inspection,1.0
- instrument instrument,3.0
- instrument investigation,1.0
- instrument isi,1.0
- instrument jaw,18.0
- instrument jaws,15.0
- instrument knife blade,4.0
- instrument main tube,220.0
- instrument main tube damage,2.0
- instrument main tube engineering,4.0
- instrument malfunction,30.0
- instrument medwatch report,1.0
- instrument metal shaft,1.0
- instrument missing lever engineering,1.0
- instrument move,237.0
- instrument movement,5.0
- instrument performance,5.0
- instrument piece,71.0
- instrument pogo,3.0
- instrument processing,2.0
- instrument psm,1.0
- instrument recognition,28.0
- instrument recognition issue,11.0
- instrument recognition issue engineering,1.0
- instrument recurrence,1.0
- instrument report,5.0
- instrument return,9.0
- instrument roll axis motion,1.0
- instrument shaft,158.0
- instrument shaft additional observation,2.0
- instrument shaft engineering,1.0
- instrument shaft evidence,1.0
- instrument shaft tube extension,1.0
- instrument small diameter section,1.0
- instrument splintering,1.0
- instrument sterile adapter,16.0
- instrument sterile adapter engagement,1.0
- instrument stop,5.0
- instrument tip additional investigation,4.0
- instrument tip additional observation,3.0
- instrument tip cover,18.0
- instrument tip customer,2.0
- instrument tip engineering,18.0
- instrument tip engineering evaluation,4.0
- instrument tip failure analysis,1.0
- instrument tip instrument,1.0
- instrument tip isi,2.0
- instrument tip manufacturer report,1.0
- instrument tip warning,2.0
- instrument tube,34.0
- instrument tube extension,31.0
- instrument twist lock cannula,1.0
- instrument use,73.0
- instrument video,1.0
- instrument visual inspection,2.0
- instrument wire,15.0
- instrument wrist,82.0
- instrument wrist electrical continuity,1.0
- instrument wrist engineering,1.0
- instrument wrist evidence,1.0
- instrument wrist visual inspection,1.0
- insufflation obturator tip,3.0
- insulatioin integrity arcing,1.0
- insulation damage,76.0
- insulation damage material,1.0
- insulation electrical continuity testing,1.0
- insulation engineering,4.0
- insulation engineering evaluation,1.0
- insulation internal laboratory testing,1.0
- insulation isi,6.0
- insulation prolonged exposure,3.0
- insulation testing,1.0
- insulation tube damage,39.0
- intact blade,36.0
- intact engineering,5.0
- intact engineering evaluation,3.0
- intact fa,2.0
- intact failure analysis,1.0
- intact instrument,1.0
- intact pad printing,1.0
- intact section,5.0
- intact visual inspection,1.0
- intended engineering,6.0
- interface clevis,8.0
- interface failure analysis evaluation,1.0
- interface proximal clevis,1.0
- interface tube extension,1.0
- interface wall,43.0
- intermittent contact engineering,1.0
- intermittent system,1.0
- intermittent system error code,1.0
- internal bowl tube interface,2.0
- internal bowl tube transition,2.0
- internal investigation,5.0
- internal laboratory testing,10.0
- intestine leakage information,1.0
- intra abdominal urine extravasation,1.0
- intra operative,102.0
- intra operative complication,44.0
- intra operative injury,7.0
- intuitive motion,64.0
- intuitive movement,14.0
- intuitive surgical 8mm endowrist,2.0
- intuitive surgical inc,282.0
- intuitive surgical investigation,5.0
- intuitive surgical review,1.0
- investigation engineer,213.0
- investigation isi,3.0
- investigation report,11.0
- investigation system error code,8.0
- iod board,2.0
- iod pca,2.0
- iod ria cable,2.0
- iodg pca,5.0
- ip address,2.0
- ipd pca,4.0
- ipd pca board,4.0
- is1200 system internal investigation,1.0
- is3000 system,101.0
- isi approved bulb,2.0
- isi clinical development engineering,2.0
- isi contact,302.0
- isi contact initial reporter,2.0
- isi engineering,15.0
- isi evaluation,2.0
- isi field engineer,28.0
- isi field service engineer,173.0
- isi field service engineering,78.0
- isi fse,13.0
- isi instrument,5.0
- isi investigation,1.0
- isi isi,4.0
- isi ref mdr,10.0
- isi rep,77.0
- isi representative,62.0
- isi representative mfr report,1.0
- isi review,7.0
- isi technical support,14.0
- isi technical support engineer,11.0
- isis field engineering inspection,1.0
- issue additional damage,1.0
- issue engineering,15.0
- issue fse,1.0
- issue instrument,1.0
- issue isi,4.0
- issue visual inspection,2.0
- jaw evidence,1.0
- jaw grip,8.0
- jaw pulley conductor cap,1.0
- jaws instrument,1.0
- joint axis,3.0
- joint harness,1.0
- joint suj,1.0
- journal article,19.0
- kinked electrical continuity testing,1.0
- kinked engineering,1.0
- kinked flush tube,6.0
- kinked flushed tubing engineering,1.0
- knife blade,11.0
- lamp module,20.0
- lap suction irrigator,1.0
- laparoscopic suction irrigator instrument,2.0
- laparoscopic tissue,1.0
- large char mark,4.0
- large needle driver,9.0
- large needle driver instrument,6.0
- large visual inspection,1.0
- last finding,4.0
- last life engineering,1.0
- last use,4.0
- last week reporter,1.0
- late submission,2.0
- lateral play,3.0
- latex blade,2.0
- latex cut test,80.0
- latex electrical continuity testing,1.0
- latex engineering,1.0
- latex failure analysis,3.0
- latex failure analysis investigation,1.0
- latex latex,3.0
- left blade,33.0
- left ccu,20.0
- left common iliac vein,2.0
- left grip,31.0
- left instrument,1.0
- left mtm,6.0
- left pogo,8.0
- left salpingo oophorectomy,5.0
- left salpingo oophorectomy procedure,3.0
- left upper lobe,4.0
- left ureter,6.0
- legal complaint,18.0
- length additional damage,2.0
- length additional observation,5.0
- length electrical continuity testing,1.0
- length engineering,9.0
- length evidence,3.0
- length failure analysis,2.0
- length slight damage,2.0
- length tube,1.0
- lever engineering,3.0
- life support,3.0
- life threatening injury,2.0
- light guide,41.0
- light guide assembly,3.0
- light guide cable,30.0
- light material removal engineering,56.0
- light material removal evidence,4.0
- light material removal scratch,67.0
- light output,12.0
- light source,4.0
- limited failure analysis,1.0
- lingual artery dr,1.0
- link failure analysis,1.0
- little burr knot,1.0
- little nick cut,1.0
- loading instrument,2.0
- localized burning,2.0
- localized char,10.0
- localized charring,9.0
- localized charring melting,4.0
- localized material,9.0
- localized material removal,2.0
- localized melting,212.0
- localized melting engineering,2.0
- log icb log,1.0
- lok clip,2.0
- lok clip applier instrument,1.0
- lok hem polymer,2.0
- lok instrument,2.0
- long engineering,3.0
- long evidence,1.0
- long material,1.0
- long micro crack,1.0
- long section,258.0
- longitudinal axis engineering,1.0
- longitudinal crack,5.0
- loop cable,2.0
- loop engineering,1.0
- loose additional observation,2.0
- loose cable,22.0
- loose camera cable,2.0
- loose engineering,4.0
- loose pitch,33.0
- loose pitch cable,33.0
- loose pitch cable clevis,1.0
- loose screw,3.0
- loose tension failure analysis,1.0
- loose wire,20.0
- lot m14130619,2.0
- lot number m10120730,4.0
- low cable tension,5.0
- low engineering evaluation,1.0
- low light output,6.0
- low magnification engineering,1.0
- luer plate,95.0
- luer plate damage,2.0
- luer plate engineering,3.0
- lymph node,19.0
- lymph node dissection,9.0
- machine end,2.0
- mail response,1.0
- main damaged area scratch,1.0
- main insulation,89.0
- main insulation tube,85.0
- main insulation tube damage,38.0
- main shaft,5.0
- main tube,4480.0
- main tube clevis,2.0
- main tube complaint,1.0
- main tube connection char,1.0
- main tube crack,16.0
- main tube damage,456.0
- main tube damage engineering,30.0
- main tube damage scratch,1.0
- main tube deformation,1.0
- main tube engineering,41.0
- main tube engineering evaluation,7.0
- main tube evidence,8.0
- main tube extension,6.0
- main tube failure analysis,1.0
- main tube hole evidence,1.0
- main tube instrument,4.0
- main tube insulation,80.0
- main tube interface,152.0
- main tube interface clevis,1.0
- main tube interface damage,1.0
- main tube interface wall,40.0
- main tube interface wrist,1.0
- main tube material,17.0
- main tube scratch,57.0
- main tube snake wrist,2.0
- main tube wall evidence,1.0
- maintube distal end,25.0
- malfunction engineering,1.0
- malfunction system,1.0
- manual input,8.0
- manufacturer report,6.0
- manufacturer root cause evaluation,1.0
- mark tube,1.0
- massive uterine enlargement,1.0
- master alignment,2.0
- master tool,242.0
- master tool manipulator,241.0
- master tool manipulator issue,1.0
- master tool manipulator mtm,1.0
- material base,3.0
- material engineering,1.0
- material loss,11.0
- material removal,1635.0
- material removal additional observation,1.0
- material removal engineering,61.0
- material removal visual inspection,1.0
- material scratch,2.0
- maximum output engineering,1.0
- mechanical adjustment,2.0
- mechanical damage,21.0
- mechanical damage damage,1.0
- mechanical indentation,38.0
- mechanical indentation damage evidence,1.0
- mechanical overload,3.0
- med watch mfr report,5.0
- medical center,27.0
- medical record,144.0
- medwatch mfr,26.0
- medwatch mfr report,26.0
- medwatch report number,9.0
- medwatch uf importer report,1.0
- meeting engineering,1.0
- mega needle driver,6.0
- mega needle driver instrument,5.0
- melted case,1.0
- melted engineering,2.0
- melted evidence,1.0
- melted material,16.0
- melted material removal,1.0
- melted tip,3.0
- melted yaw pulley,1.0
- melting engineering,4.0
- melting thermal damage,1.0
- memory error,2.0
- metal ball,1.0
- metal ring,5.0
- metal shaft,37.0
- metal surface,4.0
- metal tube,7.0
- metal tube reinforcement feature,2.0
- mfr incident,1.0
- mfr report,160.0
- micro crack,327.0
- microscopic inspection,9.0
- mid point,13.0
- mid point evidence,2.0
- midpoint electrical continuity test,1.0
- midpoint evidence,5.0
- missing addition,2.0
- missing additional observation,1.0
- missing charring,1.0
- missing clevis,5.0
- missing conductor,11.0
- missing conductor wire,2.0
- missing conductor wire cap,2.0
- missing damage,3.0
- missing damaged glue,1.0
- missing electrical continuity,3.0
- missing engineering,38.0
- missing engineering evaluation,8.0
- missing evidence,4.0
- missing failure analysis,3.0
- missing fragment,8.0
- missing instrument,19.0
- missing lack,1.0
- missing material,21.0
- missing pad,6.0
- missing pad printing,5.0
- missing part,7.0
- missing piece,183.0
- missing piece evidence,1.0
- missing section,11.0
- missing sleeve,1.0
- missing teflon pad evidence,1.0
- missing tube,7.0
- missing tube reinforcement,2.0
- misuse additional damage,1.0
- misuse additional finding,3.0
- misuse additional observation,30.0
- misuse electrical continuity,23.0
- misuse electrical continuity testing,16.0
- misuse engineering,29.0
- misuse engineering evaluation,2.0
- misuse failure analysis,48.0
- misuse failure analysis investigation,8.0
- misuse indentation,2.0
- misuse remote fe data,2.0
- misuse user error,5.0
- mitral valve,4.0
- mm port,2.0
- mm tube,2.0
- mo material,1.0
- module battery box,6.0
- mono adapter,2.0
- mono bipolar cautery,1.0
- mono polar instrument,1.0
- monopolar adapter,15.0
- monopolar cable,4.0
- monopolar cautery cord,2.0
- monopolar cautery hook tip,3.0
- monopolar cautery instrument,28.0
- monopolar coag,3.0
- monopolar cord engineering,1.0
- monopolar curved scissor,313.0
- monopolar curved scissors instrument,179.0
- monopolar cut,3.0
- monopolar instrument,9.0
- monopolar instrument ms,1.0
- monopolar jack,5.0
- motion addition,2.0
- motion additional observation,2.0
- motion electrical continuity,1.0
- motion engineering,5.0
- motion experience,5.0
- motion isi,1.0
- motion mechanical overload,1.0
- motor drive circuit engineering,1.0
- motor encoder,64.0
- motor encoder assembly,23.0
- movement engineering,2.0
- msd board,9.0
- msd pca,30.0
- mtm fa,1.0
- mtml gimble,5.0
- mtmr gimball,2.0
- multi use,1.0
- multiple axis,3.0
- multiple cut,1.0
- multiple deep scratch,19.0
- multiple power,2.0
- multiple scratch,6.0
- myomectomy procedure,8.0
- nature engineering,2.0
- needle driver,66.0
- needle driver instrument,49.0
- needle radiology,1.0
- negative pressure,2.0
- nephrostomy tube,5.0
- neuro ophthalmologist,1.0
- neutral position,3.0
- new clip,4.0
- new headset microphone assembly,1.0
- new tip cover accessory,6.0
- next day anesthesia,1.0
- next surgery,1.0
- nissen fundoplication procedure,4.0
- non axial force,4.0
- non cutting edge,4.0
- non energy instrument,2.0
- non intuitive motion,19.0
- non intuitive movement,7.0
- non intuitive movement issue,2.0
- non isi,6.0
- non isi instrument accessory,2.0
- non linear material,1.0
- non malignant hysterectomy,1.0
- non motorized mechanical arm,5.0
- non motorized support arm,3.0
- non operative treatment,1.0
- non patient contact portion,1.0
- non pyrogenic testing,2.0
- non real fluid movement,1.0
- non recommended cleaning,1.0
- non recoverable error,1.0
- non recoverable fault,1.0
- non recoverable safe state,32.0
- non reportable event,1.0
- non robotic procedure,2.0
- non sterile psm,1.0
- non surgical handling,5.0
- non uniform swage,1.0
- nonrecoverable safe state,17.0
- normal biocompatibility testing,1.0
- normal engineering,1.0
- normal operation communication,1.0
- noted arcing,1.0
- noted engineering,1.0
- noted functional testing,1.0
- nurse manager,6.0
- nursing clinical leader,4.0
- nursing supervisor,4.0
- oblong hole,24.0
- observation engineering,1.0
- office assistant,2.0
- ohm stat tester,1.0
- ohm terminator,3.0
- onsite server,3.0
- oophorectomy procedure,13.0
- op report,2.0
- open close additional observation,1.0
- open close cable,4.0
- open close function,1.0
- open close motion,1.0
- open dr,1.0
- open instrument,2.0
- open laparotomy,2.0
- open position,6.0
- open position instrument,1.0
- open procedure,34.0
- open surgical procedure,19.0
- open surgical technique,129.0
- opening closing,3.0
- operating room,55.0
- operating room scrub technician,2.0
- operating room staff,6.0
- operating room tech,3.0
- operative complication,279.0
- operative procedure report,1.0
- operative report,241.0
- operative report additional information,1.0
- operative report review,1.0
- opposite side,49.0
- orange ink test,1.0
- orange residue,1.0
- orange sleeve,8.0
- orange surface,4.0
- orange warning band,2.0
- original equipment,38.0
- original equipment manufacturer,33.0
- other anatomic deviation identification,1.0
- other back end,2.0
- other cable,1398.0
- other cable damage,108.0
- other evidence,2.0
- other grip,24.0
- other instrument,146.0
- other pt side,1.0
- other wrist,4.0
- out biodebris engineering,1.0
- out electrical continuity testing,4.0
- out patient,1.0
- outer diameter lip,1.0
- outer edge,10.0
- outer edge failure analysis,1.0
- outer face engineering,1.0
- outer face evidence,1.0
- outer surface,51.0
- outer surface evidence,1.0
- outer surface hold,1.0
- outermost distal idler pulley,4.0
- outermost pulley engineering,1.0
- output power limit fse,1.0
- overheating damage visual inspection,1.0
- overloading electrical continuity testing,6.0
- overloading engineering,3.0
- overloading failure analysis,18.0
- oxygen level,3.0
- pad print,131.0
- pad printing,123.0
- pad printing removal,36.0
- pad printing removal engineering,1.0
- parallel instrument,1.0
- part number,5.0
- parting line,34.0
- patient abscess,1.0
- patient cart,31.0
- patient contact,5.0
- patient customer,2.0
- patient death,5.0
- patient engineering,2.0
- patient experience,248.0
- patient experienced intra operative,3.0
- patient experienced post operative,22.0
- patient harm,48.0
- patient identifier,3.0
- patient injury,56.0
- patient intra operative,1.0
- patient isi,30.0
- patient marcy,1.0
- patient medwatch report,1.0
- patient pa,6.0
- patient patient,1.0
- patient review,5.0
- patient side,452.0
- patient side arm,2.0
- patient side cart,203.0
- patient side cart battery,4.0
- patient side cart review,1.0
- patient side manipulator,220.0
- patient side manipulator psm,1.0
- patient side surgeon,5.0
- patient sustained post operative,17.0
- patient system,153.0
- patient system error,153.0
- patient system error code,150.0
- patient use appropriate caution,2.0
- patient warning,2.0
- pca board,59.0
- pca power supply,2.0
- pcc system,1.0
- pcc system error code,1.0
- pch instrument,5.0
- pelvic abscess,11.0
- pelvic brim,3.0
- pelvic organ prolapse,2.0
- performance engineering,18.0
- performance instrument,9.0
- performance test,161.0
- performance testing,95.0
- performance testing engineering,1.0
- performance testing instrument recognition,1.0
- perimeter wear pattern,1.0
- permanent cautery hook,47.0
- permanent cautery hook instrument,39.0
- permanent cautery spatula,33.0
- permanent cautery spatula instrument,27.0
- permanent hook instrument,10.0
- photographic image,17.0
- physical damage,73.0
- physician office,1.0
- piece ceramic sleeve,1.0
- piece engineering,1.0
- pin engineering,12.0
- pin instrument,1.0
- pitch cable,1493.0
- pitch cable engineering,3.0
- pitch cable instrument,3.0
- pitch down cable,172.0
- pitch input,10.0
- pitch input disc,5.0
- pitch motion,16.0
- pitch yaw,4.0
- pitch yaw motion,1.0
- pitched engineering,7.0
- pitched engineering observation,1.0
- place engineering,1.0
- place visual inspection,1.0
- planned isi,1.0
- planned surgical procedure,135.0
- plastic insulation,3.0
- plastic part,3.0
- plastic sleeve,24.0
- plug instrument,1.0
- plug riser,32.0
- pmva pca board,8.0
- pocket char mark,1.0
- pogo pin,150.0
- poor cut performance engineering,2.0
- poor cutting engineering,1.0
- poor cutting performance engineering,3.0
- port placement,21.0
- port site,33.0
- positioning patient,12.0
- possible engagement motion,1.0
- possible engineering,1.0
- possible instrument,5.0
- post anesthesia,14.0
- post engineering evaluation,581.0
- post evaluation,56.0
- post failure analysis evaluation,28.0
- post hysterectomy cystoscopy,1.0
- post op,305.0
- post op day,2.0
- post op visit,2.0
- post operative,269.0
- post operative anastomotic leak,1.0
- post operative complication,224.0
- post operative day,1.0
- post operative incontinence,1.0
- post operative ischemic bowel,1.0
- post operative trauma,4.0
- post operative treatment,3.0
- post procedure,6.0
- post surgical complication,984.0
- postoperative incontinence,1.0
- postoperative side,1.0
- potential cause,4.0
- potentiometer assembly,26.0
- power cable,4.0
- power cord,17.0
- power cycle,15.0
- power issue,15.0
- power setting,16.0
- power supply,91.0
- power supply switcher,3.0
- power supply voltage,8.0
- practice administrator,5.0
- pre operative placement,1.0
- pre surgery checklist,2.0
- pre test,4.0
- precaution axis,1.0
- precaution fse,1.0
- precaution further investigation,1.0
- precise additional damage,5.0
- precise additional observation,5.0
- precise cable derailment,4.0
- precise engineering,14.0
- precise engineering evaluation,1.0
- precise evidence,8.0
- precise failure analysis,4.0
- present engineering,2.0
- primary power supply pps,1.0
- primary re anastomosis,1.0
- prior rep,1.0
- problem additional observation,2.0
- problem controller,2.0
- problem instrument,14.0
- procedure csr,1.0
- procedure dr,3.0
- procedure duration,5.0
- procedure engineering,18.0
- procedure engineering review,1.0
- procedure examination,3.0
- procedure investigation,1.0
- procedure isi,19.0
- procedure nurse,1.0
- procedure review,9.0
- procedure surgeon,1.0
- procedure surgical staff,1.0
- procedure tip,1.0
- procedure tip cover,1.0
- procedure video,17.0
- procedure visual analysis,2.0
- product code,9.0
- product notification,4.0
- product notification letter,3.0
- product problem,24.0
- prolonged exposure,68.0
- prostatectomy procedure,58.0
- prostatectomy procedure review,1.0
- prox clevis,26.0
- prox clevis cable hole,6.0
- prox clevis engineering,1.0
- prox clevis interface clevis,3.0
- proximal clevis,884.0
- proximal clevis area engineering,1.0
- proximal clevis cable,84.0
- proximal clevis cable hold,4.0
- proximal clevis cable hole,72.0
- proximal clevis cable opening,6.0
- proximal clevis disassembly,1.0
- proximal clevis engineering,21.0
- proximal clevis engineering evaluation,2.0
- proximal clevis evidence,3.0
- proximal clevis failure analysis,4.0
- proximal clevis interface clevis,4.0
- proximal clevis interface engineering,3.0
- proximal clevis material,3.0
- proximal clevis seal,6.0
- proximal clevis seal engineering,1.0
- proximal clevis tube interface,1.0
- proximal distal end,2.0
- proximal end,66.0
- proximal end base,1.0
- proximal end engineering,2.0
- proximal end material,1.0
- proximal pin,11.0
- proximal pulley,55.0
- proximal side engineering,2.0
- psm arm,19.0
- psm engineering,2.0
- psm evaluation,1.0
- psm failure analysis,1.0
- psm system,7.0
- psm system error,7.0
- psm system error code,7.0
- psm1 fse,1.0
- psm1 isi,2.0
- pt death,3.0
- pt engineering,2.0
- pt engineering evaluation,1.0
- pt extensive system testing,1.0
- pt laceration,2.0
- pt re configuration,1.0
- pt side assistant,1.0
- pt side cart,67.0
- pt side manipulator,82.0
- pt system error,46.0
- pt system error code,46.0
- pulley additional finding,4.0
- pulley additional observation,26.0
- pulley cable,13.0
- pulley corroded engineering,1.0
- pulley cover,125.0
- pulley damage,107.0
- pulley distal clevis,1.0
- pulley engineering,93.0
- pulley engineering evaluation,6.0
- pulley evidence,17.0
- pulley failure,115.0
- pulley failure analysis,115.0
- pulley grip,14.0
- pulley idler pulley,7.0
- pulley indentation,6.0
- pulley instrument,2.0
- pulley notch,3.0
- pulley spin,248.0
- pulley surface additional observation,1.0
- pulley yaw pulley,1.0
- pully face,2.0
- pulmonary artery,18.0
- pulmonary embolism,5.0
- pulmonary vein,6.0
- push pull design,1.0
- push sweep,1.0
- quality management,2.0
- rac pca,9.0
- rac system,3.0
- rac system error code,3.0
- rack engineering,1.0
- radical prostatectomy,7.0
- re exploration,1.0
- re insertion,1.0
- re seating,2.0
- real time servo processing,2.0
- rear corner,4.0
- rear corner angle,1.0
- recognition engagement,1.0
- recognition failure distal end,1.0
- recognition issue,62.0
- recognition issue additional observation,12.0
- recognition issue engineering evaluation,1.0
- recognition pin,1.0
- recognition system,2.0
- recognition testing failure analysis,1.0
- recognition testing testing,1.0
- recoverable error,6.0
- recoverable safe state,227.0
- recoverable system,6.0
- rectal injury,10.0
- recto sigmoid area,1.0
- recto vaginal septum,1.0
- red fiber cable,8.0
- red foam,4.0
- red hue isi,1.0
- red hue vision issue,2.0
- red system cable,12.0
- reducer damaged cannulae,11.0
- reference mdr,2.0
- regional fse manager,4.0
- reinforcement ring,47.0
- reinforcement ring tube damage,2.0
- related failure,1.0
- release lever,21.0
- release tab,4.0
- release tab engineering evaluation,1.0
- remedial action,3.0
- remote arm,60.0
- remote arm controller,60.0
- remote fe,12.0
- remote fe data,5.0
- remote fe verification,3.0
- remote interface adapter,13.0
- removal difficult engineering,1.0
- removal limit use,3.0
- repair isi,1.0
- repair psm,2.0
- repeated attempt,2.0
- repeated mechanical actuation,1.0
- repeated opening,3.0
- replacement instrument,8.0
- replacement tip cover accessory,4.0
- report additional information,1.0
- report isi,6.0
- report report,1.0
- reportable event medwatch report,1.0
- reportable event recurrence,2.0
- reported broken wire,22.0
- reported complaint conductor,1.0
- reported complaint engineering,237.0
- reported complaint failure analysis,21.0
- reported da vinci,21.0
- reported engineering,5.0
- reported error,9.0
- reported event,894.0
- reported event isi,9.0
- reported event review,3.0
- reported failure analysis,1.0
- reported failure mode instrument,7.0
- reported incident,14.0
- reported injury,15.0
- reported intra operative,2.0
- reported issue,186.0
- reported issue isi,4.0
- reported malfunction failure analysis,1.0
- reported mfr report,10.0
- reported mrf report,1.0
- reported problem,61.0
- reported problem engineering,4.0
- reported procedure date review,1.0
- reported surgical procedure,53.0
- reported surgical procedure isi,2.0
- reported vision,21.0
- reported vision issue,21.0
- reported wire,11.0
- resection procedure review,1.0
- reset system error code,1.0
- resident surgeon,2.0
- residue review,1.0
- result cable,2.0
- result cable segment,2.0
- result engineering,16.0
- result evidence,6.0
- result failure analysis,5.0
- retention component,2.0
- retrospective activity,161.0
- reusable instrument housing caution,4.0
- reverse trendelenburg position isi,1.0
- review engineering,2.0
- review isi,1.0
- review system,1.0
- review system error,1.0
- review system error log,1.0
- ria pca,32.0
- right arm,6.0
- right blade,12.0
- right camera,11.0
- right ccu,24.0
- right colic artery,2.0
- right evidence,1.0
- right eye,10.0
- right gimbal mtm,2.0
- right hand,8.0
- right master tool,75.0
- right mtm,21.0
- right psm,6.0
- right salpingo oophorectomy,6.0
- right salpingo oophorectomy procedure,2.0
- right side,21.0
- rim damage,32.0
- rim damage additional observation,2.0
- rim damage engineering evaluation,1.0
- risk management,182.0
- risk management department,57.0
- risk manager,95.0
- rma engineering,2.0
- rma service tech,2.0
- robot system,78.0
- robotic coordinator,5.0
- robotic procedure,7.0
- robotic total laparoscopic hysterectomy,2.0
- roll axis,12.0
- roll bearing,4.0
- roll cable,3.0
- roll engineering,1.0
- roll motion,5.0
- roll shaft,3.0
- rolling loop,3.0
- root cause analysis,7.0
- roper hospital,2.0
- rough additional observation,1.0
- rough damage,1.0
- rough engineering,1.0
- rough handling,179.0
- rough handling engineering,4.0
- rough surface engineering,2.0
- rough surface finish damage,4.0
- rough surface finish engineering,67.0
- rough surface finish evidence,4.0
- rough surface finish part,1.0
- rough surface finish scratch,39.0
- round cautery hook,7.0
- round rack feature,4.0
- round rack feature disassembly,1.0
- rust failure analysis,1.0
- s5vp pca,7.0
- safe state,307.0
- safe state investigation,1.0
- safety system,472.0
- safety test,16.0
- salpingo oophorectomy,28.0
- salpingo oophorectomy procedure,12.0
- same cable,7.0
- same grip,23.0
- same instrument,6.0
- same side,50.0
- satisfactory condition isi,2.0
- scalpel cautery instrument,49.0
- scissor blade,90.0
- scissor grip,21.0
- scissor grip engineering,1.0
- scissor grip half,1.0
- scissor grip pulley,1.0
- scissors cut,31.0
- scissors instrument,189.0
- scissors wrist assembly,2.0
- scope improper handling,2.0
- scp pca,7.0
- scrape mark,35.0
- scrape mark scratch,1.0
- scratch gouge,6.0
- scratch gouge mark,5.0
- screw head,12.0
- screw head engineering,1.0
- scrub technician,10.0
- second psm evaluation,1.0
- second stage,2.0
- second tip,9.0
- second tip cover,8.0
- secondary operation,2.0
- secondary sensor,137.0
- section additional observation,2.0
- section charring,2.0
- section electrical testing,1.0
- section engineering,5.0
- sector gear,2.0
- self check test,2.0
- self test,19.0
- separate container instrument,1.0
- septic shock,4.0
- serious harm,4.0
- serious injury,23.0
- service engineer fse,2.0
- service training,2.0
- servo driver pca board,3.0
- set screw,2.0
- setup joint arm,3.0
- setup joint cable harness,2.0
- setup joint pca,2.0
- setup joint suj,1.0
- several deep scratch,13.0
- several hairline,1.0
- several request,7.0
- severe charring,4.0
- sexual intercourse,3.0
- shaft engineering,2.0
- shaft evidence,2.0
- shaft feature,20.0
- shaft instrument,1.0
- shaft insulation,3.0
- shaft opening engineering,1.0
- shaft tube,1.0
- shaft visual inspection,1.0
- shaft wrist,1.0
- shape evidence,1.0
- sharp edge engineering,1.0
- sharp pain,2.0
- short circuit,4.0
- short end,2.0
- si hysterectomy procedure,68.0
- si system,135.0
- side console,137.0
- side damaged area,2.0
- side engineering,7.0
- side evidence,2.0
- side misalignment,325.0
- sigmoid colectomy procedure,2.0
- sigmoid colon,12.0
- significant blood loss,2.0
- silicone engineering,1.0
- silicone interface examination,1.0
- silicone pellethane,11.0
- silicone pellethane section,8.0
- silicone section,6.0
- silicone silicone,1.0
- silicone sleeve,4.0
- silk suture instrument,1.0
- sine cycle,17.0
- single light guide,2.0
- single site,27.0
- single site instrument,10.0
- single site port,9.0
- single site port methodology,1.0
- site distal end,6.0
- site engineering,2.0
- site evidence,1.0
- site functional testing,7.0
- site instrument,10.0
- site isi,1.0
- site mfr report,1.0
- site psm,1.0
- site report,27.0
- site review,1.0
- site surface,1.0
- site surgeon,1.0
- site use,6.0
- site visit,12.0
- size conductor cap,1.0
- size electrical contact,1.0
- size engineering,3.0
- size evidence,1.0
- size missing engineering,1.0
- size yaw pulley,1.0
- sleeve engineering,3.0
- sleeve interface,148.0
- sleeve interface engineering,4.0
- sleeve material,2.0
- sleeve missing sleeve,1.0
- slight adhesive residue,2.0
- slight bend curvature,1.0
- slight damage,22.0
- slight surface,3.0
- small amount,31.0
- small bowel,11.0
- small bowel resection,4.0
- small clip applier instrument,10.0
- small diameter,2.0
- small diameter section,2.0
- small fray,2.0
- small gap separation,1.0
- small grasper retractor instrument,2.0
- small hole,6.0
- small intestine,5.0
- small section,8.0
- smooth engineering,1.0
- snake wrist,223.0
- snake wrist additional damage,1.0
- snake wrist additional observation,2.0
- snake wrist disc,11.0
- snake wrist disk,6.0
- snake wrist engineering,8.0
- snake wrist evidence,1.0
- snake wrist roll motion,1.0
- snake wrist site,3.0
- snake wrist wrist motion,2.0
- snap fit blade,7.0
- snap fit blade accessory,1.0
- snap fit paddle blade,13.0
- snap fit scalpel instrument,13.0
- snap tab,37.0
- snapped cable,5.0
- someone something,1.0
- spatula engineering,6.0
- spatula evidence,1.0
- spatula failure analysis,1.0
- spatula fragment engineering,1.0
- spatula instrument,29.0
- spatula surface engineering,1.0
- spatula tip,22.0
- spatula tip accessory,3.0
- spatula tip engineering evaluation,1.0
- spatula yaw,1.0
- spatula yaw pulley,1.0
- spatula yaw pulley assembly,1.0
- special attention,4.0
- specific site mfr report,1.0
- specific surgical function use,1.0
- specification arcing,4.0
- specification cut,1.0
- specification engineering,5.0
- specification insert,1.0
- specification isi,4.0
- specification proper operation,1.0
- spring counterbalance,2.0
- spring guide,19.0
- spring guide failure,2.0
- stable condition,13.0
- startup system,1.0
- status post surgery,1.0
- stereo viewer,46.0
- stereo viewer investigation,1.0
- sterile adapter,90.0
- sterile adapter accessory,3.0
- sterilization isi,1.0
- sterilization process,16.0
- sterilization process engineering,1.0
- stick engineering,1.0
- straight additional observation,2.0
- straight engineering,1.0
- straight half,6.0
- straight wrist,3.0
- stress concentration,10.0
- stress mark,2.0
- subsequent demise,15.0
- subsequent demise isi,3.0
- subsequent surgical procedure,15.0
- successful engineering,1.0
- suction irrigator,19.0
- suction irrigator instrument,7.0
- supply pps,1.0
- sure accessory,1.0
- sure cautery hook accessory,4.0
- sure rectangular tube,1.0
- surface cable,2.0
- surface cable segment,2.0
- surface electrical continuity testing,1.0
- surface engineering,30.0
- surface evidence,3.0
- surface failure analysis,6.0
- surgeon assistant,2.0
- surgeon console,86.0
- surgeon console operator,20.0
- surgeon console operator warning,1.0
- surgeon console view,9.0
- surgeon error,5.0
- surgeon head,3.0
- surgeon isi,2.0
- surgeon report,32.0
- surgeon side cart,21.0
- surgeon side console,71.0
- surgeon side console ssc,1.0
- surgeon side console touchpad,4.0
- surgeon state,27.0
- surgery inspection,1.0
- surgery isi,1.0
- surgical assistant,4.0
- surgical complication,1138.0
- surgical field,22.0
- surgical image caution,1.0
- surgical inc,283.0
- surgical instrument,20.0
- surgical instrument misuse,1.0
- surgical procedure,1833.0
- surgical procedure dr,2.0
- surgical procedure ellen,1.0
- surgical procedure engineering,17.0
- surgical procedure failure analysis,1.0
- surgical procedure investigation,1.0
- surgical procedure isi,11.0
- surgical procedure larry,1.0
- surgical procedure post anesthesia,3.0
- surgical procedure review,2.0
- surgical procedure ureter injury,1.0
- surgical pyeloplasty procedure review,1.0
- surgical site,51.0
- surgical staff,265.0
- surgical system,465.0
- surgical system user,59.0
- surgical system user manual,14.0
- surgical task,15.0
- surgical team,65.0
- surgical technician,11.0
- surrounding tissue,8.0
- suspect device isi,1.0
- suspect instrument,2.0
- suture instrument,1.0
- suturecut needle driver instrument,18.0
- svp pca,15.0
- svp pca board,3.0
- switcher power supply,5.0
- sys error,18.0
- sys error code,12.0
- system alarm,344.0
- system arm,66.0
- system cable,20.0
- system cause,22.0
- system engineer,4.0
- system engineering,4.0
- system engineering evaluation,1.0
- system engineering observation,1.0
- system error,1369.0
- system error code,915.0
- system error log,89.0
- system error log engineering,1.0
- system error log investigation,1.0
- system error message,14.0
- system fault,78.0
- system functional testing,4.0
- system instrument,6.0
- system investigation,1.0
- system isi,2.0
- system issue,35.0
- system log,357.0
- system log performance,1.0
- system malfunction,69.0
- system movement,2.0
- system power,10.0
- system psm,2.0
- system recognition,9.0
- system set,10.0
- system setup recreation,1.0
- system system,7.0
- system test,16.0
- system testing,5.0
- system use,71.0
- system user manual,19.0
- system verification,23.0
- system verification test fse,2.0
- system verification testing,5.0
- systemic toxicity,4.0
- tab engineering,1.0
- tab feature broken side,1.0
- team lead,6.0
- technical support,32.0
- teflon pad,42.0
- teflon pad engineering,1.0
- tension engineering,4.0
- test additional finding,6.0
- test drive,12.0
- test engineering,22.0
- test failure analysis,13.0
- test instrument,21.0
- test system,35.0
- test system instrument recognition,1.0
- testing engineering,117.0
- testing fse,1.0
- testing instrument,1.0
- testing instrument recognition,1.0
- testing isi,1.0
- testing recognition,2.0
- thermal damage,14.0
- thermal injury,12.0
- thin damage,1.0
- thin engineering,1.0
- third party company,2.0
- thoracic grasper instrument,12.0
- tight evidence,1.0
- tight failure analysis investigation,1.0
- time arcing,1.0
- time investigation,1.0
- time isi,1.0
- tip accessory,28.0
- tip assembly,4.0
- tip bend,1.0
- tip blade area engineering,1.0
- tip cover,1564.0
- tip cover accessory,859.0
- tip cover accessory installation,4.0
- tip cover arcing,4.0
- tip cover engineering,3.0
- tip cover nothing,1.0
- tip cover tip cover,2.0
- tip cover wall,6.0
- tip customer,2.0
- tip customer reported complaint,2.0
- tip damage,7.0
- tip edge area,3.0
- tip electrical continuity,46.0
- tip electrical continuity test,20.0
- tip electrical continuity testing,17.0
- tip engineering,77.0
- tip engineering evaluation,11.0
- tip evidence,3.0
- tip failure analysis,12.0
- tip grip,1.0
- tip high pressure,1.0
- tip instrument,22.0
- tip instrument performance,1.0
- tissue damage,3.0
- tissue isi,1.0
- tool change,12.0
- top pin engineering,3.0
- torn engineering,1.0
- total laparoscopic hysterectomy,3.0
- touch screen,6.0
- touching engineering,1.0
- touchscreen monitor,10.0
- trachelectomy procedure,2.0
- track engineering,3.0
- tray container,6.0
- trendelenburg position dr,1.0
- trouble addition,1.0
- trouble additional observation,1.0
- trouble shooting assistance,3.0
- tube axis damaged area,1.0
- tube axis engineering,246.0
- tube axis engineering evaluation,11.0
- tube axis evidence,37.0
- tube axis failure analysis,37.0
- tube axis inspection,1.0
- tube base,52.0
- tube clevis,2.0
- tube crack,20.0
- tube damage,686.0
- tube damage area,1.0
- tube damage distal end,22.0
- tube damage engineering,32.0
- tube damaged area,23.0
- tube distal end,14.0
- tube electrical continuity test,3.0
- tube electrical continuity testing,1.0
- tube engineering,250.0
- tube engineering evaluation,20.0
- tube evidence,40.0
- tube extension,779.0
- tube extension additional damage,2.0
- tube extension additional observation,2.0
- tube extension break,14.0
- tube extension breakage,13.0
- tube extension dislodgment,1.0
- tube extension electrical continuity,3.0
- tube extension engineering,21.0
- tube extension evidence,3.0
- tube extension failure analysis,1.0
- tube extension instrument,1.0
- tube extension localized material,7.0
- tube extension location,1.0
- tube extension material,1.0
- tube extension seal engineering,1.0
- tube extension surface engineering,1.0
- tube failure analysis,158.0
- tube instrument,4.0
- tube insulation,208.0
- tube main tube,4.0
- tube material,36.0
- tube orientation,2.0
- tube reinforcement ring,33.0
- tube scratch,67.0
- tube small amount,1.0
- tube surface,36.0
- tube surface finish,1.0
- tube transition,4.0
- tube tube,2.0
- tube tube damage,1.0
- tube tube material,1.0
- tube visual inspection,2.0
- tube wear,2.0
- tube wear patter,1.0
- tubing functional performance testing,1.0
- tungsten drive cable engineering,1.0
- tungsten pitch down cable,2.0
- uf importer report,14.0
- uf importer report number,5.0
- ultem pulley engineering,1.0
- ultem sleeve,24.0
- ultrasonic bath engineering,1.0
- ultrasonic cleaning manual,6.0
- ultrasonic probe,4.0
- umbilicus port site,4.0
- uncommon engineering,1.0
- undamaged additional observation,7.0
- undamaged engineering,49.0
- undamaged failure analysis,33.0
- undamaged failure analysis investigation,3.0
- undamaged failure analysis observation,1.0
- undamaged housing,1.0
- undamaged instrument,2.0
- undamaged instrument recognition,1.0
- undetermined additional information,2.0
- unknown isi,3.0
- unscrewed engineering,1.0
- unsealed engineering,1.0
- unspecified date,8.0
- unspecified date time,3.0
- unspecified post operative,3.0
- unspecified post operative complication,3.0
- unused spatula,2.0
- unusual material removal,1.0
- upper chassis engineering,1.0
- upper lobe,7.0
- ureter injury,15.0
- ureteral injury,23.0
- ureteral injury isi,2.0
- urethral injury,2.0
- urology surgeon,3.0
- use addition,1.0
- use care,9.0
- use careful installation,3.0
- use error,5.0
- use instrument,3.0
- use isi,1.0
- use left pogo,1.0
- use system,1.0
- user error,45.0
- user facility,16.0
- user facility medwatch report,3.0
- user message,2.0
- usual evidence,1.0
- uterine enlargement,4.0
- uterus instrument,1.0
- vagina rectal injury,1.0
- vaginal cuff,42.0
- vaginal cuff dehiscence,17.0
- vaginal cuff jim,1.0
- vaginal cuff review,1.0
- vaginal defect,2.0
- valley lab force,18.0
- valleylab force fx esu,3.0
- various deep scratch,64.0
- various gouge scratch,1.0
- various scratch gouge,1.0
- various scratch wear,1.0
- various small scratch,11.0
- vascular surgeon,8.0
- vena cava,4.0
- ventilation tube,2.0
- ventral hernia repair,2.0
- vesicovaginal fistula,5.0
- vessel sealer,49.0
- vessel sealer instrument,42.0
- vice president,3.0
- video digitizer,10.0
- video digitizer evaluation,1.0
- video image,67.0
- video processor,12.0
- video recording,26.0
- video signal,11.0
- video tape,3.0
- vinyl insulation,3.0
- visible arcing,1.0
- vision cable,33.0
- vision cart,79.0
- vision equipment power,1.0
- vision issue,150.0
- vision loss,10.0
- vision path multiple power,1.0
- vision side cart,12.0
- vision system,47.0
- visual alignment balance failure,1.0
- visual evidence,5.0
- visual examination,6.0
- visual inspection,168.0
- visual inspection failure analysis,3.0
- voice message,6.0
- voluntary report,6.0
- vsl board,3.0
- wall outlet,10.0
- way serious injury,1.0
- wear engineering,1.0
- wear evidence,2.0
- wear mark additional finding,1.0
- wear pattern,40.0
- weck product code,4.0
- wedge resection,2.0
- weld defect,8.0
- wet engineering,1.0
- wheel communication issue engineering,1.0
- white discoloration,5.0
- wide open position,1.0
- window assembly,13.0
- wire breakage engineering,2.0
- wire breakage engineering evaluation,1.0
- wire damage,10.0
- wire engineering evaluation,6.0
- wire instrument,2.0
- wire insulation,48.0
- wire segment,14.0
- wire segment cap,1.0
- work circulator,1.0
- work failure analysis,1.0
- wrist additional observation,27.0
- wrist articulation high generator,1.0
- wrist assembly,10.0
- wrist cable,12.0
- wrist cable segment,1.0
- wrist damage,2.0
- wrist damaged area,2.0
- wrist disc,33.0
- wrist disc dislodgment evidence,1.0
- wrist disk,8.0
- wrist drive,6.0
- wrist electrical continuity,10.0
- wrist engineering,29.0
- wrist engineering evaluation,8.0
- wrist evidence,3.0
- wrist failure analysis,7.0
- wrist grip,4.0
- wrist grip hub,2.0
- wrist grip open cable,1.0
- wrist idler,2.0
- wrist idler pulley,2.0
- wrist instrument,11.0
- wrist instrument wrist,1.0
- wrist link,7.0
- wrist material,1.0
- wrist material degradation,1.0
- wrist motion,14.0
- wrist outer surface,1.0
- wrist pitch,15.0
- wrist pitched engineering,4.0
- wrist wire insulation,3.0
- wrist wrist,3.0
- yaw addition,3.0
- yaw cable,21.0
- yaw engineering,13.0
- yaw motion,27.0
- yaw pulley,1044.0
- yaw pulley additional observation,1.0
- yaw pulley bare wire,1.0
- yaw pulley boss,15.0
- yaw pulley boss feature,13.0
- yaw pulley breakage wire,2.0
- yaw pulley broken piece,1.0
- yaw pulley conductor cap,1.0
- yaw pulley cover,29.0
- yaw pulley damage,4.0
- yaw pulley engineering,8.0
- yaw pulley evidence,1.0
- yaw pulley exit,159.0
- yaw pulley exit engineering,5.0
- yaw pulley hub engineering,1.0
- yaw pulley instrument,1.0
- yaw pulley removal,1.0
- yaw pulley section,4.0
- yaw pulley various scratch,1.0
- yellowish material,4.0
- yellowish material engineering,1.0
- yellowish orange material,3.0
- yellowish orange residue,1.0
- yellowish residue,2.0
+Technical Phrase, Document Frequency
+ distal end, 2814
+ main tube, 2724
+ cable segment, 1624
+ needle driver, 1400
+ curved scissor, 1325
+ monopolar curved scissor, 1306
+ pitch cable, 1224
+ distal idler, 1108
+ one grip, 832
+ broken cable, 813
+ scissors instrument, 794
+ fenestrated bipolar forcep, 791
+ curved scissors instrument, 770
+ monopolar curved scissors instrument, 761
+ other cable, 753
+ close cable, 734
+ grip close cable, 730
+ grip cable, 719
+ distal pulley, 689
+ tip cover, 678
+ cover accessory, 612
+ tip cover accessory, 597
+ cannula accessory, 567
+ tube damage, 517
+ suturecut needle driver instrument, 496
+ conductor wire, 488
+ one grip close cable, 464
+ instrument collision, 447
+ broken piece, 440
+ mega suturecut needle driver, 405
+ cautery hook, 393
+ distal idler pulley, 380
+ broken wire, 378
+ system alarm, 342
+ tube extension, 338
+ permanent cautery hook, 338
+ main tube damage, 334
+ large needle driver, 322
+ hook instrument, 320
+ tube abrasion, 316
+ large needle driver instrument, 312
+ permanent cautery hook instrument, 303
+ cautery spatula, 282
+ grasper instrument, 280
+ cautery instrument, 275
+ instrument cable, 269
+ pulley spin, 244
+ replacement instrument, 242
+ permanent cautery spatula, 231
+ instrument move, 213
+ instrument main tube, 213
+ spatula instrument, 213
+ instrument arm, 213
+ instrument shaft, 208
+ cautery spatula instrument, 207
+ permanent cautery spatula instrument, 203
+ mega needle driver, 200
+ distal tip, 197
+ mega needle driver instrument, 189
+ instrument re, 186
+ broken grip, 177
+ idler pulley spin, 176
+ broken pitch cable, 176
+ suture cut needle driver, 170
+ tube insulation, 165
+ pitch down cable, 164
+ drive cable, 162
+ instrument wire, 162
+ cut needle driver instrument, 157
+ other instrument, 145
+ clip applier, 144
+ harmonic curved shear, 142
+ sleeve interface, 136
+ bent grip, 136
+ instrument damage, 133
+ monopolar cautery, 133
+ pogo pin, 132
+ broken instrument, 130
+ instrument component, 130
+ defective cannula, 129
+ bipolar instrument, 128
+ recovery room, 128
+ broken grip cable, 127
+ insert accessory, 127
+ clip applier instrument, 124
+ main tube interface, 123
+ thoracic grasper, 117
+ instrument grip, 115
+ camera head, 115
+ cable damage, 114
+ pulley cover, 112
+ thoracic grasper instrument, 111
+ insulation failure, 110
+ instrument piece, 110
+ clamp arm, 108
+ large suturecut needle driver, 107
+ other cable damage, 106
+ instrument fragment, 106
+ instrument use, 103
+ camera cable, 102
+ instrument report, 101
+ monopolar cautery instrument, 101
+ prograsp instrument, 96
+ bipolar pin, 96
+ one conductor wire, 96
+ cable derailment, 95
+ instrument wrist, 94
+ megasuturecut needle driver instrument, 92
+ scissor blade, 91
+ retractor instrument, 90
+ camera arm, 89
+ one grip cable, 87
+ instrument arc, 86
+ system arm, 86
+ recoverable safe state, 84
+ blade edge, 83
+ accessory use, 80
+ replacement tip cover, 79
+ endowrist prograsp instrument, 79
+ broken instrument piece, 78
+ cable break, 78
+ blade fracture, 77
+ scissor tip, 76
+ instrument jaw, 75
+ main tube insulation, 72
+ small piece, 69
+ cable breakage, 68
+ insulation damage, 67
+ grip tip, 66
+ multiple time, 66
+ broken tip, 66
+ small clip applier instrument, 65
+ vessel sealer instrument, 64
+ grip base, 64
+ main insulation, 64
+ damaged instrument, 62
+ instrument stop, 62
+ insulation tube, 61
+ monopolar scissor, 60
+ main insulation tube, 60
+ instrument jaws, 60
+ distal clevis ear, 59
+ defective cannula accessory, 58
+ instrument accessory, 56
+ broken blade, 55
+ damaged instrument component, 55
+ bowel grasper, 54
+ curved blade, 53
+ scalpel cautery, 53
+ bowel grasper instrument, 53
+ remote arm, 52
+ tube scratch, 52
+ remote arm controller, 52
+ main tube scratch, 51
+ instrument blade, 51
+ clevis cable, 50
+ scalpel cautery instrument, 49
+ clamp arm pin, 49
+ small amount, 48
+ instrument malfunction, 47
+ proximal clevis cable, 47
+ fenestrated bipolar instrument, 47
+ black tube insulation, 46
+ cable hole, 46
+ loose wire, 45
+ broken conductor wire, 44
+ wire sticking, 44
+ instrument tip cover, 44
+ instrument grip cable, 43
+ robotic instrument, 43
+ open cable, 43
+ cable snap, 43
+ manipulator arm, 43
+ flush tube, 43
+ proximal clevis cable hole, 42
+ grip open cable, 42
+ robotic arm, 42
+ cable fray, 42
+ grip hub, 41
+ tip forcep, 41
+ cable failure, 41
+ nephrostomy tube, 40
+ maryland bipolar instrument, 40
+ replacement tip cover accessory, 40
+ plastic piece, 40
+ cable tension, 39
+ instrument tube, 38
+ maryland dissector, 38
+ wire insulation, 38
+ insulation tube damage, 38
+ broken instrument component, 38
+ main insulation tube damage, 37
+ bottom pin, 37
+ main tube interface wall, 37
+ broken fragment, 36
+ fenestrated grasper, 36
+ intact blade, 35
+ gage pin, 35
+ laboratory device, 34
+ tube surface, 34
+ maryland dissector instrument, 33
+ recoverable system, 33
+ surgical instrument, 33
+ cable connection, 32
+ recoverable system error, 32
+ damaged cannula, 32
+ instrument tip cover accessory, 31
+ affected instrument, 30
+ instrument housing, 30
+ loose cable, 30
+ left blade, 30
+ different instrument, 30
+ scissors cut, 30
+ harmonic ace insert, 30
+ 5mm cannula, 29
+ instrument tube extension, 29
+ patient side manipulator arm, 29
+ reported instrument, 29
+ instrument cannula, 29
+ tube reinforcement ring, 29
+ cable wear, 28
+ instrument exhibit, 28
+ hook cautery, 28
+ one blade, 26
+ fiber cable, 26
+ new instrument, 26
+ fenestrated grasper instrument, 26
+ bent tip, 26
+ one pitch cable, 25
+ bent bipolar pin, 25
+ loose pitch cable, 25
+ one vessel sealer instrument, 25
+ bare wire, 25
+ indigo carmine, 25
+ cable groove, 24
+ psm arm, 23
+ conductor wire cap, 23
+ damaged insulation, 23
+ cautery energy, 22
+ 5mm monopolar cautery, 22
+ vision cable, 22
+ system cable, 22
+ same grip, 22
+ same instrument, 22
+ instrument break, 22
+ blade damage, 22
+ one grip open cable, 22
+ one distal clevis ear, 21
+ 5mm monopolar cautery instrument, 21
+ one distal clevis, 21
+ reported broken wire, 21
+ other grip, 21
+ spatula tip, 21
+ assistant monitor, 21
+ 5mm needle driver instrument, 21
+ cautery function, 20
+ fallopian tube, 20
+ new tip, 20
+ scissor grip, 20
+ recoverable system error code, 20
+ bottom bipolar pin, 20
+ distal end opening, 20
+ missing instrument, 20
+ bilateral salpingectomy, 20
+ non recoverable system error, 19
+ scissors tip, 19
+ device malfunction, 19
+ instrument sterile adapter, 19
+ harmonic scalpel, 19
+ faulty camera cable, 19
+ defective camera cable, 19
+ tube crack, 18
+ bipolar cautery, 18
+ tip accessory, 18
+ harmonic ace insert accessory, 18
+ black insulation, 18
+ new tip cover, 18
+ yaw pulley cover, 18
+ multiple deep scratch, 18
+ bipolar maryland tip, 18
+ hook tip, 18
+ cautery cable, 17
+ instrument return, 17
+ instrument recognition, 17
+ permanent hook cautery instrument, 17
+ instrument scissor, 17
+ instrument arcing, 17
+ one cable, 16
+ laparoscopic grasper, 16
+ salpingo oophorectomy, 16
+ instrument engagement, 16
+ cautery test, 16
+ yaw cable, 16
+ 8mm cannula, 16
+ veress needle, 16
+ instrument breakage, 16
+ 5mm maryland dissector instrument, 16
+ broken tube, 15
+ instrument issue, 15
+ large amount, 15
+ cautery spatula accessory, 15
+ accessory tip, 15
+ broken tube extension, 15
+ spatula accessory, 15
+ conductor wire insulation, 15
+ multiple system, 14
+ one piece, 14
+ pulley cable, 14
+ light guide cable, 14
+ damaged cable, 14
+ grip fracture, 14
+ cannula port, 14
+ main tube crack, 14
+ instrument control, 14
+ mm monopolar cautery, 14
+ mm monopolar cautery instrument, 14
+ touchscreen monitor, 13
+ percutaneous nephrostomy tube, 13
+ drive instrument, 13
+ wire segment, 13
+ second instrument, 13
+ needle holder, 13
+ scissor instrument, 13
+ large suturecut needledriver, 13
+ 5mm instrument, 13
+ wrist cable, 13
+ grip assembly, 13
+ harm adverse outcome, 13
+ distal ureter, 13
+ extension tube, 13
+ ear piece, 13
+ ace instrument, 13
+ tube extension break, 12
+ left grip, 12
+ cautery tip, 12
+ blade failure, 12
+ tip instrument, 12
+ camera cannula, 12
+ energy activation cable, 12
+ pk dissector, 12
+ missing fragment, 12
+ round cautery, 12
+ round cautery hook, 12
+ da vinci instrument, 12
+ monopolar instrument, 11
+ harmonic ace instrument, 11
+ test instrument, 11
+ screw head, 11
+ backend cable, 11
+ tube extension breakage, 11
+ long tip, 11
+ multiple instrument, 11
+ orange cover, 11
+ separated cable, 11
+ reported wire, 11
+ pch instrument, 11
+ blade accessory, 11
+ fragmented component, 11
+ cable harness, 11
+ multiple system error, 11
+ blue fiber cable, 11
+ pcs instrument, 11
+ megasuture cut needle driver, 11
+ right blade, 11
+ cautery injury, 11
+ tube material, 11
+ instrument engagement issue, 11
+ proximal pin, 10
+ articulink screw, 10
+ snapped wire, 10
+ instrument exchange, 10
+ cannula seal, 10
+ defective cannulae, 10
+ damaged conductor wire, 10
+ medical device, 10
+ one blade edge, 10
+ multiple system error code, 10
+ instrument insert, 10
+ grip arm, 10
+ second tip, 10
+ camera head cable, 10
+ suction irrigator instrument, 10
+ cannula tip, 10
+ instrument cautery, 10
+ accessory fragment, 10
+ bent cannula, 10
+ jaw grip, 9
+ protective sheath, 9
+ device return, 9
+ bilateral salpingo oophorectomy, 9
+ damaged tube, 9
+ hand piece, 9
+ instrument recognition issue, 9
+ endoscope tip, 9
+ cautery hook tip, 9
+ flex cable, 9
+ clevis pin, 9
+ permanent hook instrument, 9
+ accessory tip cover, 9
+ bent pin, 9
+ large clip applier instrument, 9
+ blade track, 9
+ right arm, 9
+ replacement insert accessory, 9
+ power cable, 8
+ cautery post, 8
+ one wire, 8
+ orange piece, 8
+ backup camera cable, 8
+ new device, 8
+ idler pin, 8
+ esu cable, 8
+ bifurcated light guide cable, 8
+ ecm cannula, 8
+ knife blade, 8
+ distal clevis pulley, 8
+ recoverable fault, 8
+ metal tip, 8
+ wire damage, 8
+ bipolar cable, 8
+ distal right ureter, 8
+ one drive cable, 8
+ cannula tube, 8
+ second tip cover, 8
+ new tip cover accessory, 8
+ instrument ceramic sleeve, 7
+ mm cannula, 7
+ full recovery, 7
+ known patient harm, 7
+ damaged blade, 7
+ 8mm tip cover accessory, 7
+ robotic scissor, 7
+ wire cable, 7
+ instrument failure, 7
+ hrsv monitor, 7
+ paddle blade, 7
+ black piece, 7
+ hook accessory, 7
+ recoverable error, 7
+ video cable, 7
+ cable connector, 7
+ trocar site, 7
+ tip damage, 7
+ left side monitor, 7
+ damage instrument, 7
+ salpingo oophorectomy procedure, 7
+ instrument fracture, 7
+ alleged instrument, 7
+ instrument clevis, 7
+ gauge pin, 7
+ red system cable, 7
+ damaged cannulae, 6
+ plastic insulation, 6
+ cannula seal accessory, 6
+ site instrument, 6
+ fiber optic cable, 6
+ atrial retractor, 6
+ single site instrument, 6
+ emergency grip release, 6
+ instrument engineer, 6
+ bowel instrument, 6
+ same cable, 6
+ distal clevis pin, 6
+ cautery cord, 6
+ fragmented piece, 6
+ insulation coating, 6
+ silicone tip, 6
+ instrument orange sleeve, 6
+ first instrument, 6
+ metal tube, 6
+ mm needle driver instrument, 6
+ one tip, 6
+ one grip tip, 6
+ torn cable, 6
+ flat flex cable, 5
+ additional tip, 5
+ head sensor, 5
+ energy cable, 5
+ multiple scratch, 5
+ pt harm adverse outcome, 5
+ pk forcep, 5
+ grip surface, 5
+ small plastic piece, 5
+ snapped cable, 5
+ accessory port, 5
+ red cable, 5
+ cable piece, 5
+ torn wire, 5
+ damaged tip, 5
+ monopolar cable, 5
+ cable end, 5
+ cap coupling tube, 5
+ kinked flush tube, 5
+ isi instrument, 5
+ tip cover wall, 5
+ instrument movement, 5
+ instrument drive, 5
+ instrument engineering, 5
+ red fiber cable, 5
+ missing tube, 5
+ wrist instrument, 5
+ one bent grip, 5
+ mm trocar, 5
+ grip axis pin, 5
+ camera cable connection, 5
+ off piece, 5
+ unspecified instrument, 5
+ disposable cautery tip, 5
+ intuitive surgical instrument, 5
+ cautery hook tip accessory, 5
+ harmonic instrument, 5
+ end piece, 4
+ bilateral salpingo oophorectomy procedure, 4
+ instrument coordinator, 4
+ silicone tip cover, 4
+ scissor arm, 4
+ use bipolar instrument, 4
+ instrument back, 4
+ electrical insulation, 4
+ cautery adapter, 4
+ one yaw pulley cover, 4
+ low cable tension, 4
+ instrument change, 4
+ prox clevis cable hole, 4
+ electrosurgical instrument, 4
+ third arm, 4
+ electrocautery cable, 4
+ recovery time, 4
+ main tube extension, 4
+ one instrument, 4
+ megasuturecut needle drive instrument, 4
+ broken screw, 4
+ instrument performance, 4
+ device evaluation, 4
+ little piece, 4
+ instrument head, 4
+ console vision cable, 4
+ protective cover, 4
+ tip cover arcing, 4
+ cable pulley, 4
+ monopolar cautery cord, 4
+ small black piece, 4
+ nonrecoverable safe state, 4
+ possible instrument, 4
+ right side monitor, 4
+ right salpingo oophorectomy, 4
+ cannula gage pin, 4
+ replacement harmonic ace insert, 4
+ instrument split, 4
+ damaged tip cover, 4
+ blade tract, 4
+ spatula tip accessory, 4
+ black cover, 4
+ black tip, 4
+ instrument port, 4
+ one clip applier, 4
+ pivot pin, 4
+ ecm arm, 3
+ proximal clevis cable hold, 3
+ one pin, 3
+ dislodged instrument, 3
+ spare cable, 3
+ outermost distal idler pulley, 3
+ blue cable, 3
+ endowrist stabilizer, 3
+ trocar placement, 3
+ fault alarm, 3
+ reusable instrument housing caution, 3
+ tip fragment, 3
+ broken insulation, 3
+ further harm, 3
+ instrument knife blade, 3
+ cut wire, 3
+ ceramic piece, 3
+ energy instrument, 3
+ cable wire, 3
+ one instrument grip, 3
+ orange sheath, 3
+ proximal clevis cable opening, 3
+ cannula sensor, 3
+ conductor wire damage, 3
+ pk instrument, 3
+ cover hole, 3
+ tip assembly, 3
+ black tip cover, 3
+ loose pin, 3
+ multiple power, 3
+ system instrument, 3
+ original instrument, 3
+ instrument nothing, 3
+ functional cautery test, 3
+ system camera arm, 3
+ monopolar cautery hook tip, 3
+ particular instrument, 3
+ cut cable, 3
+ broken needle, 3
+ damaged tube extension, 3
+ electrocautery instrument, 3
+ scissor tip cover, 3
+ electrocautery tip accessory, 3
+ silicon tip, 3
+ broken cannula, 3
+ loose screw, 3
+ instrument orange part, 3
+ electrical wire, 3
+ one distal idler, 3
+ trocar place, 3
+ use instrument, 3
+ bipolar pin damage, 3
+ device rep, 3
+ serious harm, 3
+ one clip applier grip, 3
+ broken wire segment, 3
+ 5mm cannula seal, 2
+ light cable, 2
+ joint instrument, 2
+ grip spring, 2
+ small cable, 2
+ instrument grip base, 2
+ damaged distal idler pulley, 2
+ endowrist vessel sealer instrument, 2
+ broken drive cable, 2
+ post operative recovery, 2
+ cannula port clutch switch, 2
+ procedure piece, 2
+ scissors blade, 2
+ one arm, 2
+ balloon port accessory, 2
+ servo driver pca board, 2
+ mm curved cannula, 2
+ 4th arm, 2
+ one yaw cable, 2
+ endo wrist instrument, 2
+ metal tip fragment, 2
+ multiple axis, 2
+ distal end shaft feature, 2
+ cable shard, 2
+ trocar injury, 2
+ endowrist stabilizer instrument, 2
+ broken accessory piece, 2
+ left salpingo oophorectomy procedure, 2
+ snap fit blade, 2
+ instrument pogo, 2
+ sterile adapter accessory, 2
+ additional tip cover accessory, 2
+ same arm, 2
+ loose piece, 2
+ instrument fire, 2
+ instrument cord, 2
+ dvi cable, 2
+ instrument instrument, 2
+ surgery tip, 2
+ scalpel electrocautery, 2
+ lock tip, 2
+ left instrument, 2
+ distal pulley indentation, 2
+ camera cable malfunction, 2
+ left salpingo oophorectomy, 2
+ replacement blade accessory, 2
+ snap fit blue blade, 2
+ invalid cannula, 2
+ roll cable, 2
+ instrument grasp, 2
+ blue vision cable, 2
+ pin back, 2
+ composite video cable, 2
+ plastic cover, 2
+ suture needle driver, 2
+ non recoverable safe state, 2
+ bladeless trocar, 2
+ superficial cautery injury, 2
+ high amount, 2
+ blade instrument, 2
+ instrument driver, 2
+ instrument pouch, 2
+ complaint loose wire, 2
+ melted tip, 2
+ loop cable, 2
+ single site port accessory, 2
+ red arm, 2
+ second pcs instrument, 2
+ instrument cleaning, 2
+ correct instrument, 2
+ second device, 2
+ distal end shaft, 2
+ set screw, 2
+ glass tip, 2
+ intuitive instrument, 2
+ tip cover accessory installation, 2
+ defective camera head, 2
+ distal insulation, 2
+ unintended cautery, 2
+ setup joint arm, 2
+ grip failure, 2
+ carbide tip, 2
+ stabilizer instrument, 2
+ instrument metal, 2
+ dull hook, 1
+ affected vision cable, 1
+ cautery machine, 1
+ instrument information, 1
+ scissors arm, 1
+ ventilation tube, 1
+ reported instrument recognition, 1
+ mtml arm, 1
+ pk instrument cord, 1
+ metal tube reinforcement feature, 1
+ instrument clutch button, 1
+ missing conductor wire, 1
+ yellow cable, 1
+ unused spatula, 1
+ cable stop component, 1
+ attached hook accessory, 1
+ cadiere grasper instrument, 1
+ sheared off piece, 1
+ intuitive surgical endowrist instrument, 1
+ suction irrigator instrument tip, 1
+ controller arm, 1
+ one grip axis, 1
+ green cannula seal accessory, 1
+ active instrument, 1
+ gimbal grip, 1
+ shaft insulation, 1
+ davinci robot arm, 1
+ instrument exam, 1
+ audio cable, 1
+ instrument line, 1
+ arm surgeon, 1
+ instrument information system, 1
+ cautery system, 1
+ bipolar accessory, 1
+ cover tip, 1
+ silicon tip cover, 1
+ intuitive tip cover, 1
+ cannula holder, 1
+ device single use, 1
+ tube wear, 1
+ arm system, 1
+ mm tube, 1
+ instrument electrical continuity, 1
+ ceramic covering, 1
+ instrument knuckle, 1
+ tube distal end, 1
+ trocar blade, 1
+ blue system cable, 1
+ damage cannula, 1
+ tip cover part, 1
+ fiber glass fragment, 1
+ uterine tube, 1
+ alleged defective instrument, 1
+ orange tube extension, 1
+ electrocautery probe, 1
+ uncommanded cautery activation, 1
+ conductor cable cover, 1
+ setup joint cable harness, 1
+ 5mm monopolar cautery device, 1
+ post anesthesia recovery, 1
+ main tube material, 1
+ blue optic cable, 1
+ component separation, 1
+ ethicon bladeless trocar, 1
+ tube one, 1
+ alleged instrument recognition, 1
+ procedure insulation, 1
+ conductor wire installation, 1
+ retention component, 1
+ brand new instrument, 1
+ scalpel electrocautery instrument, 1
+ right salpingo oophorectomy procedure, 1
+ instrument processing, 1
+ cable cable, 1
+ multiple fluid, 1
+ surgeon head, 1
+ camera head focus connector, 1
+ one bipolar pin, 1
+ cannula assembly, 1
+ bent instrument, 1
+ handling instrument, 1
+ small grasper retractor instrument, 1
+ cannula hold, 1
+ focus controller cable, 1
+ tip part, 1
+ camera trocar, 1
+ cannula seal trap, 1
+ shear piece, 1
+ vc monitor, 1
+ cross clamp time, 1
+ suspect instrument, 1
+ reinforcement ring tube damage, 1
+ hand instrument, 1
+ missing cable, 1
+ surgeon grip, 1
+ broken cable wire, 1
+ loose tip, 1
+ permanent spatula instrument, 1
+ open instrument, 1
+ blue energy cable, 1
+ missing tube reinforcement, 1
+ grip scissor, 1
+ proximal distal end, 1
+ trocar site hernia, 1
+ instrument info, 1
+ tip cover one, 1
+ one grip input, 1
+ grasper device bent back, 1
+ touchscreen left input, 1
+ foam tip, 1
+ missing conductor wire cap, 1
+ device field, 1
+ tube transition, 1
+ mbf instrument, 1
+ field device, 1
+ urgent medical device notification, 1
+ instrument distal end, 1
+ instrument rubbing, 1
+ distal aorta, 1
+ use device, 1
+ grip pulley, 1
+ instrument inspection, 1
+ composite cable, 1
+ main tube one, 1
+ indigo carmine solution, 1
+ patient side arm, 1
+ 8mm trocar, 1
+ laparoscopic suction irrigator instrument, 1
+ trocar entry, 1
+ vinyl insulation, 1
+ trocar bladeless endopath xcel, 1
+ insertable cautery hook, 1
+ head hurt, 1
+ camera arm sterile adapter, 1
+ camera head issue, 1
+ damage cable, 1
+ instrument test, 1
+ instrument grip issue, 1
+ black component, 1
+ defective 5mm cannula, 1
+ pink tint, 1
+ loose camera cable, 1
+ tip change, 1
+ medical device field action, 1
+ top instrument, 1
+ affected cautery cord, 1
+ one instrument blade, 1
+ footrest cautery cable, 1
+ instrument main tube damage, 1
+ port cannula, 1
+ instrument sterilization, 1
+ pt tip cover accessory, 0
+ piano type wire, 0
+ distal end engineering, 0
+ cannula customer, 0
+ instrument recurrence, 0
+ dull scissors nothing, 0
+ bowel device, 0
+ complaint cable, 0
+ tip cover engineering, 0
+ distal damage engineering, 0
+ exact tip cover accessory, 0
+ tube axis damaged area, 0
+ tube tube material, 0
+ tube damage engineering, 0
+ excess cable slack engineering, 0
+ hypotube instrument, 0
+ distal end engineering evaluation, 0
+ main tube interface clevis, 0
+ trocar trocar, 0
+ analysis instrument, 0
+ left new scissor, 0
+ cautery manufacturer response, 0
+ instrument half, 0
+ re usable instrument, 0
+ tip failure analysis, 0
+ distal clevis engineering, 0
+ proximal clevis tube interface, 0
+ distal pulley damage instrument, 0
+ one device, 0
+ tube axis evidence, 0
+ different instrument engineering, 0
+ cannula cannula, 0
+ surgery device, 0
+ instrument visual inspection, 0
+ spatula failure analysis, 0
+ accessory engineering, 0
+ noted tip cover, 0
+ care device, 0
+ ainstrument tip, 0
+ blade tract instrument, 0
+ ainternal wire, 0
+ conductor wire cap engineering, 0
+ pitch cable engineering, 0
+ blade engineering, 0
+ trocar nothing, 0
+ damaged blade engineering, 0
+ scapel electrocautery, 0
+ pt tip, 0
+ distal pulley evidence, 0
+ instrument tip engineering evaluation, 0
+ main tube complaint, 0
+ damaged conductor wire instrument, 0
+ spatula yaw pulley assembly, 0
+ wire breakage engineering, 0
+ distal clevis one ear, 0
+ clevis instrument, 0
+ guard accessory tip cover, 0
+ instrument examination, 0
+ grip cable engineering, 0
+ driven instrument recognition, 0
+ arobotic 5mm needle driver, 0
+ retractor instrument nothing, 0
+ testing one camera cable, 0
+ complaint instrument, 0
+ distal end clamp arm, 0
+ snapped wire nothing, 0
+ cable one, 0
+ distal end material, 0
+ single use device, 0
+ use tip, 0
+ broken cable performance testing, 0
+ tip jaw, 0
+ first non isi trocar, 0
+ instrument information system fund, 0
+ multiple cut, 0
+ tube one section, 0
+ sheath tip cover, 0
+ tube damage one grip, 0
+ snapped separated cable, 0
+ athe sheath, 0
+ broken wire failure analysis, 0
+ broken cable cable segment, 0
+ sure rectangular tube, 0
+ instrument engineering evaluation, 0
+ accessory addition, 0
+ blade surface engineering, 0
+ yaw pulley instrument, 0
+ evaluation complaint broken cable, 0
+ straight one grip, 0
+ multiple uterine leiomyoma isi, 0
+ abipolar da vinci instrument, 0
+ hook engineering, 0
+ pitch cable instrument, 0
+ service cautery unit, 0
+ tube damaged area, 0
+ missing black tube insulation, 0
+ instrument addition, 0
+ insulation electrical continuity testing, 0
+ hook evidence, 0
+ snap fit scalpel instrument, 0
+ burning undocked instrument, 0
+ distal end fa, 0
+ use wire, 0
+ entire tube length housing, 0
+ main tube connection char, 0
+ side instrument, 0
+ tube extension evidence, 0
+ tube extension additional damage, 0
+ athe robotic forcep device, 0
+ endowrist instrument isi, 0
+ intact instrument, 0
+ hypotube evidence, 0
+ gyn procedure tip, 0
+ acautery spatula, 0
+ prograsp instrument malfunction notice, 0
+ complaint broken tip, 0
+ damaged fenestrated bipolar instrument, 0
+ cautery post attachment, 0
+ top pin engineering, 0
+ post anesthesia recovery room, 0
+ tip device, 0
+ athe instrument, 0
+ tube damage distal end, 0
+ cable derailment additional observation, 0
+ cable breakage additional observation, 0
+ bi polar instrument, 0
+ instrument collision electrical continuity, 0
+ bent tip engineering, 0
+ jaws one grip, 0
+ patient instrument, 0
+ tip customer, 0
+ entire blade length burr, 0
+ pt tip cover, 0
+ athe tip, 0
+ third scalpel electrocautery, 0
+ close one grip, 0
+ result cable, 0
+ needle intraoperative fluoroscopy, 0
+ non recoverable fault alarm, 0
+ tube extension location, 0
+ instrument staff, 0
+ distal end yaw, 0
+ change new instrument nothing, 0
+ cannula engineering evaluation, 0
+ wrist grip open cable, 0
+ apermanent cautery spatula, 0
+ cable derailment distal end, 0
+ monopolar cautery instrument nothing, 0
+ exhibit damage cable segment, 0
+ patient tip, 0
+ distal end evidence, 0
+ result cable segment, 0
+ derailment distal end, 0
+ athe medical device, 0
+ patient tip cover accessory, 0
+ iod ria cable, 0
+ distal clevis one, 0
+ main tube damage scratch, 0
+ instrument collision engineering, 0
+ place stent nephrostomy tube, 0
+ device failure analysis, 0
+ jaws tip, 0
+ cannula bowl tube transition, 0
+ other one grip, 0
+ broken one conductor wire, 0
+ grip base charring, 0
+ internal bowl tube interface, 0
+ non motorized support arm, 0
+ open close cable, 0
+ bilateralsalpingo oophorectomy, 0
+ shaft tip, 0
+ instrument psm, 0
+ gray plastic sleeve material, 0
+ hole insulation, 0
+ fundoplication device, 0
+ instrument tip failure analysis, 0
+ conductor wire correlation, 0
+ rma device, 0
+ atip cover accessory covering, 0
+ off spatula, 0
+ fit instrument, 0
+ cannula high loading, 0
+ complaint broken wire, 0
+ athe device, 0
+ damaged component conductor wire, 0
+ damaged cable wear, 0
+ instrument failed engineering evaluation, 0
+ distal clevis breakage engineering, 0
+ veress needle dissection, 0
+ surgeon instrument, 0
+ same device one, 0
+ cable clevis, 0
+ grip base damage, 0
+ mark tube, 0
+ tip cover accessory nothing, 0
+ distal tip isi, 0
+ instrument tip warning, 0
+ patient tip cover, 0
+ interface tube extension, 0
+ cable breakage engineering evaluation, 0
+ tube base, 0
+ cannula accessory electrical continuity, 0
+ piece full disclosure, 0
+ instrument failure analysis investigation, 0
+ stent nephrostomy tube, 0
+ pt pk dissector notice, 0
+ shaft instrument, 0
+ wrist one grip, 0
+ broken grip cable engineering, 0
+ bipolar pin engineering, 0
+ main tube damage engineering, 0
+ side tip cover, 0
+ missing piece evidence, 0
+ cannula surgical staff, 0
+ cable char, 0
+ surgical instrument misuse, 0
+ fault camera arm, 0
+ conductor wire hole installation, 0
+ instrument ace insert, 0
+ lok needle, 0
+ hook base engineering, 0
+ broken banana plug instrument, 0
+ distal idler pulley engineering, 0
+ athe monopolar scissor tip, 0
+ direction entire trocar, 0
+ scissor grip pulley, 0
+ instrument shaft tube extension, 0
+ distal clevis instrument, 0
+ blade repeated opening, 0
+ aa piece, 0
+ cholecystectomy device, 0
+ patient broken piece, 0
+ tip instrument performance, 0
+ wire instrument, 0
+ wire nothing, 0
+ main tube clevis, 0
+ operative report multiple laboratory, 0
+ house test instrument jaws, 0
+ bent bipolar pin engineering, 0
+ instrument shaft evidence, 0
+ engineering instrument, 0
+ instrument sterile adapter engagement, 0
+ davinci bilateral salping oophorectomy, 0
+ instrument small diameter section, 0
+ robotic endowrist scissor tip, 0
+ procedure tip, 0
+ case tip, 0
+ instrument one, 0
+ endowrist prograsp instrument nothing, 0
+ arcing grip cable, 0
+ cannula engineering, 0
+ tube extension dislodgment, 0
+ orange colored tube, 0
+ pin instrument, 0
+ ada vinci prograsp instrument, 0
+ paraaortic lymphadenectomy device, 0
+ cautery adapter engineering, 0
+ tube surface finish, 0
+ ceramic sleeve evidence, 0
+ athe wire, 0
+ cable breakage heavy biodebris, 0
+ tip electrical continuity testing, 0
+ misaligned cable, 0
+ cannula tip engineering, 0
+ robotic equipment device, 0
+ incident cautery, 0
+ wrist instrument wrist, 0
+ torn downward instrument, 0
+ hole insulation testing, 0
+ grip electrical continuity testing, 0
+ instrument tip instrument, 0
+ sheath tissue fragment, 0
+ customer system alarm, 0
+ damage distal end, 0
+ multiple lab, 0
+ recognition pin, 0
+ bare wire failure analysis, 0
+ camera arm engineering, 0
+ morcellated indigo carmaine, 0
+ instrument missing lever engineering, 0
+ scissor grip engineering, 0
+ issue instrument, 0
+ arm patient, 0
+ instrument wrist visual inspection, 0
+ hysterectomy bilateral salpingo oophorectomy, 0
+ noted insulation, 0
+ anesthesia recovery room, 0
+ undamaged instrument, 0
+ post op recovery phase, 0
+ clamp arm testing, 0
+ remarkable post operative recovery, 0
+ main tube engineering, 0
+ manageable post operative recovery, 0
+ distal pulley failure analysis, 0
+ instrument shaft additional observation, 0
+ patient harm surgical time, 0
+ tip evidence, 0
+ scissor instrument version, 0
+ cable pulley broken nothing, 0
+ cannula accessory additional investigation, 0
+ inspection instrument, 0
+ non recoverable fault, 0
+ fraying repeated cable, 0
+ device thought, 0
+ reported failure mode instrument, 0
+ wrist one pitch cable, 0
+ bleeding cautery, 0
+ layer repair indigo carmine, 0
+ cannula evidence, 0
+ cable fraying engineering, 0
+ adavinci needle driver, 0
+ clamp arm engineering, 0
+ wire segment cap, 0
+ avessel sealer handpiece, 0
+ clamp arm groove evidence, 0
+ bent one grip, 0
+ testing instrument recognition, 0
+ instrument small fragment, 0
+ monitor object, 0
+ instrument physician, 0
+ electrocautery scalpel tip, 0
+ tube axis wear pattern, 0
+ apk dissector, 0
+ non energy instrument, 0
+ main tube failure analysis, 0
+ side tip, 0
+ harm tip cover, 0
+ patient harm device, 0
+ yaw pulley breakage wire, 0
+ tube clevis, 0
+ tube extension seal engineering, 0
+ wrist wire insulation, 0
+ tip one, 0
+ loose device, 0
+ bent cannula nothing, 0
+ morcellation device, 0
+ base broken piece, 0
+ broken cable cable, 0
+ instrument evaluation, 0
+ evaluation complaint cable, 0
+ sure cautery hook accessory, 0
+ cautery hook engineering, 0
+ tube electrical continuity testing, 0
+ opening device, 0
+ patient broken tip, 0
+ position instrument, 0
+ new robot forcep, 0
+ cable grip, 0
+ distal hinge one, 0
+ non motorized mechanical arm, 0
+ tip electrical continuity test, 0
+ tube extension additional observation, 0
+ pt broken piece, 0
+ instrument twist lock cannula, 0
+ insulation testing, 0
+ insulation isi, 0
+ broken one instrument lever, 0
+ instrument one grip, 0
+ defective scissor tip, 0
+ company rma device, 0
+ insulation damage material, 0
+ close instrument, 0
+ tube damage area, 0
+ instrument idler pulley, 0
+ driven clamp arm, 0
+ adavinci mega suturecut needle, 0
+ bilateral salpingoo oophorectomy, 0
+ instrument difficult evidence, 0
+ distal end tube, 0
+ instrument mfr report, 0
+ tube main tube, 0
+ aharmonic tip, 0
+ broken missing piece, 0
+ x2 instrument, 0
+ uterus instrument, 0
+ broken loose cable, 0
+ use cover, 0
+ distal clevis area engineering, 0
+ instrument recognition issue engineering, 0
+ main tube interface wrist, 0
+ snap fit paddle blade, 0
+ scalpel electrocuatery instrument, 0
+ permanent cautery spatula nothing, 0
+ instrument error care, 0
+ lok instrument, 0
+ patient cautery tip, 0
+ tip bend, 0
+ cable breakage engineering, 0
+ disposable cautery hook instrument, 0
+ distal end instrument, 0
+ broken cable one, 0
+ grip base engineering, 0
+ event bipolar instrument lifespan, 0
+ tube small amount, 0
+ main tube hole evidence, 0
+ hook shank fa, 0
+ constipation patient, 0
+ distal end one side, 0
+ needle radiology, 0
+ touchscreen monitor additional troubleshooting, 0
+ loose broken wire, 0
+ distal end opening engineering, 0
+ aprotective cover, 0
+ instrument isi, 0
+ tube failure analysis, 0
+ time device, 0
+ broken cable engineering, 0
+ burned section instrument, 0
+ damage grip, 0
+ end missing piece, 0
+ broken distal clevis one, 0
+ testing instrument, 0
+ instrument roll axis motion, 0
+ hole instrument, 0
+ electrocautery tip accessory installation, 0
+ missing one grip, 0
+ grasper instrument nothing, 0
+ chassis one pin, 0
+ cannula accessory engineering, 0
+ adavinci forcep cable, 0
+ unscrewed engineering, 0
+ tip nothing, 0
+ new headset microphone assembly, 0
+ aa small piece, 0
+ instrument tip additional observation, 0
+ vision instrument, 0
+ instrument separated nothing, 0
+ instrument failure analysis, 0
+ tube axis engineering, 0
+ nephrectomy tip cover accessory, 0
+ instrument bag, 0
+ cable failure analysis, 0
+ tip cover failure analysis, 0
+ shaft main tube, 0
+ sleeve interface engineering, 0
+ grip cable evidence, 0
+ alarm ac power, 0
+ cystoscopy indigo carmine, 0
+ cannula resistance, 0
+ main tube engineering evaluation, 0
+ distal pulley one, 0
+ insulation internal laboratory testing, 0
+ abraded cable pulley, 0
+ pin engineering, 0
+ tip customer reported complaint, 0
+ case device, 0
+ derailment instrument, 0
+ break tube insulation, 0
+ scalpel electrocautery spatula, 0
+ distal idler failure analysis, 0
+ non ceramic piece, 0
+ non damaged instrument, 0
+ clevis area instrument, 0
+ part missing one grip, 0
+ difficulty indigo carmine, 0
+ separate container instrument, 0
+ distal tip nothing, 0
+ yaw one conductor wire, 0
+ tube extension one, 0
+ accessory review, 0
+ bent grip one grip, 0
+ pulley hook, 0
+ instrument evidence, 0
+ right angle retractor, 0
+ spatula engineering, 0
+ blade one, 0
+ driver instrument wire cable, 0
+ broken ceramic sleeve cap, 0
+ event instrument, 0
+ main tube one scratch, 0
+ instrument repair, 0
+ bare wire boss feature, 0
+ cut performance instrument, 0
+ break tube, 0
+ medium large instrument, 0
+ noted monopolar scissor, 0
+ scapel electrocautery blade tip, 0
+ arn draping, 0
+ edge cable segment, 0
+ tube extension localized material, 0
+ broken pitch cable engineering, 0
+ wrist grip hub, 0
+ face damage instrument, 0
+ recommended level tip cover, 0
+ insulation engineering evaluation, 0
+ instrument harm, 0
+ instrument tip additional investigation, 0
+ spatula surface engineering, 0
+ complaint instrument wasn, 0
+ complaint broken cable, 0
+ suspect device isi, 0
+ grip yaw motion, 0
+ instrument manufacturer response, 0
+ athe plastic inner cannula, 0
+ insulation prolonged exposure, 0
+ tube electrical continuity test, 0
+ one grip engineering evaluation, 0
+ main tube instrument, 0
+ hook end customer, 0
+ main tube evidence, 0
+ instrument one side, 0
+ house hook accessory, 0
+ parallel instrument, 0
+ cover tip cover, 0
+ backup camera cable inspection, 0
+ broken wire engineering, 0
+ tube extension failure analysis, 0
+ cable breakage evidence, 0
+ instrument tip engineering, 0
+ suture instrument, 0
+ joint loose piece, 0
+ distal clevis hub engineering, 0
+ initial usage instrument malfunction, 0
+ retractor patient, 0
+ arobotic instrument, 0
+ tube axis failure analysis, 0
+ pulley instrument, 0
+ tip engineering, 0
+ reducer damaged cannulae, 0
+ instrument tip fragment, 0
+ lok clip applier instrument, 0
+ atip cover accessory, 0
+ error code blade, 0
+ damage one blade edge, 0
+ customer reported complaint instrument, 0
+ out tip, 0
+ broken cable nothing, 0
+ complaint one grip cable, 0
+ amega suturecut needle driver, 0
+ grip base electrical continuity, 0
+ constipation ct imaging, 0
+ test system instrument recognition, 0
+ instrument cable segment, 0
+ distal clevis hub one, 0
+ house snap fit blade, 0
+ main tube deformation, 0
+ non recoverable error, 0
+ grip assembly intuitive motion, 0
+ pulley distal clevis, 0
+ engineering tried bumping, 0
+ disposable hook spatula tip, 0
+ clamp arm curved blade, 0
+ instrument additional observation, 0
+ arm end, 0
+ performance testing instrument recognition, 0
+ following clarification one grip, 0
+ snap fit instrument, 0
+ patient piece, 0
+ entire tube length evidence, 0
+ conductor wire exit material, 0
+ house instrument, 0
+ instrument main tube engineering, 0
+ tip blade area engineering, 0
+ tungsten drive cable engineering, 0
+ suturing broken piece, 0
+ non recoverable error message, 0
+ grip hub engineering, 0
+ sleeve engineering, 0
+ physician scissor, 0
+ clamp arm pad, 0
+ performance instrument, 0
+ device sequence number, 0
+ extension tube evidence, 0
+ accessory evaluation, 0
+ patient one arm, 0
+ grip damage additional observation, 0
+ anoticed wire, 0
+ main tube one grip, 0
+ piece engineering, 0
+ undamaged instrument recognition, 0
+ device physician, 0
+ loose pitch cable clevis, 0
+ athe robotic grasper, 0
+ driven instrument, 0
+ bowl tube interface, 0
+ closing instrument, 0
+ conductor wire engineering evaluation, 0
+ exhibit excessive damage instrument, 0
+ non isi instrument accessory, 0
+ broken section spatula, 0
+ broken device, 0
+ distal clevis failure analysis, 0
+ tube engineering evaluation, 0
+ broken wire nothing, 0
+ cannula surgeon, 0
+ distal proximal clevis, 0
+ complaint grip cable, 0
+ device investigation, 0
+ cable fraying engeneering, 0
+ spatula evidence, 0
+ noted tip, 0
+ site distal end, 0
+ cannula failure, 0
+ cannula nothing, 0
+ damaged wire section charring, 0
+ instrument damage evidence, 0
+ instrument manufacturer, 0
+ constipation ct, 0
+ housing tube, 0
+ accessory post, 0
+ recognition failure distal end, 0
+ distal idler engineering, 0
+ grip one, 0
+ cable grip cable, 0
+ bearing one conductor wire, 0
+ procedure tip cover, 0
+ align device, 0
+ closed instrument, 0
+ precise cable derailment, 0
+ athe robotic instrument, 0
+ piece metal, 0
+ pt piece, 0
+ tube wear patter, 0
+ small bowel instrument, 0
+ instrument medwatch report, 0
+ missing missing piece, 0
+ broken cable failure analysis, 0
+ distal clevis pulley engineering, 0
+ experienced multiple post operative, 0
+ instrument needle driver, 0
+ cable tension engineering, 0
+ uterine tube coagulation, 0
+ cable main tube, 0
+ tip electrical continuity, 0
+ problem instrument, 0
+ instrument tip isi, 0
+ distal end one, 0
+ tube extension surface engineering, 0
+ main tube snake wrist, 0
+ abdomen one piece, 0
+ cable breaking evidence, 0
+ distal end inside, 0
+ tube extension engineering, 0
+ device isi, 0
+ back end one pin, 0
+ mono bipolar cautery, 0
+ tip engineering evaluation, 0
+ insert accessory investigation, 0
+ wire engineering evaluation, 0
+ tube axis inspection, 0
+ date device, 0
+ instrument new instrument, 0
+ instrument collision additional investigation, 0
+ wrist wire, 0
+ align one grip, 0
+ procedure device, 0
+ silk suture instrument, 0
+ damage cable segment, 0
+ cleaning instrument, 0
+ sleeve material, 0
+ spatula yaw, 0
+ broken broken piece, 0
+ grip instrument, 0
+ house isi endowrist instrument, 0
+ patient device, 0
+ device useless needle driver, 0
+ screw head engineering, 0
+ device event key, 0
+ cable breakage snake wrist, 0
+ arcing one grip, 0
+ cable system, 0
+ tip cover nothing, 0
+ house test instrument, 0
+ top instrument nothing, 0
+ insulation engineering, 0
+ cannula additional observation, 0
+ internal bowl tube transition, 0
+ wire breakage engineering evaluation, 0
+ yaw pulley bare wire, 0
+ instrument additional investigation, 0
+ silicon tip cover accessory, 0
+ broken one grip cable, 0
+ tube tube damage, 0
+ cable additional observation, 0
+ tip edge area, 0
+ engagement test instrument, 0
+ instrument sleeve, 0
+ tip grip, 0
+ damaged cable segment, 0
+ latex blade, 0
+ bent tip one grip, 0
+ scissors wrist assembly, 0
+ end instrument, 0
+ post surgical recovery, 0
+ sure accessory, 0
+ deg scalpel blade accessory, 0
+ broken one grip, 0
+ cautery transection, 0
+ instrument wrist electrical continuity, 0
+ scissor grip half, 0
+ one camera cable, 0
+ cable evidence, 0
+ prograsp instrument nothing, 0
+ loading instrument, 0
+ spatula tip engineering evaluation, 0
+ spatula yaw pulley, 0
+ abdomen instrument, 0
+ instrument electrical continuity test, 0
+ needle information, 0
+ cannula roll, 0
+ distal end insulation, 0
+ vision path multiple power, 0
+ apermanent cautery spatula instrument, 0
+ robot arm nothing, 0
+ tube extension material, 0
+ arcing grip, 0
+ distal grip tip, 0
+ surface cable segment, 0
+ trocar surgeon, 0
+ accessory isi, 0
+ length tube, 0
+ misaligned one grip, 0
+ torn wire nothing, 0
+ pelvis multiple bowel, 0
+ cable instrument, 0
+ instrument one grip cable, 0
+ monopolar instrument ms, 0
+ functional instrument, 0
+ scissors cautery, 0
+ maintube distal end, 0
+ spatula fragment engineering, 0
+ instrument tip manufacturer report, 0
+ laparoscopic scissors cautery cord, 0
+ tube engineering, 0
+ tip cover one edge, 0
+ acautery machine, 0
+ piece ceramic sleeve, 0
+ arcing cautery, 0
+ endowrist instrument psm, 0
+ instrument investigation, 0
+ lock clip applier instrument, 0
+ field new device, 0
+ insufflation obturator tip, 0
+ ausing harmonic scalpel, 0
+ fenestrated bipolar instrument nothing, 0
+ procedure instrument, 0
+ distalmost disk evidence, 0
+ instrument splintering, 0
+ instrument shaft engineering, 0
+ cable same grip, 0
+ bipolar pin damage one, 0
+ reported complaint one grip, 0
+ complaint tip, 0
+ arm position gravity compensation, 0
+ non recoverable system fault, 0
+ hypotube failure analysis, 0
+ light cable endoscope, 0
+ needle driver jaws surgeon, 0
+ thoracic grasper instrument nothing, 0
+ clear indigo carmine, 0
+ instrument metal shaft, 0
+ non recoverable error code, 0
+ distal end nothing, 0
+ instrument base, 0
+ extension tube engineering, 0
+ surface cable, 0
+ isi instrument accessory, 0
+ bare wire engineering, 0
+ distal pulley fa, 0
+ small cable piece, 0
+ open position instrument, 0
+ tip cover tip cover, 0
+ broken tip nothing, 0
+ distal clevis hub instrument, 0
+ hydrosalpinx isi, 0
+ tube axis engineering evaluation, 0
+ trocar instrument, 0
+ cable engineering evaluation, 0
+ undocked instrument, 0
+ distal clevis hub cable, 0
+ robotic instrument tip cover, 0
+ main tube interface damage, 0
+ cutting one grip cable, 0
+ cable nothing, 0
+ robotic procedure one piece, 0
+ instrument video, 0
+ wrist cable segment, 0
+ athe white tip portion, 0
+ grip area failure analysis, 0
+ instrument electrical continuity testing, 0
+ procedure harm, 0
+ device event, 0
+ distal pulley engineering, 0
+ tube extension electrical continuity, 0
+ cut test instrument, 0
+ grip failure analysis, 0
+ needle driver intuitive rep, 0
+ work instrument, 0
+ grip additional observation, 0
+ instrument wrist evidence, 0
+ jaws instrument, 0
+ distal tip engineering, 0
+ clamp arm one side, 0
+ mono polar instrument, 0
+ tube evidence, 0
+ pin point, 0
+ tip high pressure, 0
+ cable groove engineering, 0
+ house tip cover accessory, 0
+ tube visual inspection, 0
+ broken one yaw cable, 0
+ area instrument, 0
+ distal end cap engineering, 0
+ uterus one piece, 0
+ grip yaw, 0
+ blade edge additional observation, 0
+ grip cable failure analysis, 0
+ patient one broken piece, 0
+ surgery blade, 0
+ cable same cable, 0
+ grip engineering, 0
+ clamp arm pin engineering, 0
+ cable engineering, 0
+ tube instrument, 0
+ off device, 0
+ work new instrument, 0
+ hypotube half, 0
+ extensive adhesiolysis device, 0
+ metal cord wire, 0
+ main tube wall evidence, 0
+ athe blade portion, 0
+ maryland dissector instrument nothing, 0
+ degree blade failure analysis, 0
+ instrument snapped nothing, 0
+ athe insulation, 0

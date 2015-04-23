@@ -42,11 +42,18 @@ patterns = [['NN'],['JJ'], ['JJ', 'NN'], ['NN','NN'], ['JJ', 'JJ', 'NN'], ['JJ',
 
 # Input and Output files
 CSV_In = './Data/davinci.csv'
+#CSV_In = './Data/Sample_Data_1.csv'
 Out_file = './Data/n_grams.txt';
+# Training data (seeds)
+CSV_In2 = './Data/Instruments.csv'
 f1 = open(CSV_In, 'rU')
+f1t = open(CSV_In2, 'rU')
 f2 = open(Out_file,'wb')
 csv_rd = csv.reader(f1, dialect='excel', delimiter=',')
-
+csv_rdt = csv.reader(f1t, dialect='excel', delimiter=',')
+no_chunks = 10;
+start_col = 1;
+end_col = 2;
 
 # Clean part of speech tags
 def cleanseNN(list):
@@ -55,36 +62,31 @@ def cleanseNN(list):
 			if("NN" in list[i][k]):
 				list[i][k] = "NN"
 	return list
-
-# Calculate term frequency
-def term_f(word, text):
-	return 0.5+text.count(word)
 	
-def doc_f(word, docs):
-	df = sum(1 for d in docs if word in d)
-	return df
 	
 # Filter n-grams with low Mutual Information (statistically insignificant)
 def entropy_filter(phrase_list, docs, text):
     # Dictionary of n-grams with their RIDFs and TFs
-	RIDF = {'WORD': [0,0]};
+	RIDF = {'WORD': [0,0,0]};
 	filtered_list = {'WORD':-1};
 	for phrase in phrase_list:
 		#print phrase
-		IDF = math.log(len(docs)/(0.5+doc_f(phrase, docs)))
-		tf = term_f(phrase,text);
+		df = sum(1 for d in docs if phrase in d);
+		IDF = math.log(len(docs)/(0.5+df))
+		# Calculate term frequency
+		tf = 0.5+text.count(phrase)
 		eIDF = math.log(1-math.exp((-tf)/len(docs)))	
-		RIDF[phrase] = [IDF+eIDF,tf-0.5]
+		RIDF[phrase] = [IDF+eIDF,tf-0.5,df]
 	RIDF.pop("WORD", None)
 	print "\nCalculated RIDFs"
 	
 	# Sort the n-grams based on their RIDF values
 	sorted_RIDF = sorted(RIDF.items(), key=operator.itemgetter(1))
 	print "\nSorted n-grams"
-	# Filter those with negative RIDF values and save the rest with their TFs in results
+	# Filter those with negative RIDF values and save the rest with their DFs in results
 	for key, values in sorted_RIDF:
 		if (values[0] > 0):
-			filtered_list[key] = values[1]	
+			filtered_list[key] = values[2]	
 	filtered_list.pop("WORD", None)
 	print "\nFiltered n-grams"
 	return filtered_list
@@ -100,13 +102,21 @@ words = [];
 results = {'ngram':0};
 stops = set(stopwords.words('english'))
 
+training_set = []
+
+# Skip headers 
+csv_rdt.next();
+# Get all the training phrases
+for line in csv_rdt:
+	training_set.append(line[0])
+
 # Skip headers 
 csv_rd.next();
 # Get all the text
 for line in csv_rd:
 	cnt = cnt + 1
 	Text = ''
-	for i in range(1,2):
+	for i in range(start_col,end_col+1):
 		Text = Text + line[i].rstrip('\n\r')
 	if not (Text == ''):
 		docs.append(Text);
@@ -135,7 +145,7 @@ print "\nTagging started.."
 tags = [];
 starti = 0
 endi = 0
-for l in range(0, 10):
+for l in range(0, no_chunks):
 	endi =  min((starti + (len(tokens)/10) ), len(tokens))
 	print "Tagging #" + str(l) + ": from " + str(starti)+ " to "+str(endi-1)
 	tags = tags + pos.tag(tokens[starti:endi])[0];
@@ -169,7 +179,7 @@ for tok in raw_tokens:
 					results[n_gram_str] = results[n_gram_str]+1
 				else:						
 					results[n_gram_str] = 1
-					print n_gram_str
+					#print n_gram_str
 			# Restart searching for next n-gram
 			n_gram = []
 			tags = []
@@ -179,12 +189,21 @@ print "\n"+str(len(results.keys()))+" n-grams found.."
 
 # Filtering n-grams	
 filtered_result = entropy_filter(results.keys(), docs, Text)
-sorted_filtered = sorted(filtered_result.items(), key=operator.itemgetter(0))
+# Sort filtered n-grams based on their scores
+sorted_filtered = sorted(filtered_result.items(), key=operator.itemgetter(1), reverse=True)
+n_cnt = 0;
+f2.write('Technical Phrase, Document Frequency\n')
 for key, value in sorted_filtered:
+#for key in results.keys():
 	#print f
-	f2.write(key+','+str(value)+'\n')
+	for t in training_set[0:50]:
+		if (t in key):
+			f2.write(key+', '+str(value)+'\n')
+			n_cnt = n_cnt + 1;
+			break;
 	
 f1.close();
+f1t.close();
 f2.close();
 t1 = time()
 # Main code ends here
@@ -193,4 +212,5 @@ print "\n\nProcessed a total of:"
 print str(len(docs))+" Reports"		
 print str(len(sentences))+" Sentences"
 print str(len(words))+" Words"
+print str(n_cnt)+" Technical Phrases"
 print "In "+str(t1-t0)+' seconds..\n'
