@@ -136,7 +136,7 @@ for line in csv_rd:
 	if not (Text == ''):
 		docs.append(Text);
 		All_Text = All_Text + Text;
-	break;
+	#break;
 print "\nRead all data.."
 #print All_Text;
 
