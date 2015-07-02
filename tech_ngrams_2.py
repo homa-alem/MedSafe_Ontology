@@ -119,7 +119,7 @@ stops = set(stopwords.words('english'))
 training_set = []
 
 # Skip headers 
-csv_rdt.next();
+csv_rd.next();
 # Get all the training phrases
 for line in csv_rdt:
 	training_set.append(line[0])
@@ -138,11 +138,10 @@ for line in csv_rd:
 		All_Text = All_Text + Text;
 	break;
 print "\nRead all data.."
-print All_Text;
+#print All_Text;
 
 # Get the sentences
 Text = All_Text
-sentences =  All_Text.split('.')[0:-1];
 
 # Normalization and Punctuation filtering
 Text = Text.lower()
@@ -157,7 +156,6 @@ raw_tokens = word_tokenize(unicode(Text, errors='ignore'))
 tokens= [str(t) for t in raw_tokens if not str(t).isdigit() and len(str(t))>1]
 words = words+tokens
 
-print "\nTagging started.."
 # Part of Speech Tagging 
 tags = [];
 starti = 0
@@ -180,32 +178,51 @@ print tags
 print '\n'
 print Tag_set
 
-# Look for longest n-gram appearing in the text with the patterns of technical terms			
+
+# Look for longest n-gram appearing in each sentence with the patterns of technical terms			
+# Normalization and Punctuation filtering=> keep sentence separators
+Text = All_Text.lower()
+sentences = re.split('[;,.:]', Text)
+print sentences
 n_gram = []
 tags = []
 n_gram_str = ''
-for tok in raw_tokens:
-	phrase = str(tok)
-	if (len(n_gram) < 5) and (Tag_set.has_key(phrase)):
-		n_gram.append(phrase)
-		tags.append(Tag_set[phrase])
-	else:
-		# Only if we found something
-		if (len(n_gram) > 1):
-			# If the pattern of tags is of interest, save it
-			if (cleanseNN(tags) in patterns):
-				for n in n_gram:
-					n_gram_str = n_gram_str + ' ' + n 
-				if (results.has_key(n_gram_str)):
-					results[n_gram_str] = results[n_gram_str]+1
-				else:						
-					results[n_gram_str] = 1
-					#print n_gram_str
+for s in sentences:
+	#regex = re.compile('[%s]' % re.escape('!"#$%&\'()*+/:<=>?@[\\]^_`{|}~-'))
+	#Text = regex.sub(' ',s)
+	Text = s
+    # Get the words
+	raw_tokens = word_tokenize(unicode(Text, errors='ignore'))
+	print raw_tokens
+	# Filter numbers 
+	words= [str(t) for t in raw_tokens if not str(t).isdigit() and len(str(t))>1]
+	
+	#print '--->' + Text + '\n'
+	for w in words:
+		if (Tag_set.has_key(w)):
+			n_gram.append(w)
+			tags.append(Tag_set[w])
+			#print "n-gram = "+n_gram[-1]
+		# If this is the last word in the list or a non-NJ word, we finalize the n-gram
+		if not(Tag_set.has_key(w)) or (words.index(w) == len(words)-1):
+			# Only if we found something
+			if (len(n_gram) > 1):
+				#print "long n-gram = "+n_gram[0]
+				# If the pattern of tags is of interest, save it
+				if (cleanseNN(tags) in patterns):
+					for n in n_gram:
+						n_gram_str = n_gram_str + ' ' + n 
+					if (results.has_key(n_gram_str)):
+						results[n_gram_str] = results[n_gram_str]+1
+					else:						
+						results[n_gram_str] = 1
+						#print n_gram_str
+					#print '===' + n_gram_str + '\n'
 			# Restart searching for next n-gram
 			n_gram = []
 			tags = []
 			n_gram_str = ''
-
+print results
 print "\n"+str(len(results.keys()))+" n-grams found.."	
 
 # Filtering n-grams	
