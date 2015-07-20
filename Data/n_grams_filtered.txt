@@ -1,0 +1,5395 @@
+Technical Phrase, Document Frequency
+parent topic, 6.33495978056
+vios partition, 5.73478658944
+paging vios, 5.6900149749
+paging vios partition, 5.68577964373
+command purpose, 5.23731658246
+ip address, 5.22918238663
+exit status, 5.11479918877
+flag name description, 5.07595622131
+memory card, 5.00307623097
+hmc port, 4.60570356776
+virtual scsi, 4.58807567626
+partition id, 4.41121291743
+hmc management, 4.29534537073
+virtual scsi adapter, 4.29534537073
+user id, 4.21796735459
+exit system management, 4.13342710551
+link aggregation, 4.10342642128
+wlm class, 4.04033446729
+kdc server, 4.00710176047
+hmc machine code, 4.00710176047
+hardware management console, 3.97263768379
+ethernet adapter, 3.93423616345
+hmc management work pane, 3.89963975319
+local hmc, 3.86089003458
+remote hmc, 3.8204734909
+dhcp server, 3.7340399205
+hmc software, 3.7340399205
+virtual ethernet, 3.70853266458
+off scope, 3.68766963442
+ethernet port, 3.68766963442
+hmc version, 3.6389175135
+electronic service agent, 3.58753261642
+hmc port location, 3.58753261642
+virtual ethernet adapter, 3.55793170278
+hmc use, 3.53322213842
+primary paging vios partition, 3.53322213842
+secondary paging vios, 3.47564154833
+client partition id, 3.47564154833
+virtual lan, 3.47564154833
+file parameter, 3.47564154833
+secondary paging vios partition, 3.47564154833
+hmc configuration, 3.47564154833
+vios logical partition, 3.47564154833
+shared ethernet, 3.45310634893
+shared ethernet adapter, 3.45310634893
+internet protocol, 3.41438163804
+integrated virtualization manager, 3.41438163804
+drc index, 3.41438163804
+pci bus, 3.41438163804
+item description, 3.34895124701
+type menu, 3.34895124701
+hmc code, 3.34895124701
+service management work pane, 3.27875380329
+return code description, 3.27875380329
+redundant paging vios, 3.27875380329
+4k page, 3.27875380329
+name name, 3.27875380329
+valid filter, 3.27875380329
+xml report, 3.27875380329
+pdf file, 3.20305481919
+active memory expansion, 3.20305481919
+advanced system management interface, 3.20305481919
+internet explorer, 3.20305481919
+monitoring interval, 3.14588491722
+integrated ethernet, 3.12093580408
+parameter description, 3.12093580408
+hmc interface, 3.12093580408
+dynamic lpar event, 3.12093580408
+use redundant paging vios, 3.12093580408
+ipv6 address, 3.12093580408
+ssd adapter, 3.03122715649
+viewonly role, 3.03122715649
+12x loop, 3.03122715649
+integrated ethernet port, 3.03122715649
+ibm service, 3.03122715649
+ipl source, 3.03122715649
+physical ethernet, 3.03122715649
+kerberos remote authentication, 3.03122715649
+kb page, 3.03122715649
+id partitionid, 3.03122715649
+nim server, 3.03122715649
+mac address, 3.00481413261
+segment report, 2.97380566632
+port physical location code, 2.93240736536
+ipv4 address, 2.93240736536
+ethernet device, 2.93240736536
+hmc port locationsuse, 2.93240736536
+ssh key, 2.93240736536
+hardware management, 2.9084894718
+svmon command, 2.88476531476
+related reference, 2.82244593447
+type menu item number, 2.82244593447
+hmc data, 2.82244593447
+hmc hardware, 2.82244593447
+hmc network, 2.82244593447
+ssd adapter un, 2.82244593447
+select navigation key, 2.82244593447
+ibm id, 2.82244593447
+process report, 2.80102746452
+workload management class report, 2.76227774591
+user report, 2.76227774591
+related information, 2.75649629561
+valid value, 2.74145231056
+hmc machine code level, 2.69854753254
+mpio capable device, 2.69854753254
+ibm power, 2.69854753254
+logical volume id, 2.69854753254
+help display, 2.69854753254
+link aggregation adapter, 2.69854753254
+physical ethernet adapter, 2.69854753254
+nim master, 2.69854753254
+fru isolation, 2.69854753254
+tier report, 2.67963277974
+workload management tier report, 2.58905734575
+snmp agent, 2.58905734575
+arp table, 2.55671196673
+gateway ip address, 2.55671196673
+x8 g2 slot, 2.55671196673
+only paging vios partition, 2.55671196673
+hmc user, 2.55671196673
+ssl connectivity, 2.55671196673
+kerberos authentication, 2.55671196673
+cpu utilization, 2.55671196673
+firefox version, 2.55671196673
+current hmc configuration, 2.55671196673
+usb port, 2.55671196673
+client ip address, 2.55671196673
+value description, 2.55671196673
+virtualization engine, 2.55671196673
+licensed internal code, 2.55671196673
+single paging vios partition, 2.55671196673
+ssl proxy, 2.55671196673
+logical partition id, 2.55671196673
+xml file, 2.55671196673
+ibm service support system, 2.55671196673
+vlan id, 2.55671196673
+second hmc, 2.55671196673
+queue length, 2.55671196673
+logicalvolume parameter, 2.55671196673
+workload management, 2.55282269021
+backup command, 2.52398919308
+page size, 2.50776385173
+file system archive, 2.48892032775
+mpio path selection, 2.39092369671
+pci bus problem, 2.39092369671
+advanced setup, 2.39092369671
+ldap authentication, 2.39092369671
+primary hmc, 2.39092369671
+high performance, 2.39092369671
+filter filterdata, 2.39092369671
+select device type, 2.39092369671
+microsoft internet explorer, 2.39092369671
+use kerberos remote authentication, 2.39092369671
+change scsi, 2.39092369671
+hmc modem, 2.39092369671
+associated virtual scsi adapter, 2.39092369671
+4k page unit, 2.39092369671
+12x loop number, 2.39092369671
+hmc machine code upgrade, 2.39092369671
+receiver start count, 2.39092369671
+ethernet cable, 2.39092369671
+ssh client, 2.39092369671
+remote ipl, 2.39092369671
+san zoning, 2.39092369671
+copyright ibm corp, 2.39092369671
+additional ethernet, 2.39092369671
+dma overrun, 2.39092369671
+hmc host, 2.39092369671
+select task, 2.39092369671
+unrecovered error, 2.39092369671
+hmc machine code version, 2.39092369671
+primary integrated ethernet port, 2.39092369671
+variable parameter, 2.39092369671
+flash drive memory key, 2.39092369671
+partition macha, 2.39092369671
+select device, 2.39092369671
+kerberos server, 2.39092369671
+filesystem parameter, 2.39092369671
+additional ethernet adapter, 2.39092369671
+dynamic lpar operation, 2.39092369671
+physicalvolume parameter, 2.39092369671
+host ethernet adapter, 2.39092369671
+kerberos client, 2.39092369671
+management console, 2.381180737
+physical disk, 2.31576934937
+reference code description, 2.31576934937
+physical partition, 2.29858705683
+specified page size, 2.25033895835
+specified page, 2.25033895835
+logical location code, 2.21657098331
+logical location, 2.21657098331
+service management, 2.21103557847
+spcn port, 2.1915193527
+application server, 2.1915193527
+os version, 2.1915193527
+lan connectivity, 2.1915193527
+lan adapter, 2.1915193527
+port speed, 2.1915193527
+scsi id, 2.1915193527
+hot wlm, 2.1915193527
+current paging vios partition, 2.1915193527
+dynamic tuning, 2.1915193527
+nic connector, 2.1915193527
+instance parameter, 2.1915193527
+volume group name, 2.1915193527
+port virtual lan id, 2.1915193527
+peripheral component, 2.1915193527
+lpar number, 2.1915193527
+hpt ratio, 2.1915193527
+welcome window, 2.1915193527
+predictive error, 2.1915193527
+2012added information, 2.1915193527
+default ip address, 2.1915193527
+kdc configuration task, 2.1915193527
+change language, 2.1915193527
+hardware management console site, 2.1915193527
+fibre channel device, 2.1915193527
+pci bus number, 2.1915193527
+only ipv6, 2.1915193527
+fixed ip address, 2.1915193527
+following ipv4, 2.1915193527
+secondary hmc, 2.1915193527
+logical partition macha, 2.1915193527
+dvd device, 2.1915193527
+hmc code level, 2.1915193527
+gb page, 2.1915193527
+eia unit, 2.1915193527
+internet ssl connectivity, 2.1915193527
+lpar id, 2.1915193527
+bulk power, 2.1915193527
+internet address, 2.1915193527
+vlan priority, 2.1915193527
+server ip address, 2.1915193527
+mozilla firefox version, 2.1915193527
+javascript option, 2.1915193527
+fix central website, 2.1915193527
+hmc read, 2.1915193527
+size size, 2.1915193527
+smtp server, 2.1915193527
+dma resource count, 2.1915193527
+ftp server, 2.1915193527
+iscsi target, 2.1915193527
+field name description, 2.1915193527
+support manager, 2.1915193527
+managing system management, 2.1915193527
+rmc connection, 2.1915193527
+dimm fault, 2.1915193527
+mib tree, 2.1915193527
+hmc configuration data, 2.1915193527
+adapter configuration, 2.1915193527
+memory consumption, 2.18014151462
+global report, 2.18014151462
+base value, 2.18014151462
+uncapped weight, 2.18014151462
+name server, 2.16880715597
+service key, 2.14626885658
+online help, 2.12650780593
+file system format, 2.10444253052
+specified fileset, 2.10444253052
+location code, 2.09586854033
+backing device, 2.08517656929
+shared memory, 2.0556769524
+command report, 2.02672753473
+level port, 2.02232351541
+long report, 2.02232351541
+process id, 2.02232351541
+compact report, 2.02232351541
+full screen, 2.02232351541
+rsubtype phys, 2.02232351541
+shared memory partition, 1.98902236273
+list attribute, 1.97809470398
+partition migration, 1.95372960413
+page fault, 1.95372960413
+multiple collision count, 1.94147181269
+udp port, 1.94147181269
+target integrated drive, 1.94147181269
+san zoning support, 1.94147181269
+clientid client partition id, 1.94147181269
+logical location codesif, 1.94147181269
+tcp window, 1.94147181269
+hmc clock, 1.94147181269
+nim installation, 1.94147181269
+un value, 1.94147181269
+welcome text, 1.94147181269
+list utilization data, 1.94147181269
+virtual ethernet mac, 1.94147181269
+ethernet interface, 1.94147181269
+port type, 1.94147181269
+customer contact information, 1.94147181269
+select column, 1.94147181269
+list virtual scsi adapter, 1.94147181269
+new name, 1.94147181269
+server virtual ethernet adapter, 1.94147181269
+vios image, 1.94147181269
+virtual opticonnect, 1.94147181269
+additional virtual lan, 1.94147181269
+virtual server ethernet adapter, 1.94147181269
+complete hmc, 1.94147181269
+hmc client, 1.94147181269
+iscsi discovery selection, 1.94147181269
+usb flash memory device, 1.94147181269
+data replication task, 1.94147181269
+usb mass storage, 1.94147181269
+t2 label, 1.94147181269
+virtual fibre channel client, 1.94147181269
+list virtual ethernet adapter, 1.94147181269
+location codesuse, 1.94147181269
+link aggregation device, 1.94147181269
+director agent, 1.94147181269
+fru location code, 1.94147181269
+firewall feature, 1.94147181269
+change user password, 1.94147181269
+percentage percentage, 1.94147181269
+parameter name description, 1.94147181269
+select device type menu, 1.94147181269
+accounting manager agent, 1.94147181269
+prefix description example, 1.94147181269
+oem installation, 1.94147181269
+lun logical unit number, 1.94147181269
+ssh protocol, 1.94147181269
+use paging vios partition, 1.94147181269
+asmi password, 1.94147181269
+snmp response, 1.94147181269
+hmc hard disk, 1.94147181269
+february 2010added information, 1.94147181269
+vlan id option, 1.94147181269
+customer information window, 1.94147181269
+max collision, 1.94147181269
+adapter reset count, 1.94147181269
+select task menu, 1.94147181269
+customizable data replication service, 1.94147181269
+current amount, 1.94147181269
+average cpu utilization, 1.94147181269
+current hmc configuration information, 1.94147181269
+snmp request, 1.94147181269
+pci bridge set, 1.94147181269
+edit sort, 1.94147181269
+ethernet connection, 1.94147181269
+backing backing device, 1.94147181269
+id partition id, 1.94147181269
+location code feature, 1.94147181269
+specified link aggregation, 1.94147181269
+ip packet, 1.94147181269
+device fan, 1.94147181269
+virtual scsi client, 1.94147181269
+serviceable event notification, 1.94147181269
+virtual scsi server adapter, 1.94147181269
+topas monitor, 1.94147181269
+hea drc, 1.94147181269
+hmc firewall, 1.94147181269
+fsp port, 1.94147181269
+other paging vios partition, 1.94147181269
+lan switch, 1.94147181269
+12x isolation, 1.94147181269
+current hw, 1.94147181269
+sqe test, 1.94147181269
+set boot sequence, 1.94147181269
+record hmc configuration information, 1.94147181269
+fibre channel, 1.932943027
+system configuration database, 1.93261486782
+client object, 1.93261486782
+traceroute command, 1.93261486782
+internet connection, 1.91497988553
+service key file, 1.87456334185
+web browser, 1.86774639055
+network boot, 1.86620363589
+server logical partition, 1.86620363589
+processing capacity, 1.86620363589
+operational status, 1.86620363589
+file system, 1.86612194044
+unique id, 1.84310988996
+lpar name, 1.83379507669
+long format, 1.83379507669
+name server entry, 1.83379507669
+access paging space, 1.83379507669
+topas command, 1.83379507669
+access paging space device, 1.83379507669
+support system, 1.83379507669
+snmpdv3 agent, 1.83379507669
+ping command, 1.83379507669
+following topic, 1.83233491935
+reference code, 1.82895794706
+physical part, 1.82425265478
+paging space device, 1.82149161473
+processing unit, 1.81934135092
+setup wizard, 1.80494372561
+capped logical partition, 1.78812977144
+paging space, 1.75363184995
+configuration database, 1.74175948536
+public key, 1.73951333458
+list system, 1.73951333458
+block replacement, 1.7238336458
+tuning parameter, 1.7238336458
+customizable data replication, 1.7238336458
+compact format, 1.7238336458
+successful completion, 1.7238336458
+server virtual adapter, 1.7238336458
+device special file, 1.7238336458
+boot logical volume, 1.7238336458
+fsck command, 1.7238336458
+input data, 1.7238336458
+memory page fault, 1.7238336458
+virtual target, 1.70553114848
+virtual target device, 1.70553114848
+logical volume, 1.70538816667
+key file, 1.70241517585
+fibre channel adapter, 1.69548637878
+system plan, 1.67954784843
+virtual fibre channel, 1.67165073732
+rsubtype slot, 1.66931589085
+console switch, 1.64162246736
+uncapped logical partition, 1.64162246736
+attribute value pair, 1.62324891357
+location code string, 1.62324891357
+file name, 1.61543528979
+client partition, 1.61168949715
+partition profile, 1.60925157463
+tape use, 1.60626700115
+flash eprom, 1.60626700115
+event list, 1.60626700115
+directory parameter, 1.60626700115
+startday day, 1.60626700115
+preinstallation configuration worksheet, 1.60626700115
+server management partition, 1.60626700115
+remote virtual terminal access, 1.60626700115
+startyear year, 1.60626700115
+description value, 1.60626700115
+secondary integrated ethernet port, 1.60626700115
+use telnet, 1.60626700115
+startmonth month, 1.60626700115
+arp table size, 1.60626700115
+new kdc server, 1.60626700115
+internet protocol address, 1.60626700115
+streamid stream id, 1.60626700115
+unique physical location code, 1.60626700115
+esd packaging, 1.60626700115
+ieq total number, 1.60626700115
+different internet, 1.60626700115
+endmonth month, 1.60626700115
+primitive seq protocol, 1.60626700115
+other kerberos, 1.60626700115
+column configuration icon, 1.60626700115
+different internet protocol, 1.60626700115
+power7 processor, 1.60626700115
+endyear year, 1.60626700115
+pdf link, 1.60626700115
+startminute minute, 1.60626700115
+viewing application, 1.60626700115
+mib variable parameter, 1.60626700115
+port fc id, 1.60626700115
+kerberos realm, 1.60626700115
+available npiv, 1.60626700115
+turbocore mode, 1.60626700115
+swwpns total number, 1.60626700115
+description description, 1.60626700115
+disk drive backplane, 1.60626700115
+bus id, 1.60626700115
+objectname parameter, 1.60626700115
+use lssyscfg, 1.60626700115
+inuse scope, 1.60626700115
+keyboard post indicator, 1.60626700115
+import service key, 1.60626700115
+cpu usage, 1.60626700115
+setup remote ipl, 1.60626700115
+hmc topic, 1.60626700115
+queue overflow, 1.60626700115
+oem software, 1.60626700115
+first fru, 1.60626700115
+sync count, 1.60626700115
+hmc workplace, 1.60626700115
+ntp service, 1.60626700115
+syntax topas, 1.60626700115
+vios administrator, 1.60626700115
+dynamic platform optimization capability, 1.60626700115
+display shared ethernet adapter, 1.60626700115
+request authorization, 1.60626700115
+server partition id, 1.60626700115
+endhour hour, 1.60626700115
+delimiter flag, 1.60626700115
+active attention, 1.60626700115
+management tree view, 1.60626700115
+first dvd, 1.60626700115
+12x link, 1.60626700115
+udp data, 1.60626700115
+request service, 1.60626700115
+vgname name, 1.60626700115
+password task, 1.60626700115
+single collision count, 1.60626700115
+hardware control host object, 1.60626700115
+virtual client scsi adapter, 1.60626700115
+certificate authority, 1.60626700115
+flagsflag name description, 1.60626700115
+access task, 1.60626700115
+data interface adapter, 1.60626700115
+ldap directory, 1.60626700115
+symbolic frus, 1.60626700115
+pci bus failure, 1.60626700115
+fc adapter driver information, 1.60626700115
+shared ethernet adapter interface, 1.60626700115
+vios partition name, 1.60626700115
+vtd virtual target device, 1.60626700115
+reboot diagnosis, 1.60626700115
+pool id, 1.60626700115
+automatic link aggregation, 1.60626700115
+mysupclass superclass, 1.60626700115
+internet connection configure, 1.60626700115
+multiple ip, 1.60626700115
+remote nim server, 1.60626700115
+destination vios logical partition, 1.60626700115
+hmc software upgrade, 1.60626700115
+first ethernet device, 1.60626700115
+linux system unit, 1.60626700115
+local modem tab, 1.60626700115
+pmh number, 1.60626700115
+viewing application log, 1.60626700115
+available hmc machine code, 1.60626700115
+use internet ssl connectivity, 1.60626700115
+size parameter, 1.60626700115
+tcp window scaling, 1.60626700115
+odm directory, 1.60626700115
+description fd, 1.60626700115
+hmc graphical user interface, 1.60626700115
+dual port ethernet adapter, 1.60626700115
+host parameter, 1.60626700115
+location information u8202, 1.60626700115
+use internet vpn, 1.60626700115
+hmc port position, 1.60626700115
+server operating, 1.60626700115
+rpa partition, 1.60626700115
+remote command execution window, 1.60626700115
+status status, 1.60626700115
+hea drc index, 1.60626700115
+link failure count, 1.60626700115
+kdc authentication, 1.60626700115
+path mtu discovery, 1.60626700115
+buffer pool size, 1.60626700115
+select internet protocol version, 1.60626700115
+locale window, 1.60626700115
+io connection, 1.60626700115
+pprc pair, 1.60626700115
+next adapter configuration menu, 1.60626700115
+level port list, 1.60626700115
+icmp header, 1.60626700115
+invalid tx word count, 1.60626700115
+lan network number, 1.60626700115
+problem description input field, 1.60626700115
+standard ethernet, 1.60626700115
+12x failure, 1.60626700115
+master kerberos database, 1.60626700115
+redundant hmc, 1.60626700115
+fc scsi traffic, 1.60626700115
+operating system type, 1.60626700115
+cpw percent, 1.60626700115
+shared memory pool wizard, 1.60626700115
+unique ip address, 1.60626700115
+target name, 1.60626700115
+associated frus, 1.60626700115
+configure kerberos, 1.60626700115
+local internet, 1.60626700115
+ibm tivoli storage agent, 1.60626700115
+1d elapsed time, 1.60626700115
+new virtual scsi adapter, 1.60626700115
+port group id, 1.60626700115
+associated physical fibre channel, 1.60626700115
+different hmc installation, 1.60626700115
+ibm power system server, 1.60626700115
+command resource count, 1.60626700115
+parameter description host, 1.60626700115
+user window, 1.60626700115
+special interest group specification, 1.60626700115
+service pack, 1.60626700115
+ethernet placement, 1.60626700115
+local host information, 1.60626700115
+view hmc, 1.60626700115
+network deployment manager, 1.60626700115
+hot cpus, 1.60626700115
+examplesto list, 1.60626700115
+electrical voltage, 1.60626700115
+kerberos admin server, 1.60626700115
+hmc environment, 1.60626700115
+ibm tivoli usage, 1.60626700115
+iscsi initiator, 1.60626700115
+raid storage controller, 1.60626700115
+wlm class display, 1.60626700115
+snmp manager, 1.60626700115
+exit use, 1.60626700115
+html format, 1.60626700115
+system configure, 1.60626700115
+hmc support, 1.60626700115
+single local hmc, 1.60626700115
+new hmc, 1.60626700115
+ip address version, 1.60626700115
+domain suffix search order, 1.60626700115
+october 2013added information, 1.60626700115
+ibm registration website, 1.60626700115
+second fsp, 1.60626700115
+hmc remote command line, 1.60626700115
+next ip address, 1.60626700115
+ethernet device driver, 1.60626700115
+udp probe, 1.60626700115
+specified user id, 1.60626700115
+support configure, 1.60626700115
+web interface, 1.60626700115
+electronic service agent facility, 1.60626700115
+model id, 1.60626700115
+type reboot, 1.60626700115
+select language, 1.60626700115
+server search order, 1.60626700115
+mac prefix, 1.60626700115
+com ping, 1.60626700115
+configure multiple vios, 1.60626700115
+corresponding virtual scsi, 1.60626700115
+configuration category, 1.60626700115
+vlan priority option, 1.60626700115
+use http, 1.60626700115
+wlm display, 1.60626700115
+ssh protocol key generator, 1.60626700115
+lip count, 1.60626700115
+advanced tab, 1.60626700115
+integrated kerberos authentication, 1.60626700115
+second ethernet device, 1.60626700115
+boot capability, 1.60626700115
+scsi adapter scsi1, 1.60626700115
+ethernet adapter speed, 1.60626700115
+temperature sensor un, 1.60626700115
+hmc file system, 1.60626700115
+system vpd card, 1.60626700115
+secure ftp, 1.60626700115
+gigabit ethernet, 1.60626700115
+endday day, 1.60626700115
+wlm section, 1.60626700115
+normal mode boot, 1.60626700115
+starthour hour, 1.60626700115
+ipl mode, 1.60626700115
+parameter description networkservice, 1.60626700115
+unique physical location, 1.60626700115
+full screen wlm, 1.60626700115
+internet proxy, 1.60626700115
+unacceptable indicator, 1.60626700115
+remote command execution task, 1.60626700115
+premium search, 1.60626700115
+printing color, 1.60626700115
+hmc type, 1.60626700115
+endminute minute, 1.60626700115
+remote ftp site, 1.60626700115
+increase size, 1.60626700115
+drc name, 1.60626700115
+dvd drive, 1.60626700115
+mit kerberos, 1.60626700115
+sy system, 1.60626700115
+description use, 1.60626700115
+option rom version, 1.60626700115
+oth command root, 1.60626700115
+select console, 1.60626700115
+1st boot device, 1.60626700115
+dangerwhen working, 1.60626700115
+serial optical link, 1.60626700115
+list virtual opticonnect, 1.60626700115
+fru list, 1.60626700115
+configure boot device order, 1.60626700115
+light path, 1.60626700115
+type logical volume type, 1.60626700115
+invalid crc count, 1.60626700115
+fc traffic, 1.60626700115
+saving pdf fileslarge pdf, 1.60626700115
+hmc server, 1.60626700115
+bad block relocation policy, 1.60626700115
+contact ibm service, 1.60626700115
+default id, 1.60626700115
+hmc readme, 1.60626700115
+hmc level, 1.60626700115
+tab key, 1.60626700115
+machine id number, 1.60626700115
+type type, 1.60626700115
+fre size, 1.60626700115
+group data, 1.60626700115
+name format, 1.59993524387
+platform dump, 1.59993524387
+extraction list, 1.59993524387
+mkpath command, 1.59993524387
+console event, 1.59993524387
+network management, 1.59993524387
+internal code, 1.59993524387
+search list, 1.59993524387
+physical fibre channel adapter, 1.59993524387
+eth0 eth1, 1.59993524387
+new hardware, 1.59993524387
+packet size, 1.59993524387
+operator panel, 1.59361690675
+current directory, 1.59361690675
+physical location code, 1.59030222474
+physical location, 1.58933912131
+installation resource, 1.58731198937
+physical processor, 1.58102049107
+slot number, 1.57799957337
+machine code, 1.57799957337
+huge page, 1.57474241099
+shared processor, 1.54988862777
+virtual memory, 1.52973139927
+port group, 1.52973139927
+network installation, 1.52973139927
+system configuration data, 1.51149789164
+default format, 1.51149789164
+bus number, 1.51149789164
+system call, 1.51149789164
+virtual fibre channel adapter, 1.50923502162
+memory pool, 1.50812450228
+upgrade data, 1.50174448039
+block size, 1.50174448039
+processor mode, 1.50174448039
+rack cabinet, 1.49044505708
+unit type, 1.49044505708
+target device, 1.48825676885
+shared memory pool, 1.48131603702
+system management, 1.47977432098
+physical volume, 1.46996564404
+system management interface, 1.46847148899
+worldwide unique identifier, 1.46847148899
+memory use, 1.46299476178
+power cord, 1.46299476178
+dump device, 1.45809967806
+cfgdev command, 1.45809967806
+service focal point, 1.45809967806
+independent paging space, 1.45809967806
+probe packet, 1.45809967806
+processor consumption, 1.45809967806
+domain name server, 1.45809967806
+list utilization, 1.45809967806
+system backplane, 1.45809967806
+kernel thread, 1.45809967806
+system profile, 1.45809967806
+encrypted snmpdv3 agent, 1.45809967806
+mirror copy, 1.45809967806
+resource error, 1.45809967806
+process display, 1.45809967806
+device list, 1.45809967806
+package name, 1.45809967806
+name parameter, 1.45809967806
+object identifier, 1.45809967806
+enough room, 1.45809967806
+detailed segment report, 1.45809967806
+client file, 1.45809967806
+authorized key, 1.45809967806
+current user, 1.45809967806
+strict allocation, 1.45809967806
+file name format, 1.45809967806
+partition memory page, 1.45809967806
+change user interface, 1.45809967806
+progress code, 1.45809967806
+eth0 eth1 eth2 eth3, 1.45809967806
+socket buffer, 1.45809967806
+mkvdev command, 1.45809967806
+unique identifier, 1.44169293616
+virtual disk, 1.437063358
+serviceable event, 1.42915443231
+attribute name, 1.42648962043
+physical fibre channel port, 1.42178924406
+memory module, 1.42178924406
+long form, 1.42178924406
+relocation policy, 1.42178924406
+hard drive, 1.42178924406
+specified file, 1.40304109796
+virtual partition, 1.40304109796
+application log, 1.40304109796
+new logical volume, 1.40304109796
+user profile, 1.40304109796
+virtual processor, 1.40032391018
+fan cage, 1.39030803908
+partition configuration data, 1.38034979561
+port location, 1.38034979561
+console device, 1.38034979561
+operating environment, 1.38034979561
+default value, 1.37957894227
+next step, 1.37530071909
+storage pool, 1.3610193362
+real memory, 1.3361446477
+connection monitoring, 1.33284365423
+list partition, 1.33284365423
+processor power, 1.32296945292
+virtual memory manager, 1.32296945292
+physical volume name, 1.32296945292
+rsubtype eth, 1.32296945292
+corrective action, 1.32296945292
+path selection, 1.32296945292
+virtual slot, 1.30021376145
+control panel, 1.29905155937
+logical unit number, 1.29231140804
+tar image, 1.29231140804
+service position, 1.29231140804
+alignment error, 1.29231140804
+inbound connectivity, 1.29231140804
+logical volume type, 1.29231140804
+drmgr command, 1.29231140804
+list file, 1.29231140804
+elapsed time, 1.29231140804
+rmpath command, 1.29231140804
+file name archive, 1.29231140804
+other action, 1.29231140804
+kernel dump, 1.29231140804
+optical drive, 1.29231140804
+summary header, 1.29231140804
+process information, 1.29231140804
+login name, 1.29231140804
+client filesystem, 1.29231140804
+first physical partition, 1.29231140804
+adapter driver, 1.29231140804
+card slot, 1.29231140804
+logical partition number, 1.29231140804
+partition profile name, 1.29231140804
+affinity domain, 1.29231140804
+level slot, 1.29231140804
+rsubtype fc, 1.29231140804
+main display, 1.29231140804
+cfgnamesrv command, 1.29231140804
+street address, 1.29231140804
+socket buffer size, 1.29231140804
+temporary image, 1.29231140804
+advanced accounting, 1.29231140804
+microcode level, 1.29231140804
+machine id, 1.29231140804
+inetd subsystem, 1.29231140804
+image file, 1.29231140804
+device package, 1.29231140804
+unused capacity, 1.29231140804
+average number, 1.29231140804
+power system, 1.29231140804
+following command, 1.29133048906
+logical partition, 1.28241223112
+system configuration, 1.27841697099
+disk drive, 1.27352837542
+serviceable event view, 1.25714467013
+volume group, 1.25179689176
+isolation procedure, 1.2410222407
+physical memory, 1.21795717341
+ping test, 1.21715706071
+common paging space, 1.21300802203
+virtual partition system attention, 1.21300802203
+processor module, 1.21300802203
+standard input, 1.21300802203
+open problem, 1.21300802203
+journaled file system, 1.21300802203
+free list, 1.21300802203
+firmware fix, 1.21300802203
+wrist strap, 1.21300802203
+operating environment installation, 1.21300802203
+boot list, 1.20799921799
+optical device, 1.20712112324
+boot device, 1.19158955209
+domain name, 1.19158955209
+partition configuration, 1.17833277386
+shared processor pool, 1.17833277386
+keyboard tray, 1.17502565502
+configuration record, 1.17502565502
+pool size, 1.17502565502
+customer information, 1.17502565502
+virtual adapter, 1.17388841641
+maximum number, 1.17171636327
+redundant paging, 1.15172666968
+logical partition configuration data, 1.15172666968
+logical partition profile, 1.15172666968
+device type, 1.13532686562
+dedicated processor, 1.13478248613
+physical port, 1.12272027696
+data replication, 1.12272027696
+following message, 1.11795869464
+tape device, 1.10687380988
+specified mib, 1.09670933929
+logical host ethernet adapter, 1.09670933929
+ldap authentication configure, 1.09670933929
+ibm prerequisite website, 1.09670933929
+list npiv mapping information, 1.09670933929
+vgstate state, 1.09670933929
+mozilla firefox hmc version, 1.09670933929
+use code, 1.09670933929
+default fsp setting, 1.09670933929
+set iscsi target name, 1.09670933929
+hmc console, 1.09670933929
+rmvdev command purpose, 1.09670933929
+cpu information, 1.09670933929
+server device, 1.09670933929
+serviceable event task, 1.09670933929
+parameter description count, 1.09670933929
+ivm mkgencfg command purpose, 1.09670933929
+change user password task, 1.09670933929
+previous hmc version, 1.09670933929
+package status, 1.09670933929
+use power isolation, 1.09670933929
+mr total number, 1.09670933929
+java virtual machine, 1.09670933929
+local hostname host name, 1.09670933929
+profile lpar profile, 1.09670933929
+savevgstruct command purpose, 1.09670933929
+vsn capability, 1.09670933929
+target ip address, 1.09670933929
+press backspace key, 1.09670933929
+pgspout number, 1.09670933929
+select network service menu, 1.09670933929
+current ipl source, 1.09670933929
+separate physical ethernet interfaces, 1.09670933929
+display network diagnostic information, 1.09670933929
+pager pager device name, 1.09670933929
+same kdc, 1.09670933929
+partition status, 1.09670933929
+vfc client name, 1.09670933929
+additional support benefitsmy, 1.09670933929
+clear current name, 1.09670933929
+slot drc, 1.09670933929
+transmission current hw, 1.09670933929
+storage protection page, 1.09670933929
+select 4th boot device, 1.09670933929
+logical partitioning read, 1.09670933929
+command description, 1.09670933929
+strictness current state, 1.09670933929
+first hmc, 1.09670933929
+administrator page, 1.09670933929
+client v2, 1.09670933929
+unmount command purpose, 1.09670933929
+inbound connectivity task, 1.09670933929
+cuat object class, 1.09670933929
+ivm mksvcevent command purpose, 1.09670933929
+select 1st boot device, 1.09670933929
+active wlm, 1.09670933929
+ascii reference code string, 1.09670933929
+uname command purpose, 1.09670933929
+own lan switch, 1.09670933929
+inconsistent inode map, 1.09670933929
+owner column, 1.09670933929
+gbit port speed, 1.09670933929
+numclient percentage percentage, 1.09670933929
+separate vios, 1.09670933929
+mib object identifier, 1.09670933929
+maxclient percentage tuning parameter, 1.09670933929
+corresponding virtual fibre channel, 1.09670933929
+hmc home directory, 1.09670933929
+hmc access, 1.09670933929
+snmp trap configuration tab, 1.09670933929
+hmc hostname, 1.09670933929
+ping command purpose, 1.09670933929
+valid user id, 1.09670933929
+gb huge page, 1.09670933929
+mklv vgname, 1.09670933929
+performance toolbox, 1.09670933929
+full scripting support, 1.09670933929
+list interface ip, 1.09670933929
+ivm chsysstate command purpose, 1.09670933929
+external hmc modem, 1.09670933929
+local modem tab page, 1.09670933929
+open udp port range, 1.09670933929
+dsmc command purpose, 1.09670933929
+rmdev command purpose, 1.09670933929
+bus unique id, 1.09670933929
+sigint signal, 1.09670933929
+cattracerpt command purpose, 1.09670933929
+power architecture technology, 1.09670933929
+protocol menu, 1.09670933929
+extended reference code, 1.09670933929
+serviceable event notification window, 1.09670933929
+pci bridge set card, 1.09670933929
+device targetdevice, 1.09670933929
+lstcpip command purpose, 1.09670933929
+svmon command purpose, 1.09670933929
+hmc data window, 1.09670933929
+client v3, 1.09670933929
+ivm lslparmigr command purpose, 1.09670933929
+nonconcurrent repair, 1.09670933929
+ipv6 stateless configuration, 1.09670933929
+locale task, 1.09670933929
+pprc secondary device, 1.09670933929
+flag flag name description, 1.09670933929
+syntax prepdev, 1.09670933929
+pmem amount, 1.09670933929
+mib variable name, 1.09670933929
+server uname command, 1.09670933929
+korean parent topic, 1.09670933929
+bootmode override, 1.09670933929
+prepdev command purpose, 1.09670933929
+management partition telnet, 1.09670933929
+linkaggregation attribute, 1.09670933929
+lpar environment, 1.09670933929
+missing display, 1.09670933929
+hmc data back, 1.09670933929
+select hard drive type, 1.09670933929
+descriptionthe rmlvcopy command, 1.09670933929
+domain name example, 1.09670933929
+ios state, 1.09670933929
+numperm percentage percentage, 1.09670933929
+vendor disc, 1.09670933929
+hmc modem line port, 1.09670933929
+mklvcopy command purpose, 1.09670933929
+virtual processor version, 1.09670933929
+general network, 1.09670933929
+c050760547e90000 fcs0, 1.09670933929
+operation description, 1.09670933929
+outbound connectivity parent topic, 1.09670933929
+smtp address, 1.09670933929
+mib group, 1.09670933929
+xml data, 1.09670933929
+select import service key, 1.09670933929
+ioslevel command purpose, 1.09670933929
+ivm rstprofdata command purpose, 1.09670933929
+incorrect number, 1.09670933929
+memory resource assignment, 1.09670933929
+rpa partition type, 1.09670933929
+detailed installation, 1.09670933929
+configure paging vios, 1.09670933929
+shared memory review, 1.09670933929
+shutdown command purpose, 1.09670933929
+serviceable event overview panel, 1.09670933929
+paging space display size, 1.09670933929
+snmp function, 1.09670933929
+welcome text task, 1.09670933929
+minimum shared processing, 1.09670933929
+configured duplex value, 1.09670933929
+replacement fru, 1.09670933929
+block parent information ibm, 1.09670933929
+diagmenu command purpose, 1.09670933929
+post screen, 1.09670933929
+hmc model, 1.09670933929
+workload estimator, 1.09670933929
+administration server, 1.09670933929
+odm database, 1.09670933929
+demand server, 1.09670933929
+file list file, 1.09670933929
+link aggregation ent3, 1.09670933929
+wa processor idle time, 1.09670933929
+such shared ethernet adapter, 1.09670933929
+customize modem, 1.09670933929
+hmc code installation, 1.09670933929
+configure integrated kerberos authentication, 1.09670933929
+indirect internet connection, 1.09670933929
+pddv class, 1.09670933929
+link aggregation adapter ent7, 1.09670933929
+promiscuous mode, 1.09670933929
+chdate command purpose, 1.09670933929
+kerberos ktutil, 1.09670933929
+flag name description diskname, 1.09670933929
+original vios, 1.09670933929
+active memory expansion information, 1.09670933929
+hscroot password, 1.09670933929
+release memory, 1.09670933929
+vfc client drc, 1.09670933929
+shared memory pool page, 1.09670933929
+connection monitoring window, 1.09670933929
+keylockposition keylock position, 1.09670933929
+server amount, 1.09670933929
+parameter description adapter, 1.09670933929
+kerberos administrative user, 1.09670933929
+setup wizard log, 1.09670933929
+customize inbound connectivity, 1.09670933929
+list configuration, 1.09670933929
+sysstat command purpose, 1.09670933929
+maxperm percentage tuning parameter, 1.09670933929
+hard file network, 1.09670933929
+micropartition technology, 1.09670933929
+server v3, 1.09670933929
+vlan ethernet adapter, 1.09670933929
+destination snmp agent, 1.09670933929
+configfile installation configuration file, 1.09670933929
+provision vios, 1.09670933929
+pattern match group window, 1.09670933929
+domain name system, 1.09670933929
+lspath command purpose, 1.09670933929
+same eia, 1.09670933929
+showmount command purpose, 1.09670933929
+kdc configuration view, 1.09670933929
+task upgrading hmc code, 1.09670933929
+hmc web application, 1.09670933929
+ivm configuration, 1.09670933929
+vtd client partition id, 1.09670933929
+available state run cfgdev, 1.09670933929
+hmc management hmc management, 1.09670933929
+syntax lsmemdev, 1.09670933929
+predictive fault, 1.09670933929
+lvstate state, 1.09670933929
+repair serviceable event window, 1.09670933929
+basic scope, 1.09670933929
+support element, 1.09670933929
+ldap directory server, 1.09670933929
+integrated virtualization manager use, 1.09670933929
+multiple virtual ethernet, 1.09670933929
+set function, 1.09670933929
+entstat command purpose, 1.09670933929
+hsl loop configuration, 1.09670933929
+vfcmap command purpose, 1.09670933929
+redundant hmc environment, 1.09670933929
+virtuallpar change, 1.09670933929
+data integrity, 1.09670933929
+ipaddress flag, 1.09670933929
+remote virtual terminal window, 1.09670933929
+dhcp server section, 1.09670933929
+syntax lstcpip, 1.09670933929
+remote kerberos client machine, 1.09670933929
+technology level, 1.09670933929
+slot lp limit information, 1.09670933929
+sourcelogicalvolume parameter, 1.09670933929
+vios installation, 1.09670933929
+integrated hmc modem, 1.09670933929
+march 2010added information, 1.09670933929
+cpu planar, 1.09670933929
+cumulative cpu usage, 1.09670933929
+hmc menu bar, 1.09670933929
+item description standard output, 1.09670933929
+parameter name description networkservice, 1.09670933929
+automatic redistribution, 1.09670933929
+march 2013added information, 1.09670933929
+internet host, 1.09670933929
+chlang command purpose, 1.09670933929
+february 2010the following, 1.09670933929
+mac address format, 1.09670933929
+fi file, 1.09670933929
+optimizenet command purpose, 1.09670933929
+select privacy, 1.09670933929
+mklv command purpose, 1.09670933929
+dsa translation, 1.09670933929
+virtual serial server, 1.09670933929
+websphere application server, 1.09670933929
+select content, 1.09670933929
+default virtual ethernet adapter, 1.09670933929
+full screen disk, 1.09670933929
+vios base code, 1.09670933929
+full screen cec display, 1.09670933929
+ivm chsyscfg command purpose, 1.09670933929
+memory subsystem, 1.09670933929
+multiple high priority frus, 1.09670933929
+snmp set request, 1.09670933929
+duplex menu, 1.09670933929
+customize network, 1.09670933929
+general tab, 1.09670933929
+advanced select move, 1.09670933929
+ivm lsrefcode command purpose, 1.09670933929
+ping opus, 1.09670933929
+mib object prefix, 1.09670933929
+other frus, 1.09670933929
+current boot sequence, 1.09670933929
+disabled display, 1.09670933929
+select 5th boot device, 1.09670933929
+mib database, 1.09670933929
+seekbackup parameter, 1.09670933929
+management logical partitionthis option, 1.09670933929
+source source, 1.09670933929
+different nim, 1.09670933929
+following ipv6, 1.09670933929
+iscsi discovery selection menu, 1.09670933929
+pbuf number, 1.09670933929
+lslv lv03 information, 1.09670933929
+hmc dhcp private network, 1.09670933929
+scsi disk, 1.09670933929
+action description, 1.09670933929
+client virtual scsi adapter, 1.09670933929
+kdc server kerberos authentication, 1.09670933929
+tftp option, 1.09670933929
+wlm class information, 1.09670933929
+mem utilization, 1.09670933929
+utc time, 1.09670933929
+lslv command purpose, 1.09670933929
+additional ibm, 1.09670933929
+access access permission, 1.09670933929
+cpvdi command purpose, 1.09670933929
+smtp server name, 1.09670933929
+previous boot device entry, 1.09670933929
+link aggregation back, 1.09670933929
+partition data use, 1.09670933929
+chdev command purpose, 1.09670933929
+management taskpad, 1.09670933929
+dxm deficit, 1.09670933929
+processor subsystem, 1.09670933929
+fo file, 1.09670933929
+hardware inventory table, 1.09670933929
+dhcp server capability, 1.09670933929
+dynamic partitioning feature, 1.09670933929
+processor tab, 1.09670933929
+lsnetsvc command purpose, 1.09670933929
+status code, 1.09670933929
+logical volume identifier identifier, 1.09670933929
+parameter description cpu utilization, 1.09670933929
+proxy serverif, 1.09670933929
+session id, 1.09670933929
+hmc management pane, 1.09670933929
+configured virtual ethernet adapter, 1.09670933929
+use ssl proxy, 1.09670933929
+awwpns number, 1.09670933929
+september 2010the following, 1.09670933929
+mkpath command purpose, 1.09670933929
+ivm bkprofdata command purpose, 1.09670933929
+ethernet network address, 1.09670933929
+vios lpar name, 1.09670933929
+destination mac address, 1.09670933929
+number parameter result, 1.09670933929
+vios snmp agent, 1.09670933929
+matching mac address, 1.09670933929
+schedule transmission, 1.09670933929
+fc name, 1.09670933929
+pool percentage, 1.09670933929
+slot kvno principal, 1.09670933929
+kerberos realm name, 1.09670933929
+ivm mksyscfg command purpose, 1.09670933929
+restorevgstruct command purpose, 1.09670933929
+syntax entstat, 1.09670933929
+flag name description device, 1.09670933929
+world wide port name, 1.09670933929
+cpu context, 1.09670933929
+address match, 1.09670933929
+adapter internal data, 1.09670933929
+red hat, 1.09670933929
+pci class code, 1.09670933929
+backup authorization, 1.09670933929
+enterprise server version, 1.09670933929
+server migration dvd, 1.09670933929
+way icmp, 1.09670933929
+server admin tgt, 1.09670933929
+ipv6 router, 1.09670933929
+directory size, 1.09670933929
+kb block, 1.09670933929
+access csm, 1.09670933929
+internet connection protocol, 1.09670933929
+next turbocore mode, 1.09670933929
+interface network mask, 1.09670933929
+syntax lssw, 1.09670933929
+hpit average time, 1.09670933929
+network adapter mac address, 1.09670933929
+vtpm feature, 1.09670933929
+logical partition parent topic, 1.09670933929
+system wide mac prefix, 1.09670933929
+co number, 1.09670933929
+service request column, 1.09670933929
+mibvariable input, 1.09670933929
+ci number, 1.09670933929
+power hypervisor code, 1.09670933929
+support ipv6, 1.09670933929
+loginmsg command purpose, 1.09670933929
+sy system time, 1.09670933929
+traceroute command purpose, 1.09670933929
+ivm lpcfgop command purpose, 1.09670933929
+signal quality error, 1.09670933929
+mpsz size, 1.09670933929
+cpu subsection, 1.09670933929
+0x0000010000000000000000000000000000000000000000000000000000000000 class, 1.09670933929
+syntax traceroute, 1.09670933929
+cpu percent utilization, 1.09670933929
+hmc workplace welcome pane, 1.09670933929
+tape list tape, 1.09670933929
+welcome window content, 1.09670933929
+outbound connectivity customize, 1.09670933929
+target lun, 1.09670933929
+icmp header data, 1.09670933929
+process owner, 1.09670933929
+rmlvcopy command purpose, 1.09670933929
+rmlv command purpose, 1.09670933929
+committed state, 1.09670933929
+viewing hmc, 1.09670933929
+securitythis command, 1.09670933929
+system pci bus, 1.09670933929
+nim client daemon, 1.09670933929
+lsmap command purpose, 1.09670933929
+upgrade data window, 1.09670933929
+user information, 1.09670933929
+sea device name, 1.09670933929
+internet explorer compatibility mode, 1.09670933929
+bootlist command purpose, 1.09670933929
+hmc upgrade, 1.09670933929
+pci bus pci1, 1.09670933929
+ip subnet mask, 1.09670933929
+unique id number, 1.09670933929
+electronic service agent information, 1.09670933929
+specified ethernet device driver, 1.09670933929
+kerberos server admin, 1.09670933929
+configuration use, 1.09670933929
+clock vmm, 1.09670933929
+ibm tivoli monitoring agent, 1.09670933929
+use service processor isolation, 1.09670933929
+initial hmc installation, 1.09670933929
+logical partition memory mode, 1.09670933929
+epo switch, 1.09670933929
+hmc position, 1.09670933929
+pci bus isolation, 1.09670933929
+nim resource group, 1.09670933929
+ssl communication, 1.09670933929
+use word, 1.09670933929
+other hardware management, 1.09670933929
+careful consideration, 1.09670933929
+specified mac address, 1.09670933929
+september 2010added information, 1.09670933929
+view kdc server display, 1.09670933929
+view issuer, 1.09670933929
+user time, 1.09670933929
+enterprise enablement, 1.09670933929
+select autodetection, 1.09670933929
+system requirementsthe server, 1.09670933929
+slave kdc, 1.09670933929
+syntax chlang, 1.09670933929
+failed display, 1.09670933929
+pageout number, 1.09670933929
+extendlv command purpose, 1.09670933929
+welcome text window, 1.09670933929
+support hmc, 1.09670933929
+system id number, 1.09670933929
+access location information, 1.09670933929
+december 2010the following, 1.09670933929
+scheduling dpo, 1.09670933929
+cplv command purpose, 1.09670933929
+other web browser, 1.09670933929
+slot column, 1.09670933929
+gateway client ip address, 1.09670933929
+startnetsvc command purpose, 1.09670933929
+cfgnamesrv command purpose, 1.09670933929
+working test problem reporting, 1.09670933929
+open network adapter, 1.09670933929
+web browser pc, 1.09670933929
+ssh session, 1.09670933929
+full screen process screen, 1.09670933929
+processor resource assignment, 1.09670933929
+ivm none, 1.09670933929
+premium search list, 1.09670933929
+central time zone, 1.09670933929
+nim service handler, 1.09670933929
+additional virtual fibre channel, 1.09670933929
+vlan tag id, 1.09670933929
+value description 0c0, 1.09670933929
+kerberos remote user id, 1.09670933929
+state flag, 1.09670933929
+license command purpose view, 1.09670933929
+paging vios partition need, 1.09670933929
+traceselection use, 1.09670933929
+attribute description description, 1.09670933929
+command purposelist, 1.09670933929
+additional connectivity, 1.09670933929
+motd command purpose, 1.09670933929
+passive mode xml report, 1.09670933929
+ethernet bridge, 1.09670933929
+size logical volume size, 1.09670933929
+serviceable event status, 1.09670933929
+hmc adapter, 1.09670933929
+pv distribution, 1.09670933929
+vmm clock revolution, 1.09670933929
+destination ivm, 1.09670933929
+configure hmc firewall, 1.09670933929
+minimum processing, 1.09670933929
+outbound connectivity task, 1.09670933929
+subsystem pid, 1.09670933929
+select repair, 1.09670933929
+portable ssh, 1.09670933929
+network authentication service principal, 1.09670933929
+pdf format, 1.09670933929
+ppsize size, 1.09670933929
+viewing hardware inventory use, 1.09670933929
+sr user, 1.09670933929
+size physical volume name, 1.09670933929
+source vios logical partition, 1.09670933929
+start recording cec, 1.09670933929
+selecting boot, 1.09670933929
+raid enablement card, 1.09670933929
+parameter description user, 1.09670933929
+rmlvcopy lv0112 related information, 1.09670933929
+hmc connection status, 1.09670933929
+integrated virtualization manager interface, 1.09670933929
+access mib, 1.09670933929
+fsbuf number, 1.09670933929
+nim master hostname, 1.09670933929
+unix root shell, 1.09670933929
+virtual ethernet topology, 1.09670933929
+syntax mksvcevent, 1.09670933929
+available uptime partition uptime, 1.09670933929
+corresponding uxxxx value, 1.09670933929
+kernel thread context, 1.09670933929
+cd directory, 1.09670933929
+security access control, 1.09670933929
+oem software installation, 1.09670933929
+local hmc use, 1.09670933929
+resource synchronization, 1.09670933929
+set boot sequence menu, 1.09670933929
+email tab, 1.09670933929
+cfglnagg command purpose, 1.09670933929
+list virtual opticonnect resource, 1.09670933929
+critical console information back, 1.09670933929
+parameter description value, 1.09670933929
+winsnmp name, 1.09670933929
+direct internet ssl connectionif, 1.09670933929
+mkvdev targetadapter, 1.09670933929
+internet vpn tab, 1.09670933929
+lpar lpar name, 1.09670933929
+networkservice parameter, 1.09670933929
+incomplete state, 1.09670933929
+user request authorization, 1.09670933929
+redundancy preferencesthe, 1.09670933929
+command purpose switch, 1.09670933929
+pdump command purpose, 1.09670933929
+ivm rmsyscfg command purpose, 1.09670933929
+personalized web, 1.09670933929
+isolation information symbolic frus, 1.09670933929
+use hsm, 1.09670933929
+linux operating system, 1.09670933929
+english version, 1.09670933929
+firefox browser, 1.09670933929
+usb hd, 1.09670933929
+pp size size, 1.09670933929
+support manager window, 1.09670933929
+hmc user password, 1.09670933929
+cy clock, 1.09670933929
+fru part, 1.09670933929
+administrative lan, 1.09670933929
+default ldap server port, 1.09670933929
+tftp boot, 1.09670933929
+base memory configuration, 1.09670933929
+hmc platform, 1.09670933929
+hmc welcome page, 1.09670933929
+device name description fdxx, 1.09670933929
+value1 value2, 1.09670933929
+dynamic lpar command, 1.09670933929
+status window, 1.09670933929
+configuration option example, 1.09670933929
+ok session, 1.09670933929
+value address, 1.09670933929
+sea shared ethernet adapter, 1.09670933929
+partition firmware, 1.09670933929
+fsck command purpose, 1.09670933929
+only hmc, 1.09670933929
+immed force, 1.09670933929
+exit status failure, 1.09670933929
+client shared ethernet adapter, 1.09670933929
+pci card location, 1.09670933929
+re pager, 1.09670933929
+form bbbb ccxx, 1.09670933929
+rail alignment spacer, 1.09670933929
+snmp protocol, 1.09670933929
+different src, 1.09670933929
+connection monitoring task, 1.09670933929
+execution technology, 1.09670933929
+support manager page, 1.09670933929
+stale number, 1.09670933929
+own unique vtpm, 1.09670933929
+topasrec command purpose, 1.09670933929
+lvname name, 1.09670933929
+encrypted tgt back, 1.09670933929
+use dhcp, 1.09670933929
+medium priority frus, 1.09670933929
+world wide node name, 1.09670933929
+process snmp, 1.09670933929
+vpn configure, 1.09670933929
+page new fi, 1.09670933929
+hmc interfaces, 1.09670933929
+vtd backing status, 1.09670933929
+vlan device, 1.09670933929
+customer information task, 1.09670933929
+default user id hscroot, 1.09670933929
+computing group, 1.09670933929
+net list network, 1.09670933929
+0x010f00 port type, 1.09670933929
+adapter data rate, 1.09670933929
+server version, 1.09670933929
+single physical ethernet port, 1.09670933929
+icmp data, 1.09670933929
+slot lp limit column, 1.09670933929
+volume group state state, 1.09670933929
+particular virtual scsi adapter, 1.09670933929
+npiv binding information, 1.09670933929
+normal ipl mode, 1.09670933929
+master parameter, 1.09670933929
+siz number, 1.09670933929
+hmc education, 1.09670933929
+backup function, 1.09670933929
+integrated ethernet adapter, 1.09670933929
+local ip, 1.09670933929
+level sys list, 1.09670933929
+hardware inventory panel, 1.09670933929
+capacity upgrade, 1.09670933929
+entire mib tree, 1.09670933929
+point file system, 1.09670933929
+serviceable event notification task, 1.09670933929
+access asmi, 1.09670933929
+vlan tagging, 1.09670933929
+extendlv lv05 3m, 1.09670933929
+hmc code version, 1.09670933929
+monitor resource usage, 1.09670933929
+internet ssl address, 1.09670933929
+call answer tab, 1.09670933929
+chlv command purpose, 1.09670933929
+minperm percentage tuning parameter, 1.09670933929
+dynamic lpar operation failure, 1.09670933929
+current arp table, 1.09670933929
+magnetic tape unit model, 1.09670933929
+ipl type, 1.09670933929
+reboot type, 1.09670933929
+hmc kerberos configuration, 1.09670933929
+iscsi ping test, 1.09670933929
+remote service tab, 1.09670933929
+repair serviceable event, 1.09670933929
+processor failsif, 1.09670933929
+errlog command purpose, 1.09670933929
+physical io, 1.09670933929
+xml format, 1.09670933929
+startsysdump command purpose, 1.09670933929
+lsfware command purpose, 1.09670933929
+managing raid, 1.09670933929
+destination msp, 1.09670933929
+node wwn, 1.09670933929
+administrative user id, 1.09670933929
+maxmem maximummemory, 1.09670933929
+pci system bus number, 1.09670933929
+input asn, 1.09670933929
+internal asn, 1.09670933929
+override automatic cookie handling, 1.09670933929
+paging paging, 1.09670933929
+syntax rmsyscfg, 1.09670933929
+missing backing device, 1.09670933929
+final cd, 1.09670933929
+vmstat command purpose, 1.09670933929
+rmpath command purpose, 1.09670933929
+sample default output, 1.09670933929
+vdb path, 1.09670933929
+ibm eserver, 1.09670933929
+setting ipv6, 1.09670933929
+vios version, 1.09670933929
+web browser log, 1.09670933929
+controlhost object, 1.09670933929
+ip gateway, 1.09670933929
+change ip, 1.09670933929
+pagein number, 1.09670933929
+nim master nimsys01, 1.09670933929
+managing power7, 1.09670933929
+ip address range, 1.09670933929
+shared ethernet adapter lv, 1.09670933929
+deploy system plan wizard, 1.09670933929
+beginning problem analysis, 1.09670933929
+kdc discovery, 1.09670933929
+ivm migrlpar command purpose, 1.09670933929
+mkkrb5clnt command purpose, 1.09670933929
+progress indicator history, 1.09670933929
+syntax mkgencfg, 1.09670933929
+maxpin percentage tuning parameter, 1.09670933929
+use isolation, 1.09670933929
+pci adapter, 1.09670933929
+last modified date, 1.09670933929
+large mtu, 1.09670933929
+config change configuration, 1.09670933929
+use internet vpn connectivity, 1.09670933929
+level resourcelevel, 1.09670933929
+typical nim, 1.09670933929
+new user id, 1.09670933929
+pool column, 1.09670933929
+pool size size, 1.09670933929
+change scsi id, 1.09670933929
+physical memory 4k, 1.09670933929
+mwc mirror, 1.09670933929
+welcome work pane, 1.09670933929
+dvd optical device, 1.09670933929
+single integrated ethernet port, 1.09670933929
+applied state, 1.09670933929
+configured flow control value, 1.09670933929
+lslparinfo command purpose, 1.09670933929
+memory mirroring option, 1.09670933929
+reboot diagnosis netstat, 1.09670933929
+usb flash memory drive, 1.09670933929
+psz page size, 1.09670933929
+context menuthe context menu, 1.09670933929
+ftp back, 1.09670933929
+time change, 1.09670933929
+ivm lsmemdev command purpose, 1.09670933929
+rsubtype resourcesubtype, 1.09670933929
+iscsi option, 1.09670933929
+firmware level minimum number, 1.09670933929
+stopnetsvc command purpose, 1.09670933929
+lan console, 1.09670933929
+ip number, 1.09670933929
+encrypted ssl, 1.09670933929
+auto scope, 1.09670933929
+list parameter, 1.09670933929
+newvalue attribute, 1.09670933929
+change user password window, 1.09670933929
+dual bulk power, 1.09670933929
+seastat command purpose, 1.09670933929
+ivm environment, 1.09670933929
+ldap remote authentication, 1.09670933929
+com gateway information, 1.09670933929
+location code suffix, 1.09670933929
+task id task name, 1.09670933929
+devicename flag, 1.09670933929
+advanced setup menu, 1.09670933929
+select 2nd boot device, 1.09670933929
+f10 key, 1.09670933929
+remote virtual terminal task, 1.09670933929
+default server, 1.09670933929
+change link aggregation, 1.09670933929
+devicetype flag, 1.09670933929
+id processor idle time, 1.09670933929
+inventory use, 1.09670933929
+stoptrace command purpose, 1.09670933929
+pgspin number, 1.09670933929
+syntax cpvdi, 1.09670933929
+next sppl value, 1.09670933929
+adapter menu, 1.09670933929
+version release, 1.09670933929
+network adapter parent topic, 1.09670933929
+hmc private network, 1.09670933929
+base udp port number, 1.09670933929
+system task, 1.09670933929
+hmc web browser support, 1.09670933929
+source virtual scsi, 1.09670933929
+use openssl, 1.09670933929
+advanced setup option, 1.09670933929
+local hardware management console, 1.09670933929
+same cec, 1.09670933929
+maximum shared processing, 1.09670933929
+primary diskette drive, 1.09670933929
+lssw command purpose, 1.09670933929
+fcs0 device type, 1.09670933929
+select 3rd boot device, 1.09670933929
+setup wizard configure, 1.09670933929
+adapter id, 1.09670933929
+cudv object class, 1.09670933929
+seadefaultpvid value, 1.09670933929
+local hmc operator, 1.09670933929
+local private lan, 1.09670933929
+valid mac address prefix, 1.09670933929
+select new certificate, 1.09670933929
+taskpadthis view, 1.09670933929
+other spmi consumer, 1.09670933929
+bootp blocksize, 1.09670933929
+topas command purpose, 1.09670933929
+portable openssh, 1.09670933929
+privileged command database, 1.09670933929
+oem set, 1.09670933929
+replacement priority, 1.09670933929
+iscsi network, 1.09670933929
+mklv vg02 1m, 1.09670933929
+wlm screen, 1.09670933929
+ssh authentication, 1.09670933929
+unix socket family, 1.09670933929
+pc number, 1.09670933929
+phone server, 1.09670933929
+f1 key, 1.09670933929
+syntax bootlist, 1.09670933929
+link aggregation set, 1.09670933929
+iscsi port, 1.09670933929
+ivm chsvcevent command purpose, 1.09670933929
+physical ethernet adapter ent4, 1.09670933929
+mkvdev command purpose, 1.09670933929
+open service management, 1.09670933929
+mib information, 1.09670933929
+active memory expansion view, 1.09670933929
+same ntp server, 1.09670933929
+volume group panel, 1.09670933929
+valid sample, 1.09670933929
+last post indicator speaker, 1.09670933929
+parameter description networkservice use, 1.09670933929
+connected hmc, 1.09670933929
+ldfware command purpose, 1.09670933929
+service key kerberos, 1.09670933929
+client mac address, 1.09670933929
+active profile, 1.09670933929
+internet tab, 1.09670933929
+smtp protocol, 1.09670933929
+aix status, 1.09670933929
+multiple ethernet, 1.09670933929
+dma underrun error, 1.09670933929
+migration tab, 1.09670933929
+ivm chvet command purpose, 1.09670933929
+nieq total number, 1.09670933929
+fsp private network, 1.09670933929
+exit statussee, 1.09670933929
+ssl encryption, 1.09670933929
+web browser control, 1.09670933929
+poolid memory pool id, 1.09670933929
+version release service pack, 1.09670933929
+description switch, 1.09670933929
+partition keylock position, 1.09670933929
+established tcp, 1.09670933929
+specific mac address, 1.09670933929
+syntax restorevgstruct, 1.09670933929
+error event log view, 1.09670933929
+unacceptable icon, 1.09670933929
+format task, 1.09670933929
+available scsi adapter scsi0, 1.09670933929
+gbit port fc id, 1.09670933929
+processor performance option, 1.09670933929
+modern configurationand, 1.09670933929
+specific ip, 1.09670933929
+syntax topasrec, 1.09670933929
+ssl proxy internet vpn, 1.09670933929
+virtual server adapter virtualserveradapter, 1.09670933929
+size requirementsthe, 1.09670933929
+select filter, 1.09670933929
+linux logical partition, 1.09670933929
+scsi tape drive rmt0, 1.09670933929
+securityany user, 1.09670933929
+inconsistent disk map, 1.09670933929
+change date, 1.09670933929
+instance parameter sequence, 1.09670933929
+following vmm, 1.09670933929
+starttrace command purpose, 1.09670933929
+hpt size, 1.09670933929
+cfgdev command purpose, 1.09670933929
+kdc server realm, 1.09670933929
+syntax traditional usage, 1.09670933929
+shared processing, 1.09589548813
+optimum buffer size, 1.09290706404
+late collision, 1.09290706404
+configure network, 1.09290706404
+carrier sense, 1.09290706404
+textual name, 1.09290706404
+getbulk request, 1.09290706404
+normal mode, 1.09290706404
+ss format, 1.09290706404
+physical server, 1.09290706404
+key string, 1.09290706404
+chdev command, 1.09290706404
+reboot value, 1.09290706404
+particular resource, 1.09290706404
+other operation, 1.09290706404
+read size, 1.09290706404
+minimum processor, 1.09290706404
+processor utilization, 1.09290706404
+migration installation, 1.09290706404
+record remote command status, 1.09290706404
+dynamic reconfiguration, 1.09290706404
+blue line, 1.09290706404
+name flag, 1.09290706404
+failed partition migration, 1.09290706404
+sampling interval, 1.09290706404
+database file, 1.09290706404
+current physical processor consumption, 1.09290706404
+new worldwide port, 1.09290706404
+remote support facility, 1.09290706404
+reference code lookup information, 1.09290706404
+status overview, 1.09290706404
+main store, 1.09290706404
+partition migration operation, 1.09290706404
+virtual host, 1.09290706404
+list reference, 1.09290706404
+chpath command, 1.09290706404
+rsubtype iopool, 1.09290706404
+target worldwide port, 1.09290706404
+configure testbox, 1.09290706404
+hypervisor page, 1.09290706404
+additional processing, 1.09290706404
+cplv command, 1.09290706404
+migrlpar command, 1.09290706404
+default display, 1.09290706404
+binary format, 1.09290706404
+ssh connection, 1.09290706404
+block replacement group, 1.09290706404
+level pool, 1.09290706404
+bootlist command, 1.09290706404
+active memory sharing, 1.09290706404
+passive mode, 1.09290706404
+virtual host adapter, 1.09290706404
+generic device, 1.09290706404
+much error data, 1.09290706404
+hardware platform, 1.09290706404
+specific serviceable event, 1.09290706404
+replication service, 1.09290706404
+late collision error, 1.09290706404
+dial prefix, 1.09290706404
+window scaling, 1.09290706404
+ip othersystem, 1.09290706404
+current message, 1.09290706404
+move operation, 1.0891096201
+virtual serial adapter, 1.0891096201
+level indicator, 1.0891096201
+system startup, 1.0891096201
+search order, 1.0891096201
+list information, 1.0891096201
+true memory, 1.0891096201
+virtual server adapter, 1.0891096201
+lspath command, 1.0891096201
+new command, 1.0891096201
+power control, 1.0891096201
+available state, 1.0891096201
+huge page memory, 1.0891096201
+full path name, 1.0891096201
+target system, 1.0891096201
+allocation policy, 1.0891096201
+memory compression, 1.0891096201
+symbolic link, 1.08531700744
+partition number, 1.08531700744
+task group, 1.08531700744
+shared processing pool, 1.08531700744
+network interfaces, 1.08152922595
+local system, 1.08152922595
+logical name, 1.07774627553
+system unit, 1.06642640913
+user interface, 1.06642640913
+logical partition configuration, 1.0626627813
+main menu, 1.04765656792
+open network, 1.04765656792
+private network, 1.02819870462
+filter data, 1.02819870462
+worldwide port name, 1.02767669053
+paging storage pool, 1.0259897194
+configuration data, 1.01417502758
+system log, 1.00583024185
+maximum logical memory, 1.00583024185
+memory configuration, 0.992411975547
+paging device, 0.987260146845
+configurable processing, 0.9864972163
+outbound connectivity, 0.9864972163
+time zone, 0.9864972163
+shared processing mode, 0.9864972163
+memory affinity, 0.9864972163
+data type, 0.9864972163
+time stamp, 0.9864972163
+logical memory, 0.976197603933
+menu item, 0.971768406684
+service processor, 0.948660339884
+new version, 0.947274054298
+status flag, 0.947274054298
+unique integer id, 0.947274054298
+system port, 0.947274054298
+page frame, 0.947274054298
+private service network, 0.947274054298
+service daemon, 0.947274054298
+auxiliary storage, 0.947274054298
+current number, 0.947274054298
+terminal connection, 0.947274054298
+scheduled operation, 0.947274054298
+system default, 0.947274054298
+select boot, 0.947274054298
+data cable, 0.947274054298
+rsubtype pgdev, 0.947274054298
+super administrator, 0.947274054298
+destination file, 0.947274054298
+utilization data, 0.947274054298
+ticket lifetime, 0.947274054298
+processor resource, 0.930867312395
+logical port, 0.928115246063
+compatibility mode, 0.92371122674
+front fan, 0.92371122674
+remote command execution, 0.92371122674
+remote support, 0.92371122674
+tape drive, 0.92371122674
+virtual device, 0.92371122674
+double quotation, 0.916451055415
+shared storage pool, 0.910692190865
+system back, 0.910692190865
+shared storage, 0.910692190865
+worldwide port, 0.89232851699
+maximum amount, 0.880858530487
+error log, 0.880858530487
+dedicated processor mode, 0.880858530487
+memory block size, 0.876535785412
+context menu, 0.876535785412
+backup device, 0.876535785412
+community name, 0.876535785412
+maximum processing, 0.876535785412
+serial adapter, 0.876535785412
+maximum logical memory size, 0.876535785412
+maximum processing unit, 0.876535785412
+network service, 0.876535785412
+code level, 0.876034511735
+following information, 0.871607544539
+memory mode, 0.854456290362
+virtual slot number, 0.854456290362
+network adapter, 0.854456290362
+remote system, 0.854456290362
+partition name, 0.853542130117
+device driver, 0.84943228058
+specified device, 0.84943228058
+status bar, 0.84943228058
+partition memory, 0.84943228058
+sample count, 0.842859524024
+variable binding, 0.842859524024
+packet loss, 0.842859524024
+computational page, 0.842859524024
+startup sequence, 0.842859524024
+segment level, 0.842859524024
+fcstat command, 0.842859524024
+permanent image, 0.842859524024
+pgsz option, 0.842859524024
+repair procedure, 0.842859524024
+filesystem layer, 0.842859524024
+chlv command, 0.842859524024
+unused segment, 0.842859524024
+domain name entry, 0.842859524024
+incremental file system, 0.842859524024
+identification string, 0.842859524024
+sixth tape, 0.842859524024
+column name, 0.842859524024
+affinity argument, 0.842859524024
+device data, 0.842859524024
+local resolver, 0.842859524024
+rsubtype unit, 0.842859524024
+large number, 0.842859524024
+necessary set, 0.842859524024
+input data file, 0.842859524024
+remote web browser, 0.842859524024
+volume header, 0.842859524024
+ssh command key, 0.842859524024
+lssw output, 0.842859524024
+last reset, 0.842859524024
+pgsz argument, 0.842859524024
+padmin authority, 0.842859524024
+support strategy, 0.842859524024
+initial logical partition configuration, 0.842859524024
+variable binding pair, 0.842859524024
+mmap subroutine, 0.842859524024
+specified adapter, 0.842859524024
+logical volume lv03, 0.842859524024
+initiator name, 0.842859524024
+modification level, 0.842859524024
+file segment, 0.842859524024
+lldpsvc attribute, 0.842859524024
+size report, 0.842859524024
+base field, 0.842859524024
+seastat command, 0.842859524024
+shared value, 0.842859524024
+test logical partition, 0.842859524024
+status overview icon, 0.842859524024
+green line, 0.842859524024
+shmid argument, 0.842859524024
+degraded performance, 0.842859524024
+air flow, 0.842859524024
+use service, 0.842859524024
+window size, 0.842859524024
+pool page, 0.842859524024
+local installation resource, 0.842859524024
+startsysdump command, 0.842859524024
+part number, 0.842859524024
+debug information, 0.842859524024
+idle channel, 0.842859524024
+service object, 0.842859524024
+dedicated logical partition, 0.842859524024
+specific file, 0.842859524024
+new path, 0.842859524024
+restricted shell, 0.842859524024
+certificate error, 0.842859524024
+open network type, 0.842859524024
+tunable parameter, 0.842859524024
+server admin, 0.842859524024
+specified volume, 0.842859524024
+sum structure, 0.842859524024
+test environment, 0.842859524024
+hardware service provider, 0.842859524024
+rewind tape device, 0.842859524024
+network tuning, 0.842859524024
+entstat command, 0.842859524024
+base device, 0.842859524024
+tape archive, 0.842859524024
+bad block relocation, 0.842859524024
+hardware control host, 0.842859524024
+next volume, 0.842859524024
+encrypted version, 0.842859524024
+object name, 0.842859524024
+amber fault, 0.842859524024
+sortseg argument, 0.842859524024
+system segment, 0.842859524024
+resource group, 0.842859524024
+default socket buffer, 0.842859524024
+next menu, 0.842859524024
+snmpdv1 agent, 0.842859524024
+next whole number, 0.842859524024
+following column, 0.842859524024
+default authentication scheme, 0.842859524024
+local hard drive, 0.842859524024
+tier number, 0.842859524024
+current report, 0.842859524024
+lstcpip command, 0.842859524024
+dash sign, 0.842859524024
+destination host, 0.842859524024
+address translation, 0.842859524024
+invalid flag, 0.842859524024
+local installation, 0.842859524024
+partition mobility, 0.842859524024
+network file system, 0.842859524024
+entire file system, 0.842859524024
+rsubtype scsi, 0.842859524024
+mixed page size segment, 0.842859524024
+shared pool, 0.842859524024
+extendlv command, 0.842859524024
+remote virtual terminal connection, 0.842859524024
+hot network interfaces, 0.842859524024
+new option, 0.842859524024
+other partition profile, 0.842859524024
+domain entry, 0.842859524024
+device microcode, 0.842859524024
+configure domain, 0.842859524024
+next system, 0.842859524024
+vhost2 virtual server adapter, 0.842859524024
+device software, 0.842859524024
+critical console information, 0.842859524024
+ip migivm2, 0.842859524024
+optimizenet command, 0.842859524024
+server firmware, 0.837143467857
+device name, 0.836289497571
+data source, 0.834002579156
+location label, 0.834002579156
+remote service, 0.834002579156
+call home, 0.834002579156
+subnet mask, 0.834002579156
+full path, 0.834002579156
+memory amount, 0.834002579156
+server adapter, 0.833806089238
+service provider, 0.826875560564
+network interface, 0.823232136787
+memory block, 0.805159546389
+problem analysis, 0.805159546389
+command execution, 0.805159546389
+maximum memory, 0.805159546389
+minimum memory, 0.805159546389
+logical partitioning, 0.805159546389
+service mode, 0.805159546389
+profile name, 0.805159546389
+load source, 0.805159546389
+proxy server, 0.805159546389
+resource type, 0.801356738784
+capped mode, 0.784001889553
+external network, 0.781485784278
+test problem reporting, 0.781485784278
+minimum memory amount, 0.781485784278
+blank value, 0.781485784278
+line report, 0.781485784278
+information center, 0.781485784278
+maximum memory value, 0.781485784278
+remote service session, 0.781485784278
+mkgencfg command, 0.781485784278
+mover service partition, 0.781485784278
+rmdev command, 0.781485784278
+output file, 0.781485784278
+loop number, 0.781485784278
+deploy system plan, 0.781485784278
+workload demand, 0.781485784278
+hard disk drive, 0.781485784278
+partition power, 0.781485784278
+standard error, 0.781485784278
+deploy system, 0.781485784278
+flow control, 0.781485784278
+paging activity, 0.781485784278
+time server, 0.781485784278
+display information, 0.781485784278
+memory information, 0.781485784278
+name command, 0.781485784278
+path status, 0.781485784278
+device configuration database, 0.781485784278
+unique integer identifier, 0.781485784278
+integrated cluster, 0.781485784278
+path definition, 0.781485784278
+shutdown command, 0.781485784278
+backup tape, 0.781485784278
+network type, 0.781485784278
+cluster communication, 0.781485784278
+detail level, 0.781485784278
+upgrade data task, 0.781485784278
+system name, 0.781485784278
+re fi, 0.753761858918
+ftp daemon, 0.752637383484
+realm name, 0.752637383484
+repair action, 0.752637383484
+bootable device, 0.752637383484
+only paging, 0.752637383484
+total amount, 0.752637383484
+service mode boot, 0.752637383484
+pool utilization, 0.752637383484
+wait time, 0.752637383484
+memory region size, 0.752637383484
+shared processing unit, 0.752637383484
+connectivity method, 0.752637383484
+virtual optical device, 0.752637383484
+service network, 0.752637383484
+system power, 0.735182788019
+service partition, 0.735182788019
+local modem, 0.735182788019
+id option, 0.735182788019
+device logical name, 0.735182788019
+minimum size, 0.735182788019
+feature code, 0.723040531278
+processing mode, 0.723040531278
+shared processor mode, 0.723040531278
+memory size, 0.723040531278
+work pane table, 0.713804445824
+memory region, 0.706331436939
+minimum number, 0.69447853433
+total number, 0.676800817782
+operating system, 0.669249285438
+header record, 0.643147196695
+only attribute, 0.643093637249
+hard disk, 0.643093637249
+following table, 0.642750852475
+power supply, 0.64242820427
+standard output, 0.64242820427
+user name, 0.640901045912
+specified resource type, 0.640901045912
+command line interface, 0.638105461725
+service information, 0.638105461725
+mode attribute, 0.638105461725
+physical storage, 0.633331883694
+user role, 0.633331883694
+interruptible event, 0.633331883694
+default gateway, 0.625221357131
+local host, 0.625221357131
+specific device, 0.625221357131
+group name, 0.625221357131
+multiboot startup, 0.625221357131
+logical device name, 0.625221357131
+configurable memory, 0.625221357131
+remote site, 0.625221357131
+multiple attribute value, 0.625221357131
+shared mode, 0.610801817676
+processing power, 0.610801817676
+location code format, 0.610801817676
+optional console switch, 0.610801817676
+blade server, 0.610801817676
+home directory, 0.610801817676
+device configuration, 0.610801817676
+bridge number, 0.610801817676
+telnet daemon, 0.610801817676
+location identifier, 0.610801817676
+following output, 0.610801817676
+other partition, 0.610801817676
+minimum amount, 0.610801817676
+device attribute, 0.610801817676
+error information, 0.610801817676
+disk space, 0.610801817676
+cimserver daemon, 0.610801817676
+navigation pane, 0.603802887184
+following format, 0.601597666033
+partition data, 0.58208144027
+telephone cable, 0.58208144027
+main storage, 0.58208144027
+bridge function number, 0.58208144027
+hardware inventory, 0.58208144027
+first volume, 0.58208144027
+cache storage controller, 0.58208144027
+backup archive, 0.58208144027
+backup file, 0.58208144027
+relative path name, 0.58208144027
+keylock position, 0.58208144027
+lsdev command, 0.58208144027
+view current status, 0.58208144027
+cache battery card, 0.58208144027
+unused processing, 0.58208144027
+space reservation, 0.58208144027
+trace log, 0.58208144027
+last time, 0.58208144027
+line port, 0.58208144027
+unpainted metal surface, 0.58208144027
+specified message, 0.58208144027
+other shared processor, 0.58208144027
+node name, 0.58208144027
+web server, 0.58208144027
+partition migration information, 0.58208144027
+separate line, 0.58208144027
+miscellaneous hardware kit, 0.58208144027
+trace data, 0.58208144027
+promiscuous logical partition, 0.58208144027
+bridge function, 0.58208144027
+message path, 0.58208144027
+external modem, 0.58208144027
+modem data cable, 0.58208144027
+type disk, 0.58208144027
+new certificate, 0.58208144027
+off everything, 0.58208144027
+flow control value, 0.58208144027
+backup adapter, 0.58208144027
+chsyscfg command, 0.58208144027
+maximum time, 0.58208144027
+relative path, 0.58208144027
+service data, 0.58208144027
+mouse pointer, 0.58208144027
+sample interval, 0.58208144027
+fast path, 0.58208144027
+use other connectivity, 0.58208144027
+source address, 0.58208144027
+rsubtype bus, 0.58208144027
+sharing mode, 0.581168293985
+current configuration, 0.581168293985
+dedicated memory, 0.581168293985
+host name, 0.573114555983
+logical volume name, 0.570703602183
+system event, 0.555986446614
+management partition, 0.543826905829
+client adapter, 0.543010178692
+delimiter separated list, 0.543010178692
+block storage, 0.534512092557
+block storage device, 0.534512092557
+firmware level, 0.534512092557
+new value, 0.534512092557
+system level, 0.534512092557
+use shared memory, 0.53120256916
+many service, 0.515737902958
+client logical partition, 0.515164095631
+output destination, 0.507654712486
+rsubtype pgdev flag, 0.507654712486
+filename option, 0.507654712486
+decimal format, 0.507654712486
+string parameter, 0.507654712486
+object type, 0.507654712486
+activation information, 0.507654712486
+filename argument, 0.507654712486
+unmount command, 0.507654712486
+step 1b, 0.507654712486
+trace level, 0.507654712486
+replacement processor, 0.507654712486
+replacement part, 0.507654712486
+frame number, 0.507654712486
+page replacement, 0.507654712486
+green power indicator, 0.507654712486
+disk map, 0.507654712486
+enough physical processor capacity, 0.507654712486
+getnext request, 0.507654712486
+default back, 0.507654712486
+definition file, 0.507654712486
+backup level, 0.507654712486
+mklvcopy command, 0.507654712486
+mapping argument, 0.507654712486
+configured level, 0.507654712486
+mkkrb5clnt command, 0.507654712486
+memory pool information, 0.507654712486
+trap function, 0.507654712486
+mklv command, 0.507654712486
+load source device, 0.507654712486
+local public key, 0.507654712486
+root volume group, 0.507654712486
+diagmenu command, 0.507654712486
+bootable tape, 0.507654712486
+physical system attention, 0.507654712486
+label field, 0.507654712486
+display additional information, 0.507654712486
+partition activation, 0.507654712486
+motd command, 0.507654712486
+lsrefcode command, 0.507654712486
+additional processing capacity, 0.507654712486
+rset registry, 0.507654712486
+same physical volume, 0.507654712486
+reporting unit, 0.507654712486
+local drive, 0.507654712486
+specified boot list, 0.507654712486
+open online, 0.507654712486
+virtual port level, 0.507654712486
+data collection, 0.507654712486
+first access, 0.507654712486
+platform firmware, 0.507654712486
+shlap root, 0.507654712486
+view information, 0.507654712486
+left portion, 0.507654712486
+logical volume fslv03, 0.507654712486
+file location, 0.507654712486
+svm file, 0.507654712486
+different shared processor, 0.507654712486
+system requirement, 0.507654712486
+additional stanza, 0.507654712486
+inner edge, 0.507654712486
+large system, 0.507654712486
+lsnetsvc command, 0.507654712486
+long report format, 0.507654712486
+exec system, 0.507654712486
+specified directory, 0.507654712486
+parent slot, 0.507654712486
+prepdev command, 0.507654712486
+cfglnagg command, 0.507654712486
+additional copy, 0.507654712486
+dial prefix string, 0.507654712486
+day file, 0.507654712486
+lssw command, 0.507654712486
+single flag, 0.507654712486
+chled command, 0.507654712486
+specified prefix, 0.507654712486
+cd device, 0.507654712486
+failover configuration, 0.507654712486
+search list entry, 0.507654712486
+restorevgstruct command, 0.507654712486
+many software, 0.507654712486
+recent boot, 0.507654712486
+logical memory block size, 0.507654712486
+maxmem parameter, 0.507654712486
+range attribute, 0.507654712486
+lssyscfg command, 0.507654712486
+individual page, 0.507654712486
+power device, 0.507654712486
+server performance, 0.507654712486
+committed fileset, 0.507654712486
+columnar form, 0.507654712486
+dedicated mode, 0.507654712486
+dedicated service, 0.507654712486
+installation kit, 0.507654712486
+archive extraction, 0.507654712486
+configure domain name, 0.507654712486
+chsvcevent command, 0.507654712486
+secondary dump device, 0.507654712486
+vmstat command, 0.507654712486
+specific name, 0.507654712486
+specified volume number, 0.507654712486
+svmonrc configuration file, 0.507654712486
+integrated login, 0.507654712486
+length error, 0.507654712486
+partition assignment, 0.507654712486
+errlog command, 0.507654712486
+filter row, 0.507654712486
+lrud root, 0.507654712486
+xmgc root, 0.507654712486
+long time, 0.507654712486
+nonstrict allocation, 0.507654712486
+fourth archive, 0.507654712486
+full class, 0.507654712486
+current date, 0.507654712486
+installation image source, 0.507654712486
+target disk, 0.507654712486
+hardware failure, 0.507654712486
+mode option, 0.507654712486
+duplex value, 0.507654712486
+display current setting, 0.507654712486
+unattached segment, 0.507654712486
+license command, 0.507654712486
+disk device special file, 0.507654712486
+possible back, 0.507654712486
+list recoverable memory, 0.507654712486
+virtual firewall, 0.507654712486
+image file source, 0.507654712486
+enclosure type, 0.507654712486
+filtertype argument, 0.507654712486
+appropriate error message, 0.507654712486
+different optimum buffer, 0.507654712486
+top object, 0.507654712486
+number sign, 0.507654712486
+archived message, 0.507654712486
+status text, 0.507654712486
+millisecond granularity, 0.507654712486
+command syntax, 0.507654712486
+partition vioserver, 0.507654712486
+new password, 0.507654712486
+fiber channel, 0.507654712486
+file system information, 0.507654712486
+error log file, 0.507654712486
+configure logical partition, 0.507654712486
+free hard drive space, 0.507654712486
+additional storage, 0.507654712486
+pattern match method, 0.507654712486
+target number, 0.507654712486
+filterprop argument, 0.507654712486
+pattern matching, 0.507654712486
+slot information, 0.507654712486
+parameter value, 0.507654712486
+paging storage pool value, 0.507654712486
+possible firmware fix, 0.507654712486
+connection state, 0.507654712486
+chvet command, 0.507654712486
+tape device block size, 0.507654712486
+fifth archive, 0.507654712486
+last system startup, 0.507654712486
+dump option, 0.507654712486
+stoptrace command, 0.507654712486
+capped processing, 0.507654712486
+memory module failure, 0.507654712486
+mksyscfg command, 0.507654712486
+return partition mobility, 0.507654712486
+current console, 0.507654712486
+list partition migration information, 0.507654712486
+list service, 0.507654712486
+complete object identifier, 0.507654712486
+archive format, 0.507654712486
+installation action, 0.507654712486
+activation history log, 0.507654712486
+ioslevel command, 0.507654712486
+outgoing probe, 0.507654712486
+raw name, 0.507654712486
+superstrict allocation, 0.507654712486
+different partition profile, 0.507654712486
+report summary, 0.507654712486
+physical volume id, 0.507654712486
+browser session, 0.507654712486
+free buffer, 0.507654712486
+restoresymtable file, 0.507654712486
+service boot list, 0.507654712486
+corrective service, 0.507654712486
+same path, 0.507654712486
+address translation fault, 0.507654712486
+read access, 0.507654712486
+virtual partition memory page, 0.507654712486
+inode map, 0.507654712486
+network installation operation, 0.507654712486
+net type, 0.507654712486
+missing software, 0.507654712486
+active user, 0.507654712486
+unit model, 0.507654712486
+specific operating environment version, 0.507654712486
+redundant service processor, 0.507654712486
+next option, 0.507654712486
+total paging space, 0.507654712486
+virtual memory activity, 0.507654712486
+errdemon root, 0.507654712486
+init root, 0.507654712486
+entire file system archive, 0.507654712486
+internet support, 0.507654712486
+domain affinity, 0.507654712486
+diagnostic test, 0.507654712486
+network boot image, 0.507654712486
+different shared processor pool, 0.507654712486
+memory usage, 0.507654712486
+technical information, 0.507654712486
+name use, 0.507654712486
+external pager client filesystem, 0.507654712486
+system backup image, 0.507654712486
+power button, 0.507654712486
+server hardware, 0.507654712486
+set option, 0.507654712486
+display memory compression, 0.507654712486
+additional processing unit, 0.507654712486
+processor compatibility mode, 0.507654712486
+cpvdi command, 0.507654712486
+summary argument, 0.507654712486
+remote public key, 0.507654712486
+workstation adapter, 0.507654712486
+memory consumption pgsp, 0.507654712486
+lsvet command, 0.507654712486
+loginmsg command, 0.507654712486
+possible boot, 0.507654712486
+real memory consumption pin, 0.507654712486
+mksvcevent command, 0.507654712486
+large disk, 0.507654712486
+same value, 0.507654712486
+gateway address, 0.507654712486
+inode number, 0.507654712486
+lslparinfo command, 0.507654712486
+topasrec command, 0.507654712486
+work area, 0.507654712486
+executable program, 0.507654712486
+rmlv command, 0.507654712486
+primary dump device, 0.507654712486
+line format, 0.507654712486
+process level, 0.507654712486
+block device, 0.507654712486
+possible package, 0.507654712486
+partition type, 0.507654712486
+processor context switch, 0.507654712486
+shutdown completion message, 0.507654712486
+system configuration row, 0.507654712486
+lssysconn command, 0.507654712486
+ping test menu, 0.507654712486
+read system, 0.507654712486
+consistency state, 0.507654712486
+recoverable memory pool, 0.507654712486
+supply circuit, 0.507654712486
+fixed drawer, 0.507654712486
+user volume group, 0.507654712486
+production logical partition, 0.507654712486
+filterpgsz argument, 0.507654712486
+rsubtype hsl, 0.507654712486
+lsfware command, 0.507654712486
+input backing device, 0.507654712486
+extendlv lv05, 0.507654712486
+topas display, 0.507654712486
+gil root, 0.507654712486
+partition allocation, 0.507654712486
+default output, 0.507654712486
+ambient temperature, 0.507654712486
+safe location, 0.507654712486
+event log, 0.507654712486
+enough memory, 0.507654712486
+licensed program, 0.507654712486
+lsled command, 0.507654712486
+chlang command, 0.507654712486
+installation progress pane, 0.507654712486
+set back, 0.507654712486
+hardware problem information, 0.507654712486
+lslparutil command, 0.507654712486
+asm proxy code, 0.507654712486
+top part, 0.507654712486
+output backing device, 0.507654712486
+rmsyscfg command, 0.507654712486
+rsubtype virtualopti, 0.507654712486
+installation method, 0.507654712486
+showmount command, 0.507654712486
+particular page size, 0.507654712486
+base memory, 0.507654712486
+paging space page, 0.507654712486
+same volume group, 0.507654712486
+debugging level, 0.507654712486
+reserved processing unit value, 0.507654712486
+input device, 0.507654712486
+filtercat option, 0.507654712486
+stopnetsvc command, 0.507654712486
+specified action, 0.507654712486
+ping canopus, 0.507654712486
+logical partition memory, 0.507654712486
+working persistent client, 0.507654712486
+change network, 0.507654712486
+filterprop option, 0.507654712486
+outer middle, 0.507654712486
+logical partition power, 0.507654712486
+magnetic tape, 0.507654712486
+name status, 0.507654712486
+special understanding, 0.507654712486
+netm root, 0.507654712486
+paging service, 0.507654712486
+kernel buffer, 0.507654712486
+notification type, 0.507654712486
+remote partition, 0.507654712486
+com xyz, 0.507654712486
+block range, 0.507654712486
+gateway client, 0.507654712486
+initial size, 0.507654712486
+syncd root, 0.507654712486
+read system call, 0.507654712486
+enforced processor resource limit, 0.507654712486
+information center search function, 0.507654712486
+backup set, 0.507654712486
+filterpgsz option, 0.507654712486
+level back, 0.507654712486
+same disk, 0.507654712486
+appropriate procedure, 0.507654712486
+rstprofdata command, 0.507654712486
+output format, 0.507654712486
+partition boot mode, 0.507654712486
+list shared processor pool, 0.507654712486
+off value, 0.507654712486
+default maximum number, 0.507654712486
+rmvdev command, 0.507654712486
+default minimum number, 0.507654712486
+dsmc command, 0.507654712486
+command behavior, 0.507654712486
+activatevg command, 0.507654712486
+specific directory, 0.507654712486
+system firmware level, 0.507654712486
+directory entry, 0.507654712486
+actual snmp agent, 0.507654712486
+history information, 0.507654712486
+additional resource, 0.507654712486
+outer slide, 0.507654712486
+shared storage pool feature, 0.507654712486
+current reference code, 0.507654712486
+processor context, 0.507654712486
+local modem dialing, 0.507654712486
+memory tab, 0.507654712486
+pdump command, 0.507654712486
+current configuration capability, 0.507654712486
+microcode level information, 0.507654712486
+following syntax, 0.507654712486
+overall time, 0.507654712486
+action plan, 0.507654712486
+process subsection, 0.507654712486
+sysstat command, 0.507654712486
+page size header, 0.507654712486
+list mode, 0.507654712486
+shared processing pool utilization, 0.507654712486
+partition configuration image operation, 0.507654712486
+parallel scheduling policy, 0.507654712486
+ninth archive, 0.507654712486
+change storage, 0.507654712486
+possible source, 0.507654712486
+available display, 0.507654712486
+format option, 0.507654712486
+disk information, 0.507654712486
+lslparmigr command, 0.507654712486
+nonzero return code, 0.507654712486
+operating system level, 0.507654712486
+starttrace command, 0.507654712486
+page space, 0.507654712486
+total time, 0.507654712486
+virtual processor ratio, 0.507654712486
+share hardware, 0.507654712486
+server firmware fix, 0.507654712486
+fibre channel port name, 0.507654712486
+default main display, 0.507654712486
+lvmbb root, 0.507654712486
+outer edge, 0.507654712486
+virtual terminal window, 0.507654712486
+same logical partition, 0.507654712486
+boot field, 0.507654712486
+ldfware command, 0.507654712486
+service mode boot list, 0.507654712486
+connectivity information, 0.507654712486
+last reboot, 0.507654712486
+inner middle, 0.507654712486
+following selection, 0.507654712486
+additional line, 0.507654712486
+integer number, 0.507654712486
+physical volume hdisk6, 0.507654712486
+specified segment, 0.507654712486
+new copy, 0.507654712486
+file type, 0.507654712486
+support information, 0.507654712486
+lsmemdev command, 0.507654712486
+tape head, 0.507654712486
+filtertype option, 0.507654712486
+nonsparse database, 0.507654712486
+video cable, 0.507654712486
+particular system, 0.507654712486
+inet0 family, 0.507654712486
+service focal point reporting, 0.507654712486
+default memory block size, 0.507654712486
+chsysstate command, 0.507654712486
+new level, 0.507654712486
+true memory information, 0.507654712486
+selection box, 0.507654712486
+fix pack, 0.507654712486
+active time, 0.507654712486
+default file system, 0.507654712486
+append memory compression information, 0.507654712486
+instance qualifier, 0.507654712486
+mapping information, 0.507654712486
+previous boot device, 0.507654712486
+device driver level, 0.507654712486
+specific physical location code, 0.507654712486
+reserve attribute, 0.507654712486
+setup environment, 0.507654712486
+specific parent, 0.507654712486
+service request number, 0.507654712486
+backup parameter, 0.507654712486
+fork system, 0.507654712486
+barrier synchronization register, 0.507654712486
+lslv command, 0.507654712486
+mover service partition name, 0.507654712486
+bit mask, 0.507654712486
+specified host, 0.507654712486
+platform service authority, 0.507654712486
+other logical partition, 0.503423297568
+automatic replication, 0.501322955203
+single path, 0.501322955203
+system serial number, 0.501322955203
+maximum size, 0.501322955203
+alphabetic character, 0.501322955203
+next boot, 0.501322955203
+uncapped mode, 0.501322955203
+serial number, 0.498462583573
+output field, 0.466277799031
+parent device, 0.466277799031
+root user, 0.466277799031
+warning message, 0.466277799031
+menu bar, 0.445540459229
+next level, 0.445540459229
+command line, 0.445197769016
+company network, 0.445013547656
+remote management, 0.445013547656
+following process, 0.445013547656
+workload management group, 0.445013547656
+default adapter, 0.445013547656
+unit id, 0.445013547656
+previous level, 0.445013547656
+local authentication, 0.445013547656
+specific attribute, 0.445013547656
+system status, 0.445013547656
+service request, 0.445013547656
+verbose mode, 0.445013547656
+new server, 0.445013547656
+flat panel, 0.445013547656
+physical optical device, 0.445013547656
+set password, 0.445013547656
+server name, 0.445013547656
+boot device order, 0.445013547656
+current state, 0.445013547656
+available memory, 0.445013547656
+specified user, 0.445013547656
+file space, 0.445013547656
+function number, 0.445013547656
+ssh facility, 0.445013547656
+adapter type, 0.445013547656
+private key, 0.445013547656
+column configuration, 0.424550661669
+access data, 0.424550661669
+system data, 0.424550661669
+shared memory weight, 0.424550661669
+telephone number, 0.424550661669
+default boot list, 0.424550661669
+dynamic partitioning, 0.424550661669
+unacceptable state, 0.424550661669
+problem reporting, 0.424550661669
+multiple partition, 0.412885602974
+physical device, 0.412885602974
+current value, 0.412885602974
+sequence number, 0.412885602974
+memory resource, 0.404512267848
+following example, 0.404512267848
+return code, 0.389825446378
+logical device, 0.369859200318
+license agreement, 0.369841475131
+activation code, 0.369841475131
+remote user, 0.369841475131
+problem report, 0.367458007894
+detailed information, 0.367458007894
+server model, 0.367458007894
+whole number, 0.367458007894
+specified value, 0.359487389396
+first time, 0.359487389396
+authorized service provider, 0.359487389396
+dd command, 0.359487389396
+hardware kit, 0.359487389396
+start system management, 0.359487389396
+console data, 0.359487389396
+terminal session, 0.359487389396
+status message, 0.359487389396
+terminal window, 0.359487389396
+work pane, 0.354179632356
+service action, 0.343080647492
+error message, 0.340147332397
+system error log information, 0.332033900258
+flat panel monitor, 0.332033900258
+type parameter, 0.332033900258
+list paging, 0.332033900258
+format https, 0.332033900258
+input field, 0.332033900258
+startnetsvc command, 0.332033900258
+path specific attribute, 0.332033900258
+shared library, 0.332033900258
+list box, 0.332033900258
+enough space, 0.332033900258
+boot mode, 0.332033900258
+volume group vg02, 0.332033900258
+table list, 0.332033900258
+specific path, 0.332033900258
+connection status, 0.332033900258
+pool offline, 0.332033900258
+user confirmation, 0.332033900258
+savevgstruct command, 0.332033900258
+password policy, 0.332033900258
+change partition, 0.332033900258
+middle hole, 0.332033900258
+single logical partition, 0.332033900258
+cage nut, 0.332033900258
+default paging storage pool, 0.332033900258
+specified path, 0.332033900258
+internal level, 0.332033900258
+chlparutil command, 0.332033900258
+digit year, 0.332033900258
+lpcfgop command, 0.332033900258
+overall system status, 0.332033900258
+exception list, 0.332033900258
+vfcmap command, 0.332033900258
+only use, 0.332033900258
+single invocation, 0.332033900258
+fixed extent size, 0.332033900258
+upper case, 0.332033900258
+task switcher, 0.332033900258
+virtual system attention, 0.332033900258
+cattracerpt command, 0.332033900258
+system type, 0.332033900258
+regular expression, 0.332033900258
+device file, 0.332033900258
+physical block size, 0.332033900258
+server firmware memory, 0.332033900258
+physical adapter, 0.332033900258
+errorlog option, 0.332033900258
+network mask, 0.332033900258
+default shared processor pool, 0.332033900258
+current selection, 0.332033900258
+firmware microcode, 0.332033900258
+device information, 0.332033900258
+file cache, 0.332033900258
+initiate service mode, 0.332033900258
+memory capacity, 0.332033900258
+host principal, 0.332033900258
+modem access, 0.332033900258
+time period, 0.332033900258
+following character, 0.332033900258
+duplex setting, 0.332033900258
+trace session, 0.332033900258
+first device, 0.332033900258
+previous boot, 0.332033900258
+use problem analysis, 0.332033900258
+clip nut, 0.332033900258
+service authority, 0.332033900258
+use dynamic partitioning, 0.332033900258
+hardware resource configuration, 0.332033900258
+enough disk space, 0.332033900258
+available processing, 0.332033900258
+file system device, 0.332033900258
+backup operation, 0.332033900258
+bkprofdata command, 0.332033900258
+enough physical memory, 0.332033900258
+client operating, 0.332033900258
+maximum processing unit value, 0.332033900258
+locale name, 0.332033900258
+following device, 0.332033900258
+consolidated system, 0.332033900258
+sample rate, 0.332033900258
+administrator name, 0.332033900258
+only file, 0.332033900258
+use memory affinity, 0.332033900258
+default user, 0.332033900258
+internal level indicator, 0.332033900258
+function request, 0.332033900258
+only device, 0.332033900258
+connection speed, 0.332033900258
+client operating system, 0.332033900258
+ac power, 0.332033900258
+exit code, 0.332033900258
+path information, 0.332033900258
+problem information, 0.332033900258
+tape device name, 0.332033900258
+verbose output, 0.332033900258
+display memory, 0.332033900258
+hardware feature, 0.332033900258
+operating environment installation resource, 0.332033900258
+locale setting, 0.332033900258
+concurrent repair, 0.332033900258
+diskette device, 0.332033900258
+public network, 0.332033900258
+specified type, 0.332033900258
+rsubtype taggedio, 0.332033900258
+server use, 0.332033900258
+interface address, 0.332033900258
+port number, 0.32317695539
+memory weight, 0.32317695539
+comma separated list, 0.304428809291
+shared memory configuration, 0.300652259741
+memory allocation, 0.300652259741
+current status, 0.300652259741
+independent server, 0.300652259741
+physical system, 0.300652259741
+system firmware, 0.278887422112
+machine type, 0.268078191038
+uncapped sharing mode, 0.257496577005
+configuration file, 0.257496577005
+single root, 0.257496577005
+processing priority, 0.257496577005
+profile data, 0.257496577005
+connection information, 0.257496577005
+network connection, 0.253682429933
+hardware configuration, 0.245609203649
+duplex mode, 0.245609203649
+output device, 0.245609203649
+hardware error, 0.245609203649
+specific information, 0.245609203649
+unique decimal identifier, 0.245609203649
+card position, 0.245609203649
+power source, 0.245609203649
+open network interface, 0.245609203649
+regular file, 0.245609203649
+use memory, 0.245609203649
+current configuration data, 0.245609203649
+network speed, 0.245609203649
+default profile, 0.245609203649
+remote access, 0.245609203649
+persistent storage, 0.245609203649
+local file, 0.245609203649
+name attribute, 0.245609203649
+configuration information, 0.237385272419
+system information, 0.234231365562
+network administrator, 0.224357164253
+same time, 0.213457031086
+navigation area, 0.198013812436
+decimal value, 0.198013812436
+default file, 0.193699119376
+appropriate information, 0.193699119376
+boot image, 0.193699119376
+dedicated memory mode, 0.193699119376
+client configuration, 0.193699119376
+remote client, 0.193699119376
+hardware problem, 0.193699119376
+problem determination, 0.193699119376
+logical partition name, 0.193699119376
+contact service, 0.193699119376
+single partition, 0.193699119376
+electrical outlet, 0.193699119376
+partition memory mode, 0.193699119376
+maximum value, 0.193699119376
+processor failure, 0.158816693933
+entire system, 0.158816693933
+customer task, 0.158816693933
+current setting, 0.158816693933
+system boot, 0.158816693933
+network device, 0.133598175077
+default setting, 0.133598175077
+other shared memory, 0.133598175077
+topic collection, 0.130075422146
+expansion unit, 0.130075422146
+table toolbar, 0.114395733365
+exit value, 0.0867881773259
+additional information, 0.0612388661288
+backslash character, -0.000634450664392
+physical port performance, -0.000634450664392
+object class path definition, -0.000634450664392
+dynamic reconfiguration connection drc, -0.000634450664392
+operating system device, -0.000634450664392
+field replaceable unit fru, -0.000634450664392
+change route, -0.000634450664392
+active cpu mem disk, -0.000634450664392
+range volt ac, -0.000634450664392
+defaultvirtualethernetadapter seadefaultpvid, -0.000634450664392
+chlv newlogicalvolumename, -0.000634450664392
+gb exit status, -0.000634450664392
+ip internet protocol, -0.000634450664392
+port port gigabit, -0.000634450664392
+pool use, -0.000634450664392
+heavy equipmentpersonal injury, -0.000634450664392
+incorrect result status status, -0.000634450664392
+csm cluster, -0.000634450664392
+java virtual machine jvm, -0.000634450664392
+regular output, -0.000634450664392
+access control rbac, -0.000634450664392
+dump system related information, -0.000634450664392
+link hsl opticonnect feature, -0.000634450664392
+hdisk7 utmp0, -0.000634450664392
+instance description, -0.000634450664392
+lv name size, -0.000634450664392
+group low priority frus, -0.000634450664392
+ibm system support, -0.000634450664392
+power distribution bus pdb, -0.000634450664392
+remote support facility rsf, -0.000634450664392
+start kernel dump, -0.000634450664392
+service read, -0.000634450664392
+system unit go, -0.000634450664392
+flag virtual ethernet, -0.000634450664392
+id parent topic, -0.000634450664392
+new logical volume syntax, -0.000634450664392
+syntax cfgdev name description, -0.000634450664392
+isolate pci bus problem, -0.000634450664392
+physport set, -0.000634450664392
+virtual information, -0.000634450664392
+scsi mb harddisk, -0.000634450664392
+logical volume state state, -0.000634450664392
+ip remote server ip, -0.000634450664392
+collectionheader comment tag, -0.000634450664392
+logport lp id, -0.000634450664392
+check file system, -0.000634450664392
+blower card connector iop, -0.000634450664392
+second server v2, -0.000634450664392
+first unmount file system, -0.000634450664392
+syntax lsnetsvc networkservice description, -0.000634450664392
+handling problem, -0.000634450664392
+internal cache 2f, -0.000634450664392
+vtscsi2 u9111, -0.000634450664392
+user pid ppid pri, -0.000634450664392
+search mac address, -0.000634450664392
+lsdev devicename physicallocationcode fieldname, -0.000634450664392
+following command dd, -0.000634450664392
+data text page, -0.000634450664392
+backplane p1, -0.000634450664392
+configure path, -0.000634450664392
+use shared memory pool, -0.000634450664392
+delimter lstcpip, -0.000634450664392
+close serviceable event, -0.000634450664392
+down logical partition, -0.000634450664392
+additional column, -0.000634450664392
+pcie specification, -0.000634450664392
+segment use, -0.000634450664392
+syntax showmount host description, -0.000634450664392
+syntax rmlvcopy logicalvolume physicalvolume, -0.000634450664392
+ktutil ktutil rkt, -0.000634450664392
+isolate failure, -0.000634450664392
+sea0 type, -0.000634450664392
+hmc management administration, -0.000634450664392
+select dump, -0.000634450664392
+id lpar id, -0.000634450664392
+syntax chvet activation code, -0.000634450664392
+lpar logical partition, -0.000634450664392
+port use udp hmc, -0.000634450664392
+hot workload management wlm, -0.000634450664392
+access process ccin ccin, -0.000634450664392
+vtscsi3 u9111, -0.000634450664392
+import plan, -0.000634450664392
+device specified device, -0.000634450664392
+fsp flexible service processor, -0.000634450664392
+chdev udid, -0.000634450664392
+rsubtype slot eth, -0.000634450664392
+svm svmon, -0.000634450664392
+data related information, -0.000634450664392
+slot pci4 sisscsia0 u787a, -0.000634450664392
+syntax startnetsvc networkservice description, -0.000634450664392
+end trace session, -0.000634450664392
+lvm logical volume manager, -0.000634450664392
+lpnum logical partition number, -0.000634450664392
+partition following header, -0.000634450664392
+file segment use, -0.000634450664392
+kb mb, -0.000634450664392
+fcs0 fc loc code, -0.000634450664392
+rmvdev lnaggdevice targetinterface description, -0.000634450664392
+rock ridge iso9660, -0.000634450664392
+pgspout client, -0.000634450664392
+user host display, -0.000634450664392
+speed autodetection, -0.000634450664392
+showmount middelburg related information, -0.000634450664392
+rack r001, -0.000634450664392
+logport logical port id, -0.000634450664392
+ssh hmcuser hmchostname, -0.000634450664392
+processor card device diskette, -0.000634450664392
+network lan connection, -0.000634450664392
+hmc configure network, -0.000634450664392
+processor iop, -0.000634450664392
+fan a1, -0.000634450664392
+multicast address bit, -0.000634450664392
+electronic service agent version, -0.000634450664392
+lun connection, -0.000634450664392
+gb tb, -0.000634450664392
+hardware management console hmc, -0.000634450664392
+name physloc fabric, -0.000634450664392
+phys display, -0.000634450664392
+display tree view, -0.000634450664392
+hdisk1 u9111, -0.000634450664392
+workload management group attribute, -0.000634450664392
+changed related informationthe, -0.000634450664392
+gb card port, -0.000634450664392
+table processor, -0.000634450664392
+mothra interval, -0.000634450664392
+phase boot, -0.000634450664392
+managedsystem description, -0.000634450664392
+chled sa, -0.000634450664392
+hmc configure, -0.000634450664392
+advanced system management asm, -0.000634450664392
+indirect ssl, -0.000634450664392
+panel disk panel view, -0.000634450664392
+vtscsi0 u9111, -0.000634450664392
+mkvdev targetadapter tagid description, -0.000634450664392
+syntax svmon svmon, -0.000634450664392
+rootvg related informationthe command, -0.000634450664392
+processor regulator processor module, -0.000634450664392
+lan sol session, -0.000634450664392
+root system, -0.000634450664392
+prime administrator padmin, -0.000634450664392
+maximum transmission unit mtu, -0.000634450664392
+powerpc firmware version, -0.000634450664392
+mirror copy serialio serialization, -0.000634450664392
+layer ssl encryption, -0.000634450664392
+word 0x0000000100000105, -0.000634450664392
+licensed internal code lic, -0.000634450664392
+ipv6 talk, -0.000634450664392
+processor utilization processor utilization, -0.000634450664392
+numeric key parent topic, -0.000634450664392
+modem use, -0.000634450664392
+electrostatic discharge esd, -0.000634450664392
+data cec, -0.000634450664392
+specified summary report, -0.000634450664392
+sign feature, -0.000634450664392
+syntax errlog sequencenumber, -0.000634450664392
+swwpns awwpns fcs0 u789d, -0.000634450664392
+format diskette, -0.000634450664392
+delimiter description, -0.000634450664392
+id virtualization npiv, -0.000634450664392
+hmc connector j03, -0.000634450664392
+jfslog journaled file system, -0.000634450664392
+display summary, -0.000634450664392
+region location, -0.000634450664392
+vtscsi4 u9111, -0.000634450664392
+min minimum size, -0.000634450664392
+new topic, -0.000634450664392
+syntax diagmenu description, -0.000634450664392
+affinity detail argument, -0.000634450664392
+standard output stdin, -0.000634450664392
+partition server, -0.000634450664392
+wait time detail level, -0.000634450664392
+bracket keyboard, -0.000634450664392
+uinteger request, -0.000634450664392
+rack use, -0.000634450664392
+shared storage pool ssp, -0.000634450664392
+tape description, -0.000634450664392
+place period, -0.000634450664392
+select navigation key use, -0.000634450664392
+partition operator panel function, -0.000634450664392
+configure new kdc server, -0.000634450664392
+oid octetstring opaque opaqueascii, -0.000634450664392
+rmvdev seadevice, -0.000634450664392
+value csv format, -0.000634450664392
+unit type utttt, -0.000634450664392
+configure set, -0.000634450664392
+display security warning, -0.000634450664392
+link hsl pool, -0.000634450664392
+activation code key, -0.000634450664392
+websphere commerce, -0.000634450664392
+view listing, -0.000634450664392
+delimiter fieldname description, -0.000634450664392
+scsi0 related information, -0.000634450664392
+stoptrace related information, -0.000634450664392
+system data setting, -0.000634450664392
+bridge network traffic, -0.000634450664392
+db2 database, -0.000634450664392
+cron sample, -0.000634450664392
+dynamic partitioning dlpar, -0.000634450664392
+change port connection assignment, -0.000634450664392
+remote system user description, -0.000634450664392
+display only mb, -0.000634450664392
+smtp server type, -0.000634450664392
+deallocate clientobjectname, -0.000634450664392
+process cec, -0.000634450664392
+compliance powersc, -0.000634450664392
+unit fru location code, -0.000634450664392
+rsubtype unit list, -0.000634450664392
+lpar logicalpartition, -0.000634450664392
+hmc online information, -0.000634450664392
+management csm configuration, -0.000634450664392
+word number, -0.000634450664392
+register user id, -0.000634450664392
+management information base mib, -0.000634450664392
+storage area network san, -0.000634450664392
+hdisk3 u9111, -0.000634450664392
+ping local host, -0.000634450664392
+day filter default, -0.000634450664392
+help description, -0.000634450664392
+following header, -0.000634450664392
+ft power cord, -0.000634450664392
+security payload esp, -0.000634450664392
+pagein pageout paging space, -0.000634450664392
+vhost2 u9111, -0.000634450664392
+interface numbering eth0, -0.000634450664392
+first time process, -0.000634450664392
+new logical volume type, -0.000634450664392
+syntax lsfware name description, -0.000634450664392
+console console, -0.000634450664392
+share peripheral component, -0.000634450664392
+plan successful system upgrade, -0.000634450664392
+device slot hardware address, -0.000634450664392
+top system, -0.000634450664392
+name valid filter, -0.000634450664392
+initiate connection, -0.000634450664392
+hour filter default, -0.000634450664392
+administrator system account, -0.000634450664392
+service mode hard drive, -0.000634450664392
+system unit un, -0.000634450664392
+device max, -0.000634450664392
+hmc version code, -0.000634450664392
+aix uname command, -0.000634450664392
+mr memory, -0.000634450664392
+virtual host adapter vhostx, -0.000634450664392
+space time cpu, -0.000634450664392
+access control list acl, -0.000634450664392
+run power enterprise, -0.000634450664392
+security user, -0.000634450664392
+user field, -0.000634450664392
+processor module vrm, -0.000634450664392
+hdisk5 utmp0, -0.000634450664392
+lv01 parent topic, -0.000634450664392
+prof logical partition profile, -0.000634450664392
+shared memory partition subset, -0.000634450664392
+down network interface, -0.000634450664392
+syntax motd filename motd, -0.000634450664392
+display warning message, -0.000634450664392
+ssh secure shell login, -0.000634450664392
+display record, -0.000634450664392
+location code utttt, -0.000634450664392
+select navigation key selecting, -0.000634450664392
+partition profile partition profile, -0.000634450664392
+direct select address dsa, -0.000634450664392
+syntax rmdev name description, -0.000634450664392
+manager management server, -0.000634450664392
+select location, -0.000634450664392
+object descriptor textual name, -0.000634450664392
+syntax lslparinfo description, -0.000634450664392
+order system, -0.000634450664392
+slot vhost0 u9111, -0.000634450664392
+demand cod, -0.000634450664392
+clear dump, -0.000634450664392
+qp queue, -0.000634450664392
+power security, -0.000634450664392
+kb medium, -0.000634450664392
+event refcode reference code, -0.000634450664392
+syntax rmvdev targetdevice virtualtargetdevice, -0.000634450664392
+idle channel type, -0.000634450664392
+lru page replacement scheme, -0.000634450664392
+process cpu utilization, -0.000634450664392
+syntax dsmc dsmc description, -0.000634450664392
+hdisk1 related information, -0.000634450664392
+journaled file system jfs2, -0.000634450664392
+disabled connection monitoring, -0.000634450664392
+word 0x0000000100000106, -0.000634450664392
+cq completion, -0.000634450664392
+object service processor, -0.000634450664392
+syntax mklvcopy logicalvolume physicalvolume, -0.000634450664392
+lvname logical partition number, -0.000634450664392
+syntax startsysdump description, -0.000634450664392
+pool utilization pool utilization, -0.000634450664392
+directory type, -0.000634450664392
+information center http, -0.000634450664392
+ibm description description, -0.000634450664392
+current user type, -0.000634450664392
+header list, -0.000634450664392
+support specific statistic, -0.000634450664392
+ipv4 address format, -0.000634450664392
+validate migration migrlpar, -0.000634450664392
+memory dimm c9, -0.000634450664392
+name parent connection description, -0.000634450664392
+separate connection, -0.000634450664392
+filename description, -0.000634450664392
+startsysdump parent topic, -0.000634450664392
+license related information, -0.000634450664392
+vtscsi5 u9111, -0.000634450664392
+ipl source related information, -0.000634450664392
+memory card dimm, -0.000634450664392
+connected serial cable, -0.000634450664392
+base value 0xsssssbbbbb, -0.000634450664392
+lf note, -0.000634450664392
+scheduled number, -0.000634450664392
+syntax ping packetsize, -0.000634450664392
+down chsysstate, -0.000634450664392
+cpu field, -0.000634450664392
+word firmware, -0.000634450664392
+normal dd, -0.000634450664392
+reporting problem, -0.000634450664392
+active related information, -0.000634450664392
+status valid filter, -0.000634450664392
+last reference, -0.000634450664392
+header display header record, -0.000634450664392
+service information parent topic, -0.000634450664392
+queue broadcast, -0.000634450664392
+delimiter lstcpip, -0.000634450664392
+bbbb bus number, -0.000634450664392
+mega kb, -0.000634450664392
+off range, -0.000634450664392
+high performance computing hpc, -0.000634450664392
+unit consideration, -0.000634450664392
+logical partitionsword number, -0.000634450664392
+only single resource, -0.000634450664392
+local authentication parent topic, -0.000634450664392
+monitored cpu, -0.000634450664392
+vg parent topic, -0.000634450664392
+request logical volume, -0.000634450664392
+fru commenter name, -0.000634450664392
+segment level default value, -0.000634450664392
+customize user profile, -0.000634450664392
+disk list physical backing, -0.000634450664392
+ttyout cpu1, -0.000634450664392
+backup number regularexpression, -0.000634450664392
+name physloc hdisk0 u9111, -0.000634450664392
+virtuallpar display, -0.000634450664392
+system target, -0.000634450664392
+portuguese brazil, -0.000634450664392
+xxx xxx, -0.000634450664392
+boot logical partition, -0.000634450664392
+seekbackup file, -0.000634450664392
+display partition, -0.000634450664392
+base base, -0.000634450664392
+pool 4k, -0.000634450664392
+selecting server, -0.000634450664392
+secure socket shell ssh, -0.000634450664392
+management console check, -0.000634450664392
+lv01 related information, -0.000634450664392
+scp hmcuser hmchostname, -0.000634450664392
+power supply cord connector, -0.000634450664392
+software a0 af, -0.000634450664392
+function mibvariable variabletype value, -0.000634450664392
+mb system, -0.000634450664392
+rfc1323 purpose, -0.000634450664392
+user joe somehost, -0.000634450664392
+fixed block mode nonzero, -0.000634450664392
+lsdev devicetype, -0.000634450664392
+current report filename, -0.000634450664392
+setting physical port, -0.000634450664392
+bridge mab isolation, -0.000634450664392
+support specified set, -0.000634450664392
+compliance powersc standard edition, -0.000634450664392
+ethernet maximum packet size, -0.000634450664392
+event name name, -0.000634450664392
+fru class class, -0.000634450664392
+speed duplex server client, -0.000634450664392
+print pdf, -0.000634450664392
+use private network, -0.000634450664392
+user directory, -0.000634450664392
+only encrypted https, -0.000634450664392
+use third interface, -0.000634450664392
+device description, -0.000634450664392
+command line interface cli, -0.000634450664392
+specified message parent topic, -0.000634450664392
+directory file description, -0.000634450664392
+account information parent topic, -0.000634450664392
+command logical partition configuration, -0.000634450664392
+syntax ioslevel description, -0.000634450664392
+en4 down 0e, -0.000634450664392
+previous example version, -0.000634450664392
+select kdc server, -0.000634450664392
+complete operator panel function, -0.000634450664392
+ipv6 address format, -0.000634450664392
+counter32 counter64 display, -0.000634450664392
+link hsl, -0.000634450664392
+migration migrlpar, -0.000634450664392
+path name name, -0.000634450664392
+physical volume type, -0.000634450664392
+open virtual terminal session, -0.000634450664392
+configure port, -0.000634450664392
+share physical ethernet connection, -0.000634450664392
+share common machine id, -0.000634450664392
+xml file pgsz, -0.000634450664392
+use gb, -0.000634450664392
+year filter default, -0.000634450664392
+nnn gateway device, -0.000634450664392
+access control mac address, -0.000634450664392
+dump operator panel function, -0.000634450664392
+contact service provider, -0.000634450664392
+physical device name block, -0.000634450664392
+platform firmware 9f, -0.000634450664392
+backplanes system backplane, -0.000634450664392
+available rmc state, -0.000634450664392
+syntax shutdown description, -0.000634450664392
+copy disk image, -0.000634450664392
+volumegrouplabel diskname, -0.000634450664392
+such configuration, -0.000634450664392
+numeric key, -0.000634450664392
+configurationfile portnumber, -0.000634450664392
+virtual private network vpn, -0.000634450664392
+other subsystem 7a, -0.000634450664392
+control host type hmc, -0.000634450664392
+interface vasi device name, -0.000634450664392
+bak related information, -0.000634450664392
+reassigns paging space device, -0.000634450664392
+object identifier oid, -0.000634450664392
+display server, -0.000634450664392
+server access, -0.000634450664392
+server vios, -0.000634450664392
+use set, -0.000634450664392
+20000000c9487b04 port wwn, -0.000634450664392
+peripheral 5f, -0.000634450664392
+backup command syntax, -0.000634450664392
+use screw, -0.000634450664392
+client object none, -0.000634450664392
+0xbbbbbbbbbb00 0x00000000nnnn, -0.000634450664392
+syntax pdump fstype description, -0.000634450664392
+plug power cord, -0.000634450664392
+physloc client partition id, -0.000634450664392
+information hardware error, -0.000634450664392
+navigation pane listing, -0.000634450664392
+printing number sign, -0.000634450664392
+gb mb, -0.000634450664392
+csv format, -0.000634450664392
+flag security, -0.000634450664392
+string user somesystem type, -0.000634450664392
+use machine, -0.000634450664392
+disable mark, -0.000634450664392
+select value, -0.000634450664392
+use paging storage pool, -0.000634450664392
+comment related information, -0.000634450664392
+configure shared memory partition, -0.000634450664392
+memory memory, -0.000634450664392
+netboot clientobjectname, -0.000634450664392
+part information usr, -0.000634450664392
+association eia unit, -0.000634450664392
+host count description, -0.000634450664392
+ieq interruptible event, -0.000634450664392
+unique device identifier udid, -0.000634450664392
+rfc tcp, -0.000634450664392
+select specific partition profile, -0.000634450664392
+first character utttt, -0.000634450664392
+default gateway fill, -0.000634450664392
+storage nas file server, -0.000634450664392
+expansion feature fan, -0.000634450664392
+link aggregation adapter note, -0.000634450664392
+syntax lsvet code hist, -0.000634450664392
+partition base value, -0.000634450664392
+system path, -0.000634450664392
+duplex port port gigabit, -0.000634450664392
+1e313bb001 option rom version, -0.000634450664392
+specified page size page, -0.000634450664392
+enclosure drawer, -0.000634450664392
+logical partition migrlpar, -0.000634450664392
+user task, -0.000634450664392
+physport physical port id, -0.000634450664392
+gb supreme, -0.000634450664392
+key distribution center kdc, -0.000634450664392
+userid user id, -0.000634450664392
+directory file, -0.000634450664392
+configure kdc server, -0.000634450664392
+select remote repository, -0.000634450664392
+attributenames delimiter separated list, -0.000634450664392
+external cache 3f, -0.000634450664392
+user kern, -0.000634450664392
+remote system type, -0.000634450664392
+ac charger logical path, -0.000634450664392
+select plan, -0.000634450664392
+representative ssr, -0.000634450664392
+rawin cpu0, -0.000634450664392
+finding valid value, -0.000634450664392
+mempool description, -0.000634450664392
+dynamic platform optimization dpo, -0.000634450664392
+false related informationthe command, -0.000634450664392
+server check mark, -0.000634450664392
+medium priority group frus, -0.000634450664392
+platform hardware, -0.000634450664392
+paging storage pool type, -0.000634450664392
+active bandwidth utilization, -0.000634450664392
+device miscellaneous hardware kit, -0.000634450664392
+cec hardware 6f, -0.000634450664392
+use direct internet connection, -0.000634450664392
+gbit port type, -0.000634450664392
+integrated virtual ethernet ive, -0.000634450664392
+system ibm, -0.000634450664392
+realm realm, -0.000634450664392
+system information administrator name, -0.000634450664392
+memory timestamp, -0.000634450664392
+filter filter data, -0.000634450664392
+unit fru, -0.000634450664392
+select server, -0.000634450664392
+vhost0 u8233, -0.000634450664392
+new server task, -0.000634450664392
+hmcuser hmchostname, -0.000634450664392
+syntax starttrace event, -0.000634450664392
+dma overrun error, -0.000634450664392
+installation network settingslan interface, -0.000634450664392
+jfs journaled file, -0.000634450664392
+alphanumericstring12345 parent topic, -0.000634450664392
+hdisk5 related information, -0.000634450664392
+system clientv2, -0.000634450664392
+adapter value, -0.000634450664392
+use service key, -0.000634450664392
+start telnet, -0.000634450664392
+layer ssl protocol, -0.000634450664392
+reinstall system, -0.000634450664392
+fru pid process id, -0.000634450664392
+filter row button row, -0.000634450664392
+maxmem list, -0.000634450664392
+level lpar list, -0.000634450664392
+use web browser, -0.000634450664392
+status dlpar status, -0.000634450664392
+event time time, -0.000634450664392
+delimiter state, -0.000634450664392
+copy file1, -0.000634450664392
+set new value, -0.000634450664392
+private virtual lan vlan, -0.000634450664392
+name address, -0.000634450664392
+vhost1 u9117, -0.000634450664392
+open command line session, -0.000634450664392
+network installation management nim, -0.000634450664392
+set partition profile, -0.000634450664392
+vhost0 u9117, -0.000634450664392
+line ame, -0.000634450664392
+vtscsi1 u9111, -0.000634450664392
+such physical volume, -0.000634450664392
+integrated virtualization manager ivm, -0.000634450664392
+adapter name servervirtualadapter, -0.000634450664392
+private address bit, -0.000634450664392
+mkvdev targetdevice virtualethernetadapter, -0.000634450664392
+paging memory tr0, -0.000634450664392
+basic proxy authentication rfc, -0.000634450664392
+backing physical device, -0.000634450664392
+syntax license name description, -0.000634450664392
+tape drive usb, -0.000634450664392
+argument query, -0.000634450664392
+local host host, -0.000634450664392
+ssh use, -0.000634450664392
+only gb, -0.000634450664392
+map location code, -0.000634450664392
+world related information, -0.000634450664392
+open terminal window, -0.000634450664392
+topic october, -0.000634450664392
+share few system, -0.000634450664392
+hdisk8 utmp0, -0.000634450664392
+subsystem hub, -0.000634450664392
+syntax sysstat user description, -0.000634450664392
+root system jun, -0.000634450664392
+max maximum size, -0.000634450664392
+hmc parent topic, -0.000634450664392
+card port, -0.000634450664392
+region service authorization, -0.000634450664392
+volume group volume group, -0.000634450664392
+fru severity severity, -0.000634450664392
+time tape, -0.000634450664392
+dirblk waitqueue, -0.000634450664392
+adapter type hardware address, -0.000634450664392
+following command svmon, -0.000634450664392
+web interface cli, -0.000634450664392
+savevgstruct myvg related information, -0.000634450664392
+name logical volume, -0.000634450664392
+summary ame longame, -0.000634450664392
+hdisk4 utmp0, -0.000634450664392
+notification trap, -0.000634450664392
+down paging vios partition, -0.000634450664392
+xml schema definition xsd, -0.000634450664392
+id vios lpar id, -0.000634450664392
+form configuration record, -0.000634450664392
+pool size pool size, -0.000634450664392
+edit current name, -0.000634450664392
+ide address, -0.000634450664392
+hmc discovery tcp hmc, -0.000634450664392
+force failover, -0.000634450664392
+npiv examplesto list, -0.000634450664392
+ibm operating system, -0.000634450664392
+protocol port port gigabit, -0.000634450664392
+output hash symbol, -0.000634450664392
+io mem proc virtualio, -0.000634450664392
+avail related information, -0.000634450664392
+return list, -0.000634450664392
+queue crc, -0.000634450664392
+adapter targetdevice targetdevice, -0.000634450664392
+category category, -0.000634450664392
+select task group, -0.000634450664392
+fddixx fiber, -0.000634450664392
+giga mb, -0.000634450664392
+control panel electrical battery, -0.000634450664392
+ngram, -0.000634450664392
+name physloc clntid clntname, -0.000634450664392
+slot location, -0.000634450664392
+request move, -0.000634450664392
+user type, -0.000634450664392
+long report summary, -0.000634450664392
+02c82115 za, -0.000634450664392
+ticket tgt, -0.000634450664392
+partition configuration data confirmation, -0.000634450664392
+syntax rmlv logicalvolume, -0.000634450664392
+system description, -0.000634450664392
+bus 4f, -0.000634450664392
+display list, -0.000634450664392
+table configurable processing, -0.000634450664392
+relocation bbr policy, -0.000634450664392
+attribute value description, -0.000634450664392
+only single io, -0.000634450664392
+use partition profile name, -0.000634450664392
+select problem type, -0.000634450664392
+logical location code l23, -0.000634450664392
+operation managedsystem description, -0.000634450664392
+ent7 related information, -0.000634450664392
+use modem, -0.000634450664392
+syntax stoptrace description, -0.000634450664392
+weight order, -0.000634450664392
+device parent name, -0.000634450664392
+report problem window, -0.000634450664392
+initiate network boot, -0.000634450664392
+workload management wlm, -0.000634450664392
+lp3 related information, -0.000634450664392
+default autodetection, -0.000634450664392
+ip address target, -0.000634450664392
+user parent topic, -0.000634450664392
+gb memory allocation, -0.000634450664392
+keytab ktutil, -0.000634450664392
+time site, -0.000634450664392
+network adapter error handling, -0.000634450664392
+backup adapter ent6 type, -0.000634450664392
+lv02 lvtest parent topic, -0.000634450664392
+external environment symptom symptom, -0.000634450664392
+month filter default, -0.000634450664392
+option exit status, -0.000634450664392
+remote copy pprc pair, -0.000634450664392
+select system, -0.000634450664392
+value logicalvolume description, -0.000634450664392
+level targethost timeoutvalue retrynumber, -0.000634450664392
+server firmware server firmware, -0.000634450664392
+end task, -0.000634450664392
+defaultvirtualethernetadapter default virtual adapter, -0.000634450664392
+command parent topic, -0.000634450664392
+number seeknumber, -0.000634450664392
+user key string, -0.000634450664392
+dash separator character, -0.000634450664392
+report tmem, -0.000634450664392
+lslparinfo parent topic, -0.000634450664392
+refcode parent topic, -0.000634450664392
+slot card port, -0.000634450664392
+interface parameter, -0.000634450664392
+physical location code physicallocationcode, -0.000634450664392
+only single successor, -0.000634450664392
+available output field, -0.000634450664392
+view record, -0.000634450664392
+syntax uname description, -0.000634450664392
+key return, -0.000634450664392
+contact service center, -0.000634450664392
+com example, -0.000634450664392
+down white button, -0.000634450664392
+virtual server network vsn, -0.000634450664392
+id related information, -0.000634450664392
+snmp version file, -0.000634450664392
+virtual target device vtd, -0.000634450664392
+hardware page table hpt, -0.000634450664392
+interface master, -0.000634450664392
+hmc connector j02, -0.000634450664392
+use shared processor pool, -0.000634450664392
+system text text, -0.000634450664392
+snmp configuration information type, -0.000634450664392
+ssh secure shell, -0.000634450664392
+large logical partition, -0.000634450664392
+internet protocol ip, -0.000634450664392
+dump related information, -0.000634450664392
+task description main menu, -0.000634450664392
+user joe somehost type, -0.000634450664392
+user somesystem, -0.000634450664392
+boot device syntax, -0.000634450664392
+riser optional card, -0.000634450664392
+ldapserver ldapserver port, -0.000634450664392
+command line interface ap, -0.000634450664392
+control operator panel, -0.000634450664392
+layer ssl, -0.000634450664392
+hdisk6 utmp0, -0.000634450664392
+paging space size, -0.000634450664392
+fcs1 u787a, -0.000634450664392
+related informationthe command, -0.000634450664392
+return result, -0.000634450664392
+hardware mac, -0.000634450664392
+virtual disk increase, -0.000634450664392
+such partition profile, -0.000634450664392
+virtual scsi default, -0.000634450664392
+validate partition migration, -0.000634450664392
+hmc view record, -0.000634450664392
+mmddhhmm yyyy yy, -0.000634450664392
+minute filter default, -0.000634450664392
+open terminal session, -0.000634450664392
+view myclient01 installation, -0.000634450664392
+shared memory ipl source, -0.000634450664392
+platform module vtpm, -0.000634450664392
+hmc super administrator hmcsuperadmin, -0.000634450664392
+frame default value, -0.000634450664392
+system serverv3, -0.000634450664392
+current active request release, -0.000634450664392
+place mark, -0.000634450664392
+system attention sa, -0.000634450664392
+psbuf number, -0.000634450664392
+server vios partition, -0.000634450664392
+consistency mirror, -0.000634450664392
+set logical partition, -0.000634450664392
+mb gb, -0.000634450664392
+branch office group data, -0.000634450664392
+print pdf file, -0.000634450664392
+affinity domain process report, -0.000634450664392
+only few mib, -0.000634450664392
+failed partition migration migrlpar, -0.000634450664392
+devicename description, -0.000634450664392
+use only portion, -0.000634450664392
+loop use, -0.000634450664392
+false vtd vtscsi1 status, -0.000634450664392
+active cpu mem, -0.000634450664392
+free kb, -0.000634450664392
+memory deconfigured memory, -0.000634450664392
+joe somehost, -0.000634450664392
+import service key file, -0.000634450664392
+file transfer protocol ftp, -0.000634450664392
+down shared memory partition, -0.000634450664392
+syntax savevgstruct volumegrouplabel description, -0.000634450664392
+information center read, -0.000634450664392
+use vpn connection, -0.000634450664392
+key unique id, -0.000634450664392
+purchase new system, -0.000634450664392
+step insert, -0.000634450664392
+snmpdv1 agent syntax, -0.000634450664392
+hdisk2 u9111, -0.000634450664392
+use remote hmc, -0.000634450664392
+full duplex protocol, -0.000634450664392
+initiate dump, -0.000634450664392
+use certificate, -0.000634450664392
+output topas monitor, -0.000634450664392
+system log padmin user, -0.000634450664392
+such virtual disk, -0.000634450664392
+syntax stopnetsvc networkservice description, -0.000634450664392
+virtual target device type, -0.000634450664392
+surveillance error 8f, -0.000634450664392
+arm use, -0.000634450664392
+format nolimit, -0.000634450664392
+slot vsa0 u9111, -0.000634450664392
+local authentication user, -0.000634450664392
+pcie device, -0.000634450664392
+state mac en2 fe80, -0.000634450664392
+use minimum number, -0.000634450664392
+setting path, -0.000634450664392
+range e0 ff, -0.000634450664392
+syntax chdev name, -0.000634450664392
+hmc system, -0.000634450664392
+mmm link, -0.000634450664392
+id partitionid description, -0.000634450664392
+share pool, -0.000634450664392
+system mksyscfg, -0.000634450664392
+opening menu, -0.00190294938037
+remote web browser user, -0.00190294938037
+failed condition, -0.00190294938037
+same function, -0.00190294938037
+destination device, -0.00190294938037
+kernel text, -0.00190294938037
+graphical interface, -0.00190294938037
+submodel number, -0.00190294938037
+appropriate cryptographic key, -0.00190294938037
+failed link, -0.00190294938037
+provision shared storage, -0.00190294938037
+logical partition boot time, -0.00190294938037
+configured email, -0.00190294938037
+absolute count, -0.00190294938037
+keylock position consoleservice, -0.00190294938037
+siz column, -0.00190294938037
+particular type, -0.00190294938037
+off loading service information, -0.00190294938037
+other regular file data, -0.00190294938037
+logical memory assignment, -0.00190294938037
+different repository, -0.00190294938037
+only viewing, -0.00190294938037
+progress window, -0.00190294938037
+brief summary, -0.00190294938037
+specific operation, -0.00190294938037
+different configuration, -0.00190294938037
+compact format report, -0.00190294938037
+activation code generation information, -0.00190294938037
+close virtual terminal session, -0.00190294938037
+memory set, -0.00190294938037
+timestamp option, -0.00190294938037
+logical port limit, -0.00190294938037
+current code level, -0.00190294938037
+unused processing capacity, -0.00190294938037
+administration method, -0.00190294938037
+remote control, -0.00190294938037
+customer expense, -0.00190294938037
+temporary firmware level, -0.00190294938037
+real time period, -0.00190294938037
+logical volume manager layer, -0.00190294938037
+call home feature, -0.00190294938037
+tape drive offline, -0.00190294938037
+command line flag, -0.00190294938037
+help window, -0.00190294938037
+unused port range, -0.00190294938037
+system firmware current memory, -0.00190294938037
+current authorization, -0.00190294938037
+tmem argument, -0.00190294938037
+same level, -0.00190294938037
+default wait time, -0.00190294938037
+target host, -0.00190294938037
+available management, -0.00190294938037
+taskpad method, -0.00190294938037
+use full path, -0.00190294938037
+local domain, -0.00190294938037
+unit un, -0.00190294938037
+logical phys, -0.00190294938037
+uncapped processing, -0.00190294938037
+next mirroring mode, -0.00190294938037
+modem power supply cord, -0.00190294938037
+immed flag, -0.00190294938037
+lsnetsvc ftp, -0.00190294938037
+full detail, -0.00190294938037
+complete level, -0.00190294938037
+concurrent mode, -0.00190294938037
+navigation aid, -0.00190294938037
+form superclassname, -0.00190294938037
+server database, -0.00190294938037
+move data, -0.00190294938037
+current overall system status, -0.00190294938037
+special device type, -0.00190294938037
+maximum dedicated memory, -0.00190294938037
+beginning volume number, -0.00190294938037
+initial single partition setup, -0.00190294938037
+post installation management, -0.00190294938037
+uneven mechanical loading, -0.00190294938037
+output medium, -0.00190294938037
+specified logical partition, -0.00190294938037
+local diskette, -0.00190294938037
+enforced memory resource limit, -0.00190294938037
+different operating, -0.00190294938037
+system operation, -0.00190294938037
+parent directory, -0.00190294938037
+constant value, -0.00190294938037
+filtercat argument, -0.00190294938037
+usual business, -0.00190294938037
+digital signature, -0.00190294938037
+following command line, -0.00190294938037
+unicast packet, -0.00190294938037
+decimal bus number, -0.00190294938037
+paging space device information, -0.00190294938037
+memory pool offline, -0.00190294938037
+target interface, -0.00190294938037
+worldwide node name, -0.00190294938037
+applied fix, -0.00190294938037
+diagnostic mode, -0.00190294938037
+pulse type, -0.00190294938037
+own group, -0.00190294938037
+speed setting, -0.00190294938037
+system date, -0.00190294938037
+window switching, -0.00190294938037
+predefined default user, -0.00190294938037
+microcode survey, -0.00190294938037
+segment option, -0.00190294938037
+systemwide scale, -0.00190294938037
+only package name, -0.00190294938037
+different fact, -0.00190294938037
+interval parameter, -0.00190294938037
+equipment damage, -0.00190294938037
+single getbulk, -0.00190294938037
+ship group, -0.00190294938037
+associated network service, -0.00190294938037
+particular serviceable event, -0.00190294938037
+target system managing, -0.00190294938037
+bus grouping, -0.00190294938037
+set long report, -0.00190294938037
+physical request, -0.00190294938037
+new reference code, -0.00190294938037
+cattracerpt report, -0.00190294938037
+record cluster, -0.00190294938037
+exact name, -0.00190294938037
+scriptable output, -0.00190294938037
+full processing capacity, -0.00190294938037
+type server, -0.00190294938037
+upper right corner, -0.00190294938037
+shmid option, -0.00190294938037
+same rack cabinet, -0.00190294938037
+resultant status, -0.00190294938037
+following status, -0.00190294938037
+access password, -0.00190294938037
+pconsole user, -0.00190294938037
+dump capability, -0.00190294938037
+cd device name, -0.00190294938037
+broken state, -0.00190294938037
+new paging space, -0.00190294938037
+call home proxy server, -0.00190294938037
+managing volume, -0.00190294938037
+virtual tape device, -0.00190294938037
+detailed affinity information, -0.00190294938037
+additional partition, -0.00190294938037
+manufacturing default configuration, -0.00190294938037
+active network link, -0.00190294938037
+svmon command longreal, -0.00190294938037
+accessible file, -0.00190294938037
+null string, -0.00190294938037
+logical volume lv20, -0.00190294938037
+task bar, -0.00190294938037
+name resolution, -0.00190294938037
+walk function, -0.00190294938037
+logout list, -0.00190294938037
+actual medium, -0.00190294938037
+inbound connection, -0.00190294938037
+own packing, -0.00190294938037
+command topic, -0.00190294938037
+first attempt, -0.00190294938037
+network interfaces subsection, -0.00190294938037
+appropriate repair action, -0.00190294938037
+share memory, -0.00190294938037
+security information, -0.00190294938037
+logical volume hd6, -0.00190294938037
+actual directory, -0.00190294938037
+hot interfaces, -0.00190294938037
+water count, -0.00190294938037
+console selection, -0.00190294938037
+new page fault, -0.00190294938037
+device selection, -0.00190294938037
+dedicated analog line, -0.00190294938037
+order beginning, -0.00190294938037
+connected network, -0.00190294938037
+problem number, -0.00190294938037
+physical hardware, -0.00190294938037
+authorized key list, -0.00190294938037
+free frame, -0.00190294938037
+logical memory map size, -0.00190294938037
+optimal size, -0.00190294938037
+easy access, -0.00190294938037
+new setting, -0.00190294938037
+specific output destination, -0.00190294938037
+second message, -0.00190294938037
+complete system name, -0.00190294938037
+basic firewall, -0.00190294938037
+cluster configuration file, -0.00190294938037
+findname invocation, -0.00190294938037
+input area, -0.00190294938037
+set operation, -0.00190294938037
+work pane border, -0.00190294938037
+mpss argument, -0.00190294938037
+device driver internal status, -0.00190294938037
+change virtual partition, -0.00190294938037
+equal amount, -0.00190294938037
+monitor console kit, -0.00190294938037
+use several navigation, -0.00190294938037
+uplink adapter, -0.00190294938037
+start recording local system, -0.00190294938037
+local system recording, -0.00190294938037
+startnetsvc tracelog, -0.00190294938037
+configurable parameter, -0.00190294938037
+possible uncapped weight, -0.00190294938037
+commandline argument, -0.00190294938037
+last row, -0.00190294938037
+bkup system, -0.00190294938037
+appropriate unit, -0.00190294938037
+third syntax, -0.00190294938037
+electrical shock, -0.00190294938037
+supply wiring, -0.00190294938037
+directory search routine, -0.00190294938037
+further customize, -0.00190294938037
+further information, -0.00190294938037
+user mode, -0.00190294938037
+current power, -0.00190294938037
+command reference information, -0.00190294938037
+target device name, -0.00190294938037
+high quality, -0.00190294938037
+link state, -0.00190294938037
+disable connection monitoring, -0.00190294938037
+superclass name, -0.00190294938037
+partition usage, -0.00190294938037
+title row, -0.00190294938037
+specified command, -0.00190294938037
+current page size, -0.00190294938037
+logical isolation, -0.00190294938037
+new process, -0.00190294938037
+different page, -0.00190294938037
+memory free list, -0.00190294938037
+combined production, -0.00190294938037
+saving upgrade data, -0.00190294938037
+reducevg command, -0.00190294938037
+exact content, -0.00190294938037
+valid command syntax, -0.00190294938037
+parameter list, -0.00190294938037
+real memory size, -0.00190294938037
+percentage usage, -0.00190294938037
+unlikely value, -0.00190294938037
+interface name, -0.00190294938037
+particular file system, -0.00190294938037
+recent event, -0.00190294938037
+intermittent problem, -0.00190294938037
+snap command, -0.00190294938037
+failure group, -0.00190294938037
+section briefly, -0.00190294938037
+configurable system processing, -0.00190294938037
+previous kernel, -0.00190294938037
+online version, -0.00190294938037
+bottom left portion, -0.00190294938037
+specific set, -0.00190294938037
+configure integrated login, -0.00190294938037
+same method, -0.00190294938037
+full screen tape screen, -0.00190294938037
+prevboot keyword, -0.00190294938037
+current logical partition, -0.00190294938037
+enough processor, -0.00190294938037
+current processing, -0.00190294938037
+particular data type, -0.00190294938037
+single optical drive, -0.00190294938037
+change virtual system, -0.00190294938037
+customer data, -0.00190294938037
+following security, -0.00190294938037
+runtime expert, -0.00190294938037
+overcurrent protection, -0.00190294938037
+interrupt activity, -0.00190294938037
+ss position, -0.00190294938037
+standard backup framework, -0.00190294938037
+striping width, -0.00190294938037
+optimal performance, -0.00190294938037
+release number, -0.00190294938037
+scsi0 adapter, -0.00190294938037
+system output, -0.00190294938037
+following question, -0.00190294938037
+display client adapter, -0.00190294938037
+memory residency, -0.00190294938037
+time availability period, -0.00190294938037
+company firewall, -0.00190294938037
+cplv fslv03, -0.00190294938037
+dog root, -0.00190294938037
+change memory allocation, -0.00190294938037
+fiber channel disk hdisk1, -0.00190294938037
+specific status, -0.00190294938037
+commandline option, -0.00190294938037
+srcmstr root, -0.00190294938037
+suitable memory, -0.00190294938037
+restorevgstruct myvg hdisk2 hdisk3, -0.00190294938037
+pagesize option, -0.00190294938037
+established value, -0.00190294938037
+firewall setup, -0.00190294938037
+such time, -0.00190294938037
+average size, -0.00190294938037
+progress bar, -0.00190294938037
+working network connection, -0.00190294938037
+device number, -0.00190294938037
+disk throughput, -0.00190294938037
+processor capacity limit, -0.00190294938037
+specific volume, -0.00190294938037
+hash distribution, -0.00190294938037
+use information, -0.00190294938037
+active channel, -0.00190294938037
+correct power connection, -0.00190294938037
+small page size, -0.00190294938037
+hdisk1 device, -0.00190294938037
+external pager filesystem, -0.00190294938037
+secure connection, -0.00190294938037
+suspension data, -0.00190294938037
+destination host name, -0.00190294938037
+list open inet, -0.00190294938037
+frame object, -0.00190294938037
+possible interpretation, -0.00190294938037
+purchase additional hardware, -0.00190294938037
+following warning message, -0.00190294938037
+single entry, -0.00190294938037
+yyyy format, -0.00190294938037
+private segment, -0.00190294938037
+hdisk0 rmt0 tok0, -0.00190294938037
+current profile, -0.00190294938037
+power off policy information, -0.00190294938037
+associated allowable customizable data, -0.00190294938037
+parent storage pool, -0.00190294938037
+following additional information, -0.00190294938037
+concurrent removal, -0.00190294938037
+deallocate myclient01, -0.00190294938037
+default host name, -0.00190294938037
+partition autostart, -0.00190294938037
+hexadecimal string, -0.00190294938037
+successful partition migration, -0.00190294938037
+optional integrated modem, -0.00190294938037
+control outside access, -0.00190294938037
+mem proc, -0.00190294938037
+current shared memory weight, -0.00190294938037
+format type, -0.00190294938037
+following service, -0.00190294938037
+first change command, -0.00190294938037
+rootvg storage pool, -0.00190294938037
+huge page table support, -0.00190294938037
+bar chart, -0.00190294938037
+manual fault isolation, -0.00190294938037
+control channel adapter ent5, -0.00190294938037
+cpio command, -0.00190294938037
+additional consideration, -0.00190294938037
+enclosure fault indicator, -0.00190294938037
+filter value, -0.00190294938037
+ent4 ent5, -0.00190294938037
+my53resource object, -0.00190294938037
+necessary operating environment installation, -0.00190294938037
+initial page, -0.00190294938037
+tuning system performance, -0.00190294938037
+program function, -0.00190294938037
+interface navigation, -0.00190294938037
+additional prefix, -0.00190294938037
+unacceptable status, -0.00190294938037
+usage message, -0.00190294938037
+shared storage pool communication, -0.00190294938037
+correct password, -0.00190294938037
+complex procedure, -0.00190294938037
+move priority, -0.00190294938037
+attribute user, -0.00190294938037
+software packing, -0.00190294938037
+entire storage pool, -0.00190294938037
+paging vg04, -0.00190294938037
+tracking number, -0.00190294938037
+correct device, -0.00190294938037
+interface en0, -0.00190294938037
+data loss, -0.00190294938037
+following report, -0.00190294938037
+server service, -0.00190294938037
+supclassname parameter, -0.00190294938037
+new keyboard, -0.00190294938037
+access administrator, -0.00190294938037
+authentication server, -0.00190294938037
+file header, -0.00190294938037
+preserved configuration, -0.00190294938037
+last byte, -0.00190294938037
+single column sorting, -0.00190294938037
+operation reading, -0.00190294938037
+corporate security, -0.00190294938037
+recording interval, -0.00190294938037
+available paging space device, -0.00190294938037
+machine room, -0.00190294938037
+summary option, -0.00190294938037
+full file system information, -0.00190294938037
+ent6 ent7 ent9, -0.00190294938037
+physical space, -0.00190294938037
+procs quantity, -0.00190294938037
+new message, -0.00190294938037
+active network connection, -0.00190294938037
+other mechanism, -0.00190294938037
+transmission speed, -0.00190294938037
+emulation program, -0.00190294938037
+total network activity, -0.00190294938037
+resource configuration status, -0.00190294938037
+target sharing mode, -0.00190294938037
+system utilization, -0.00190294938037
+output file name, -0.00190294938037
+strictness value, -0.00190294938037
+read buffer, -0.00190294938037
+managing storage, -0.00190294938037
+last observation, -0.00190294938037
+access independent paging space, -0.00190294938037
+current mirroring mode, -0.00190294938037
+search pattern, -0.00190294938037
+file system throughput, -0.00190294938037
+current type, -0.00190294938037
+available unused capacity, -0.00190294938037
+system code, -0.00190294938037
+true snapshot, -0.00190294938037
+boot mask, -0.00190294938037
+client network interface, -0.00190294938037
+important data, -0.00190294938037
+set compact report, -0.00190294938037
+other form, -0.00190294938037
+switch role, -0.00190294938037
+previous file, -0.00190294938037
+adhesive rubber, -0.00190294938037
+findname command, -0.00190294938037
+renewable ticket, -0.00190294938037
+specified backup device, -0.00190294938037
+current operational status, -0.00190294938037
+valid file system type, -0.00190294938037
+enough available processing, -0.00190294938037
+particular hardware platform, -0.00190294938037
+possible feature, -0.00190294938037
+configurable system memory, -0.00190294938037
+alternative set, -0.00190294938037
+use unused processor power, -0.00190294938037
+first message, -0.00190294938037
+same amount, -0.00190294938037
+additional network hardware, -0.00190294938037
+third device, -0.00190294938037
+capacity percentage, -0.00190294938037
+bottom part, -0.00190294938037
+process address space, -0.00190294938037
+system wide prefix, -0.00190294938037
+network problem, -0.00190294938037
+config resource type, -0.00190294938037
+memory entitlement, -0.00190294938037
+current maximum number, -0.00190294938037
+kadmin log, -0.00190294938037
+test software, -0.00190294938037
+list virtual platform, -0.00190294938037
+logical partitioning information, -0.00190294938037
+shared memory overcommitment, -0.00190294938037
+domain xyz, -0.00190294938037
+appropriate mode, -0.00190294938037
+percent active time, -0.00190294938037
+pattern file name, -0.00190294938037
+login message back, -0.00190294938037
+particular path, -0.00190294938037
+pidlist argument, -0.00190294938037
+unique segment list, -0.00190294938037
+free form name string, -0.00190294938037
+workplace window, -0.00190294938037
+configure network tuning, -0.00190294938037
+prerequisite information, -0.00190294938037
+current network information, -0.00190294938037
+syslogd root, -0.00190294938037
+logical volume lv02, -0.00190294938037
+detailed status information, -0.00190294938037
+taskpad change, -0.00190294938037
+day string, -0.00190294938037
+inoperative state, -0.00190294938037
+specific version, -0.00190294938037
+block device image, -0.00190294938037
+version information, -0.00190294938037
+terminal window line length, -0.00190294938037
+unconfigured processor, -0.00190294938037
+actual number, -0.00190294938037
+logical address space, -0.00190294938037
+minimum hardware configuration, -0.00190294938037
+unrepaired damage, -0.00190294938037
+other selection, -0.00190294938037
+buffer pool memory, -0.00190294938037
+future growth, -0.00190294938037
+entire operating system, -0.00190294938037
+typing exit, -0.00190294938037
+free copy, -0.00190294938037
+default panel, -0.00190294938037
+ip target, -0.00190294938037
+upgrade microcode, -0.00190294938037
+system plan deployment, -0.00190294938037
+particular application, -0.00190294938037
+later change, -0.00190294938037
+lsdev output, -0.00190294938037
+recording status, -0.00190294938037
+bridge function number xx, -0.00190294938037
+backup medium, -0.00190294938037
+extended error data, -0.00190294938037
+numeric number, -0.00190294938037
+real memory information, -0.00190294938037
+ent3 ent8, -0.00190294938037
+likely match, -0.00190294938037
+automated service, -0.00190294938037
+interrupt rate, -0.00190294938037
+following manner, -0.00190294938037
+file system service, -0.00190294938037
+installable image, -0.00190294938037
+only short host, -0.00190294938037
+first row, -0.00190294938037
+corrupted file system, -0.00190294938037
+additional stabilization, -0.00190294938037
+problem detection, -0.00190294938037
+current position, -0.00190294938037
+default uncapped weight value, -0.00190294938037
+current runtime state, -0.00190294938037
+use system, -0.00190294938037
+specified optical device, -0.00190294938037
+partition value, -0.00190294938037
+system dump, -0.00190294938037
+indicated parent, -0.00190294938037
+new path definition, -0.00190294938037
+installation environment, -0.00190294938037
+need additional processor capacity, -0.00190294938037
+local system data, -0.00190294938037
+next device type, -0.00190294938037
+line wrap, -0.00190294938037
+rootvg file, -0.00190294938037
+first dot, -0.00190294938037
+table form, -0.00190294938037
+only alteration, -0.00190294938037
+language file, -0.00190294938037
+contiguous real memory, -0.00190294938037
+basic proxy header, -0.00190294938037
+recent level, -0.00190294938037
+paging space device size, -0.00190294938037
+process argument, -0.00190294938037
+action field, -0.00190294938037
+page read, -0.00190294938037
+other end, -0.00190294938037
+initial configuration, -0.00190294938037
+personal computer, -0.00190294938037
+target directory path, -0.00190294938037
+last device, -0.00190294938037
+rtcmd root, -0.00190294938037
+new memory block size, -0.00190294938037
+other logical volume, -0.00190294938037
+original state, -0.00190294938037
+line speed, -0.00190294938037
+message catalog, -0.00190294938037
+set identification information, -0.00190294938037
+twentieth century, -0.00190294938037
+dump process, -0.00190294938037
+dpid2 root, -0.00190294938037
+network testing, -0.00190294938037
+special keyboard, -0.00190294938037
+separate dedicated network, -0.00190294938037
+host middelburg, -0.00190294938037
+machine default value, -0.00190294938037
+optional external modem, -0.00190294938037
+medium page, -0.00190294938037
+certain operating, -0.00190294938037
+argument information, -0.00190294938037
+controlled partition, -0.00190294938037
+clock algorithm, -0.00190294938037
+tape display section, -0.00190294938037
+backup procedure, -0.00190294938037
+inner part, -0.00190294938037
+new tape, -0.00190294938037
+different file name, -0.00190294938037
+workstation adapter console, -0.00190294938037
+specified interval, -0.00190294938037
+such authority, -0.00190294938037
+mksysb file, -0.00190294938037
+second port, -0.00190294938037
+bottom section, -0.00190294938037
+complete track, -0.00190294938037
+segment argument, -0.00190294938037
+hypervisor page information, -0.00190294938037
+original layout, -0.00190294938037
+large page freelist, -0.00190294938037
+cluster environment, -0.00190294938037
+lsnetsvc telnet, -0.00190294938037
+display status, -0.00190294938037
+system hostname, -0.00190294938037
+right end, -0.00190294938037
+partition level, -0.00190294938037
+default read size, -0.00190294938037
+power distribution unit, -0.00190294938037
+search time, -0.00190294938037
+shared logical partition data, -0.00190294938037
+active state, -0.00190294938037
+disk storage unit, -0.00190294938037
+following website, -0.00190294938037
+striped logical volume, -0.00190294938037
+test event entry, -0.00190294938037
+such adapter, -0.00190294938037
+current node name, -0.00190294938037
+broadcast request, -0.00190294938037
+monitor screen, -0.00190294938037
+configuration preparation activity, -0.00190294938037
+network integrity check, -0.00190294938037
+disable remote management, -0.00190294938037
+available level, -0.00190294938037
+timeval structure, -0.00190294938037
+full realm name, -0.00190294938037
+remote resource, -0.00190294938037
+same hardware, -0.00190294938037
+parent name, -0.00190294938037
+snmpd agent, -0.00190294938037
+processing utilization, -0.00190294938037
+sustained peak load, -0.00190294938037
+system disk, -0.00190294938037
+port group attribute value, -0.00190294938037
+top section, -0.00190294938037
+tmem option, -0.00190294938037
+first flag, -0.00190294938037
+remote browser access, -0.00190294938037
+target file, -0.00190294938037
+full length, -0.00190294938037
+password abc123, -0.00190294938037
+single report, -0.00190294938037
+main business, -0.00190294938037
+client type, -0.00190294938037
+user level, -0.00190294938037
+firmware use, -0.00190294938037
+third hole, -0.00190294938037
+symmetrical access, -0.00190294938037
+touch point, -0.00190294938037
+partition suspension, -0.00190294938037
+daylight saving time, -0.00190294938037
+physical volume inband, -0.00190294938037
+additional dedicated memory, -0.00190294938037
+logical card number, -0.00190294938037
+cron daemon, -0.00190294938037
+different shared memory partition, -0.00190294938037
+host canopus, -0.00190294938037
+different range, -0.00190294938037
+numerical form, -0.00190294938037
+different paging space device, -0.00190294938037
+unknown reason, -0.00190294938037
+ssh directory, -0.00190294938037
+repair operation, -0.00190294938037
+memory role, -0.00190294938037
+true memory snapshot, -0.00190294938037
+down position, -0.00190294938037
+need additional information managing, -0.00190294938037
+priority logical partition, -0.00190294938037
+other priority, -0.00190294938037
+functional implementation, -0.00190294938037
+bold type, -0.00190294938037
+system model name, -0.00190294938037
+cluster device, -0.00190294938037
+default partition profile, -0.00190294938037
+consistent way, -0.00190294938037
+run secure shell, -0.00190294938037
+particular physical port, -0.00190294938037
+device fbd1, -0.00190294938037
+workload manager, -0.00190294938037
+remote terminal connection, -0.00190294938037
+software license agreement, -0.00190294938037
+option set, -0.00190294938037
+strip size, -0.00190294938037
+typical usage, -0.00190294938037
+management console interface, -0.00190294938037
+display help information, -0.00190294938037
+individual selection, -0.00190294938037
+hardware resource allocation, -0.00190294938037
+rack system, -0.00190294938037
+applicable language, -0.00190294938037
+archive volume header information, -0.00190294938037
+parent adapter, -0.00190294938037
+com name server, -0.00190294938037
+primary analyzing console, -0.00190294938037
+recent back, -0.00190294938037
+pathname lookup, -0.00190294938037
+overall server performance, -0.00190294938037
+service list, -0.00190294938037
+only difference, -0.00190294938037
+miscellaneous equipment specification, -0.00190294938037
+valid host name, -0.00190294938037
+mksysb image, -0.00190294938037
+correct isolation, -0.00190294938037
+unique partition profile name, -0.00190294938037
+default boot sequence, -0.00190294938037
+location attribute, -0.00190294938037
+operating system name, -0.00190294938037
+next page, -0.00190294938037
+short jumper cord, -0.00190294938037
+address translation page fault, -0.00190294938037
+specified parameter, -0.00190294938037
+upgrade machine code, -0.00190294938037
+single physical server, -0.00190294938037
+secure network traffic, -0.00190294938037
+hold information, -0.00190294938037
+physical network interface, -0.00190294938037
+telephone connection, -0.00190294938037
+exact base name, -0.00190294938037
+change operational status, -0.00190294938037
+disk cd, -0.00190294938037
+command sequence, -0.00190294938037
+different network security, -0.00190294938037
+different interface, -0.00190294938037
+value output, -0.00190294938037
+parent device name, -0.00190294938037
+problem determination reference information, -0.00190294938037
+dc adapter outlet, -0.00190294938037
+open network interface connection, -0.00190294938037
+high probability, -0.00190294938037
+revision number, -0.00190294938037
+physical tape device rmt0, -0.00190294938037
+definition file name, -0.00190294938037
+process option, -0.00190294938037
+true view, -0.00190294938037
+partition operating system, -0.00190294938037
+current system activity, -0.00190294938037
+list shared storage pool, -0.00190294938037
+sortentity option, -0.00190294938037
+second command, -0.00190294938037
+new role, -0.00190294938037
+logical volume lv0112, -0.00190294938037
+detailed list, -0.00190294938037
+system initialization, -0.00190294938037
+likely feature code, -0.00190294938037
+default debug level, -0.00190294938037
+alphanumeric character, -0.00190294938037
+buffer overwrite, -0.00190294938037
+vendor software, -0.00190294938037
+other storage, -0.00190294938037
+previous banner message, -0.00190294938037
+authorized service provider authority, -0.00190294938037
+repackaged fileset, -0.00190294938037
+corresponding check box, -0.00190294938037
+default task, -0.00190294938037
+initial main display, -0.00190294938037
+security tab, -0.00190294938037
+hostname mismatch message, -0.00190294938037
+entire allocation block, -0.00190294938037
+total power requirement, -0.00190294938037
+specified parent, -0.00190294938037
+single back, -0.00190294938037
+console switch option, -0.00190294938037
+server recovery, -0.00190294938037
+carrier sense error, -0.00190294938037
+small sampling, -0.00190294938037
+other management, -0.00190294938037
+hardware fault tolerance, -0.00190294938037
+diskette track, -0.00190294938037
+newfile file, -0.00190294938037
+saving name, -0.00190294938037
+management network, -0.00190294938037
+list physical platform, -0.00190294938037
+system failure, -0.00190294938037
+following backup command, -0.00190294938037
+list console, -0.00190294938037
+streaming tape, -0.00190294938037
+key switch, -0.00190294938037
+network service daemon, -0.00190294938037
+frame option, -0.00190294938037
+server firmware memory overhead, -0.00190294938037
+next available slot, -0.00190294938037
+specific type use, -0.00190294938037
+successful probe, -0.00190294938037
+thread run, -0.00190294938037
+potential boot, -0.00190294938037
+brief description, -0.00190294938037
+normal boot list, -0.00190294938037
+communication speed, -0.00190294938037
+uppercase key, -0.00190294938037
+basic setup, -0.00190294938037
+shutdown option, -0.00190294938037
+use kinit, -0.00190294938037
+third network, -0.00190294938037
+site loss, -0.00190294938037
+device support, -0.00190294938037
+memory requirement change, -0.00190294938037
+single tape, -0.00190294938037
+specific error, -0.00190294938037
+complete directory pathname, -0.00190294938037
+file system data, -0.00190294938037
+current partition configuration, -0.00190294938037
+signal error, -0.00190294938037
+average transfer rate, -0.00190294938037
+configured interfaces, -0.00190294938037
+following processor unit, -0.00190294938037
+nested double quote, -0.00190294938037
+error recovery, -0.00190294938037
+priority order, -0.00190294938037
+trace report, -0.00190294938037
+service event, -0.00190294938037
+range option, -0.00190294938037
+different hardware, -0.00190294938037
+creation stage, -0.00190294938037
+twinaxial workstation, -0.00190294938037
+version banner, -0.00190294938037
+available partition, -0.00190294938037
+modified partition profile, -0.00190294938037
+use email, -0.00190294938037
+default network interface, -0.00190294938037
+committed fileset base level, -0.00190294938037
+unit option, -0.00190294938037
+power subsystem, -0.00190294938037
+root directory, -0.00190294938037
+use host, -0.00190294938037
+nextboot value, -0.00190294938037
+exec path name, -0.00190294938037
+other archive, -0.00190294938037
+inetd root, -0.00190294938037
+following digit format, -0.00190294938037
+configuration change, -0.00190294938037
+unique machine identifier, -0.00190294938037
+zoning activity, -0.00190294938037
+main power supply, -0.00190294938037
+specified alteration, -0.00190294938037
+true memory size, -0.00190294938037
+split display, -0.00190294938037
+single line, -0.00190294938037
+uncapped shared processor, -0.00190294938037
+current system time information, -0.00190294938037
+expansion unit type, -0.00190294938037
+process section, -0.00190294938037
+indeterminate size, -0.00190294938037
+new support strategy, -0.00190294938037
+type vgname, -0.00190294938037
+configuration directory, -0.00190294938037
+free memory, -0.00190294938037
+current password, -0.00190294938037
+partition profile data, -0.00190294938037
+original data, -0.00190294938037
+same work, -0.00190294938037
+service processor version, -0.00190294938037
+page size data, -0.00190294938037
+specified physical location code, -0.00190294938037
+pipe symbol, -0.00190294938037
+exact login name, -0.00190294938037
+following output vtopt0, -0.00190294938037
+firewall access, -0.00190294938037
+dedicated processor mode cap, -0.00190294938037
+maximum width, -0.00190294938037
+line summary, -0.00190294938037
+normal business, -0.00190294938037
+possible range, -0.00190294938037
+physical infrastructure, -0.00190294938037
+server connection information, -0.00190294938037
+configuration system database, -0.00190294938037
+entire hardware, -0.00190294938037
+web browser system, -0.00190294938037
+new hardware work, -0.00190294938037
+local command, -0.00190294938037
+kernel extension, -0.00190294938037
+same state, -0.00190294938037
+file system directory, -0.00190294938037
+software package, -0.00190294938037
+unattended remote service session, -0.00190294938037
+extra field, -0.00190294938037
+logical partition display, -0.00190294938037
+vmstat scdisk13 scdisk14, -0.00190294938037
+background color, -0.00190294938037
+unique string, -0.00190294938037
+virtual memory consumption subclass, -0.00190294938037
+different mirror, -0.00190294938037
+first command, -0.00190294938037
+last day, -0.00190294938037
+ac power cord, -0.00190294938037
+display fork, -0.00190294938037
+removable medium, -0.00190294938037
+subnetwork address, -0.00190294938037
+sample business environment, -0.00190294938037
+committed processor, -0.00190294938037
+process level detail, -0.00190294938037
+physical volume identifier, -0.00190294938037
+total throughput, -0.00190294938037
+first register, -0.00190294938037
+whole system, -0.00190294938037
+logical volume testlv, -0.00190294938037
+autodetection option, -0.00190294938037
+fault count, -0.00190294938037
+new client object, -0.00190294938037
+own firewall, -0.00190294938037
+digit day, -0.00190294938037
+explicit knowledge, -0.00190294938037
+specified workload management, -0.00190294938037
+cookie support, -0.00190294938037
+performance modeling, -0.00190294938037
+fixed size, -0.00190294938037
+fast activation, -0.00190294938037
+warning panel message, -0.00190294938037
+device back, -0.00190294938037
+automatic service, -0.00190294938037
+service provider information, -0.00190294938037
+instruction page fault, -0.00190294938037
+backup format, -0.00190294938037
+previous configuration command, -0.00190294938037
+indirect connection, -0.00190294938037
+complete domain name, -0.00190294938037
+appropriate subnetwork, -0.00190294938037
+overwrite argument, -0.00190294938037
+specific logical port, -0.00190294938037
+managing security, -0.00190294938037
+cumulative report, -0.00190294938037
+force option, -0.00190294938037
+active cluster, -0.00190294938037
+current flash image, -0.00190294938037
+multistep process, -0.00190294938037
+lowercase navigation key, -0.00190294938037
+vtopt0 entry, -0.00190294938037
+security barrier, -0.00190294938037
+digit hour, -0.00190294938037
+default number, -0.00190294938037
+multiple remote installation, -0.00190294938037
+entity range, -0.00190294938037
+maximum percentage, -0.00190294938037
+virtual memory manager layer, -0.00190294938037
+backup information, -0.00190294938037
+geographic region, -0.00190294938037
+maximum allowable amount, -0.00190294938037
+server capability, -0.00190294938037
+message translation hierarchy, -0.00190294938037
+target amount, -0.00190294938037
+service connection, -0.00190294938037
+future time, -0.00190294938037
+order number, -0.00190294938037
+same listing, -0.00190294938037
+change connection monitoring, -0.00190294938037
+sustained load, -0.00190294938037
+hexadecimal dump, -0.00190294938037
+default mode, -0.00190294938037
+bottom front, -0.00190294938037
+system identification string, -0.00190294938037
+inode lookup, -0.00190294938037
+network authentication protocol, -0.00190294938037
+configure root, -0.00190294938037
+previous page fault, -0.00190294938037
+other procedure, -0.00190294938037
+operating system language, -0.00190294938037
+topas overhead, -0.00190294938037
+own set, -0.00190294938037
+stable flat surface, -0.00190294938037
+workload group participant, -0.00190294938037
+list utilization configuration, -0.00190294938037
+additional system memory, -0.00190294938037
+inuse count, -0.00190294938037
+route expiration, -0.00190294938037
+startnetsvc telnet, -0.00190294938037
+small portion, -0.00190294938037
+total disk activity, -0.00190294938037
+count parameter, -0.00190294938037
+customer network, -0.00190294938037
+long list, -0.00190294938037
+hot plug adapter, -0.00190294938037
+optimal bandwidth, -0.00190294938037
+average memory utilization, -0.00190294938037
+reporting system, -0.00190294938037
+memory usage count, -0.00190294938037
+stopnetsvc ftp, -0.00190294938037
+discovery process, -0.00190294938037
+report problem, -0.00190294938037
+different rack cabinet, -0.00190294938037
+following menu, -0.00190294938037
+right portion, -0.00190294938037
+trace daemon, -0.00190294938037
+dump type, -0.00190294938037
+volume group vg03, -0.00190294938037
+serial number match, -0.00190294938037
+volume group vg04, -0.00190294938037
+file system damage, -0.00190294938037
+hardware service related information, -0.00190294938037
+redundancy configuration, -0.00190294938037
+usual behavior, -0.00190294938037
+hardware vendor, -0.00190294938037
+possible tuning information, -0.00190294938037
+matching textual name, -0.00190294938037
+terminal display, -0.00190294938037
+cooling infrastructure, -0.00190294938037
+offload engine adapter, -0.00190294938037
+system trace hook, -0.00190294938037
+local electrical supply, -0.00190294938037
+client scheduler, -0.00190294938037
+remote logical partition, -0.00190294938037
+binary recording, -0.00190294938037
+virtual disk page, -0.00190294938037
+status column, -0.00190294938037
+security model, -0.00190294938037
+first entry, -0.00190294938037
+partition lpar1, -0.00190294938037
+additional disc, -0.00190294938037
+current web browser session, -0.00190294938037
+single unit, -0.00190294938037
+manufacturing default partition configuration, -0.00190294938037
+encrypted connection, -0.00190294938037
+scp command, -0.00190294938037
+redundant access, -0.00190294938037
+inconsistent file, -0.00190294938037
+link count, -0.00190294938037
+request packet, -0.00190294938037
+specified state, -0.00190294938037
+partition availablity priority, -0.00190294938037
+available huge page memory, -0.00190294938037
+duplex option, -0.00190294938037
+corrupt block, -0.00190294938037
+state field, -0.00190294938037
+unique address space, -0.00190294938037
+specific group, -0.00190294938037
+boot process, -0.00190294938037
+new return code, -0.00190294938037
+raw device name, -0.00190294938037
+remote user user, -0.00190294938037
+stopnetsvc telnet, -0.00190294938037
+state change, -0.00190294938037
+view detailed information, -0.00190294938037
+crossover traffic, -0.00190294938037
+unexpanded memory, -0.00190294938037
+protocol option, -0.00190294938037
+critical data, -0.00190294938037
+distribution process, -0.00190294938037
+status icon, -0.00190294938037
+adapter ent8, -0.00190294938037
+output screen, -0.00190294938037
+same setup, -0.00190294938037
+status form, -0.00190294938037
+same rule, -0.00190294938037
+disk unit, -0.00190294938037
+concurrent server firmware maintenance, -0.00190294938037
+other information, -0.00190294938037
+vg02 fslv03, -0.00190294938037
+dial information window, -0.00190294938037
+primary console, -0.00190294938037
+work pane table view, -0.00190294938037
+search entry, -0.00190294938037
+partition boot mode back, -0.00190294938037
+detail status, -0.00190294938037
+logical partition vioserver, -0.00190294938037
+boot device list, -0.00190294938037
+specified machine, -0.00190294938037
+access level, -0.00190294938037
+processor activity, -0.00190294938037
+upper left corner, -0.00190294938037
+configurable huge page memory, -0.00190294938037
+overall memory, -0.00190294938037
+change virtual disk, -0.00190294938037
+admin ticket, -0.00190294938037
+system growth, -0.00190294938037
+offload progress, -0.00190294938037
+adequate memory, -0.00190294938037
+wide mode, -0.00190294938037
+task specific help, -0.00190294938037
+specified public key, -0.00190294938037
+sortentity argument, -0.00190294938037
+partition state, -0.00190294938037
+switch port, -0.00190294938037
+following company contact information, -0.00190294938037
+physical network link, -0.00190294938037
+boot disk, -0.00190294938037
+console date, -0.00190294938037
+different network software, -0.00190294938037
+peak usage, -0.00190294938037
+trap information, -0.00190294938037
+command lsmap, -0.00190294938037
+modem transmission, -0.00190294938037
+maximum outward adjustment, -0.00190294938037
+deconfigured processing, -0.00190294938037
+first port, -0.00190294938037
+factory configuration partition mode, -0.00190294938037
+archive myhome, -0.00190294938037
+left mouse button, -0.00190294938037
+particular function key, -0.00190294938037
+system group, -0.00190294938037
+system configuration information, -0.00190294938037
+partition information, -0.00190294938037
+configurable table, -0.00190294938037
+new serviceable event, -0.00190294938037
+predefined task, -0.00190294938037
+additional disk drive, -0.00190294938037
+first progress code, -0.00190294938037
+specified section, -0.00190294938037
+secure script execution, -0.00190294938037
+time server information, -0.00190294938037
+cord clip, -0.00190294938037
+start recording cluster, -0.00190294938037
+system administrator message, -0.00190294938037
+newlv oldlv, -0.00190294938037
+blade server management module, -0.00190294938037
+full upright position, -0.00190294938037
+only mandatory parameter, -0.00190294938037
+different time range, -0.00190294938037
+management console partition, -0.00190294938037
+activeuser argument, -0.00190294938037
+new option ping test, -0.00190294938037
+network upgrade, -0.00190294938037
+disk subsection, -0.00190294938037
+bus type, -0.00190294938037
+type boot, -0.00190294938037
+entire processing capacity, -0.00190294938037
+partition communication state, -0.00190294938037
+pid section, -0.00190294938037
+memory optimization tool, -0.00190294938037
+inactive file system, -0.00190294938037
+dump iopdump, -0.00190294938037
+frame argument, -0.00190294938037
+internet work router, -0.00190294938037
+partition lpar2, -0.00190294938037
+partition lpar3, -0.00190294938037
+main topas display, -0.00190294938037
+administrator authority, -0.00190294938037
+particular task, -0.00190294938037
+support memory, -0.00190294938037
+conf configuration file, -0.00190294938037
+second option, -0.00190294938037
+column order, -0.00190294938037
+variable section, -0.00190294938037
+migration state, -0.00190294938037
+load module name, -0.00190294938037
+maximum data rate, -0.00190294938037
+filtered view, -0.00190294938037
+utilization monitoring, -0.00190294938037
+specified port group, -0.00190294938037
+uninterruptible power supply, -0.00190294938037
+faulting segment, -0.00190294938037
+current display, -0.00190294938037
+tape length, -0.00190294938037
+typical main store dump, -0.00190294938037
+pass information, -0.00190294938037
+code key, -0.00190294938037
+change system, -0.00190294938037
+support setting, -0.00190294938037
+available default, -0.00190294938037
+taggedio virtualio, -0.00190294938037
+installation source, -0.00190294938037
+specified target device, -0.00190294938037
+machine information, -0.00190294938037
+platform log, -0.00190294938037
+resource group name, -0.00190294938037
+encrypted file, -0.00190294938037
+error log reference code, -0.00190294938037
+base information, -0.00190294938037
+device flag, -0.00190294938037
+listing system level memory, -0.00190294938037
+question mark, -0.00190294938037
+lsnetsvc inetd, -0.00190294938037
+nondirectory archive, -0.00190294938037
+total entitlement, -0.00190294938037
+disk service, -0.00190294938037
+global network, -0.00190294938037
+later use, -0.00190294938037
+default level, -0.00190294938037
+entire server, -0.00190294938037
+following generic device, -0.00190294938037
+type client, -0.00190294938037
+list possible source, -0.00190294938037
+active partition migration, -0.00190294938037
+logical network, -0.00190294938037
+indicated state, -0.00190294938037
+twinaxial console, -0.00190294938037
+operator assistance, -0.00190294938037
+alphabetic view, -0.00190294938037
+use computing, -0.00190294938037
+online help information, -0.00190294938037
+user name link, -0.00190294938037
+snmpd root, -0.00190294938037
+automatic unit selection, -0.00190294938037
+same size, -0.00190294938037
+migration installation method, -0.00190294938037
+maintenance package, -0.00190294938037
+same open network, -0.00190294938037
+following device list, -0.00190294938037
+specified description, -0.00190294938037
+sendmail root, -0.00190294938037
+default client domain, -0.00190294938037
+list virtual partition, -0.00190294938037
+applicable task, -0.00190294938037
+safe environment, -0.00190294938037
+my53resource client object, -0.00190294938037
+shared buffer pool, -0.00190294938037
+recent maintenance level, -0.00190294938037
+particular state, -0.00190294938037
+kernel mode, -0.00190294938037
+relevant page, -0.00190294938037
+several partition, -0.00190294938037
+rsubtype pgdev attribute, -0.00190294938037
+numeric format, -0.00190294938037
+primary device, -0.00190294938037
+certain platform, -0.00190294938037
+actual space, -0.00190294938037
+good practice, -0.00190294938037
+card position table, -0.00190294938037
+specified drive, -0.00190294938037
+list partition profile, -0.00190294938037
+place hazardous voltage, -0.00190294938037
+automatic discovery, -0.00190294938037
+actual location code, -0.00190294938037
+vertical column, -0.00190294938037
+user access, -0.00190294938037
+working storage, -0.00190294938037
+only network, -0.00190294938037
+specific network adapter, -0.00190294938037
+range argument, -0.00190294938037
+system configuration object, -0.00190294938037
+file system size, -0.00190294938037
+default size, -0.00190294938037
+incomplete client configuration, -0.00190294938037
+host connection, -0.00190294938037
+variable part, -0.00190294938037
+installation status, -0.00190294938037
+same effect, -0.00190294938037
+lslv hd6, -0.00190294938037
+report header, -0.00190294938037
+space information, -0.00190294938037
+first choice, -0.00190294938037
+runnable kernel, -0.00190294938037
+vhost0 virtual server adapter, -0.00190294938037
+available disk, -0.00190294938037
+recent number, -0.00190294938037
+help screen, -0.00190294938037
+frame level, -0.00190294938037
+bridged network, -0.00190294938037
+same default, -0.00190294938037
+digit month, -0.00190294938037
+full screen process display, -0.00190294938037
+client gateway, -0.00190294938037
+problem isolation, -0.00190294938037
+root file system level, -0.00190294938037
+same logical volume, -0.00190294938037
+free form text comment, -0.00190294938037
+portmap root, -0.00190294938037
+mode setting, -0.00190294938037
+same hard disk, -0.00190294938037
+partition console, -0.00190294938037
+dedicated maintenance, -0.00190294938037
+default backup device, -0.00190294938037
+invalid keyword, -0.00190294938037
+high degree, -0.00190294938037
+array information, -0.00190294938037
+mpss option, -0.00190294938037
+power infrastructure, -0.00190294938037
+time setting, -0.00190294938037
+new device, -0.00190294938037
+appropriate support, -0.00190294938037
+serial port, -0.00190294938037
+host opus, -0.00190294938037
+default virtual processor, -0.00190294938037
+problem reporting form, -0.00190294938037
+cluster name, -0.00190294938037
+taskbar switching, -0.00190294938037
+same space, -0.00190294938037
+comprehensive tool, -0.00190294938037
+mm position, -0.00190294938037
+sample utilization data, -0.00190294938037
+current sharing mode, -0.00190294938037
+decrement button, -0.00190294938037
+immediate shutdown, -0.00190294938037
+search list abc, -0.00190294938037
+debug output, -0.00190294938037
+device slot, -0.00190294938037
+last disk address, -0.00190294938037
+different resource, -0.00190294938037
+wanted memory, -0.00190294938037
+psbuf space, -0.00190294938037
+list installation, -0.00190294938037
+option name, -0.00190294938037
+single file space name, -0.00190294938037
+specified connection, -0.00190294938037
+file system consistency, -0.00190294938037
+computational text, -0.00190294938037
+current redundancy level, -0.00190294938037
+specified address, -0.00190294938037
+entstat ent0, -0.00190294938037
+physical location code discovery, -0.00190294938037
+licensed memory, -0.00190294938037
+partition refcode, -0.00190294938037
+bandwidth use, -0.00190294938037
+normal ent0, -0.00190294938037
+alphabetic listing, -0.00190294938037
+web browser use, -0.00190294938037
+fix level, -0.00190294938037
+format argument, -0.00190294938037
+specific release, -0.00190294938037
+processor sharing mode, -0.00190294938037
+secure shell access, -0.00190294938037
+parent scsi0, -0.00190294938037
+space character, -0.00190294938037
+total page, -0.00190294938037
+file system name, -0.00190294938037
+target destination, -0.00190294938037
+client subnet mask, -0.00190294938037
+down remotedstoff, -0.00190294938037
+appropriate device, -0.00190294938037
+whole block, -0.00190294938037
+logical volume allocation map, -0.00190294938037
+outgoing ping, -0.00190294938037
+support telephone, -0.00190294938037
+shared storage pool version, -0.00190294938037
+use ssh, -0.00190294938037
+overwrite option, -0.00190294938037
+correct card location, -0.00190294938037
+svmonalloc argument, -0.00190294938037
+use processor power, -0.00190294938037
+error notification, -0.00190294938037
+above administrator address, -0.00190294938037
+interface information, -0.00190294938037
+shell pathname, -0.00190294938037
+respective default, -0.00190294938037
+private key pair, -0.00190294938037
+multiple function, -0.00190294938037
+strong authentication, -0.00190294938037
+separate stanza, -0.00190294938037
+different maximum logical memory, -0.00190294938037
+master console, -0.00190294938037
+remote slot, -0.00190294938037
+force assignment, -0.00190294938037
+same recursive fashion, -0.00190294938037
+additional navigation, -0.00190294938037
+need communication, -0.00190294938037
+copy operation, -0.00190294938037
+startnetsvc ftp, -0.00190294938037
+complete listing, -0.00190294938037
+second fixed part, -0.00190294938037
+resource control, -0.00190294938037
+compatibility information, -0.00190294938037
+tape device display, -0.00190294938037
+minimum logical memory, -0.00190294938037
+processor time, -0.00190294938037
+psz column, -0.00190294938037
+client support, -0.00190294938037
+huge page memory allocation, -0.00190294938037
+potential main store dump, -0.00190294938037
+outgoing interface, -0.00190294938037
+physical processor core, -0.00190294938037
+authentication administrative domain, -0.00190294938037
+inventory data, -0.00190294938037
+process status, -0.00190294938037
+system processor level, -0.00190294938037
+server memory, -0.00190294938037
+additional equipment, -0.00190294938037
+appropriate problem analysis procedure, -0.00190294938037
+optimal memory, -0.00190294938037
+bootp request, -0.00190294938037
+single processor, -0.00190294938037
+remote login, -0.00190294938037
+myclient01 object, -0.00190294938037
+table option, -0.00190294938037
+warning screen, -0.00190294938037
+processor feature code, -0.00190294938037
+partition availability priority, -0.00190294938037
+shared processing pool size, -0.00190294938037
+performance management information, -0.00190294938037
+off option, -0.00190294938037
+ping test option, -0.00190294938037
+unit argument, -0.00190294938037
+mapping option, -0.00190294938037
+default name, -0.00190294938037
+special file link, -0.00190294938037
+several possible device package, -0.00190294938037
+average percent, -0.00190294938037
+specific disk, -0.00190294938037
+single monitor, -0.00190294938037
+password policy function, -0.00190294938037
+disk replacement, -0.00190294938037
+available memory amount, -0.00190294938037
+specific task, -0.00190294938037
+time base, -0.00190294938037
+memory table, -0.00190294938037
+specified active process, -0.00190294938037
+root file system, -0.00190294938037
+network demuxer, -0.00190294938037
+movable tab, -0.00190294938037
+system shutdown, -0.00190294938037
+usage error, -0.00190294938037
+target station, -0.00190294938037
+digit minute, -0.00190294938037
+target hard disk, -0.00190294938037
+model name attribute, -0.00190294938037
+delimiter separated format, -0.00190294938037
+stopnetsvc tracelog, -0.00190294938037
+optional postconfiguration, -0.00190294938037
+single character, -0.00190294938037
+new virtual disk, -0.00190294938037
+hostmibd root, -0.00190294938037
+frame priority, -0.00190294938037
+dump internal error, -0.00190294938037
+server binding information, -0.00190294938037
+activeuser option, -0.00190294938037
+such file, -0.00190294938037
+same machine type, -0.00190294938037
+default screen, -0.00190294938037
+exclamation mark, -0.00190294938037
+hardware problem determination, -0.00190294938037
+short hostname, -0.00190294938037
+service processor microcode, -0.00190294938037
+application software, -0.00190294938037
+msgtran parameter, -0.00190294938037
+default action, -0.00190294938037
+mixed production, -0.00190294938037
+domain name server information, -0.00190294938037
+kthr section, -0.00190294938037
+same way, -0.00190294938037
+system load activity, -0.00190294938037
+36cfb segment, -0.00190294938037
+sortseg option, -0.00190294938037
+processor unconfiguration, -0.00190294938037
+disk lv, -0.00190294938037
+xsd file, -0.00190294938037
+support site, -0.00190294938037
+affinity option, -0.00190294938037
+performance management data, -0.00190294938037
+command output, -0.00190294938037
+summary view, -0.00190294938037
+runtime shared memory weight, -0.00190294938037
+unknown device, -0.00190294938037
+timestamp argument, -0.00190294938037
+normal partition profile, -0.00190294938037
+principal name, -0.00190294938037
+particular object, -0.00190294938037
+same set, -0.00317091127974
+server authentication method, -0.00317091127974
+storage capacity, -0.00317091127974
+change partition profile, -0.00317091127974
+critical backup data, -0.00317091127974
+customer firewall, -0.00317091127974
+second syntax, -0.00317091127974
+default host, -0.00317091127974
+move processor, -0.00317091127974
+configured memory, -0.00317091127974
+specified range, -0.00317091127974
+ldap daemon, -0.00317091127974
+specific navigation, -0.00317091127974
+critical console data, -0.00317091127974
+virtual server state, -0.00317091127974
+current server, -0.00317091127974
+available amount, -0.00317091127974
+error report, -0.00317091127974
+shock hazard, -0.00317091127974
+server run, -0.00317091127974
+table row, -0.00317091127974
+schedule operation, -0.00317091127974
+device parent, -0.00317091127974
+hdisk1 disk device, -0.00317091127974
+customer number, -0.00317091127974
+client server, -0.00317091127974
+multiboot startup flag, -0.00317091127974
+detailed description, -0.00317091127974
+rootvg volume group, -0.00317091127974
+dedicated analog telephone line, -0.00317091127974
+possible configuration, -0.00317091127974
+administrative domain, -0.00317091127974
+installation information, -0.00317091127974
+current software level, -0.00317091127974
+rack stabilizer bracket, -0.00317091127974
+debug facility, -0.00317091127974
+external time source, -0.00317091127974
+certain user interface, -0.00317091127974
+explicit error code, -0.00317091127974
+mbuf pool, -0.00317091127974
+shared processing power, -0.00317091127974
+active logical partition, -0.00317091127974
+standard output device, -0.00317091127974
+entire hard disk drive, -0.00317091127974
+additional processor, -0.00317091127974
+precautionary measure, -0.00317091127974
+use processor, -0.00317091127974
+priority partition, -0.00317091127974
+system rail, -0.00317091127974
+group system, -0.00317091127974
+system model, -0.00317091127974
+structural damage, -0.00317091127974
+following illustration, -0.00317091127974
+system programmer, -0.00317091127974
+direct connection, -0.00317091127974
+remote file, -0.00317091127974
+customize user, -0.00317091127974
+text description, -0.00317091127974
+file size, -0.00317091127974
+other product, -0.00317091127974
+range specification, -0.00317091127974
+specified back, -0.00317091127974
+memory assignment, -0.00317091127974
+only display attribute, -0.00317091127974
+diskette drive, -0.00317091127974
+remote startup capability, -0.00317091127974
+default syntax, -0.00317091127974
+active task switcher, -0.00317091127974
+detailed summary, -0.00317091127974
+specific network, -0.00317091127974
+logical volume lv05, -0.00317091127974
+move hardware, -0.00317091127974
+dynamic logical partitioning, -0.00317091127974
+manual keylock, -0.00317091127974
+specified set, -0.00317091127974
+conf file, -0.00317091127974
+nested quotation, -0.00317091127974
+finish selecting, -0.00317091127974
+new adapter, -0.00317091127974
+rack stabilizer, -0.00317091127974
+configured set, -0.00317091127974
+single computer, -0.00317091127974
+upgrade process, -0.00317091127974
+web browser access, -0.00317091127974
+same order, -0.00317091127974
+start physical volume management, -0.00317091127974
+new installation, -0.00317091127974
+ip flag, -0.00317091127974
+port assignment, -0.00317091127974
+current system information, -0.00317091127974
+other purpose, -0.00317091127974
+certain amount, -0.00317091127974
+tracelog option, -0.00317091127974
+unique address, -0.00317091127974
+disk partition, -0.00317091127974
+physical adapter interface, -0.00317091127974
+unused memory, -0.00317091127974
+filtered list, -0.00317091127974
+side effect, -0.00317091127974
+view data, -0.00317091127974
+sufficient information, -0.00317091127974
+regular network, -0.00317091127974
+same name, -0.00317091127974
+share system, -0.00317091127974
+device block size set, -0.00317091127974
+byte hexadecimal value, -0.00317091127974
+only change, -0.00317091127974
+single server, -0.00317091127974
+single point, -0.00317091127974
+physical access, -0.00317091127974
+electrical safety, -0.00317091127974
+network host, -0.00317091127974
+regular basis, -0.00317091127974
+specified attribute, -0.00317091127974
+different time zone, -0.00317091127974
+single memory pool, -0.00317091127974
+default port, -0.00317091127974
+following error message, -0.00317091127974
+support bracket, -0.00317091127974
+configured connection speed, -0.00317091127974
+default community name, -0.00317091127974
+primary navigation, -0.00317091127974
+policy information, -0.00317091127974
+large portion, -0.00317091127974
+appropriate paging device, -0.00317091127974
+analog line, -0.00317091127974
+ktadd command, -0.00317091127974
+nonvolatile storage, -0.00317091127974
+remote file system, -0.00317091127974
+following order, -0.00317091127974
+same list, -0.00317091127974
+previous page, -0.00317091127974
+trace hook, -0.00317091127974
+physical system memory, -0.00317091127974
+server slot number, -0.00317091127974
+capable adapter, -0.00317091127974
+firmware console, -0.00317091127974
+analog telephone jack, -0.00317091127974
+status field, -0.00317091127974
+electrical equipment, -0.00317091127974
+new paging, -0.00317091127974
+particular device, -0.00317091127974
+root authority, -0.00317091127974
+access information, -0.00317091127974
+multiboot startup option, -0.00317091127974
+same resource type, -0.00317091127974
+only way, -0.00317091127974
+same type, -0.00317091127974
+later time, -0.00317091127974
+previous task, -0.00317091127974
+previous version, -0.00317091127974
+start virtual disk management, -0.00317091127974
+network information, -0.00317091127974
+electrical storm, -0.00317091127974
+table summary, -0.00317091127974
+system firmware code, -0.00317091127974
+default storage pool, -0.00317091127974
+physical backing device, -0.00317091127974
+integrated modem, -0.00317091127974
+multiple power, -0.00317091127974
+numeric output, -0.00317091127974
+further detail, -0.00317091127974
+kadmin utility, -0.00317091127974
+phase rotation, -0.00317091127974
+active cap, -0.00317091127974
+enterprise number, -0.00317091127974
+volume group myvg, -0.00317091127974
+same machine, -0.00317091127974
+time information, -0.00317091127974
+first adapter, -0.00317091127974
+primary partition, -0.00317091127974
+character device, -0.00317091127974
+logical volume backing, -0.00317091127974
+customer name, -0.00317091127974
+text format, -0.00317091127974
+trap message, -0.00317091127974
+operating system environment, -0.00317091127974
+client adapter server, -0.00317091127974
+dialog box, -0.00317091127974
+space bar, -0.00317091127974
+empty list, -0.00317091127974
+current location, -0.00317091127974
+item removal, -0.00317091127974
+system activity, -0.00317091127974
+proper voltage, -0.00317091127974
+worldwide port number, -0.00317091127974
+single view, -0.00317091127974
+network domain name, -0.00317091127974
+analog jack, -0.00317091127974
+dial tone, -0.00317091127974
+trace function, -0.00317091127974
+managing shared storage, -0.00317091127974
+tool bar, -0.00317091127974
+snmp daemon, -0.00317091127974
+manual intervention, -0.00317091127974
+server partition name, -0.00317091127974
+same format, -0.00317091127974
+interval information, -0.00317091127974
+use dedicated memory, -0.00317091127974
+command failure, -0.00317091127974
+external firewall, -0.00317091127974
+system reference, -0.00317091127974
+task window, -0.00317091127974
+branch office, -0.00317091127974
+proxy authentication information, -0.00317091127974
+different network, -0.00317091127974
+need occasional monitoring, -0.00317091127974
+character set, -0.00317091127974
+other type, -0.00317091127974
+appropriate data source, -0.00317091127974
+system processor, -0.00317091127974
+independent logical server, -0.00317091127974
+partition planning, -0.00317091127974
+local server, -0.00317091127974
+global environment, -0.00317091127974
+informational message, -0.00317091127974
+column header, -0.00317091127974
+power supply assembly, -0.00317091127974
+different subnet, -0.00317091127974
+host service key file, -0.00317091127974
+interface speed, -0.00317091127974
+electric shock, -0.00317091127974
+new functionality, -0.00317091127974
+new system, -0.00317091127974
+following list, -0.00317091127974
+welcome message, -0.00317091127974
+serviceable event icon, -0.00317091127974
+following figure, -0.00317091127974
+outside line, -0.00317091127974
+increase resource utilization, -0.00317091127974
+important console information, -0.00317091127974
+network traffic, -0.00317091127974
+logical partition configuration information, -0.00317091127974
+single device, -0.00317091127974
+successful upgrade, -0.00317091127974
+record information, -0.00317091127974
+physical main storage, -0.00317091127974
+particular file, -0.00317091127974
+fast path checklist, -0.00317091127974
+bootable disk, -0.00317091127974
+host address, -0.00317091127974
+line feed, -0.00317091127974
+static control, -0.00317091127974
+management logical partition, -0.00317091127974
+following symbol, -0.00317091127974
+system rating plate, -0.00317091127974
+go back, -0.00317091127974
+maintenance level, -0.00317091127974
+device physical location code, -0.00317091127974
+white space, -0.00317091127974
+first syntax, -0.00317091127974
+previous menu, -0.00317091127974
+default behavior, -0.00317091127974
+initial window, -0.00317091127974
+session information, -0.00317091127974
+executable file, -0.00317091127974
+modem line port, -0.00317091127974
+bottom left pane, -0.00317091127974
+device attribute value, -0.00443833636314
+resource code, -0.00443833636314
+preferred table column configuration, -0.00443833636314
+empty string, -0.00443833636314
+high level, -0.00443833636314
+status information, -0.00443833636314
+unit label, -0.00443833636314
+storage resource, -0.00443833636314
+base unit, -0.00443833636314
+mmm value, -0.00443833636314
+ccc number, -0.00443833636314
+resource allocation, -0.00443833636314
+single output operation, -0.00443833636314
+run time, -0.00443833636314
+real machine type, -0.00443833636314
+certain error, -0.00443833636314
+constant digit, -0.00443833636314
+specific location code, -0.00443833636314
+additional user, -0.00443833636314
+xntpd daemon, -0.00443833636314
+automated method, -0.00443833636314
+nonpartitioned server, -0.00443833636314
+many logical location, -0.00443833636314
+multiple shared processor, -0.00443833636314
+logical volume lv01, -0.00443833636314
+installation procedure, -0.00443833636314
+ssh daemon, -0.00443833636314
+help information, -0.00443833636314
+volume group structure, -0.00443833636314
+new feature, -0.00443833636314
+temporary unit identifier, -0.00443833636314
+different process, -0.00443833636314
+address range, -0.00443833636314
+current working directory, -0.00443833636314
+descriptive information, -0.00443833636314
+specific topic, -0.00443833636314
+partition set, -0.00443833636314
+use physical location, -0.00443833636314
+local console, -0.00443833636314
+blank space, -0.00443833636314
+same view, -0.00443833636314
+next time, -0.00443833636314
+complete list, -0.00443833636314
+authority level, -0.00443833636314
+off state, -0.00443833636314
+remote command line interface, -0.00443833636314
+appropriate protocol, -0.00443833636314
+specific amount, -0.00443833636314
+specified delimiter, -0.00443833636314
+uppercase hexadecimal, -0.00443833636314
+target resource, -0.00443833636314
+same subnet, -0.00443833636314
+dynamic client configuration, -0.00443833636314
+complete set, -0.00443833636314
+error code, -0.00443833636314
+physical structure, -0.00443833636314
+variable length, -0.00443833636314
+bus isolation, -0.00443833636314
+background information, -0.00443833636314
+remote location, -0.00443833636314
+remote host, -0.00443833636314
+same server, -0.00443833636314
+alphanumeric string, -0.00443833636314
+store data, -0.00443833636314
+next reboot, -0.00443833636314
+first position, -0.00443833636314
+control function, -0.00443833636314
+top line, -0.00443833636314
+server information, -0.00443833636314
+world unique identifier, -0.00443833636314
+prime administrator, -0.00443833636314
+same system, -0.00443833636314
+device location, -0.00570522463163
+only valid value, -0.00570522463163
+previous example, -0.00570522463163
+same paging space device, -0.00570522463163
+drop down list, -0.00570522463163
+configure shared memory, -0.00570522463163
+open state, -0.00570522463163
+blank string, -0.00570522463163
+new release, -0.00570522463163
+first part, -0.00570522463163
+model number, -0.00570522463163
+shared memory environment, -0.00570522463163
+alternate console device, -0.00570522463163
+partition configuration information, -0.00570522463163
+same paging space, -0.00570522463163
+backup data, -0.00570522463163
+corrupted database, -0.00570522463163
+load source slot, -0.00697157608661
+resource amount, -0.00697157608661
+virtual storage, -0.00697157608661
+trunk adapter, -0.00697157608661
+tree view, -0.00697157608661
+address space, -0.00697157608661
+separate output, -0.00697157608661
+delimiter character, -0.00697157608661
+partition pl, -0.00823739072977
+system memory, -0.00823739072977
+resource monitoring, -0.00823739072977
+padmin user, -0.00823739072977
+system administrator, -0.00823739072977
+control connection, -0.00823739072977
+system use, -0.0095026685632
+hexadecimal value, -0.0095026685632
+help text, -0.0107674095893
+admin user, -0.0107674095893
+other system, -0.0107674095893
+nested double quotation, -0.0107674095893
+following exit, -0.0120316138109
+first record, -0.0132952812311
+escape character, -0.0145584118533
+changed information, -0.0145584118533
+need additional information, -0.0271601951947
