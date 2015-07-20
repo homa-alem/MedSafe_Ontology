@@ -1,1 +1,5395 @@
-Technical Phrase, Document Frequency
+Technical Phrase, Sentence Frequency
+opening menu, 3
+remote web browser user, 13
+device attribute value, 21
+dynamic reconfiguration connection drc, 1
+powerpc firmware version, 2
+destination device, 9
+output destination, 1
+usb flash memory device, 2
+device fan, 3
+possible interpretation, 2
+logical host ethernet adapter, 5
+kernel text, 1
+graphical interface, 1
+partition configuration, 6
+support specific statistic, 1
+diskette drive, 26
+ibm prerequisite website, 6
+list npiv mapping information, 1
+appropriate cryptographic key, 6
+object descriptor textual name, 1
+physical port performance, 70
+object class path definition, 6
+same set, 5
+profile lpar profile, 3
+vgstate state, 3
+failed link, 1
+physical part, 12
+virtual ethernet topology, 6
+operating system device, 11
+ip gateway, 3
+rsubtype pgdev flag, 2
+memory block size, 6
+flash eprom, 3
+separate physical ethernet interfaces, 1
+mirror copy serialio serialization, 6
+server authentication method, 2
+provision shared storage, 1
+hardware configuration, 24
+clear current name, 1
+mozilla firefox hmc version, 1
+active cpu mem disk, 2
+use code, 5
+logical partition boot time, 1
+default fsp setting, 5
+configured email, 6
+absolute count, 4
+set iscsi target name, 41
+hmc console, 1
+storage capacity, 8
+optimum buffer size, 20
+rmvdev command purpose, 7
+barrier synchronization register, 1
+cuat object class, 1
+active wlm, 12
+compatibility mode, 12
+preferred table column configuration, 7
+ftp daemon, 6
+event list, 6
+attribute name, 7
+client adapter server, 3
+march 2013added information, 2
+directory parameter, 4
+off loading service information, 1
+system error log information, 6
+string parameter, 6
+server device, 5
+preinstallation configuration worksheet, 10
+variable binding, 2
+server management partition, 4
+different optimum buffer, 2
+display network diagnostic information, 5
+serviceable event task, 3
+defaultvirtualethernetadapter seadefaultpvid, 2
+chlv newlogicalvolumename, 10
+context menu, 6
+parameter description count, 10
+service focal point, 25
+path status, 41
+other regular file data, 1
+logical memory assignment, 7
+list box, 17
+device location, 14
+different repository, 1
+ip internet protocol, 5
+pci bus pci1, 5
+progress window, 2
+shared memory, 533
+flat panel monitor, 15
+feature code, 17
+type parameter, 2
+ibm power, 22
+level pool, 514
+queue broadcast, 7
+topasrec command purpose, 3
+multiple collision count, 19
+value description, 11
+backslash character, 1
+different configuration, 3
+svmon command purpose, 5
+unmount command, 3
+port port gigabit, 12
+use paging vios partition, 4
+pool use, 4
+udp port, 3
+activation code generation information, 1
+close virtual terminal session, 3
+rsubtype scsi, 210
+lssw command, 6
+memory set, 9
+change user password task, 3
+timestamp option, 1
+clock vmm, 8
+logical port limit, 9
+id lpar id, 10
+single physical server, 7
+current code level, 2
+unused processing capacity, 3
+device description, 10
+kdc server, 33
+administration method, 1
+step 1b, 4
+internal code, 1
+heavy equipmentpersonal injury, 4
+valid filter, 80
+incorrect result status status, 3
+physical tape device rmt0, 6
+package status, 16
+backup device, 30
+csm cluster, 2
+java virtual machine jvm, 1
+license related information, 2
+regular output, 1
+hmc network, 60
+access control rbac, 4
+dump system related information, 3
+trace level, 1
+remote control, 2
+customer expense, 2
+physical port, 69
+temporary firmware level, 4
+virtualization engine, 21
+processor regulator processor module, 6
+specified value, 28
+call home feature, 6
+physical volume type, 5
+entstat ent0, 5
+snap command, 4
+high level, 3
+link hsl opticonnect feature, 2
+tape drive offline, 1
+upgrade data, 62
+viewonly role, 10
+ipv6 talk, 10
+shutdown command purpose, 2
+command line flag, 2
+target integrated drive, 6
+savevgstruct command purpose, 3
+order beginning, 3
+hdisk7 utmp0, 1
+instance description, 13
+description value, 6
+failure group, 1
+format https, 3
+help window, 7
+unused port range, 1
+late collision, 9
+input field, 2
+system firmware current memory, 1
+current authorization, 1
+tmem argument, 5
+same level, 2
+target ip address, 1
+ldap directory server, 4
+filtertype option, 6
+default wait time, 2
+object identifier, 6
+target host, 7
+pci card location, 7
+taskpad method, 1
+use full path, 9
+typing exit, 5
+lv name size, 8
+local domain, 6
+unit un, 3
+partition server, 2
+group low priority frus, 11
+ibm system support, 25
+scriptable output, 1
+frame number, 6
+power distribution bus pdb, 6
+press backspace key, 2
+installation kit, 2
+load source device, 2
+filename option, 2
+activation history log, 2
+pgspout number, 8
+green power indicator, 10
+carrier sense, 9
+optimal size, 3
+disk map, 1
+lsnetsvc ftp, 5
+new version, 34
+unit label, 3
+remote support facility rsf, 8
+configure root, 2
+remote web browser, 3
+service read, 15
+startmonth month, 22
+textual name, 7
+pulse type, 1
+system unit go, 2
+startup sequence, 11
+server virtual ethernet adapter, 12
+pager pager device name, 1
+enough physical processor capacity, 6
+hmc user, 7
+same kdc, 6
+modem power supply cord, 2
+remote management, 16
+format task, 1
+partition status, 6
+current node name, 1
+vfc client name, 1
+immed flag, 3
+page size, 41
+hmc management work pane, 25
+associated physical fibre channel, 2
+getnext request, 2
+header list, 6
+full detail, 1
+change route, 9
+memory mirroring option, 5
+default back, 3
+total time, 20
+previous example, 3
+virtual adapter, 23
+definition file, 1
+ipv6 router, 4
+first time, 24
+prepdev command purpose, 11
+transmission current hw, 10
+name physloc hdisk0 u9111, 1
+mapping argument, 38
+long format, 13
+remote kerberos client machine, 1
+navigation aid, 12
+numeric key parent topic, 1
+partition operating system, 2
+form superclassname, 1
+change partition profile, 1
+minimum memory amount, 22
+set option, 2
+client partition id, 4
+storage protection page, 9
+integrated cluster, 9
+move data, 7
+critical backup data, 6
+current overall system status, 1
+application server, 11
+select 4th boot device, 1
+configured level, 10
+remote startup capability, 7
+upgrade microcode, 6
+select privacy, 10
+available state, 6
+system port, 54
+regular file, 1
+mkkrb5clnt command, 1
+service provider, 143
+physport set, 4
+initial single partition setup, 8
+post installation management, 1
+virtual information, 4
+resource code, 21
+command description, 8
+uneven mechanical loading, 1
+specified drive, 2
+scsi mb harddisk, 9
+logical volume state state, 2
+processor module vrm, 30
+specified logical partition, 4
+following ipv4, 26
+following ipv6, 8
+local diskette, 2
+filename argument, 11
+enforced memory resource limit, 1
+syntax rmdev name description, 7
+description switch, 6
+parent directory, 1
+trap function, 16
+capacity percentage, 3
+memory block, 5
+event time time, 8
+collectionheader comment tag, 3
+constant value, 7
+logport lp id, 7
+startnetsvc command, 13
+configure integrated login, 1
+usual business, 3
+arp table size, 6
+administrator page, 1
+customer firewall, 21
+unmount command purpose, 4
+welcome text, 16
+select device type menu, 8
+blower card connector iop, 3
+inbound connectivity task, 3
+mklv command, 4
+following command line, 1
+scheduling dpo, 1
+ivm mksvcevent command purpose, 2
+second server v2, 10
+select 1st boot device, 1
+siz column, 6
+internet protocol address, 2
+ss format, 1
+sum structure, 12
+second syntax, 17
+ascii reference code string, 4
+same size, 16
+first unmount file system, 10
+virtual serial adapter, 4
+specific operation, 1
+mmap subroutine, 23
+decimal bus number, 4
+dhcp server, 37
+packet size, 16
+maximum processing unit, 6
+pgsz option, 1
+remote service session, 17
+memory pool offline, 1
+unique identifier, 4
+system type, 1
+resource type, 25
+physical device, 27
+xml data, 10
+root volume group, 4
+repair procedure, 2
+streamid stream id, 2
+target interface, 1
+work pane table, 30
+last observation, 1
+panel disk panel view, 1
+vtd backing status, 1
+partition migration, 46
+applied fix, 3
+handling problem, 1
+column configuration, 29
+own lan switch, 5
+shared mode, 22
+system configuration, 4
+hardware problem determination, 2
+inconsistent inode map, 1
+owner column, 6
+internal cache 2f, 1
+web browser pc, 5
+operator panel, 2
+redundant service processor, 2
+enterprise server version, 1
+locale name, 13
+mklv command purpose, 2
+english version, 4
+move processor, 1
+redundant paging, 1
+diagnostic mode, 1
+system configuration data, 1
+search mac address, 1
+diagmenu command, 3
+interval parameter, 1
+systemwide scale, 1
+lsdev devicename physicallocationcode fieldname, 1
+primary integrated ethernet port, 27
+bootable tape, 2
+esd packaging, 10
+configured memory, 13
+unused capacity, 16
+following command dd, 19
+partition planning, 4
+server v3, 8
+backplane p1, 3
+keyboard post indicator, 9
+own group, 5
+unit id, 12
+processor failure, 13
+volume group vg04, 5
+hard disk drive, 5
+corresponding virtual fibre channel, 4
+speed setting, 8
+system data, 11
+true view, 1
+physical system attention, 5
+system date, 1
+problem report, 3
+window switching, 10
+use shared memory pool, 1
+partition name, 89
+next adapter configuration menu, 4
+predefined default user, 6
+connection monitoring task, 3
+segment option, 1
+down logical partition, 16
+hmc home directory, 1
+dump device, 6
+specified summary report, 2
+cfgdev command, 29
+system log, 36
+ieq total number, 2
+segment use, 3
+down position, 9
+problem analysis, 42
+only package name, 1
+lan adapter, 7
+syntax showmount host description, 10
+specified range, 10
+syntax rmlvcopy logicalvolume physicalvolume, 1
+ktutil ktutil rkt, 1
+numeric format, 6
+host count description, 11
+1d elapsed time, 2
+need additional information, 77
+valid user id, 5
+different fact, 6
+blank value, 5
+partition set, 3
+bottom part, 6
+gb huge page, 11
+label field, 6
+display additional information, 5
+ldap daemon, 2
+endmonth month, 33
+return code description, 3
+command syntax, 1
+detailed list, 2
+destination msp, 1
+sr user, 3
+equipment damage, 3
+physical fibre channel port, 15
+mpio capable device, 5
+main storage, 2
+single getbulk, 5
+boot device order, 6
+path specific attribute, 12
+error information, 19
+text format, 8
+syntax chlang, 16
+ship group, 1
+mklv vgname, 7
+storage resource, 30
+base unit, 6
+range volt ac, 1
+particular serviceable event, 53
+comma separated list, 40
+lstcpip command, 10
+target system managing, 2
+slot lp limit column, 10
+only paging vios partition, 40
+physical request, 1
+virtual scsi default, 1
+several possible device package, 1
+warning message, 19
+new reference code, 1
+nim server, 31
+initial logical partition configuration, 18
+sea0 type, 1
+cattracerpt report, 1
+system information, 21
+shared library, 10
+san zoning support, 46
+snmp request, 9
+resource error, 2
+kerberos remote user id, 1
+record cluster, 1
+current state, 10
+ivm chsysstate command purpose, 4
+select dump, 7
+use processor, 22
+isolation information symbolic frus, 1
+column configuration icon, 6
+share common machine id, 2
+full processing capacity, 5
+type server, 1
+upper right corner, 3
+maximum amount, 60
+rsubtype slot, 501
+specific type use, 3
+variable section, 1
+same rack cabinet, 9
+ivm mkgencfg command purpose, 6
+mklvcopy command, 4
+rset registry, 4
+same physical volume, 2
+resultant status, 4
+key return, 1466
+external hmc modem, 12
+summary header, 29
+reporting unit, 16
+ethernet device driver, 2
+monitor resource usage, 16
+access password, 35
+independent paging space, 10
+local modem tab page, 3
+form bbbb ccxx, 1
+associated network service, 1
+place period, 3
+lpar logical partition, 14
+port use udp hmc, 13
+particular system, 2
+current number, 43
+pconsole user, 1
+vhost2 u9111, 1
+dump capability, 3
+cd device name, 7
+broken state, 3
+open udp port range, 6
+dsmc command purpose, 11
+access process ccin ccin, 14
+new paging space, 3
+mmm value, 9
+gb exit status, 9
+call home proxy server, 5
+critical console data, 10
+clientid client partition id, 3
+vtscsi3 u9111, 1
+managing volume, 3
+import plan, 7
+virtual tape device, 5
+memory usage count, 4
+specified boot list, 11
+additional partition, 5
+recent event, 1
+physical memory, 281
+redundant paging vios, 2
+manufacturing default configuration, 10
+active network link, 1
+device specified device, 12
+kdc server kerberos authentication, 9
+fibre channel port name, 2
+same paging space device, 27
+rmdev command purpose, 4
+virtual server state, 6
+accessible file, 3
+true snapshot, 2
+null string, 2
+pdf link, 6
+logical volume lv20, 6
+open online, 2
+adapter driver, 4
+chdev udid, 1
+automated service, 1
+name server, 13
+specified machine, 3
+normal mode, 7
+svm svmon, 7
+data related information, 2
+virtual port level, 7
+slot pci4 sisscsia0 u787a, 1
+base value 0xsssssbbbbb, 14
+hmc welcome page, 1
+current server, 10
+menu bar, 35
+service action, 23
+task bar, 3
+ccc number, 30
+available amount, 4
+syntax startnetsvc networkservice description, 4
+startminute minute, 40
+server use, 2
+data collection, 1
+error report, 18
+name resolution, 3
+buffer overwrite, 1
+wlm class display, 11
+server operating, 3
+shared memory configuration, 39
+wlm class, 31
+active profile, 9
+lpnum logical partition number, 1
+logout list, 1
+execution technology, 1
+actual medium, 4
+inbound connection, 6
+first access, 8
+object type, 1
+previous level, 7
+viewing application, 7
+software a0 af, 1
+own packing, 2
+system configure, 23
+remote system type, 2
+segment report, 39
+utc time, 5
+unused segment, 1
+global report, 42
+kb mb, 26
+fcs0 fc loc code, 1
+mothra interval, 2
+default minimum number, 13
+vios logical partition, 137
+default community name, 5
+protocol menu, 1
+extended reference code, 10
+appropriate repair action, 1
+share memory, 6
+rmvdev lnaggdevice targetinterface description, 7
+partition number, 38
+platform firmware, 3
+security information, 2
+topas overhead, 1
+actual directory, 1
+lp3 related information, 2
+serviceable event notification window, 1
+same time, 18
+pci bridge set card, 1
+pool offline, 2
+device targetdevice, 3
+shlap root, 2
+primary partition, 2
+lstcpip command purpose, 6
+enough space, 3
+water count, 5
+domain name entry, 6
+available npiv, 23
+offload engine adapter, 16
+instance qualifier, 3
+name format, 6
+submodel number, 3
+exit use, 12
+port speed, 2
+sourcelogicalvolume parameter, 4
+rock ridge iso9660, 1
+resource allocation, 2
+processing power, 18
+single output operation, 3
+boot mode, 2
+pgspout client, 1
+x8 g2 slot, 15
+turbocore mode, 3
+type menu, 22
+shock hazard, 2
+hmc clock, 23
+device selection, 3
+upgrade process, 2
+user host display, 5
+physical partition, 87
+such time, 10
+ip address, 197
+raw device name, 5
+compact format report, 1
+speed autodetection, 1
+showmount middelburg related information, 3
+connected network, 3
+hmc kerberos configuration, 6
+logport logical port id, 15
+client v2, 9
+client v3, 7
+nim installation, 11
+ivm lslparmigr command purpose, 4
+problem number, 4
+physical hardware, 7
+incremental file system, 6
+ipv6 stateless configuration, 1
+locale task, 3
+appropriate procedure, 2
+processor consumption, 2
+view information, 11
+trace daemon, 7
+server run, 16
+authorized key list, 1
+long report format, 2
+activatevg command, 2
+secondary paging vios, 7
+ssh hmcuser hmchostname, 13
+list partition migration information, 8
+processor card device diskette, 3
+flag flag name description, 13
+primitive seq protocol, 2
+shared ethernet adapter interface, 9
+move operation, 3
+pool column, 18
+logical memory map size, 12
+new hardware, 31
+mib variable name, 1
+field replaceable unit fru, 27
+ethernet adapter speed, 6
+server uname command, 2
+hmc configure network, 1
+table row, 4
+disk drive backplane, 6
+volume group vg02, 5
+processor iop, 4
+scsi id, 16
+easy access, 2
+hot wlm, 10
+internet explorer, 6
+svm file, 6
+bus id, 35
+full upright position, 1
+fan a1, 18
+multicast address bit, 3
+second message, 13
+complete system name, 2
+name attribute, 1
+dma underrun error, 1
+lsfware command, 5
+electronic service agent version, 2
+same order, 12
+bootmode override, 3
+cluster configuration file, 1
+lun connection, 1
+advanced setup, 3
+findname invocation, 1
+platform dump, 1
+input area, 1
+advanced setup option, 4
+objectname parameter, 7
+physical volume id, 1
+fibre channel adapter, 1
+management partition telnet, 8
+linkaggregation attribute, 2
+different shared processor, 1
+hardware management console hmc, 42
+user role, 32
+work pane border, 7
+only network, 3
+mpss argument, 6
+default task, 2
+device driver internal status, 6
+target device, 45
+physical storage, 49
+name physloc fabric, 3
+change virtual partition, 1
+default autodetection, 7
+monitor console kit, 9
+use several navigation, 1
+virtual host adapter, 14
+phys display, 4
+use lssyscfg, 14
+system requirement, 3
+inuse scope, 2
+context menuthe context menu, 7
+magnetic tape, 2
+schedule operation, 6
+phone server, 4
+syntax entstat, 11
+lpar environment, 1
+edit current name, 1
+display tree view, 6
+hdisk1 u9111, 1
+inner edge, 6
+local system recording, 1
+large system, 10
+change virtual system, 1
+read system, 6
+table list, 7
+startnetsvc tracelog, 3
+workload management group attribute, 17
+queue crc, 8
+changed related informationthe, 2
+additional information, 62
+gb card port, 20
+only single successor, 2
+network installation management nim, 10
+initiator name, 29
+device parent, 8
+hdisk1 disk device, 4
+commandline argument, 11
+logical device, 30
+customer number, 1
+sync count, 2
+total disk activity, 3
+pool 4k, 5
+such shared ethernet adapter, 2
+run time, 4
+view issuer, 9
+last row, 3
+sixth tape, 10
+bkup system, 1
+search list entry, 9
+common paging space, 28
+appropriate unit, 5
+cpu usage, 3
+third syntax, 9
+exit status, 224
+paging paging, 1
+domain name example, 1
+electrical shock, 1
+ivm lsrefcode command purpose, 8
+ios state, 4
+supply wiring, 2
+previous boot, 1
+relocation bbr policy, 1
+directory search routine, 3
+numperm percentage percentage, 8
+further customize, 2
+exec system, 6
+real machine type, 12
+nnn gateway device, 1
+maximum shared processing, 1
+column name, 16
+table processor, 5
+last modified date, 5
+setup remote ipl, 8
+user mode, 1
+current power, 2
+base base, 8
+vendor disc, 5
+off value, 2
+multiboot startup flag, 2
+detailed description, 2
+specified directory, 3
+wanted memory, 1
+hmc topic, 12
+target device name, 6
+high quality, 2
+ci number, 6
+rootvg volume group, 8
+fiber channel disk hdisk1, 1
+change system, 1
+specified mib, 26
+user report, 41
+disable connection monitoring, 1
+operating environment installation, 18
+chled sa, 8
+queue overflow, 10
+full screen, 6
+uncapped sharing mode, 16
+mklvcopy command purpose, 3
+certain error, 27
+standard output device, 2
+virtual processor version, 1
+advanced system management asm, 1
+dedicated analog telephone line, 6
+configuration file, 10
+record information, 17
+oem software, 7
+general network, 133
+help text, 32
+traceselection use, 2
+slot number, 80
+c050760547e90000 fcs0, 5
+first fru, 8
+mr total number, 2
+selection box, 14
+file system size, 3
+return list, 31
+remote command execution, 23
+vtscsi0 u9111, 1
+constant digit, 3
+service key kerberos, 11
+release number, 3
+syntax svmon svmon, 35
+possible configuration, 2
+unlikely value, 7
+shared logical partition data, 1
+partition usage, 1
+title row, 3
+specified command, 3
+hmc workplace, 16
+current page size, 1
+concurrent repair, 4
+outbound connectivity parent topic, 1
+rootvg related informationthe command, 1
+installation information, 6
+specified parent, 1
+hmc data back, 15
+mib group, 1
+logical volume manager layer, 5
+interrupt activity, 1
+default size, 1
+different page, 1
+file system damage, 2
+kdc server realm, 1
+service request number, 13
+combined production, 4
+current software level, 2
+change date, 14
+device data, 12
+parent device, 43
+lan sol session, 1
+single back, 4
+ioslevel command purpose, 7
+boot list, 103
+root system, 1
+saving upgrade data, 1
+rack stabilizer bracket, 20
+reducevg command, 1
+exact content, 1
+prime administrator padmin, 1
+valid command syntax, 1
+local resolver, 8
+debug facility, 8
+external time source, 9
+domain name server, 18
+un value, 9
+use service processor isolation, 9
+mmm link, 6
+domain suffix search order, 7
+vtscsi4 u9111, 1
+ivm rstprofdata command purpose, 2
+rsubtype unit, 452
+incorrect number, 2
+external network, 2
+default id, 3
+specific attribute, 3
+same logical partition, 2
+memory resource assignment, 6
+percentage usage, 2
+memory pool, 508
+rpa partition type, 2
+specified user, 10
+day file, 2
+operation description, 6
+min minimum size, 26
+layer ssl encryption, 1
+detailed installation, 3
+communication speed, 6
+different internet, 1
+system trace hook, 1
+physical ethernet adapter, 15
+word 0x0000000100000105, 1
+particular file system, 1
+certain user interface, 6
+following message, 51
+spcn port, 32
+test problem reporting, 12
+private key pair, 5
+licensed internal code lic, 7
+large number, 14
+explicit error code, 8
+replacement part, 5
+status information, 22
+paging vios partition need, 8
+section briefly, 19
+logical volume backing, 1
+specific location code, 3
+carrier sense error, 1
+serviceable event overview panel, 1
+paging space display size, 2
+attribute description description, 11
+minimum number, 128
+processor utilization processor utilization, 9
+service management, 49
+previous kernel, 8
+online version, 9
+configure logical partition, 6
+ip flag, 10
+bottom left portion, 3
+card slot, 14
+specific set, 8
+current configuration data, 21
+single root, 40
+ip remote server ip, 12
+minimum shared processing, 1
+dynamic tuning, 4
+remote command execution task, 6
+key string, 12
+backup archive, 2
+mem proc, 39
+errorlog option, 1
+user profile, 36
+additional user, 2
+hmc port, 115
+list utilization data, 10
+maximum memory value, 3
+system dump, 1
+modem use, 2
+mkvdev targetdevice virtualethernetadapter, 1
+diskette track, 1
+electrostatic discharge esd, 6
+block parent information ibm, 1
+same method, 5
+data cec, 3
+outgoing probe, 2
+escape character, 11
+available scsi adapter scsi0, 10
+virtual ethernet mac, 4
+pcie specification, 19
+ipl source related information, 2
+prevboot keyword, 2
+configurable processing, 64
+chdev command, 26
+sign feature, 8
+mbuf pool, 6
+diagmenu command purpose, 5
+syntax errlog sequencenumber, 22
+new path definition, 3
+processing priority, 24
+syntax mklvcopy logicalvolume physicalvolume, 1
+backup file, 12
+ethernet interface, 11
+management network, 7
+name address, 2
+chled command, 6
+system model name, 1
+swwpns awwpns fcs0 u789d, 1
+enough processor, 9
+workload estimator, 9
+format diskette, 4
+current processing, 4
+dynamic platform optimization capability, 2
+particular data type, 1
+port type, 8
+configure shared memory, 32
+single optical drive, 5
+lslparinfo command purpose, 4
+large portion, 12
+shared processing power, 10
+system backplane, 3
+display shared ethernet adapter, 4
+active logical partition, 1
+demand server, 3
+cd device, 1
+request authorization, 2
+system status, 6
+system failure, 1
+following website, 5
+ping test, 76
+connection status, 4
+runtime expert, 6
+overcurrent protection, 1
+link aggregation ent3, 1
+endhour hour, 25
+delimiter description, 12
+reboot value, 1
+appropriate support, 2
+id virtualization npiv, 4
+ss position, 5
+following backup command, 9
+vfc client drc, 1
+logical memory, 90
+current paging vios partition, 29
+wa processor idle time, 7
+hardware inventory, 7
+hmc management, 57
+memory mode, 15
+repair action, 6
+duplex mode, 10
+sy system, 1
+computational page, 10
+restorevgstruct command, 6
+delimiter flag, 6
+optimal performance, 7
+customize modem, 5
+hmc configure, 6
+entire hard disk drive, 7
+starttrace command purpose, 3
+mkvdev targetadapter tagid description, 3
+scsi0 adapter, 1
+configure kerberos, 9
+internet protocol, 13
+physical server, 10
+default number, 3
+dial prefix string, 11
+next sppl value, 1
+following question, 1
+line report, 9
+outbound connectivity, 14
+block storage, 26
+display client adapter, 6
+memory residency, 4
+time zone, 18
+particular resource, 4
+logical volume id, 6
+new topic, 5
+time availability period, 1
+local private lan, 1
+pool page, 14
+company firewall, 1
+electronic service agent, 47
+configure integrated kerberos authentication, 1
+associated frus, 2
+location code format, 15
+syntax diagmenu description, 4
+mkkrb5clnt command purpose, 2
+cpu subsection, 3
+dog root, 1
+additional processor, 1
+relative path name, 1
+change memory allocation, 4
+hmc code, 61
+hmc code installation, 2
+precautionary measure, 2
+pddv class, 4
+specific status, 2
+level indicator, 30
+target system, 9
+active attention, 2
+service request, 21
+link aggregation adapter ent7, 5
+entire system, 22
+range attribute, 2
+chdate command purpose, 5
+lssyscfg command, 4
+tcp window scaling, 2
+tar image, 15
+srcmstr root, 1
+last post indicator speaker, 2
+affinity detail argument, 2
+current hmc configuration information, 11
+restorevgstruct myvg hdisk2 hdisk3, 5
+ibm service support system, 29
+file system format, 12
+system management, 133
+use shared processor pool, 10
+commandline option, 1
+pagesize option, 1
+kerberos ktutil, 3
+established value, 3
+firewall setup, 6
+ipv4 address format, 1
+power device, 2
+average size, 4
+service position, 5
+logical phys, 4
+software license agreement, 3
+progress bar, 1
+lvm logical volume manager, 6
+wait time detail level, 19
+need additional processor capacity, 3
+group system, 8
+12x link, 2
+committed fileset, 5
+disk throughput, 1
+processor capacity limit, 1
+alignment error, 2
+udp data, 2
+following exit, 23
+use other connectivity, 20
+specific volume, 2
+virtual client scsi adapter, 4
+logical location code, 57
+open state, 3
+table toolbar, 24
+virtual memory manager, 11
+client adapter, 12
+hash distribution, 1
+use information, 4
+request service, 2
+maximum transmission unit mtu, 3
+device driver, 26
+serial adapter, 3
+bracket keyboard, 4
+status status, 7
+original vios, 1
+correct power connection, 2
+partition memory, 18
+instance parameter, 23
+return code, 96
+active memory expansion information, 9
+rack use, 2
+location label, 24
+sample count, 11
+small page size, 6
+ldap authentication, 4
+remote virtual terminal access, 4
+specified page size page, 7
+hscroot password, 1
+dedicated mode, 2
+server firmware, 69
+single collision count, 9
+tape description, 9
+cplv fslv03, 3
+start kernel dump, 4
+level slot, 170
+dedicated service, 7
+release memory, 3
+individual page, 15
+secure connection, 2
+pgspin number, 7
+suspension data, 6
+front fan, 7
+error log, 39
+destination host name, 2
+archive extraction, 2
+user joe somehost, 2
+ip target, 7
+ssh use, 6
+ethernet bridge, 3
+configure domain name, 2
+lsdev command, 22
+ldfware command, 3
+additional network hardware, 4
+day string, 11
+separate connection, 4
+primary hmc, 44
+list open inet, 1
+purchase additional hardware, 2
+partition operator panel function, 12
+configure new kdc server, 2
+inbound connectivity, 10
+data cable, 12
+available rmc state, 3
+single entry, 1
+yyyy format, 1
+private segment, 9
+hdisk0 rmt0 tok0, 1
+source virtual scsi, 7
+shared memory pool page, 2
+shared storage pool, 22
+current profile, 15
+logical volume type, 5
+connection monitoring window, 1
+rmvdev seadevice, 3
+power off policy information, 1
+direct select address dsa, 15
+installation procedure, 2
+following additional information, 6
+concurrent removal, 1
+syntax lslparinfo description, 4
+other selection, 3
+value csv format, 1
+automated method, 3
+snmp configuration information type, 4
+unit type utttt, 3
+secondary dump device, 4
+privileged command database, 1
+specified path, 4
+virtual slot, 46
+npiv examplesto list, 4
+partition autostart, 2
+vmstat command, 1
+configure set, 44
+server amount, 15
+parameter description adapter, 6
+parameter list, 1
+unique id, 106
+linux system unit, 2
+filter filterdata, 70
+link hsl pool, 3
+vgname name, 6
+setup wizard log, 8
+customize inbound connectivity, 2
+nonpartitioned server, 11
+possible feature, 7
+specific name, 8
+machine code, 77
+next device type, 3
+websphere commerce, 1
+specified page size, 23
+work pane, 117
+runnable kernel, 4
+system operation, 1
+hexadecimal string, 9
+current configuration, 32
+virtual fibre channel, 345
+successful partition migration, 1
+view listing, 3
+paging memory tr0, 1
+other operation, 4
+optional integrated modem, 1
+drmgr command, 31
+gb page, 9
+specified volume number, 7
+system rail, 14
+control outside access, 3
+sysstat command purpose, 3
+memory card dimm, 206
+device driver level, 2
+savevgstruct command, 7
+new logical volume syntax, 14
+console device, 46
+lslparinfo command, 3
+hard file network, 4
+line wrap, 2
+list virtual scsi adapter, 219
+micropartition technology, 1
+dpid2 root, 1
+password policy, 8
+location code, 199
+ibm tivoli storage agent, 8
+directory file, 1
+read size, 26
+block device image, 1
+processing utilization, 5
+svmonrc configuration file, 12
+device number, 8
+block storage device, 59
+db2 database, 1
+configfile installation configuration file, 1
+paging space device information, 3
+format type, 1
+system activity, 5
+extendlv lv05 3m, 5
+new server, 22
+cron sample, 4
+license agreement, 17
+following service, 1
+disk information, 3
+copy disk image, 4
+volume header, 8
+rootvg storage pool, 1
+process subsection, 6
+bar chart, 2
+ssh command key, 9
+manual fault isolation, 1
+lssw output, 21
+sharing mode, 16
+device block size set, 2
+cpio command, 6
+pagein pageout paging space, 3
+dynamic partitioning dlpar, 1
+integrated login, 1
+unique physical location code, 48
+internet address, 5
+enclosure fault indicator, 4
+ivm lsmemdev command purpose, 14
+filter value, 15
+ent4 ent5, 7
+change port connection assignment, 2
+my53resource object, 1
+necessary operating environment installation, 9
+integrated virtualization manager, 41
+provision vios, 1
+hardware control host object, 3
+remote system user description, 7
+power button, 2
+maximum logical memory, 28
+select device type, 4
+initial page, 4
+same list, 2
+dedicated processor, 11
+display only mb, 4
+tuning system performance, 3
+length error, 28
+system model, 1
+flag virtual ethernet, 3
+online help, 134
+server logical partition, 9
+system serial number, 16
+network boot image, 2
+interface navigation, 1
+additional prefix, 7
+structural damage, 2
+unacceptable status, 2
+service object, 1
+pci bus, 21
+file list file, 2
+filter row, 1
+deallocate clientobjectname, 12
+usage message, 1
+command execution, 1
+regular basis, 2
+network mask, 5
+domain name system, 10
+last reset, 3
+lspath command purpose, 6
+complex procedure, 1
+internet ssl connectivity, 2
+lslv command, 19
+block replacement, 4
+lrud root, 2
+move priority, 4
+view current status, 4
+certificate error, 9
+attribute user, 9
+software packing, 8
+following illustration, 12
+entire storage pool, 2
+input data, 27
+volume group name, 2
+other web browser, 11
+correct device, 2
+system configuration information, 3
+window size, 6
+new release, 20
+following process, 13
+system programmer, 2
+showmount command purpose, 4
+port virtual lan id, 6
+flagsflag name description, 9
+unit fru location code, 6
+kdc configuration view, 9
+xmgc root, 2
+ping command purpose, 5
+long time, 10
+access task, 9
+logical partition configuration data, 50
+data loss, 1
+prepdev command, 11
+unicast packet, 7
+microsoft internet explorer, 10
+task upgrading hmc code, 19
+rsubtype unit list, 6
+following report, 3
+server service, 8
+hmc web application, 1
+direct connection, 6
+mirror copy, 15
+end trace session, 1
+remote file, 9
+ivm configuration, 1
+vtd client partition id, 1
+physical volume, 200
+supclassname parameter, 9
+pgsz argument, 8
+kerberos client, 7
+such configuration, 1
+new keyboard, 8
+select network service menu, 1
+customize user, 2
+access administrator, 1
+supply circuit, 12
+authentication server, 2
+administration server, 2
+nonstrict allocation, 24
+use internet ssl connectivity, 2
+4k page, 3
+start recording cec, 6
+fourth archive, 5
+lvstate state, 3
+repair serviceable event window, 1
+single column sorting, 13
+full class, 2
+hardware management, 48
+corporate security, 1
+fcstat command, 17
+complete list, 6
+cache battery card, 34
+basic scope, 1
+web browser log, 6
+encrypted snmpdv3 agent, 12
+peripheral component, 24
+interface speed, 12
+uinteger request, 8
+data interface adapter, 8
+integrated virtualization manager use, 21
+flash drive memory key, 5
+new worldwide port, 19
+other kerberos, 12
+management csm configuration, 1
+set function, 1
+current date, 4
+network lan connection, 1
+paging space device size, 8
+virtual memory, 3
+entstat command purpose, 3
+digit year, 2
+register user id, 1
+platform service authority, 2
+hsl loop configuration, 8
+sea shared ethernet adapter, 1
+vfcmap command purpose, 5
+target disk, 10
+next ip address, 12
+file size, 1
+other product, 2
+machine room, 5
+summary option, 1
+management information base mib, 10
+display record, 18
+full file system information, 1
+qp queue, 4
+data integrity, 9
+specified back, 2
+hdisk6 utmp0, 1
+possible uncapped weight, 1
+hmc data, 27
+storage area network san, 16
+physical space, 6
+hdisk3 u9111, 1
+many logical location, 24
+system firmware code, 12
+ping local host, 8
+blade server, 15
+mkgencfg command, 19
+community name, 15
+shared memory weight, 18
+cpu field, 1
+brief summary, 2
+duplex value, 3
+use internet vpn, 4
+additional processing, 5
+recent level, 1
+minimum processor, 3
+rmpath command, 13
+following header, 2
+copyright ibm corp, 5
+ft power cord, 1
+security payload esp, 1
+change partition, 9
+ipaddress flag, 3
+action plan, 8
+shared processing, 19
+new message, 10
+remote virtual terminal window, 1
+eth0 eth1 eth2 eth3, 31
+hardware error, 3
+active network connection, 1
+multiple remote installation, 4
+transmission speed, 3
+vpn configure, 3
+dhcp server section, 1
+external pager filesystem, 12
+concurrent mode, 1
+total network activity, 3
+configured duplex value, 3
+interface numbering eth0, 1
+first time process, 2
+resource configuration status, 4
+display current setting, 1
+target sharing mode, 2
+technology level, 1
+hmc access, 5
+select navigation key selecting, 11
+fc adapter driver information, 4
+slot lp limit information, 2
+ssl connectivity, 16
+isolate failure, 30
+special understanding, 11
+unique integer id, 3
+unattached segment, 1
+gateway client ip address, 10
+viewing application log, 12
+managing storage, 3
+license command, 7
+xml report, 28
+default format, 16
+read system call, 3
+particular type, 7
+hmc host, 21
+lpar number, 10
+disk device special file, 1
+access independent paging space, 1
+physical system memory, 10
+findname command, 1
+current mirroring mode, 3
+slave kdc, 1
+logical partition, 1760
+file system throughput, 1
+current type, 8
+select repair, 3
+possible back, 4
+hpt ratio, 18
+new kdc server, 1
+help display, 15
+internet ssl address, 12
+use shared memory, 75
+initial size, 12
+iscsi option, 3
+vios partition name, 3
+virtual opticonnect, 6
+only display attribute, 6
+cpu planar, 1
+configurable parameter, 1
+cumulative cpu usage, 1
+boot mask, 1
+logical partition id, 2
+menu item, 82
+reboot diagnosis, 1
+list recoverable memory, 367
+hmc menu bar, 1
+important data, 1
+server slot number, 2
+12x loop, 10
+strictness current state, 2
+item description standard output, 8
+virtual firewall, 25
+other information, 1
+other form, 9
+integrated ethernet, 5
+support strategy, 10
+pool id, 12
+welcome window, 12
+switch role, 4
+parameter name description networkservice, 4
+following command, 208
+automatic redistribution, 9
+previous file, 3
+activation code, 13
+outer edge, 2
+relocation policy, 46
+admin ticket, 1
+admin user, 6
+remote service, 16
+automatic link aggregation, 4
+adhesive rubber, 7
+task description main menu, 5
+share peripheral component, 4
+vios version, 1
+plan successful system upgrade, 16
+kernel mode, 1
+trunk adapter, 5
+physical location, 70
+hmc model, 1
+hmc modem, 8
+current operational status, 2
+device slot hardware address, 1
+access asmi, 7
+interface name, 7
+data source, 12
+filtertype argument, 17
+enough available processing, 9
+february 2010the following, 7
+local system, 15
+virtual scsi server adapter, 10
+nim master nimsys01, 1
+particular hardware platform, 1
+managing power7, 2
+name valid filter, 4
+appropriate error message, 2
+keylockposition keylock position, 1
+navigation pane listing, 9
+fi file, 3
+special device type, 2
+default syntax, 2
+initiate connection, 3
+numclient percentage percentage, 6
+syntax cfgdev name description, 3
+top object, 8
+dd command, 42
+select navigation key use, 5
+vios administrator, 13
+maximum dedicated memory, 3
+number sign, 10
+other action, 15
+alternative set, 2
+beginning volume number, 1
+management logical partition, 1
+current system information, 2
+virtual scsi adapter, 35
+variable binding pair, 5
+return partition mobility, 10
+customer information, 13
+interface vasi device name, 1
+local modem, 2
+same amount, 2
+archived message, 12
+hour filter default, 24
+frame object, 1
+dsa translation, 8
+isolate pci bus problem, 10
+third device, 5
+virtual serial server, 14
+parent slot, 2
+initial configuration, 1
+status text, 9
+mixed production, 8
+select content, 21
+serial number, 193
+administrator system account, 3
+default virtual ethernet adapter, 1
+service mode hard drive, 11
+pci bus failure, 7
+full screen disk, 2
+system unit un, 8
+iscsi initiator, 5
+millisecond granularity, 2
+ipl mode, 8
+vios base code, 4
+other mechanism, 1
+workload management group, 28
+vios snmp agent, 3
+interface parameter, 10
+active task switcher, 2
+superclass name, 1
+ivm chsyscfg command purpose, 4
+memory subsystem, 2
+virtual scsi client, 21
+device max, 12
+process address space, 5
+slot card port, 27
+partition configuration data confirmation, 6
+lf note, 10
+multiple ip, 8
+object identifier oid, 2
+network problem, 1
+processor utilization, 9
+additional column, 6
+hmc version code, 19
+aix uname command, 7
+java virtual machine, 1
+mr memory, 31
+stopnetsvc telnet, 3
+remote nim server, 1
+side effect, 8
+device special file, 12
+customize network, 2
+message catalog, 5
+destination vios logical partition, 2
+separate output, 5
+advanced select move, 19
+free list, 16
+detailed summary, 8
+new password, 10
+user somesystem, 29
+boot field, 2
+maximum memory, 43
+system unit, 49
+ping opus, 1
+sigint signal, 1
+virtual host adapter vhostx, 9
+kadmin log, 1
+permanent image, 18
+local hardware management console, 1
+average memory utilization, 5
+following warning message, 6
+access control list acl, 4
+pprc secondary device, 6
+new option, 6
+complete domain name, 3
+connectivity method, 17
+shared memory overcommitment, 10
+fiber channel, 5
+integer number, 9
+run power enterprise, 2
+appropriate mode, 1
+file system information, 2
+boot process, 1
+state change, 1
+profile data, 19
+error log file, 4
+disk drive, 120
+link aggregation, 43
+new level, 12
+pattern file name, 5
+login message back, 3
+security user, 6
+mib database, 7
+march 2010added information, 6
+particular path, 2
+other paging vios partition, 15
+partition memory page, 44
+other logical partition, 22
+seekbackup parameter, 7
+riser optional card, 5
+additional storage, 8
+shared processor mode, 54
+unique segment list, 1
+internal level, 12
+1st boot device, 41
+output medium, 1
+hdisk5 utmp0, 1
+lv01 parent topic, 1
+source source, 2
+private network, 26
+free form name string, 7
+specific information, 4
+fc name, 1
+different nim, 2
+space reservation, 28
+prof logical partition profile, 6
+workplace window, 1
+memory pool information, 3
+prerequisite information, 11
+total number, 171
+worldwide port name, 12
+specific network, 3
+ldfware command purpose, 6
+current network information, 5
+paging vios, 160
+svmon command, 249
+remote access, 12
+current reference code, 7
+syntax motd filename motd, 14
+display warning message, 18
+memory entitlement, 3
+slot information, 28
+syslogd root, 1
+shared memory pool, 539
+javascript option, 1
+system processor, 1
+version release service pack, 12
+logical volume lv05, 6
+control panel, 47
+additional line, 3
+iscsi discovery selection menu, 2
+associated virtual scsi adapter, 20
+lpar lpar name, 3
+parameter value, 20
+location code utttt, 3
+complete directory pathname, 1
+multiple partition, 9
+paging storage pool value, 12
+automatic replication, 57
+move hardware, 8
+dynamic logical partitioning, 2
+optical device, 49
+processor performance option, 5
+inoperative state, 1
+partition profile partition profile, 12
+lan connectivity, 12
+specific version, 5
+lslv lv03 information, 1
+virtual optical device, 12
+trace log, 9
+parent storage pool, 3
+intermittent problem, 1
+version information, 3
+manager management server, 1
+mouse pointer, 24
+possible firmware fix, 17
+select location, 6
+physical optical device, 11
+4k page unit, 2
+hpt size, 5
+terminal window line length, 2
+full screen cec display, 1
+additional virtual lan, 3
+base value, 39
+unconfigured processor, 2
+actual number, 6
+arp table, 3
+logical address space, 3
+minimum hardware configuration, 10
+unrepaired damage, 1
+specified set, 2
+command line interface, 14
+exit value, 7
+hmc dhcp private network, 2
+user confirmation, 3
+unique decimal identifier, 21
+current shared memory weight, 3
+logical volume, 262
+memory allocation, 9
+deallocate myclient01, 8
+order system, 1
+scsi disk, 1
+file system data, 1
+conf file, 2
+destination snmp agent, 1
+buffer pool memory, 3
+slot vhost0 u9111, 1
+rmlvcopy lv0112 related information, 2
+previous hmc version, 1
+customer information task, 3
+demand cod, 3
+filtercat argument, 8
+recent boot, 6
+clear dump, 3
+first ethernet device, 6
+action description, 8
+ok session, 10
+secondary integrated ethernet port, 8
+entire operating system, 1
+read access, 24
+hmc hardware, 23
+fifth archive, 8
+nic connector, 8
+config change configuration, 1
+free copy, 2
+bulk power, 12
+service processor microcode, 1
+support memory, 1
+default panel, 1
+finish selecting, 4
+tftp option, 3
+overwrite option, 1
+cudv object class, 1
+address space, 2
+system plan deployment, 1
+specified device, 34
+particular application, 1
+later change, 15
+ivm migrlpar command purpose, 7
+default host name, 10
+new adapter, 2
+wlm class information, 2
+last system startup, 2
+domain name, 29
+lsdev output, 7
+recording status, 3
+dump option, 2
+list interface ip, 1
+rack stabilizer, 6
+partition lpar1, 1
+location code string, 23
+power supply, 23
+timeval structure, 1
+mem utilization, 6
+bridge function number xx, 6
+help information, 8
+oem installation, 7
+lslv command purpose, 3
+change language, 21
+single path, 19
+additional ibm, 5
+realm name, 10
+backup medium, 1
+access access permission, 1
+cpvdi command purpose, 2
+different internet protocol, 1
+smtp server name, 2
+power security, 4
+extended error data, 13
+capped processing, 7
+local drive, 6
+previous boot device entry, 1
+link aggregation back, 1
+configured set, 16
+resource amount, 30
+real memory information, 9
+filterprop argument, 25
+ent3 ent8, 8
+following error message, 4
+memory module failure, 9
+replacement fru, 8
+interrupt rate, 5
+string user somesystem type, 2
+digital signature, 1
+following manner, 1
+memory use, 126
+chdev command purpose, 5
+kb medium, 26
+single computer, 6
+check file system, 1
+previous example version, 2
+syntax prepdev, 13
+management taskpad, 1
+system processor level, 1
+installable image, 5
+only short host, 4
+first row, 12
+dedicated analog line, 5
+signal error, 1
+web browser access, 12
+sample utilization data, 1
+corrupted file system, 5
+display security warning, 11
+syntax rmvdev targetdevice virtualtargetdevice, 3
+current console, 7
+swwpns total number, 22
+idle channel type, 2
+additional stabilization, 3
+basic firewall, 7
+list service, 17
+lru page replacement scheme, 1
+average transfer rate, 11
+current position, 3
+complete object identifier, 2
+adapter data rate, 8
+memory resource, 2
+default uncapped weight value, 1
+dxm deficit, 3
+proxy serverif, 7
+id option, 8
+syntax dsmc dsmc description, 10
+migration installation, 9
+hardware management console site, 8
+start physical volume management, 2
+adapter ent8, 2
+fo file, 3
+paging space size, 1
+line port, 14
+lldpsvc attribute, 21
+hardware inventory table, 1
+hdisk1 related information, 2
+journaled file system jfs2, 5
+dhcp server capability, 1
+serviceable event icon, 8
+dynamic partitioning feature, 6
+failed partition migration, 22
+processor tab, 9
+archive format, 15
+lsnetsvc command purpose, 4
+unpainted metal surface, 24
+capacity upgrade, 2
+word 0x0000000100000106, 1
+use system, 6
+active memory expansion, 22
+specified optical device, 5
+installation action, 6
+frame option, 1
+operational status, 71
+output screen, 1
+shared ethernet adapter, 126
+port assignment, 1
+necessary set, 12
+indicated parent, 1
+virtual ethernet, 351
+cq completion, 4
+object service processor, 5
+gb mb, 29
+output device, 5
+minimum memory, 16
+same function, 3
+xml format, 1
+base field, 14
+parameter description cpu utilization, 4
+partition data use, 10
+version banner, 1
+syntax startsysdump description, 6
+pool utilization pool utilization, 6
+rmc connection, 12
+lsled command, 6
+mysupclass superclass, 4
+directory type, 2
+configured connection speed, 10
+firmware level, 18
+information center http, 1
+only paging, 8
+hmc management pane, 1
+installation environment, 1
+ibm description description, 7
+management tree view, 2
+load source slot, 16
+following vmm, 4
+working network connection, 6
+real memory size, 5
+next time, 19
+other purpose, 2
+pmh number, 10
+redundancy preferencesthe, 11
+shared storage pool ssp, 8
+configured virtual ethernet adapter, 9
+seastat command, 4
+record remote command status, 5
+same rule, 4
+sy system time, 1
+validate migration migrlpar, 25
+use ssl proxy, 3
+memory dimm c9, 15
+specific device, 20
+status field, 8
+shared value, 3
+device slot, 1
+physloc client partition id, 45
+concurrent server firmware maintenance, 5
+traceroute command purpose, 7
+last disk address, 3
+uncapped logical partition, 90
+command report, 32
+rootvg file, 3
+raw name, 18
+following syntax, 8
+superstrict allocation, 20
+name parent connection description, 2
+first dot, 4
+user id, 98
+table form, 2
+valid value, 2
+timestamp argument, 10
+certain amount, 15
+optional console switch, 22
+list partition, 431
+status overview icon, 19
+filter data, 114
+ivm bkprofdata command purpose, 3
+size logical volume size, 11
+device name, 33
+language file, 8
+different partition profile, 2
+block size, 77
+contiguous real memory, 8
+fix central website, 4
+valid mac address prefix, 2
+size parameter, 12
+network interfaces, 26
+nested double quote, 8
+virtual disk, 80
+filename description, 13
+home directory, 5
+startsysdump parent topic, 1
+post screen, 2
+virtual host, 8
+active user, 2
+dial information window, 6
+dynamic reconfiguration, 6
+process argument, 13
+vtscsi5 u9111, 1
+ethernet network address, 5
+odm directory, 1
+host middelburg, 1
+local hmc use, 10
+many service, 14
+vtd virtual target device, 2
+page read, 4
+browser session, 1
+input asn, 1
+specified message, 23
+free buffer, 1
+other end, 1
+destination mac address, 6
+digit month, 1
+number parameter result, 6
+scsi0 related information, 2
+description fd, 28
+green line, 19
+connected serial cable, 6
+tuning parameter, 6
+hypervisor page, 1
+service boot list, 4
+configured flow control value, 3
+personal computer, 1
+psbuf space, 3
+internet connection configure, 25
+system startup, 7
+target directory path, 1
+matching mac address, 11
+last device, 4
+volume group structure, 2
+system configuration database, 16
+rtcmd root, 1
+device configuration, 3
+same path, 4
+blue line, 9
+schedule transmission, 16
+new memory block size, 1
+new feature, 4
+access paging space device, 22
+particular device, 11
+other logical volume, 4
+original state, 5
+logical partitioning, 39
+loop number, 8
+error recovery, 3
+name flag, 5
+console console, 7
+total amount, 60
+medium page, 1
+page frame, 3
+logical partition vioserver, 1
+default output, 1
+tracelog option, 2
+pool percentage, 6
+hmc client, 3
+scheduled number, 4
+future growth, 7
+syntax ping packetsize, 12
+12x loop number, 2
+set identification information, 1
+local hostname host name, 1
+down chsysstate, 9
+twentieth century, 8
+interface en0, 3
+file system directory, 6
+port fc id, 1
+virtual partition memory page, 14
+inode map, 1
+key file, 3
+dump process, 6
+ivm mksyscfg command purpose, 5
+restorevgstruct command purpose, 3
+network installation operation, 4
+local system data, 6
+kernel dump, 4
+host parameter, 5
+pbuf number, 9
+net type, 6
+current display, 2
+shmid argument, 13
+unique address, 1
+other system, 8
+system management interface, 6
+world wide port name, 1
+virtual server ethernet adapter, 1
+frame level, 1
+special keyboard, 1
+service event, 1
+nested quotation, 16
+management partition, 103
+snmp function, 3
+word firmware, 19
+disk partition, 7
+other frus, 10
+only attribute, 89
+user directory, 45
+temporary unit identifier, 3
+machine default value, 6
+unit model, 6
+location information u8202, 2
+different process, 10
+optional external modem, 1
+specified connection, 1
+cpu context, 6
+only alteration, 6
+ipv4 address, 9
+pci bus number, 3
+extraction list, 23
+address match, 5
+physical adapter interface, 4
+certain operating, 3
+argument information, 6
+empty string, 15
+chlparutil command, 11
+controlled partition, 1
+air flow, 12
+vios image, 1
+clock algorithm, 4
+target file, 7
+attribute value pair, 36
+contact ibm service, 12
+pci class code, 4
+tape display section, 5
+backup authorization, 6
+other shared processor, 16
+search order, 11
+backup procedure, 4
+reporting problem, 11
+user pid ppid pri, 10
+inner part, 7
+new tape, 2
+logical isolation, 2
+way icmp, 5
+rpa partition, 1
+support ipv6, 1
+server admin tgt, 2
+unused memory, 11
+active related information, 2
+workstation adapter console, 1
+optical drive, 18
+card position, 10
+different shared processor pool, 1
+such authority, 1
+status valid filter, 4
+database file, 2
+mksysb file, 9
+server performance, 3
+lpcfgop command, 4
+current user type, 2
+file system consistency, 4
+remote command execution window, 2
+filtered list, 22
+system backup image, 6
+location codesuse, 27
+second port, 2
+output field, 16
+service information parent topic, 1
+specific operating environment version, 4
+hea drc index, 18
+extendlv lv05, 15
+power supply cord connector, 18
+keylock position, 2
+web interface cli, 1
+complete track, 1
+hmc upgrade, 2
+total paging space, 4
+normal dd, 2
+single server, 22
+hypervisor page information, 1
+original layout, 3
+use service, 2
+savevgstruct myvg related information, 2
+client partition, 77
+restoresymtable file, 15
+mib object prefix, 1
+delimiter lstcpip, 5
+support system, 5
+next level, 28
+service mode, 13
+file system, 185
+creation stage, 1
+bridge number, 23
+system target, 42
+current boot sequence, 1
+bbbb bus number, 8
+init root, 2
+only ipv6, 12
+entire file system archive, 1
+data replication task, 3
+installation resource, 57
+display status, 6
+internet connection protocol, 6
+call home, 27
+restricted shell, 5
+internet support, 4
+telephone number, 2
+right end, 6
+path selection, 6
+standard backup framework, 1
+current redundancy level, 5
+mega kb, 1
+partition level, 4
+single flag, 2
+default read size, 14
+hmc machine code upgrade, 37
+system id number, 1
+maxmem maximummemory, 4
+specified file, 4
+power distribution unit, 1
+domain affinity, 6
+search time, 2
+hmc machine code, 36
+link failure count, 2
+view data, 6
+syntax lssw, 8
+hpit average time, 7
+ent6 ent7 ent9, 6
+high performance computing hpc, 1
+unit consideration, 20
+specified description, 12
+uninterruptible power supply, 1
+vmstat command purpose, 2
+disk storage unit, 1
+directory size, 3
+partition value, 12
+logical partition parent topic, 3
+pci bus isolation, 11
+system wide mac prefix, 10
+ethernet device, 1
+lvname logical partition number, 1
+test event entry, 4
+view kdc server display, 5
+only single resource, 6
+first part, 40
+exception list, 3
+path mtu discovery, 4
+buffer pool size, 2
+pc number, 3
+option set, 1
+firmware microcode, 3
+service request column, 5
+local authentication parent topic, 1
+vtpm feature, 1
+stopnetsvc tracelog, 3
+broadcast request, 3
+monitor screen, 11
+monitored cpu, 1
+vfcmap command, 7
+item removal, 12
+data text page, 12
+configuration preparation activity, 2
+workload demand, 8
+third network, 8
+network integrity check, 4
+regular network, 5
+same name, 3
+port group attribute value, 1
+request logical volume, 7
+disable remote management, 1
+fixed ip address, 7
+configure path, 1
+available level, 4
+nonsparse database, 3
+logical location, 27
+system back, 6
+configuration data, 62
+full realm name, 7
+last time, 62
+physical volume name, 15
+icmp header, 1
+power hypervisor code, 1
+fru commenter name, 9
+loginmsg command purpose, 4
+node name, 7
+segment level default value, 1
+hmc port position, 6
+processor activity, 1
+remote resource, 4
+customize user profile, 1
+email tab, 14
+same value, 2
+power source, 6
+same hardware, 6
+virtual slot number, 82
+parent name, 3
+snmpd agent, 1
+web server, 26
+t2 label, 24
+modified partition profile, 11
+dedicated memory mode, 5
+node wwn, 1
+ivm lpcfgop command purpose, 2
+share system, 2
+virtual fibre channel client, 19
+partition power, 6
+blank string, 10
+partition vioserver, 1
+specified interval, 11
+name use, 3
+memory usage, 8
+signal quality error, 2
+mpsz size, 4
+target name, 1
+disk list physical backing, 1
+byte hexadecimal value, 3
+key distribution center kdc, 19
+ttyout cpu1, 1
+sustained peak load, 1
+system disk, 8
+technical information, 23
+value description 0c0, 5
+select task, 18
+startsysdump command, 6
+item description, 37
+backup number regularexpression, 6
+electrical storm, 2
+set password, 8
+logical partitionsword number, 25
+syntax traceroute, 16
+cpu percent utilization, 1
+hmc workplace welcome pane, 1
+first flag, 3
+virtuallpar display, 6
+hmc interface, 18
+remote browser access, 5
+address range, 3
+use kerberos remote authentication, 15
+open network interface, 19
+full length, 5
+use vpn connection, 1
+welcome window content, 5
+target lun, 1
+receiver start count, 24
+password abc123, 7
+partition migration information, 2
+icmp header data, 8
+portuguese brazil, 6
+process owner, 9
+default ip address, 6
+list virtual ethernet adapter, 278
+unit fru, 18
+service mode boot, 45
+part number, 56
+rmlvcopy command purpose, 3
+rmlv command purpose, 4
+main business, 1
+xxx xxx, 1
+management logical partitionthis option, 2
+endyear year, 37
+pprc pair, 7
+standard error, 19
+world wide node name, 1
+field name description, 29
+committed state, 10
+delimter lstcpip, 6
+full path, 19
+seekbackup file, 2
+host opus, 8
+close serviceable event, 1
+debug information, 6
+top system, 8
+vlan priority, 2
+display partition, 4
+external pager client filesystem, 8
+separate line, 1
+single file space name, 2
+ivm rmsyscfg command purpose, 5
+user level, 3
+firmware use, 1
+header display header record, 8
+third hole, 1
+partition pl, 1
+vios lpar name, 28
+type client, 1
+particular virtual scsi adapter, 1
+securitythis command, 6
+available memory, 27
+current physical processor consumption, 28
+touch point, 14
+microcode survey, 13
+partition suspension, 3
+backup level, 1
+daylight saving time, 4
+local installation, 4
+nim client daemon, 1
+physical volume inband, 17
+additional dedicated memory, 1
+logical card number, 3
+secure socket shell ssh, 8
+same view, 9
+cron daemon, 1
+different shared memory partition, 1
+rmvdev command, 6
+different range, 2
+mmddhhmm yyyy yy, 4
+default boot list, 15
+boot image, 9
+server hardware, 10
+gb tb, 16
+hardware mac, 11
+idle channel, 4
+specified delimiter, 1
+securityany user, 3
+lsnetsvc telnet, 5
+lv01 related information, 2
+notification trap, 14
+additional processing unit, 2
+partition id, 32
+scp hmcuser hmchostname, 1
+available partition, 3
+current value, 27
+numerical form, 4
+user information, 15
+bottom section, 3
+different paging space device, 9
+list paging, 349
+system memory, 14
+actual location code, 2
+internet explorer compatibility mode, 4
+bootlist command purpose, 9
+unknown reason, 1
+summary ame longame, 3
+ssh directory, 1
+repair operation, 2
+private service network, 27
+processor compatibility mode, 4
+cpu utilization, 6
+memory role, 5
+true memory snapshot, 3
+system growth, 1
+list file, 4
+processing capacity, 59
+rmpath command purpose, 7
+next available slot, 1
+need additional information managing, 1
+firefox version, 2
+maximum processing, 5
+chsvcevent command, 4
+model number, 18
+careful consideration, 11
+other priority, 5
+deploy system, 17
+search pattern, 1
+partition macha, 5
+keylock position consoleservice, 1
+unique id number, 3
+subnetwork address, 1
+only change, 2
+segment argument, 8
+network interface, 48
+cpvdi command, 2
+function mibvariable variabletype value, 2
+mb system, 5
+functional implementation, 6
+base memory configuration, 15
+offload progress, 3
+failover configuration, 4
+following format, 17
+system vpd card, 9
+single invocation, 9
+errlog command, 20
+problem description input field, 5
+ngram, 0
+cluster device, 13
+default partition profile, 10
+fixed block mode nonzero, 1
+memory tab, 7
+consistent way, 5
+run secure shell, 8
+kerberos server admin, 7
+particular physical port, 3
+device fbd1, 2
+workload manager, 2
+partition assignment, 10
+predictive error, 4
+configuration use, 14
+errdemon root, 2
+fixed extent size, 20
+dma resource count, 4
+process display, 14
+setting physical port, 1
+current working directory, 3
+bridge mab isolation, 9
+remote terminal connection, 1
+support specified set, 2
+compliance powersc standard edition, 1
+ibm tivoli monitoring agent, 8
+off everything, 12
+program function, 12
+applied state, 14
+miscellaneous hardware kit, 14
+physical access, 6
+same resource type, 2
+usb flash memory drive, 1
+ethernet maximum packet size, 24
+server name, 13
+event name name, 13
+related information, 128
+open problem, 45
+striped logical volume, 2
+wide mode, 1
+mkpath command, 17
+summary argument, 13
+current hmc configuration, 12
+task specific help, 7
+target amount, 2
+port location, 4
+process information, 13
+typical usage, 81
+remote public key, 15
+network type, 1
+workload management tier report, 33
+print pdf, 20
+management console interface, 1
+display help information, 2
+link aggregation device, 3
+cfglnagg command, 7
+electrical safety, 2
+individual selection, 1
+network host, 2
+default file system, 4
+hardware resource allocation, 7
+rack system, 1
+degraded performance, 3
+director agent, 8
+default host, 2
+question mark, 3
+paging space, 593
+workstation adapter, 1
+epo switch, 3
+boot device list, 11
+active state, 6
+applicable language, 2
+nim resource group, 1
+archive volume header information, 8
+reference code lookup information, 4
+use private network, 17
+upper case, 4
+parent adapter, 2
+device list, 6
+other hardware management, 1
+unit type, 75
+lssw command purpose, 3
+com name server, 1
+primary analyzing console, 5
+complete level, 8
+large logical partition, 10
+only encrypted https, 1
+kerberos server, 10
+overall server performance, 12
+use third interface, 8
+firewall feature, 11
+service list, 9
+space time cpu, 4
+specified mac address, 1
+storage pool, 107
+off range, 2
+only difference, 7
+memory consumption pgsp, 46
+miscellaneous equipment specification, 1
+valid host name, 2
+mksysb image, 5
+root system jun, 2
+correct isolation, 4
+lsvet command, 3
+real memory, 50
+dedicated logical partition, 22
+replication service, 1
+user time, 1
+down remotedstoff, 1
+client configuration, 2
+unique partition profile name, 1
+purchase new system, 29
+electronic service agent information, 4
+shared storage pool communication, 1
+master kerberos database, 17
+loginmsg command, 4
+location attribute, 1
+status overview, 6
+command line interface cli, 4
+specified message parent topic, 1
+open network type, 3
+client operating, 1
+virtual scsi, 69
+logical volume hd6, 3
+percentage percentage, 5
+enterprise enablement, 1
+select autodetection, 7
+mpio path selection, 5
+optimizenet command purpose, 2
+nonconcurrent repair, 1
+possible boot, 15
+active memory expansion view, 5
+fc scsi traffic, 4
+system requirementsthe server, 3
+virtual system attention, 7
+client filesystem, 12
+asmi password, 25
+memory card, 50
+specific navigation, 2
+short jumper cord, 4
+filterprop option, 23
+hmc hard disk, 10
+syntax ioslevel description, 4
+mksvcevent command, 3
+address translation page fault, 1
+trace data, 14
+odm database, 9
+motd command, 9
+en4 down 0e, 1
+specified parameter, 1
+network testing, 1
+upgrade machine code, 5
+failed display, 5
+step insert, 6
+descriptive information, 15
+secure network traffic, 9
+hold information, 1
+physical network interface, 1
+pageout number, 7
+operating system type, 57
+parameter name description, 11
+extendlv command purpose, 4
+logical partition macha, 16
+generic device, 7
+public network, 11
+telephone connection, 5
+integrated ethernet port, 4
+exact base name, 3
+change operational status, 1
+select kdc server, 1
+compliance powersc, 1
+large disk, 2
+disk cd, 17
+partition profile, 230
+stoptrace command, 2
+correct password, 1
+file name, 99
+syntax savevgstruct volumegrouplabel description, 5
+package name, 28
+command sequence, 7
+different network security, 1
+memory timestamp, 12
+different time zone, 2
+session information, 6
+value output, 6
+location identifier, 12
+main store, 9
+parent device name, 6
+problem determination reference information, 14
+ipv6 address format, 1
+word number, 20
+virtual storage, 11
+com xyz, 2
+specific topic, 18
+different mirror, 1
+support hmc, 1
+gateway address, 16
+dc adapter outlet, 1
+code level, 22
+open network interface connection, 2
+ethernet adapter, 67
+single memory pool, 6
+same eia, 6
+remote client, 4
+partition data, 1
+high probability, 4
+specific path, 6
+set long report, 3
+path name name, 5
+hmc data window, 1
+topasrec command, 8
+task switcher, 6
+access location information, 5
+december 2010the following, 7
+replacement processor, 17
+auxiliary storage, 34
+symbolic link, 4
+startyear year, 25
+server virtual adapter, 9
+cplv command purpose, 5
+pool utilization, 2
+executable program, 11
+network connection, 47
+maximum number, 341
+inode number, 3
+select import service key, 1
+tracking number, 35
+process option, 1
+default gateway, 17
+promiscuous logical partition, 4
+default port, 4
+sortseg argument, 9
+file system archive, 19
+memory region, 1
+ssh daemon, 3
+login name, 4
+startnetsvc command purpose, 3
+current system activity, 1
+cfgnamesrv command purpose, 8
+support element, 3
+list shared storage pool, 6
+accounting manager agent, 8
+priority partition, 2
+configure port, 2
+long report, 9
+peak usage, 79
+open network adapter, 10
+share physical ethernet connection, 3
+corrective action, 68
+separate vios, 5
+use processor power, 10
+file name archive, 15
+second command, 12
+authorized service provider, 15
+full scripting support, 9
+new role, 1
+virtual lan, 40
+ivm none, 1
+installation status, 3
+file system device, 10
+logical volume lv0112, 1
+dimm fault, 44
+complete operator panel function, 1
+device file, 8
+syntax lsnetsvc networkservice description, 5
+system initialization, 1
+return result, 1
+likely feature code, 4
+client object, 24
+view myclient01 installation, 1
+unique ip address, 2
+support bracket, 18
+command logical partition configuration, 9
+network device, 12
+deploy system plan, 26
+use physical location, 15
+alphanumeric character, 1
+hmc code level, 4
+list installation, 3
+bus number, 9
+tunable parameter, 4
+rmlv command, 2
+local console, 15
+regular expression, 8
+memory assignment, 6
+list information, 386
+manual keylock, 12
+use gb, 2
+vendor software, 1
+new logical volume, 25
+physical block size, 26
+central time zone, 1
+year filter default, 23
+other storage, 3
+primary dump device, 2
+previous banner message, 5
+nim service handler, 2
+additional virtual fibre channel, 8
+vlan tag id, 1
+world related information, 3
+authorized service provider authority, 2
+server firmware memory, 2
+service information, 42
+hmc management administration, 10
+physical adapter, 1
+repackaged fileset, 8
+corresponding check box, 4
+detailed information, 47
+line format, 4
+user volume group, 2
+initial main display, 1
+process level, 1
+state flag, 6
+primary navigation, 14
+license command purpose view, 4
+connection information, 24
+security tab, 6
+welcome text window, 1
+server admin, 1
+hostname mismatch message, 2
+access control mac address, 5
+block device, 1
+possible package, 13
+policy information, 1
+entire allocation block, 1
+part information usr, 1
+pci adapter, 9
+total power requirement, 3
+configure paging vios, 3
+fast path, 14
+command purposelist, 4
+client logical partition, 23
+profile name, 30
+dump operator panel function, 1
+force failover, 7
+additional connectivity, 3
+partition configuration data, 26
+console switch option, 2
+zoning activity, 1
+passive mode xml report, 10
+server recovery, 1
+whole system, 1
+first hmc, 6
+contact service provider, 6
+small sampling, 1
+cache storage controller, 20
+ntp service, 12
+hardware fault tolerance, 1
+tape length, 2
+usb port, 16
+virtual fibre channel adapter, 28
+physical device name block, 20
+newfile file, 1
+saving name, 1
+drop down list, 4
+customer data, 3
+list physical platform, 1
+following security, 4
+cec hardware 6f, 1
+platform firmware 9f, 1
+bold type, 8
+successful probe, 6
+valid file system type, 1
+region location, 3
+list console, 1
+paging activity, 5
+appropriate paging device, 6
+protocol port port gigabit, 3
+partition type, 2
+client ip address, 4
+list virtual opticonnect, 116
+streaming tape, 1
+key switch, 6
+shared storage, 3
+analog line, 1
+blank space, 6
+backplanes system backplane, 6
+interface information, 1
+bootlist command, 25
+ktadd command, 2
+hmc adapter, 2
+special interest group specification, 22
+nonvolatile storage, 24
+specified volume, 2
+processor context switch, 3
+remote file system, 4
+following order, 2
+syntax shutdown description, 4
+outbound connectivity task, 3
+pv distribution, 6
+server firmware memory overhead, 3
+system call, 4
+vmm clock revolution, 7
+memory information, 4
+shmid option, 1
+customer contact information, 9
+host ethernet adapter, 3
+huge page table support, 1
+destination ivm, 6
+local internet, 6
+system firmware, 27
+shutdown completion message, 3
+paging device, 73
+partition activation, 2
+volumegrouplabel diskname, 1
+host canopus, 8
+previous page, 3
+pattern match group window, 1
+configure hmc firewall, 4
+snmpdv3 agent, 6
+logical partition number, 5
+minimum processing, 1
+system configuration row, 5
+detailed affinity information, 1
+network administrator, 33
+hmc online information, 4
+subsystem pid, 1
+eia unit, 8
+potential boot, 3
+service partition, 7
+brief description, 8
+ethernet cable, 20
+normal boot list, 5
+split display, 1
+value1 value2, 1
+redundant hmc environment, 4
+lssysconn command, 3
+numeric key, 5
+oem set, 3
+reference code description, 100
+list reference, 16
+uppercase key, 20
+virtual private network vpn, 22
+basic setup, 12
+dynamic lpar operation, 1
+red hat, 3
+other subsystem 7a, 1
+tcp window, 14
+hardware kit, 18
+ping test menu, 2
+control host type hmc, 2
+shutdown option, 1
+ppsize size, 3
+worldwide port, 68
+virtual partition, 16
+viewing hardware inventory use, 8
+hardware problem, 5
+power7 processor, 1
+specified fileset, 46
+use unused processor power, 1
+cage nut, 9
+bak related information, 2
+config resource type, 1
+change scsi id, 41
+use kinit, 6
+reassigns paging space device, 12
+uncapped shared processor, 5
+capable adapter, 2
+snmp set request, 1
+size physical volume name, 5
+source vios logical partition, 4
+sufficient information, 24
+consistency state, 8
+site loss, 11
+current status, 13
+configuration database, 4
+firmware console, 7
+device support, 5
+memory requirement change, 1
+single tape, 1
+chpath command, 22
+specific error, 5
+raid enablement card, 4
+navigation area, 12
+ping test option, 1
+analog telephone jack, 6
+display server, 4
+off scope, 20
+server access, 3
+server vios, 18
+parameter description user, 4
+link aggregation adapter, 7
+failed partition migration migrlpar, 5
+maximum size, 60
+hmc connection status, 4
+integrated virtualization manager interface, 5
+use set, 4
+20000000c9487b04 port wwn, 1
+peripheral 5f, 1
+server model, 30
+ssh protocol, 8
+hmc port locationsuse, 66
+fixed drawer, 11
+backup command syntax, 5
+volume group volume group, 8
+local public key, 11
+fru class class, 12
+current partition configuration, 4
+access mib, 17
+event refcode reference code, 13
+fsbuf number, 24
+nim master hostname, 1
+problem detection, 9
+start recording local system, 6
+network authentication service principal, 2
+use screw, 7
+terminal connection, 8
+new support strategy, 8
+client object none, 1
+specified page, 2
+0xbbbbbbbbbb00 0x00000000nnnn, 1
+awwpns number, 19
+console event, 53
+rsubtype iopool, 518
+syntax lstcpip, 7
+preserved configuration, 3
+following processor unit, 1
+basic proxy header, 8
+default shared processor pool, 35
+electrical equipment, 2
+syntax pdump fstype description, 6
+help description, 22
+new paging, 3
+plug power cord, 7
+location code feature, 15
+pdump command purpose, 4
+port group id, 17
+lpar id, 1
+initial hmc installation, 2
+line speed, 2
+mode setting, 1
+syntax mksvcevent, 8
+processing unit, 28
+dual port ethernet adapter, 14
+filterpgsz argument, 18
+trace report, 3
+modification level, 3
+information hardware error, 1
+rsubtype hsl, 126
+diagnostic test, 2
+range option, 1
+available uptime partition uptime, 2
+root authority, 5
+maximum logical memory size, 36
+different hardware, 1
+use minimum number, 2
+slot drc, 1
+firmware level minimum number, 4
+user interface, 74
+access csm, 1
+corresponding uxxxx value, 1
+input backing device, 11
+current selection, 11
+kernel thread context, 1
+access information, 18
+twinaxial workstation, 2
+report summary, 10
+next step, 39
+network interfaces subsection, 3
+cd directory, 1
+flag security, 4
+missing software, 3
+different hmc installation, 4
+security access control, 1
+network adapter mac address, 2
+operation reading, 11
+local installation resource, 4
+use machine, 5
+use email, 12
+configuration information, 25
+disable mark, 4
+premium search list, 8
+oem software installation, 3
+logical port, 37
+multiboot startup option, 2
+select value, 2
+default network interface, 4
+topas display, 3
+select hard drive type, 1
+support manager window, 1
+lsmap command purpose, 4
+gil root, 2
+use paging storage pool, 2
+partition allocation, 4
+virtual server adapter, 9
+unit option, 1
+configure shared memory partition, 6
+backing device, 51
+device information, 8
+power subsystem, 1
+shared processing pool utilization, 5
+root directory, 11
+use host, 10
+file cache, 3
+memory memory, 6
+ssh client, 6
+port group, 27
+processor time, 1
+resource synchronization, 5
+netboot clientobjectname, 6
+topic collection, 22
+interruptible event, 1
+specified prefix, 2
+external environment symptom symptom, 21
+hmc position, 12
+authority level, 2
+exec path name, 3
+fru location code, 18
+ambient temperature, 5
+safe location, 2
+other archive, 1
+password task, 7
+initiate service mode, 21
+new serviceable event, 1
+set boot sequence menu, 3
+event log, 5
+command resource count, 2
+device logical name, 16
+inetd root, 1
+select navigation key, 93
+licensed program, 7
+list virtual opticonnect resource, 2
+parameter description host, 3
+only way, 9
+user window, 4
+critical console information back, 15
+change user password, 12
+snmp response, 1
+suitable memory, 7
+chlang command, 10
+sampling interval, 3
+installation progress pane, 8
+processor resource assignment, 6
+following digit format, 1
+set back, 6
+parameter description value, 9
+direct internet ssl connectionif, 5
+configuration change, 1
+hardware problem information, 5
+double quotation, 16
+mkvdev targetadapter, 1
+association eia unit, 3
+full screen process screen, 6
+unique machine identifier, 5
+virtual server adapter virtualserveradapter, 1
+current password, 5
+rfc1323 purpose, 1
+available paging space device, 6
+elapsed time, 27
+same type, 2
+main power supply, 2
+specified alteration, 2
+new virtual scsi adapter, 11
+specified section, 14
+siz number, 9
+true memory size, 3
+physical main storage, 15
+incomplete state, 6
+client virtual scsi adapter, 2
+remote ipl, 8
+ethernet placement, 11
+portable ssh, 7
+memory capacity, 14
+single line, 1
+user request authorization, 2
+late collision error, 1
+host principal, 9
+lslparutil command, 7
+following output, 5
+korean parent topic, 1
+current system time information, 6
+command purpose switch, 6
+expansion unit type, 4
+later time, 2
+additional stanza, 9
+process section, 2
+indeterminate size, 1
+other partition, 8
+administrator name, 1
+ldap directory, 5
+inconsistent file, 1
+previous version, 3
+modem access, 5
+walk function, 1
+service authority, 1
+configuration directory, 1
+ieq interruptible event, 4
+unique device identifier udid, 1
+uplink adapter, 3
+free memory, 4
+rfc tcp, 3
+previous task, 2
+personalized web, 6
+external modem, 21
+select specific partition profile, 3
+asm proxy code, 8
+advanced system management interface, 1
+lslv hd6, 2
+use hsm, 11
+linux operating system, 1
+local host information, 6
+view hmc, 7
+top part, 10
+control channel adapter ent5, 1
+internet vpn tab, 1
+licensed internal code, 17
+link state, 3
+first character utttt, 3
+partition profile data, 12
+hmc version, 29
+target worldwide port, 21
+lspath command, 26
+original data, 9
+default gateway fill, 9
+hot cpus, 4
+usb hd, 1
+performance toolbox, 10
+workload management, 30
+same work, 2
+pp size size, 3
+network deployment manager, 4
+expansion feature fan, 17
+service processor version, 1
+output backing device, 11
+network tuning, 2
+page size data, 1
+link aggregation adapter note, 1
+extra field, 3
+pipe symbol, 8
+electrical voltage, 6
+examplesto list, 8
+sortentity option, 3
+partition base value, 1
+exact login name, 1
+ibm service, 4
+mksyscfg command, 4
+memory module, 13
+system path, 4
+gigabit ethernet, 4
+firewall access, 5
+list shared processor pool, 302
+server database, 1
+duplex port port gigabit, 3
+1e313bb001 option rom version, 1
+vlan id option, 7
+next page, 3
+line summary, 3
+only valid value, 13
+volume group myvg, 2
+enclosure drawer, 12
+normal business, 1
+mode attribute, 2
+possible range, 7
+vsn capability, 5
+logical partition migrlpar, 17
+syntax rmlv logicalvolume, 1
+fddixx fiber, 14
+entstat command, 13
+possible source, 2
+parent topic, 453
+chvet command, 7
+time period, 2
+remote ftp site, 2
+user task, 17
+physical infrastructure, 25
+server connection information, 1
+configuration system database, 1
+wait time, 31
+physport physical port id, 16
+entire hardware, 1
+web browser system, 7
+long form, 1
+name command, 1
+other management, 1
+start virtual disk management, 2
+hmc user password, 14
+gb supreme, 14
+paging space device, 683
+new hardware work, 9
+local command, 4
+kernel extension, 1
+cy clock, 4
+smtp server type, 8
+fru part, 3
+administrative lan, 11
+same state, 4
+destination file, 17
+system default, 10
+server firmware fix, 6
+range specification, 10
+traceroute command, 74
+software package, 1
+default ldap server port, 3
+rsubtype virtualopti, 110
+name parameter, 7
+configure kdc server, 15
+specific file, 6
+installation method, 3
+showmount command, 9
+unattended remote service session, 1
+hardware failure, 2
+select remote repository, 5
+specified physical location code, 12
+logical partition display, 17
+attributenames delimiter separated list, 96
+compact format, 8
+vmstat scdisk13 scdisk14, 2
+background color, 1
+external cache 3f, 1
+unique string, 7
+user kern, 10
+configure network, 2
+virtual memory consumption subclass, 14
+secondary paging vios partition, 61
+ac charger logical path, 9
+base device, 12
+particular page size, 6
+iscsi discovery selection, 2
+server search order, 15
+use service key, 6
+huge page, 11
+first command, 10
+syntax lsvet code hist, 6
+last day, 1
+default value, 146
+specified adapter, 10
+representative ssr, 3
+ac power cord, 3
+rawin cpu0, 1
+region service authorization, 6
+port number, 21
+finding valid value, 2
+base memory, 2
+kerberos admin server, 13
+tape archive, 2
+flag name description device, 12
+removable medium, 3
+logical device name, 64
+san zoning, 6
+format argument, 3
+middle hole, 3
+tmem option, 1
+hmc environment, 6
+sample business environment, 1
+committed processor, 1
+activation information, 3
+id parent topic, 1
+process level detail, 8
+following output vtopt0, 1
+physical volume identifier, 6
+hmc software upgrade, 2
+next boot, 25
+configure boot device order, 4
+first register, 3
+mempool description, 7
+table summary, 23
+dynamic lpar command, 9
+paging space page, 12
+ibm tivoli usage, 11
+additional support benefitsmy, 10
+following character, 1
+logical volume testlv, 1
+typical main store dump, 5
+dynamic platform optimization dpo, 1
+new command, 2
+false related informationthe command, 1
+server check mark, 6
+medium priority group frus, 5
+autodetection option, 15
+fault count, 6
+same volume group, 5
+navigation pane, 54
+duplex setting, 17
+new client object, 1
+status window, 1
+successful completion, 3
+co number, 6
+network demuxer, 1
+list configuration, 3
+dedicated processor mode cap, 1
+configuration option example, 13
+own firewall, 5
+platform hardware, 3
+paging storage pool type, 2
+ipl source, 26
+principal name, 2
+value address, 11
+default storage pool, 8
+maximum width, 1
+process id, 3
+digit day, 1
+xntpd daemon, 3
+explicit knowledge, 13
+specified workload management, 1
+cookie support, 8
+probe packet, 8
+performance modeling, 3
+reserved processing unit value, 55
+physical backing device, 3
+single paging vios partition, 14
+processing mode, 7
+fixed size, 6
+active bandwidth utilization, 3
+raid storage controller, 24
+partition firmware, 1
+input device, 8
+fsck command purpose, 5
+ipl type, 7
+bad block relocation, 2
+shared processing mode, 9
+device miscellaneous hardware kit, 1
+filtercat option, 22
+time change, 13
+character device, 4
+fast activation, 1
+warning panel message, 1
+use direct internet connection, 1
+device back, 3
+automatic service, 1
+service provider information, 9
+alphabetic view, 9
+set operation, 1
+dual bulk power, 2
+immed force, 2
+previous configuration command, 1
+client shared ethernet adapter, 5
+hmc configuration, 7
+integrated modem, 4
+multiple power, 2
+last byte, 1
+re pager, 2
+gbit port type, 1
+stopnetsvc command, 3
+indirect connection, 3
+rail alignment spacer, 10
+file location, 2
+chlv command, 14
+integrated virtual ethernet ive, 1
+automatic discovery, 1
+virtuallpar change, 4
+hardware control host, 4
+cfglnagg command purpose, 7
+system ibm, 10
+mib variable parameter, 5
+overwrite argument, 5
+realm realm, 18
+motd command purpose, 8
+alphanumeric string, 6
+specified action, 6
+default setting, 48
+remote command line interface, 1
+activation code key, 2
+managing security, 2
+alphabetic character, 38
+compact report, 13
+different src, 1
+cumulative report, 1
+system information administrator name, 1
+snmp daemon, 2
+test logical partition, 14
+snmp manager, 6
+rmsyscfg command, 5
+force option, 1
+active cluster, 3
+partition following header, 2
+fcs0 device type, 2
+ldapserver ldapserver port, 11
+select server, 17
+packet loss, 28
+support manager page, 1
+stale number, 8
+current flash image, 3
+adapter reset count, 11
+own unique vtpm, 3
+first device, 12
+vhost0 u8233, 1
+further detail, 15
+modem data cable, 22
+delimiter separated list, 88
+new server task, 4
+multistep process, 1
+range argument, 15
+lowercase navigation key, 10
+alternate console device, 11
+lvname name, 3
+ip address target, 40
+html format, 3
+uncapped processing, 8
+minimum amount, 22
+kadmin utility, 10
+rsubtype eth, 281
+partition configuration information, 8
+tree view, 6
+loop use, 10
+encrypted tgt back, 3
+hmcuser hmchostname, 1
+syntax starttrace event, 1
+use dhcp, 1
+security barrier, 8
+dma overrun error, 2
+installation network settingslan interface, 1
+bit mask, 13
+logical partition memory, 14
+digit hour, 1
+command topic, 1
+true memory information, 7
+storage nas file server, 1
+configuration record, 33
+maxmem parameter, 2
+printing color, 10
+compatibility information, 2
+memory deconfigured memory, 1
+entity range, 17
+client type, 3
+hmc support, 21
+phase rotation, 8
+maximum percentage, 2
+process snmp, 4
+kerberos remote authentication, 5
+virtual memory manager layer, 1
+single local hmc, 2
+backup information, 2
+emulation program, 5
+working persistent client, 11
+alphanumericstring12345 parent topic, 1
+geographic region, 2
+maximum allowable amount, 10
+server capability, 1
+hdisk5 related information, 3
+ssl proxy, 11
+change network, 3
+new hmc, 15
+boot logical partition, 1
+active cap, 2
+resource monitoring, 33
+system clientv2, 4
+virtual partition system attention, 28
+jfslog journaled file system, 1
+message translation hierarchy, 5
+modern configurationand, 9
+hmc interfaces, 1
+kdc configuration task, 10
+service connection, 5
+cattracerpt command purpose, 4
+kernel thread, 1
+dynamic lpar event, 35
+service key, 41
+entire file system, 8
+order number, 2
+enterprise number, 2
+same listing, 1
+select 2nd boot device, 1
+encrypted version, 4
+default user id hscroot, 8
+start telnet, 4
+server information, 1
+default socket buffer, 4
+layer ssl protocol, 2
+change connection monitoring, 3
+hmc hostname, 2
+object name, 3
+search entry, 2
+sustained load, 1
+partition profile name, 3
+same machine, 1
+reinstall system, 7
+outer middle, 2
+hexadecimal dump, 3
+additional ethernet, 10
+october 2013added information, 9
+0x010f00 port type, 1
+default mode, 2
+ibm registration website, 2
+logical partition power, 3
+bottom front, 16
+select task menu, 11
+system identification string, 3
+light path, 26
+time information, 1
+fru pid process id, 46
+filter row button row, 6
+maxmem list, 5
+vios installation, 1
+list mode, 14
+use web browser, 11
+inode lookup, 4
+memory region size, 28
+svmonalloc argument, 14
+server version, 2
+network authentication protocol, 10
+next mirroring mode, 1
+previous page fault, 10
+status dlpar status, 15
+system utilization, 3
+network management, 2
+other procedure, 3
+operating system language, 1
+second fsp, 6
+recent number, 5
+single physical ethernet port, 3
+physical location code, 158
+logical partitioning read, 9
+newvalue attribute, 8
+bus grouping, 2
+output file name, 1
+name status, 5
+delimiter state, 3
+application log, 20
+own set, 4
+stable flat surface, 11
+icmp data, 6
+workload group participant, 1
+lan network number, 2
+hmc remote command line, 19
+device attribute, 1
+lsnetsvc command, 4
+copy file1, 2
+list utilization configuration, 1
+additional system memory, 2
+inuse count, 9
+available state run cfgdev, 2
+volume group state state, 2
+startnetsvc telnet, 3
+first adapter, 4
+fibre channel device, 1
+userid user id, 10
+list parameter, 5
+bus type, 1
+amber fault, 8
+count parameter, 3
+vlan id, 47
+customer network, 7
+long list, 2
+set new value, 1
+netm root, 2
+private virtual lan vlan, 4
+status column, 1
+hot plug adapter, 3
+paging service, 12
+optimal bandwidth, 1
+symmetrical access, 3
+npiv binding information, 1
+read buffer, 4
+failed condition, 1
+reporting system, 1
+kernel buffer, 5
+select boot, 16
+normal ipl mode, 1
+file segment use, 3
+pathname lookup, 4
+server ip address, 2
+affinity domain, 6
+stopnetsvc ftp, 4
+open network, 131
+master parameter, 3
+discovery process, 4
+report problem, 3
+delimiter fieldname description, 8
+bandwidth use, 3
+open command line session, 1
+pid section, 10
+different rack cabinet, 19
+interface network mask, 1
+computing group, 1
+backup function, 8
+right portion, 3
+hot interfaces, 2
+last reference, 5
+rack r001, 5
+first volume, 22
+configure testbox, 4
+dump type, 1
+hmc platform, 5
+volume group vg03, 5
+serial number match, 1
+scheduled operation, 2
+notification type, 4
+console switch, 55
+hardware service related information, 5
+vhost0 u9117, 1
+dma overrun, 14
+padmin authority, 14
+integrated ethernet adapter, 6
+line ame, 6
+utilization data, 6
+vtscsi1 u9111, 1
+selecting server, 6
+predictive fault, 5
+usual behavior, 1
+network information, 2
+fibre channel, 6
+padmin user, 23
+hardware vendor, 6
+remote partition, 3
+standard output stdin, 1
+such physical volume, 4
+line feed, 8
+integrated virtualization manager ivm, 11
+destination host, 2
+udp probe, 16
+current amount, 5
+use problem analysis, 36
+syntax lsfware name description, 6
+enough room, 22
+possible tuning information, 1
+matching textual name, 3
+terminal display, 2
+connection monitoring, 53
+cooling infrastructure, 11
+level sys list, 5
+console selection, 1
+detailed segment report, 22
+client support, 1
+os version, 6
+local electrical supply, 4
+hardware inventory panel, 2
+enough memory, 11
+adapter name servervirtualadapter, 2
+related reference, 8
+entire mib tree, 3
+client scheduler, 3
+virtual target device, 71
+enough disk space, 12
+first attempt, 3
+use memory, 3
+binary recording, 2
+virtual disk page, 2
+hardware feature, 1
+block range, 7
+customer name, 1
+point file system, 4
+basic proxy authentication rfc, 14
+pool size, 23
+ssd adapter un, 78
+image file source, 4
+many software, 11
+web interface, 7
+clip nut, 8
+likely match, 1
+same paging space, 1
+operating system name, 1
+serviceable event notification task, 3
+syntax license name description, 8
+pdf format, 4
+xml file pgsz, 10
+security model, 1
+trap message, 2
+available unused capacity, 11
+first entry, 2
+tape drive usb, 10
+adapter internal data, 1
+fsp flexible service processor, 1
+network adapter, 19
+additional disc, 1
+current web browser session, 1
+argument query, 8
+large page freelist, 1
+mode option, 1
+local host host, 5
+appropriate information, 26
+device software, 7
+system code, 1
+manufacturing default partition configuration, 1
+disk subsection, 4
+user joe somehost type, 2
+only gb, 1
+hmc code version, 4
+address translation fault, 7
+encrypted connection, 8
+scp command, 5
+current runtime state, 3
+system administrator, 6
+physical ethernet, 21
+sample rate, 13
+name name, 22
+redundant access, 2
+group name, 4
+gateway client, 1
+link count, 2
+default boot sequence, 1
+call answer tab, 11
+long report summary, 2
+cplv command, 23
+chlv command purpose, 5
+migrlpar command, 3
+migration state, 1
+system segment, 1
+request packet, 3
+use dynamic partitioning, 25
+specified state, 4
+map location code, 23
+electronic service agent facility, 2
+processor mode, 7
+partition availablity priority, 7
+available huge page memory, 1
+certificate authority, 11
+model id, 6
+hardware resource configuration, 10
+duplex option, 3
+syncd root, 2
+counter32 counter64 display, 11
+current arp table, 1
+open terminal window, 1
+corrupt block, 2
+recoverable memory pool, 2
+new certificate, 9
+detail level, 38
+operating system environment, 5
+rsubtype fc, 239
+magnetic tape unit model, 1
+state field, 9
+device type, 5
+available processing, 15
+start system management, 34
+integrated hmc modem, 3
+enforced processor resource limit, 2
+unique address space, 1
+type reboot, 8
+select language, 12
+ibm power system server, 2
+resource group, 1
+separate dedicated network, 7
+system power, 28
+reboot type, 7
+setup wizard, 38
+mac prefix, 2
+specific group, 13
+topic october, 8
+standard ethernet, 4
+share few system, 1
+single logical partition, 3
+new return code, 1
+select plan, 9
+error message, 44
+average cpu utilization, 15
+com ping, 10
+exact name, 2
+hdisk8 utmp0, 1
+drc index, 77
+available output field, 17
+set compact report, 3
+following example, 32
+subsystem hub, 1
+syntax sysstat user description, 4
+customer task, 6
+port physical location code, 101
+authorized key, 1
+select 5th boot device, 1
+pidlist argument, 14
+snmp agent, 45
+view detailed information, 9
+first physical partition, 6
+iscsi ping test, 2
+max maximum size, 24
+crossover traffic, 1
+hmc parent topic, 1
+ssh secure shell login, 7
+next menu, 14
+remote service tab, 7
+average number, 41
+list attribute, 4
+protocol option, 3
+default display, 8
+process cec, 1
+sequence number, 22
+network service daemon, 1
+repair serviceable event, 2
+critical data, 6
+backup operation, 12
+following information, 150
+current user, 23
+distribution process, 9
+card port, 51
+processor failsif, 7
+vg parent topic, 1
+local host, 9
+errlog command purpose, 5
+information center search function, 9
+backup set, 6
+import service key, 7
+physical io, 8
+local modem tab, 1
+status icon, 3
+client network interface, 8
+configuration category, 13
+processor subsystem, 2
+conf configuration file, 1
+vlan priority option, 2
+mover service partition, 8
+hmc machine code level, 21
+dvd drive, 2
+size report, 1
+microcode level, 4
+same setup, 4
+startsysdump command purpose, 4
+time stamp, 29
+lsfware command purpose, 6
+use word, 6
+websphere application server, 6
+following menu, 1
+disk unit, 1
+managing raid, 1
+inventory use, 7
+problem determination, 3
+base information, 3
+available hmc machine code, 4
+backup data, 4
+tape device block size, 2
+tape use, 27
+dialog box, 4
+vg02 fslv03, 3
+detailed status information, 3
+current configuration capability, 2
+primary console, 7
+time tape, 7
+network service, 2
+working storage, 9
+device configuration database, 11
+system event, 3
+space bar, 6
+pci bridge set, 13
+dirblk waitqueue, 1
+unrecovered error, 5
+adapter type hardware address, 7
+administrative user id, 4
+level back, 8
+work pane table view, 1
+empty list, 8
+dedicated memory, 9
+hmc machine code version, 11
+redundancy configuration, 14
+current location, 22
+partition boot mode back, 7
+detail status, 8
+current ipl source, 3
+segment level, 1
+snmpdv1 agent, 7
+following command svmon, 7
+local authentication, 4
+kb block, 5
+overall system status, 12
+additional ethernet adapter, 9
+next turbocore mode, 3
+second option, 3
+shared memory pool wizard, 4
+output format, 12
+access level, 8
+hardware service provider, 3
+enough physical memory, 19
+upper left corner, 2
+mozilla firefox version, 17
+previous boot device, 8
+session id, 15
+next whole number, 8
+name logical volume, 4
+local ip, 7
+backing backing device, 5
+configurable huge page memory, 1
+vlan ethernet adapter, 1
+0x0000010000000000000000000000000000000000000000000000000000000000 class, 4
+overall memory, 10
+use http, 2
+internal asn, 1
+override automatic cookie handling, 4
+welcome text task, 3
+proper voltage, 10
+change virtual disk, 1
+worldwide port number, 4
+maximum processing unit value, 29
+hdisk4 utmp0, 1
+sample default output, 9
+search list, 5
+syntax rmsyscfg, 9
+management console check, 7
+display memory compression, 12
+wlm display, 7
+ssh protocol key generator, 2
+new path, 15
+bus unique id, 1
+missing backing device, 5
+ssh session, 3
+real time period, 7
+pdf file, 12
+down paging vios partition, 8
+default maximum number, 19
+adequate memory, 7
+edit sort, 45
+system name, 1
+queue length, 24
+backup command, 153
+task group, 18
+device package, 6
+executable file, 1
+system output, 11
+final cd, 6
+service daemon, 1
+specified public key, 1
+sortentity argument, 7
+partition state, 1
+single view, 2
+september 2010added information, 6
+xml schema definition xsd, 3
+total throughput, 6
+system hostname, 1
+indirect internet connection, 8
+uncapped weight, 41
+form configuration record, 2
+pool size pool size, 8
+specific physical location code, 5
+following company contact information, 7
+single report, 9
+physical network link, 1
+web browser, 140
+hmc use, 7
+link hsl, 132
+following device, 9
+boot disk, 1
+consolidated system, 17
+lip count, 2
+uppercase hexadecimal, 15
+vdb path, 1
+work area, 2
+ssh connection, 15
+console date, 5
+different network software, 1
+default screen, 1
+console data, 12
+system data setting, 15
+priority logical partition, 1
+jfs journaled file, 1
+description description, 8
+ide address, 3
+dsmc command, 9
+service management work pane, 13
+hmc discovery tcp hmc, 12
+dynamic partitioning, 13
+committed fileset base level, 12
+enclosure type, 6
+command behavior, 14
+lsnetsvc inetd, 5
+ibm operating system, 1
+use partition profile name, 5
+top section, 3
+following column, 2
+uname command purpose, 15
+getbulk request, 5
+advanced tab, 10
+serviceable event status, 1
+network domain name, 7
+ibm eserver, 3
+gbit port speed, 2
+setting ipv6, 1
+device name description fdxx, 26
+command lsmap, 2
+modem transmission, 1
+level port list, 10
+maximum outward adjustment, 1
+recording interval, 2
+default authentication scheme, 3
+use memory affinity, 1
+disabled connection monitoring, 13
+id partition id, 55
+flag name description, 545
+standard input, 27
+cpu information, 2
+deconfigured processing, 1
+logical partition name, 22
+numeric number, 1
+first port, 3
+status code, 2
+status bar, 24
+pattern match method, 2
+analog jack, 6
+cluster communication, 8
+output hash symbol, 6
+archive myhome, 1
+left mouse button, 7
+default user, 7
+particular function key, 6
+syntax lsmemdev, 31
+time server, 1
+internal level indicator, 26
+machine type, 89
+local hard drive, 11
+partition information, 16
+specified link aggregation, 3
+configurable table, 3
+message path, 5
+user name, 65
+initiate dump, 13
+predefined task, 2
+avail related information, 3
+tier number, 4
+current report, 1
+additional disk drive, 8
+second ethernet device, 6
+first progress code, 1
+networkservice parameter, 7
+controlhost object, 6
+boot capability, 2
+dvd device, 18
+shared memory partition, 683
+secure script execution, 15
+level resourcelevel, 3
+trace hook, 11
+page new fi, 9
+local hmc, 82
+utilization monitoring, 1
+change ip, 1
+specific directory, 14
+white space, 5
+shared memory environment, 7
+pagein number, 6
+multiple high priority frus, 6
+vtscsi2 u9111, 1
+dial tone, 16
+time server information, 1
+hot workload management wlm, 5
+new setting, 1
+logical volume identifier identifier, 2
+system firmware level, 11
+strict allocation, 20
+display summary, 24
+cord clip, 5
+start recording cluster, 5
+system administrator message, 2
+directory entry, 15
+newlv oldlv, 7
+blade server management module, 1
+ip address range, 7
+specific output destination, 1
+only mandatory parameter, 6
+shared ethernet adapter lv, 16
+different time range, 1
+unused processing, 20
+category category, 4
+bridge network traffic, 2
+trace function, 6
+route expiration, 1
+memory consumption, 37
+deploy system plan wizard, 1
+management console partition, 6
+activeuser argument, 6
+beginning problem analysis, 14
+subnet mask, 34
+managing shared storage, 6
+next volume, 8
+tool bar, 18
+appropriate protocol, 9
+actual snmp agent, 8
+new option ping test, 3
+select task group, 10
+history information, 3
+kdc discovery, 1
+free frame, 4
+additional resource, 10
+outer slide, 1
+priority order, 1
+manual intervention, 2
+shared storage pool feature, 1
+temperature sensor un, 12
+ip address version, 14
+future time, 1
+network upgrade, 1
+target resource, 23
+control panel electrical battery, 3
+progress indicator history, 41
+syntax mkgencfg, 12
+single point, 12
+change scsi, 14
+name physloc clntid clntname, 8
+journaled file system, 2
+maxpin percentage tuning parameter, 9
+parameter description networkservice use, 2
+small portion, 1
+general tab, 4
+server partition name, 4
+same format, 6
+type boot, 1
+entire processing capacity, 5
+partition communication state, 3
+other shared memory, 8
+dash sign, 13
+frame priority, 1
+set partition profile, 2
+interval information, 2
+use isolation, 9
+inactive file system, 1
+internet connection, 68
+configurable system memory, 6
+dump iopdump, 1
+processor context, 20
+factory configuration partition mode, 1
+slot location, 3
+request move, 31
+backing physical device, 8
+partition lpar2, 1
+partition lpar3, 1
+user type, 2
+use dedicated memory, 3
+local modem dialing, 4
+hmc file system, 4
+february 2010added information, 20
+lsdev devicetype, 1
+main topas display, 7
+invalid flag, 3
+configurationfile portnumber, 2
+02c82115 za, 1
+ticket tgt, 3
+access paging space, 6
+administrator authority, 1
+revision number, 4
+monitoring interval, 37
+particular task, 7
+workload management class report, 207
+large mtu, 1
+next option, 10
+corresponding virtual scsi, 8
+binary format, 4
+specified ethernet device driver, 1
+uncapped mode, 10
+variable parameter, 6
+system description, 8
+pdump command, 5
+bus 4f, 1
+display list, 10
+hmc management hmc management, 7
+microcode level information, 8
+table configurable processing, 9
+kdc authentication, 2
+minperm percentage tuning parameter, 5
+attribute value description, 7
+remote logical partition, 1
+use internet vpn connectivity, 1
+main display, 5
+flow control value, 18
+ip packet, 10
+filesystem layer, 3
+column order, 20
+xml file, 22
+root user, 42
+address translation, 6
+kerberos realm, 3
+load module name, 3
+command failure, 6
+only single io, 7
+external firewall, 12
+upgrade data window, 1
+full screen tape screen, 5
+maximum data rate, 7
+kerberos administrative user, 1
+filtered view, 13
+select problem type, 3
+tape device, 85
+same subnet, 29
+topas command, 40
+terminal session, 4
+logical location code l23, 14
+dynamic client configuration, 16
+function request, 4
+operation managedsystem description, 7
+specified port group, 4
+only device, 9
+host name, 43
+virtual memory activity, 3
+faulting segment, 1
+current setting, 12
+ent7 related information, 2
+ioslevel command, 3
+remote user user, 2
+complete set, 20
+typical nim, 1
+pass information, 3
+hmc configuration data, 4
+use modem, 4
+memory configuration, 74
+syntax stoptrace description, 3
+first message, 11
+system profile, 15
+full path name, 4
+system reference, 8
+cfgnamesrv command, 26
+rstprofdata command, 9
+frame argument, 6
+hdisk1 device, 3
+shared ethernet, 8
+type menu item number, 24
+active memory sharing, 8
+secure ftp, 2
+weight order, 3
+new user id, 1
+device parent name, 3
+ssd adapter, 20
+io mem proc virtualio, 61
+code key, 10
+file name format, 12
+file space, 11
+print pdf file, 6
+report problem window, 3
+thread run, 2
+consistency mirror, 5
+support setting, 3
+available default, 2
+kerberos realm name, 2
+command purpose, 109
+taggedio virtualio, 1
+installation source, 1
+configure multiple vios, 5
+initiate network boot, 1
+migration migrlpar, 9
+machine information, 4
+platform log, 39
+process report, 30
+default adapter, 16
+rsubtype pgdev, 336
+workload management wlm, 6
+resource group name, 5
+control connection, 27
+encrypted file, 1
+backup adapter, 18
+task window, 1
+pool size size, 2
+load source, 15
+shared processing unit, 7
+error log reference code, 2
+same disk, 4
+server partition id, 4
+block replacement group, 15
+endday day, 29
+tape device name, 8
+physical memory 4k, 8
+kb page, 29
+reference code, 129
+mwc mirror, 5
+error code, 3
+remote virtual terminal connection, 5
+boot logical volume, 12
+default paging storage pool, 3
+passive mode, 7
+select console, 10
+configurable system processing, 6
+page size header, 3
+super administrator, 13
+dvd optical device, 5
+syntax uname description, 6
+unit argument, 6
+ip subnet mask, 1
+equal amount, 2
+comment related information, 2
+speed duplex server client, 3
+type vgname, 1
+partition mobility, 3
+hmc read, 26
+status message, 3
+flow control, 1
+size size, 4
+contact service, 44
+physical structure, 9
+system log padmin user, 9
+immediate shutdown, 3
+new value, 19
+cluster environment, 1
+user parent topic, 1
+network file system, 12
+wlm section, 14
+identification string, 12
+adapter targetdevice targetdevice, 3
+following topic, 28
+fsck command, 43
+branch office, 1
+system boot, 8
+maintenance level, 3
+same cec, 1
+invalid tx word count, 2
+gb memory allocation, 1
+reboot diagnosis netstat, 15
+array information, 1
+cpw percent, 8
+partition configuration image operation, 1
+integrated kerberos authentication, 1
+total entitlement, 9
+proxy authentication information, 17
+parallel scheduling policy, 8
+shared memory review, 5
+service key file, 71
+specified target device, 2
+psz page size, 2
+ping command, 53
+global network, 6
+later use, 1
+managedsystem description, 81
+ninth archive, 10
+change storage, 2
+hmc software, 83
+default level, 1
+entire server, 5
+available display, 7
+system pci bus, 1
+following generic device, 3
+selecting boot, 6
+additional processing capacity, 2
+street address, 18
+time site, 4
+variable length, 3
+list possible source, 12
+normal mode boot, 6
+format option, 3
+list system, 532
+starthour hour, 43
+ftp back, 14
+only hmc, 3
+network adapter error handling, 5
+corrective service, 11
+use ssh, 13
+active partition migration, 8
+definition file name, 2
+nim master, 7
+lslparmigr command, 13
+system plan, 39
+f1 key, 1
+backup adapter ent6 type, 2
+lv02 lvtest parent topic, 1
+logical network, 3
+rsubtype resourcesubtype, 4
+missing display, 5
+connection speed, 3
+support configure, 19
+smtp server, 4
+indicated state, 19
+configured interfaces, 1
+same ntp server, 1
+month filter default, 17
+memory affinity, 16
+tier report, 8
+need occasional monitoring, 16
+option exit status, 35
+instruction page fault, 1
+remote copy pprc pair, 3
+operating system level, 8
+file parameter, 88
+twinaxial console, 15
+client operating system, 3
+stopnetsvc command purpose, 3
+select system, 10
+value logicalvolume description, 9
+operator assistance, 1
+lan console, 5
+background information, 12
+level targethost timeoutvalue retrynumber, 3
+exit status failure, 8
+function number, 4
+ip number, 1
+use computing, 3
+hmc server, 8
+telnet daemon, 6
+first change command, 6
+online help information, 1
+user name link, 6
+parameter description, 16
+service focal point reporting, 9
+end task, 5
+snmpd root, 1
+encrypted ssl, 5
+auto scope, 1
+character set, 6
+eth0 eth1, 11
+automatic unit selection, 1
+telephone cable, 36
+debugging level, 3
+defaultvirtualethernetadapter default virtual adapter, 4
+migration installation method, 1
+flag name description diskname, 1
+other type, 9
+domain xyz, 1
+change user password window, 2
+command parent topic, 11
+backup format, 1
+seastat command purpose, 3
+private address bit, 3
+socket buffer size, 4
+maintenance package, 1
+number seeknumber, 4
+same open network, 1
+following device list, 3
+sysstat command, 3
+lsrefcode command, 8
+ivm environment, 1
+processor unconfiguration, 11
+physical fibre channel adapter, 25
+ldap remote authentication, 2
+com gateway information, 2
+default client domain, 3
+csv format, 1
+location code suffix, 3
+user key string, 4
+parameter description networkservice, 5
+task id task name, 18
+devicename flag, 2
+list virtual partition, 1
+max collision, 9
+dash separator character, 21
+starttrace command, 9
+strip size, 5
+advanced setup menu, 3
+disk space, 13
+applicable task, 8
+client server, 10
+safe environment, 10
+page space, 5
+report tmem, 7
+lslparinfo parent topic, 1
+page replacement, 1
+logical unit number, 1
+refcode parent topic, 1
+serviceable event notification, 23
+nested double quotation, 65
+my53resource client object, 7
+off state, 5
+path definition, 10
+change user interface, 20
+power architecture technology, 14
+fan cage, 30
+level lpar list, 4
+company network, 23
+data type, 1
+percent active time, 10
+f10 key, 1
+remote user, 17
+shared buffer pool, 3
+full screen wlm, 4
+temporary image, 27
+physical location code physicallocationcode, 1
+remote location, 3
+maximum time, 2
+bootable device, 6
+remote virtual terminal task, 3
+mixed page size segment, 17
+ac power, 4
+independent server, 2
+remote host, 15
+much error data, 12
+use telnet, 6
+disk service, 1
+nextboot value, 3
+appropriate data source, 2
+recent maintenance level, 1
+virtual processor ratio, 4
+relative path, 5
+change link aggregation, 1
+following status, 2
+exit code, 2
+service data, 23
+hardware platform, 2
+particular state, 3
+worldwide node name, 3
+shared pool, 25
+relevant page, 5
+independent logical server, 18
+extendlv command, 18
+access data, 29
+devicetype flag, 1
+associated allowable customizable data, 4
+maxclient percentage tuning parameter, 6
+several partition, 4
+rsubtype pgdev attribute, 1
+share hardware, 16
+logical partition configuration, 27
+firefox browser, 7
+hard drive, 4
+path information, 10
+id processor idle time, 1
+primary device, 3
+view record, 5
+bridge function number, 9
+certain platform, 2
+new logical volume type, 1
+logical name, 33
+device flag, 5
+gateway ip address, 12
+actual space, 8
+space information, 1
+contact service center, 2
+stoptrace command purpose, 3
+capped logical partition, 9
+good practice, 10
+sea device name, 7
+lpar name, 14
+problem information, 8
+internet proxy, 2
+first record, 10
+svmon command longreal, 11
+card position table, 10
+device physical location code, 8
+list partition profile, 1
+syntax cpvdi, 7
+com example, 5
+day filter default, 26
+place hazardous voltage, 12
+down white button, 1
+ldap authentication configure, 5
+bridge function, 1
+default main display, 2
+appropriate subnetwork, 2
+unacceptable indicator, 8
+promiscuous mode, 2
+vertical column, 2
+same server, 5
+network boot, 51
+user access, 6
+virtual server network vsn, 6
+stoptrace related information, 3
+local server, 9
+lvmbb root, 2
+prefix description example, 6
+locale window, 7
+isolation procedure, 30
+seadefaultpvid value, 1
+global environment, 2
+id related information, 2
+snmp version file, 14
+system configuration object, 2
+sample interval, 6
+memory size, 1
+rewind tape device, 1
+informational message, 21
+select device, 7
+column header, 6
+power supply assembly, 2
+hmc modem line port, 5
+specific serviceable event, 29
+premium search, 5
+processor power, 37
+adapter menu, 1
+virtual target device vtd, 5
+single partition, 10
+virtual terminal window, 1
+incomplete client configuration, 1
+host connection, 3
+variable part, 5
+version release, 15
+boot device, 12
+partition migration operation, 4
+listing system level memory, 1
+topas monitor, 2
+rsubtype phys, 123
+network adapter parent topic, 1
+shutdown command, 8
+same effect, 8
+hea drc, 9
+hardware page table hpt, 1
+trace session, 6
+hot network interfaces, 12
+complete hmc, 1
+specific logical port, 3
+hmc private network, 14
+interface master, 2
+use redundant paging vios, 53
+chsyscfg command, 16
+report header, 1
+hmc connector j02, 1
+hmc connector j03, 1
+server adapter, 21
+first choice, 4
+snmp trap configuration tab, 8
+vhost0 virtual server adapter, 1
+mac address format, 3
+available disk, 3
+base udp port number, 3
+select column, 7
+system task, 6
+different subnet, 4
+single unit, 1
+hmc web browser support, 2
+virtual target, 31
+help screen, 1
+current maximum number, 7
+production logical partition, 7
+specified resource type, 48
+electrical outlet, 23
+system text text, 10
+bridged network, 1
+exit system management, 48
+ftp server, 4
+same default, 3
+kerberos authentication, 13
+full screen process display, 1
+client gateway, 1
+real memory consumption pin, 60
+use openssl, 8
+open virtual terminal session, 11
+problem isolation, 1
+root file system level, 6
+advanced accounting, 31
+ssh secure shell, 3
+same logical volume, 7
+iscsi target, 7
+recent back, 3
+free form text comment, 6
+rack cabinet, 40
+internet work router, 3
+portmap root, 1
+logical volume fslv03, 4
+host service key file, 14
+default file, 8
+hmc type, 12
+test software, 1
+new name, 20
+ssh key, 32
+slot column, 7
+remote support, 19
+endminute minute, 21
+internet protocol ip, 2
+allocation policy, 10
+dump related information, 3
+same hard disk, 7
+verbose output, 9
+text description, 2
+firmware fix, 30
+striping width, 5
+installation image source, 7
+partition console, 1
+dedicated maintenance, 1
+service mode boot list, 1
+default backup device, 1
+connectivity information, 1
+last reboot, 6
+logical partition profile, 22
+terminal window, 1
+filesystem parameter, 28
+electric shock, 10
+invalid keyword, 1
+machine id, 1
+high performance, 1
+whole number, 3
+dynamic lpar operation failure, 1
+increase size, 2
+high degree, 2
+hmc firewall, 15
+nondirectory archive, 3
+further information, 1
+processor module, 10
+new functionality, 10
+id partitionid, 64
+new system, 1
+system use, 8
+power control, 9
+mpss option, 1
+power infrastructure, 13
+process cpu utilization, 6
+time setting, 8
+following list, 13
+inner middle, 2
+duplex menu, 1
+main menu, 1512
+shared processing pool, 23
+new device, 4
+welcome message, 22
+boot device syntax, 11
+following selection, 38
+physical processor, 9
+re fi, 1
+list virtual platform, 1
+filter filter data, 11
+free hard drive space, 24
+ssl communication, 10
+use power isolation, 6
+target number, 14
+serial port, 8
+multiple shared processor, 1
+default virtual processor, 8
+output file, 8
+problem reporting form, 9
+command line interface ap, 1
+inet0 family, 7
+phase boot, 1
+select 3rd boot device, 1
+setup wizard configure, 9
+logical partitioning information, 1
+delimiter character, 10
+drc name, 7
+single character, 1
+adapter id, 9
+cluster name, 1
+rsubtype bus, 537
+taskbar switching, 1
+layer ssl, 16
+partition boot mode, 1
+unique physical location, 6
+same space, 3
+comprehensive tool, 5
+local hmc operator, 4
+memory amount, 6
+name server entry, 5
+mm position, 3
+file segment, 1
+system wide prefix, 4
+current sharing mode, 2
+decrement button, 10
+filterpgsz option, 16
+welcome work pane, 8
+new installation, 1
+fcs1 u787a, 1
+display memory, 394
+search list abc, 1
+related informationthe command, 3
+physical volume hdisk6, 7
+debug output, 4
+store data, 19
+september 2010the following, 7
+mkpath command purpose, 7
+different resource, 3
+default debug level, 1
+command reference information, 4
+pci bus problem, 8
+dedicated processor mode, 14
+following figure, 12
+partition memory mode, 4
+only file, 1
+only viewing, 4
+select new certificate, 1
+power cord, 19
+specified segment, 8
+slot kvno principal, 39
+hmc graphical user interface, 8
+option name, 11
+taskpadthis view, 6
+different maximum logical memory, 1
+service processor, 69
+outside line, 2
+default server, 10
+rmdev command, 26
+other spmi consumer, 2
+increase resource utilization, 22
+file type, 2
+support information, 10
+customer information window, 9
+hexadecimal value, 4
+virtual disk increase, 4
+tape list tape, 2
+bootp blocksize, 1
+lsmemdev command, 14
+inetd subsystem, 17
+computational text, 3
+important console information, 4
+configurable memory, 32
+mit kerberos, 6
+syntax topas, 29
+specified address, 1
+fsp port, 20
+ssh facility, 7
+vhost1 u9117, 1
+list utilization, 1
+topas command purpose, 3
+such partition profile, 1
+worldwide unique identifier, 42
+physical location code discovery, 1
+tape head, 8
+multiboot startup, 4
+tape drive, 31
+current directory, 23
+pmem amount, 6
+bad block relocation policy, 1
+licensed memory, 17
+logical memory block size, 1
+next reboot, 6
+network speed, 16
+description use, 13
+numeric output, 1
+following table, 106
+portable openssh, 10
+management console, 97
+validate partition migration, 1
+outbound connectivity customize, 10
+normal ent0, 2
+alphabetic listing, 3
+web browser use, 9
+fix level, 16
+specified attribute, 5
+serviceable event, 80
+hmc view record, 6
+affinity argument, 9
+data replication, 37
+option rom version, 1
+minute filter default, 22
+valid sample, 2
+specific release, 2
+such adapter, 7
+first position, 3
+network traffic, 1
+logical partition configuration information, 8
+remote support facility, 12
+processor sharing mode, 5
+oth command root, 2
+open terminal session, 3
+secure shell access, 4
+parent scsi0, 17
+bkprofdata command, 12
+space character, 1
+activeuser option, 1
+other partition profile, 1
+total page, 13
+file system name, 4
+active channel, 2
+replacement priority, 3
+such file, 6
+only use, 7
+proxy server, 47
+target destination, 5
+client subnet mask, 1
+maxperm percentage tuning parameter, 5
+shared memory ipl source, 6
+platform module vtpm, 15
+current report filename, 11
+hmc super administrator hmcsuperadmin, 4
+renewable ticket, 4
+appropriate device, 4
+frame default value, 1
+whole block, 6
+logical volume allocation map, 10
+mibvariable input, 1
+support telephone, 1
+shared storage pool version, 3
+system serverv3, 4
+test environment, 7
+different network, 7
+mklv vg02 1m, 8
+additional consideration, 1
+control function, 7
+single device, 7
+correct card location, 2
+adapter value, 26
+ticket lifetime, 16
+hard disk, 15
+net list network, 1
+vios partition, 8
+working test problem reporting, 6
+user field, 1
+wlm screen, 1
+mac address, 87
+directory file description, 10
+fru isolation, 7
+error notification, 1
+ping canopus, 1
+ssh authentication, 3
+current active request release, 9
+place mark, 10
+system attention sa, 8
+unix socket family, 1
+dangerwhen working, 10
+above administrator address, 2
+domain entry, 16
+paging vg04, 5
+bus isolation, 22
+single processor, 1
+lan switch, 13
+volume group, 93
+psbuf number, 11
+serial optical link, 2
+vtopt0 entry, 1
+server vios partition, 24
+lun logical unit number, 2
+default profile, 30
+syntax bootlist, 5
+customizable data replication service, 58
+managing system management, 33
+nieq total number, 3
+device microcode, 28
+link aggregation set, 3
+iscsi port, 1
+true memory, 14
+shell pathname, 2
+respective default, 4
+new process, 1
+display information, 15
+configure domain, 1
+keyboard tray, 53
+network installation, 22
+successful upgrade, 8
+multiple function, 2
+strong authentication, 7
+rsubtype slot eth, 24
+strictness value, 1
+trap information, 3
+ivm chsvcevent command purpose, 4
+logical volume lv03, 5
+standard output, 34
+set logical partition, 46
+logical volume name, 20
+default memory block size, 8
+separate stanza, 8
+server memory, 3
+wrist strap, 28
+printing number sign, 8
+master console, 5
+physical ethernet adapter ent4, 9
+mb gb, 21
+outgoing ping, 1
+branch office group data, 21
+ibm id, 22
+mkvdev command purpose, 4
+affinity domain process report, 5
+open service management, 1
+id vios lpar id, 27
+capped mode, 7
+only few mib, 4
+chsysstate command, 4
+mib information, 2
+service pack, 1
+new page fault, 9
+specified user id, 4
+ethernet port, 23
+fru severity severity, 3
+remote slot, 1
+unexpanded memory, 5
+devicename description, 12
+force assignment, 1
+progress code, 41
+12x isolation, 11
+next system, 3
+same recursive fashion, 6
+volume group panel, 1
+logical volume lv01, 2
+file header, 10
+additional navigation, 3
+configure network tuning, 1
+cimserver daemon, 6
+startday day, 46
+need communication, 5
+machine id number, 10
+overall time, 32
+startnetsvc ftp, 3
+complete listing, 1
+second fixed part, 7
+chlang command purpose, 6
+resource control, 1
+use only portion, 7
+primary diskette drive, 9
+indirect ssl, 11
+vhost2 virtual server adapter, 3
+action field, 10
+medium priority frus, 4
+current hw, 4
+account information parent topic, 1
+customizable data replication, 51
+fix pack, 1
+particular file, 1
+backup tape, 6
+fast path checklist, 10
+bootable disk, 5
+specific amount, 22
+false vtd vtscsi1 status, 2
+active cpu mem, 8
+free kb, 1
+tape device display, 1
+processor resource, 7
+minimum logical memory, 8
+msgtran parameter, 13
+second hmc, 44
+pattern matching, 10
+logical location codesif, 21
+active time, 6
+psz column, 4
+select internet protocol version, 1
+information center, 5
+import service key file, 21
+type logical volume type, 8
+expansion unit, 35
+client mac address, 1
+cattracerpt command, 6
+vlan device, 10
+shared memory partition subset, 12
+internet tab, 1
+sqe test, 8
+paging vios partition, 424
+usb mass storage, 1
+current logical partition, 1
+invalid crc count, 2
+dial prefix, 8
+host address, 1
+down network interface, 1
+append memory compression information, 20
+down shared memory partition, 1
+socket buffer, 2
+operating environment installation resource, 10
+type disk, 6
+copy operation, 1
+aix status, 1
+hmc education, 17
+multiple ethernet, 4
+virtual ethernet adapter, 81
+server migration dvd, 1
+changed information, 91
+huge page memory allocation, 4
+client file, 1
+migration tab, 2
+potential main store dump, 10
+ivm chvet command purpose, 3
+outgoing interface, 1
+vlan tagging, 2
+specific network adapter, 4
+mib tree, 13
+available management, 1
+physical processor core, 6
+logical volume lv02, 2
+authentication administrative domain, 1
+fsp private network, 1
+fc traffic, 4
+physical system, 18
+huge page memory, 11
+information center read, 3
+exit statussee, 1
+ssl encryption, 6
+web browser control, 1
+locale setting, 3
+inventory data, 1
+static control, 2
+process status, 14
+poolid memory pool id, 1
+mapping information, 7
+logical partition memory mode, 1
+status form, 7
+administrative domain, 1
+paging storage pool, 72
+image file, 10
+critical console information, 15
+winsnmp name, 3
+key unique id, 2
+io connection, 4
+status flag, 10
+redundant hmc, 5
+pci system bus number, 2
+memory compression, 16
+server firmware server firmware, 4
+different file name, 1
+remote hmc, 140
+taskpad change, 7
+memory weight, 28
+ethernet connection, 28
+symbolic frus, 1
+unix root shell, 4
+display fork, 1
+snmpdv1 agent syntax, 7
+hdisk2 u9111, 1
+use remote hmc, 2
+descriptionthe rmlvcopy command, 9
+decimal format, 5
+following symbol, 2
+lpar logicalpartition, 14
+top line, 9
+multiple virtual ethernet, 3
+full duplex protocol, 5
+additional equipment, 1
+public key, 49
+oid octetstring opaque opaqueascii, 9
+appropriate problem analysis procedure, 5
+unacceptable state, 17
+optimal memory, 1
+viewing hmc, 1
+partition keylock position, 1
+2012added information, 16
+remote login, 5
+use certificate, 12
+established tcp, 7
+diskette device, 3
+specific mac address, 1
+hmc readme, 9
+myclient01 object, 1
+table option, 9
+output topas monitor, 2
+warning screen, 7
+remote site, 32
+system rating plate, 2
+syntax restorevgstruct, 3
+go back, 8
+reserve attribute, 13
+maximum value, 3
+window scaling, 23
+memory optimization tool, 1
+processor feature code, 1
+setup environment, 2
+partition availability priority, 1
+page fault, 16
+shared processing pool size, 3
+performance management information, 1
+smtp protocol, 1
+exclamation mark, 10
+set boot sequence, 8
+unacceptable icon, 6
+problem reporting, 1
+world unique identifier, 3
+additional copy, 6
+off option, 7
+saving pdf fileslarge pdf, 5
+adapter configuration, 6
+specific parent, 2
+single integrated ethernet port, 9
+mapping option, 1
+unique integer identifier, 23
+physicalvolume parameter, 11
+record hmc configuration information, 3
+default name, 2
+source address, 26
+special file link, 4
+memory free list, 3
+keytab ktutil, 1
+average percent, 7
+specific disk, 1
+syntax chvet activation code, 9
+single monitor, 2
+input data file, 8
+such virtual disk, 4
+hmc port location, 16
+specified type, 1
+password policy function, 4
+gbit port fc id, 1
+multiple attribute value, 24
+minimum size, 24
+power system, 1
+syntax stopnetsvc networkservice description, 4
+virtual target device type, 2
+backup parameter, 4
+persistent storage, 4
+flat panel, 4
+disk replacement, 8
+ip othersystem, 4
+current message, 23
+physical disk, 8
+specific ip, 6
+virtual device, 21
+system level, 10
+logicalvolume parameter, 20
+available memory amount, 6
+specific task, 3
+adapter type, 8
+smtp address, 6
+syntax topasrec, 19
+ssl proxy internet vpn, 7
+partition refcode, 5
+procs quantity, 22
+file system service, 1
+time base, 7
+memory table, 1
+specified active process, 7
+surveillance error 8f, 1
+root file system, 40
+new copy, 17
+arm use, 7
+mib object identifier, 1
+format nolimit, 4
+movable tab, 7
+slot vsa0 u9111, 1
+system shutdown, 2
+ipv6 address, 17
+usage error, 2
+specified backup device, 2
+size requirementsthe, 9
+select filter, 10
+fork system, 6
+target station, 7
+linux logical partition, 4
+scsi tape drive rmt0, 9
+digit minute, 1
+scsi adapter scsi1, 9
+header record, 40
+service network, 1
+rsubtype taggedio, 418
+serviceable event view, 32
+target hard disk, 1
+model name attribute, 3
+delimiter separated format, 1
+operating environment, 22
+operating system, 370
+local authentication user, 5
+optional postconfiguration, 4
+control operator panel, 6
+12x failure, 2
+first syntax, 20
+previous menu, 2
+switch port, 1
+inconsistent disk map, 1
+pcie device, 2
+hostmibd root, 1
+state mac en2 fe80, 1
+prime administrator, 5
+internet host, 7
+upgrade data task, 7
+secondary hmc, 9
+hmc level, 3
+dump internal error, 1
+system group, 1
+tab key, 3
+level port, 84
+server binding information, 5
+nonzero return code, 2
+iscsi network, 3
+same machine type, 1
+support manager, 2
+video cable, 6
+instance parameter sequence, 1
+disabled display, 5
+corrupted database, 4
+default behavior, 2
+primary paging vios partition, 63
+giga mb, 1
+initial window, 18
+short hostname, 6
+hardware management console, 27
+bootp request, 7
+shared processor, 31
+joe somehost, 10
+application software, 1
+local file, 3
+left portion, 3
+ip migivm2, 19
+connected hmc, 13
+default action, 3
+mkvdev command, 23
+decimal value, 19
+file transfer protocol ftp, 2
+snmp protocol, 6
+type type, 4
+connection state, 7
+setting path, 3
+domain name server information, 3
+different interface, 4
+columnar form, 2
+cfgdev command purpose, 4
+kthr section, 1
+same way, 1
+mover service partition name, 8
+range e0 ff, 1
+shared processor pool, 81
+memory page fault, 2
+syntax chdev name, 1
+same system, 15
+fru list, 5
+system load activity, 1
+hmc system, 8
+error event log view, 1
+virtual processor, 46
+36cfb segment, 2
+fre size, 7
+first dvd, 12
+sortseg option, 3
+sendmail root, 1
+specified host, 2
+id partitionid description, 6
+disk lv, 4
+xsd file, 1
+remote system, 36
+new virtual disk, 3
+support site, 1
+command line, 50
+affinity option, 1
+performance management data, 1
+share pool, 3
+command output, 1
+system mksyscfg, 9
+optimizenet command, 11
+summary view, 1
+runtime shared memory weight, 3
+modem line port, 5
+private key, 18
+unknown device, 2
+bottom left pane, 4
+tftp boot, 1
+normal partition profile, 6
+group data, 18
+syntax traditional usage, 1
+verbose mode, 9
+interface address, 1
+different operating, 1
+particular object, 1
