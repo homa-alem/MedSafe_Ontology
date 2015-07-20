@@ -1,6 +1,10 @@
 import urllib2
 import re
 from bs4 import BeautifulSoup
+from time import time
+
+# Get the start time
+t0 = time()
 
 base_p7_url = "http://www-01.ibm.com/support/knowledgecenter/api/content/POWER7/p7hdx/"
 p7_models = ["9117_mmb","9117_mmc","9117_mmd"]
@@ -86,7 +90,15 @@ def process_link(link, parent_url):
        		print 'URL = '+full_url   
        		#print 'Parent URL = '+parent_url
        		print '\n'		
-       		html = urllib2.urlopen(full_url).read()
+       		# Open the url to get all the Sublinks
+       		try:
+       			html = urllib2.urlopen(full_url).read()
+       		except:
+       			try:
+       				sleep(0.5)
+       				html = urllib2.urlopen(full_url).read()
+       			except:
+       				return
        		soup = BeautifulSoup(html)
        		[s.extract() for s in soup(['style', 'script', '[document]', 'head', 'title', 'span','a'])]
        		visible_text = soup.getText()
@@ -96,8 +108,6 @@ def process_link(link, parent_url):
        		# Save text to the output file
        		#f1.write(title+'\n');
        		f1.write(visible_text+'\n');
-       		# Open the url again to get all the Sublinks
-       		html = urllib2.urlopen(full_url).read()
        		soup = BeautifulSoup(html)
        		# Get all the links in the page
        		links = soup.find_all('a',href=True)
@@ -107,8 +117,12 @@ def process_link(link, parent_url):
 ## search all the links for sub-links and save them
 for link in links[0:2]:
 	process_link(link, base_p7_url) 
-		
+
+# Get the end time
+t1 = time()
+	
 print('\n\n')
 print "\n\nProcessed a total of:"
 print str(count_links)+" Links"		
 print str(len(processed_urls))+" Unique Pages" 
+print "In "+str(t1-t0)+' seconds..\n'

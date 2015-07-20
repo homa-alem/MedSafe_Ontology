@@ -284,7 +284,6 @@ else:
 f2.close();
 f3.close();
 t1 = time()
-# Main code ends here
 
 print "\n\nProcessed a total of:"
 print str(len(docs))+" Reports"		
