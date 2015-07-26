@@ -67,13 +67,14 @@ if da_Vinci:
 else:
 	p7_models = ["9117_mmb","9117_mmc","9117_mmd"]
 	p7_model = p7_models[0]
-	input_file = open('./Data/POWER7_'+p7_model+'_data0.txt');
+	#input_file = open('./Data/POWER7_'+p7_model+'_data.txt');
+	input_file = open('./Data/POWER7_data_0.txt');
 	
 Out_file = './Data/n_grams.txt';
 Out_file2 = './Data/n_grams_filtered.txt';
 f2 = open(Out_file,'wb')
 f3 = open(Out_file2,'wb')
-no_chunks = 10;
+
 
 # da_Vinci data or IBM data?
 if da_Vinci:
@@ -179,8 +180,10 @@ words = words+tokens
 tags = [];
 starti = 0
 endi = 0
+no_chunks = len(tokens)/50000;
+print 'Process '+str(len(tokens))+' tokens in '+str(no_chunks)+ ' chunks..' 
 for l in range(0, no_chunks):
-	endi =  min((starti + (len(tokens)/10) ), len(tokens))
+	endi =  min((starti + (len(tokens)/no_chunks) ), len(tokens))
 	print "Tagging #" + str(l) + ": from " + str(starti)+ " to "+str(endi-1)
 	tags = tags + pos.tag(tokens[starti:endi])[0];
 	starti = endi;
