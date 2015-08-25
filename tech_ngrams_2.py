@@ -68,7 +68,7 @@ else:
 	p7_models = ["9117_mmb","9117_mmc","9117_mmd"]
 	p7_model = p7_models[0]
 	#input_file = open('./Data/POWER7_'+p7_model+'_data.txt');
-	input_file = open('./Data/POWER7_data_0.txt');
+	input_file = open('./Data/POWER7_data.txt');
 	
 Out_file = './Data/n_grams.txt';
 Out_file2 = './Data/n_grams_filtered.txt';
