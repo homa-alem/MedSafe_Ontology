@@ -2,3 +2,11 @@ Processed a total of:
 322120 Links
 63687 Unique Pages
 In 20109.347403 seconds..
+
+
+Processed a total of:
+49881 Reports
+393509 Sentences
+3068069 Words
+43238 Technical Phrases
+In 1696.28863502 seconds..
