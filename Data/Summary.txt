@@ -1,0 +1,4 @@
+Processed a total of:
+322120 Links
+63687 Unique Pages
+In 20109.347403 seconds..
