@@ -33,7 +33,7 @@ import math
 import operator
 
 # 1: da Vinci data, 0: IBM data
-da_Vinci = 0;
+da_Vinci = 1;
 
 bigram_measures = nltk.collocations.BigramAssocMeasures()
 trigram_measures = nltk.collocations.TrigramAssocMeasures()
@@ -185,7 +185,7 @@ print 'Process '+str(len(tokens))+' tokens in '+str(no_chunks)+ ' chunks..'
 for l in range(0, no_chunks):
 	endi =  min((starti + (len(tokens)/no_chunks) ), len(tokens))
 	print "Tagging #" + str(l) + ": from " + str(starti)+ " to "+str(endi-1)
-	tags = tags + pos.tag(tokens[starti:endi])[0];
+	tags = tags + pos.tag(tokens[starti:endi]);
 	starti = endi;
 	
 print "\n"+str(len(tags))+" words tagged.."
