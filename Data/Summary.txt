@@ -10,3 +10,13 @@ Processed a total of:
 3068069 Words
 43238 Technical Phrases
 In 1696.28863502 seconds..
+
+
+http://spark.apache.org/docs/latest/programming-guide.html
+
+Processed a total of:
+49881 Reports
+393509 Sentences
+3068069 Words
+43238 Technical Phrases
+In 2141.38809109 seconds..

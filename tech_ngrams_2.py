@@ -33,7 +33,7 @@ import math
 import operator
 
 # 1: da Vinci data, 0: IBM data
-da_Vinci = 1;
+da_Vinci = 0;
 
 bigram_measures = nltk.collocations.BigramAssocMeasures()
 trigram_measures = nltk.collocations.TrigramAssocMeasures()
