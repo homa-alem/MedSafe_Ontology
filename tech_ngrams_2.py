@@ -33,7 +33,7 @@ import math
 import operator
 
 # 1: da Vinci data, 0: IBM data
-da_Vinci = 0;
+da_Vinci = 1;
 
 bigram_measures = nltk.collocations.BigramAssocMeasures()
 trigram_measures = nltk.collocations.TrigramAssocMeasures()
@@ -196,7 +196,7 @@ for tag in tags:
 	if (cleanseNN([str(tag[1])]) in patterns[0:2]):
 		Tag_set[str(tag[0])] = str(tag[1])		
 	#print cleanseNN([str(tag[1])])
-#print tags
+print tags
 #print '\n'
 #print Tag_set
 
