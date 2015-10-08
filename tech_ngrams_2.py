@@ -33,7 +33,7 @@ import math
 import operator
 
 # 1: da Vinci data, 0: IBM data
-da_Vinci = 1;
+da_Vinci = 0;
 
 bigram_measures = nltk.collocations.BigramAssocMeasures()
 trigram_measures = nltk.collocations.TrigramAssocMeasures()
@@ -45,6 +45,8 @@ patterns = [['NN'],['JJ'], ['JJ', 'NN'], ['NN','NN'], ['JJ', 'JJ', 'NN'], ['JJ',
             ['NN', 'JJ', 'NN'], ['NN', 'NN', 'NN'],['NN', 'IN', 'NN'],
 			['JJ', 'JJ', 'JJ','NN'], ['JJ', 'JJ', 'NN','NN'], ['JJ', 'NN', 'NN','NN'], 
 			['NN', 'NN', 'NN','NN'],['NN','JJ', 'NN','NN'], ['NN', 'NN','JJ', 'NN']]
+non_tech_words = ['explanation','this','that','following','previous','next',
+				 'those','these','if','determination','other','additional','parent','topic','back']
 
 training_set = []
 # Input and Output files
@@ -75,7 +77,6 @@ Out_file2 = './Data/n_grams_filtered.txt';
 f2 = open(Out_file,'wb')
 f3 = open(Out_file2,'wb')
 
-
 # da_Vinci data or IBM data?
 if da_Vinci:
     start_col = 1;
@@ -100,10 +101,16 @@ def entropy_filter(phrase_list, docs, text):
 	filtered_list = {'WORD':-1};
 	for phrase in phrase_list:
 		#print phrase
-		df = sum(1 for d in docs if phrase in d);
+		for d in docs:
+			try:
+				if phrase in d:
+					df = df + 1
+			except:
+				print phrase
+		#df = sum(1 for d in docs if phrase in d);
 		IDF = math.log(len(docs)/(0.5+df))
 		# Calculate term frequency
-		tf = 0.5+text.count(phrase)
+		tf = 0.5+text.decode("utf8").count(phrase)
 		eIDF = math.log(1-math.exp((-tf)/len(docs)))	
 		RIDF[phrase] = [IDF+eIDF,tf-0.5,df]
 	RIDF.pop("WORD", None)
@@ -120,6 +127,7 @@ def entropy_filter(phrase_list, docs, text):
 	filtered_list.pop("WORD", None)
 	#print filtered_list
 	print "\nFiltered n-grams"
+
 	return filtered_list
 
 # Main code starts here
@@ -132,7 +140,7 @@ sentences = [];
 words = [];
 results = {'ngram':0};
 stops = set(stopwords.words('english'))
-
+regex = re.compile('[%s]' % re.escape('!"#$%&\'()*+,./:;<=>?@[\\]^_`{|}~'))
 
 # Get all the text
 if da_Vinci:
@@ -140,7 +148,8 @@ if da_Vinci:
 		cnt = cnt + 1
 		Text = ''
 		for i in range(start_col,end_col+1):
-			Text = Text + ' ' + line[i].rstrip('\n\r')
+			Text = Text + ' ' + line[i].rstrip('\n\r').lower()
+			Text = regex.sub(' ',Text)
 		if not (Text == ''):
 			docs.append(Text);
 			All_Text = All_Text + Text;
@@ -149,7 +158,8 @@ if da_Vinci:
 else:
 	for line in input_file:
 		cnt = cnt + 1
-		Text = line.rstrip('\n\r')
+		Text = line.rstrip('\n\r').lower()
+		Text = regex.sub(' ',Text)
 		if not (Text == ''):
 			docs.append(Text);
 			All_Text = All_Text + Text;
@@ -163,29 +173,25 @@ print str(len(docs))+" Reports"
 # Get the sentences
 Text = All_Text
 
-# Normalization and Punctuation filtering
-Text = Text.lower()
-regex = re.compile('[%s]' % re.escape('!"#$%&\'()*+,./:;<=>?@[\\]^_`{|}~-'))
-Text = regex.sub(' ',Text)
-
 # Get the words
-raw_tokens = word_tokenize(unicode(Text, errors='ignore'))
+raw_tokens = list(set(word_tokenize(unicode(Text, errors='ignore'))))
 
 # Filter English Stop words and numbers 
 #tokens= [str(t) for t in raw_tokens if str(t) not in stops and not str(t).isdigit() and len(str(t))>1]
 tokens= [str(t) for t in raw_tokens if not str(t).isdigit() and len(str(t))>1]
-words = words+tokens
-
+tokens = [t for t in tokens if t not in non_tech_words and t.isalpha()]
+print tokens
 # Part of Speech Tagging 
 tags = [];
 starti = 0
 endi = 0
-no_chunks = len(tokens)/50000;
+no_chunks = len(tokens)/5000;
 print 'Process '+str(len(tokens))+' tokens in '+str(no_chunks)+ ' chunks..' 
 for l in range(0, no_chunks):
 	endi =  min((starti + (len(tokens)/no_chunks) ), len(tokens))
 	print "Tagging #" + str(l) + ": from " + str(starti)+ " to "+str(endi-1)
-	tags = tags + pos.tag(tokens[starti:endi]);
+	#tags = tags + nltk.pos_tag(tokens[starti:endi]);
+	tags = tags + pos.tag(tokens[starti:endi])[0]; 		
 	starti = endi;
 	
 print "\n"+str(len(tags))+" words tagged.."
@@ -196,9 +202,9 @@ for tag in tags:
 	if (cleanseNN([str(tag[1])]) in patterns[0:2]):
 		Tag_set[str(tag[0])] = str(tag[1])		
 	#print cleanseNN([str(tag[1])])
-print tags
+#print tags
 #print '\n'
-#print Tag_set
+print Tag_set
 
 
 # Look for longest n-gram appearing in each sentence with the patterns of technical terms			
@@ -213,10 +219,10 @@ for s in sentences:
 	#regex = re.compile('[%s]' % re.escape('!"#$%&\'()*+/:<=>?@[\\]^_`{|}~-'))
 	#Text = regex.sub(' ',s)
     # Get the words
-	raw_tokens = word_tokenize(unicode(s, errors='ignore'))
+	words = word_tokenize(unicode(s, errors='ignore'))
 	#print raw_tokens
 	# Filter numbers 
-	words= [str(t) for t in raw_tokens if not str(t).isdigit() and len(str(t))>1]
+	#words= [str(t) for t in raw_tokens if not str(t).isdigit() and len(str(t))>1]
 	
 	#print '--->' + Text + '\n'
 	s_result = []
@@ -253,9 +259,11 @@ for s in sentences:
 print "\n"+str(len(results.keys()))+" n-grams found.."	
 print results.keys()
 
+# Write alphabetically sorted n-grams to n_grams.txt
 f2.write('Technical Phrase, Sentence Frequency\n')
-for key in results.keys():
-	f2.write(key+', '+str(results[key])+'\n')
+sorted_results = sorted(results.items(), key=operator.itemgetter(0), reverse=True)
+for key, value in sorted_results:
+	f2.write(key+', '+str(key)+'\n')
 
 # Filtering n-grams	
 filtered_result = entropy_filter(results.keys(), docs, Text)
@@ -264,7 +272,8 @@ print filtered_result
 sorted_filtered = sorted(filtered_result.items(), key=operator.itemgetter(1), reverse=True)
 n_cnt = 0;
 data_set = []
-f3.write('Technical Phrase, Document Frequency\n')
+# Write term frequency based sorted n-grams to n_grams_filtered.txt
+f3.write('Technical Phrase, Term Frequency\n')
 for key, value in sorted_filtered:
 	#print f
 	if da_Vinci:
@@ -277,7 +286,7 @@ for key, value in sorted_filtered:
 	else:
 		f3.write(key+', '+str(value)+'\n')
 		data_set.append(value)
-		n_cnt = n_cnt + 1;		
+		n_cnt = n_cnt + 1;
 
 if da_Vinci:
 	f1.close()
@@ -293,4 +302,4 @@ print str(len(docs))+" Reports"
 print str(len(sentences))+" Sentences"
 print str(len(tokens))+" Words"
 print str(n_cnt)+" Technical Phrases"
-print "In "+str(t1-t0)+' seconds..\n'
+print "In "+str((t1-t0)/60)+' minutes..\n'

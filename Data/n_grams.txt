@@ -1,2 +1,0 @@
-Technical Phrase, Sentence Frequency
-ngram, 0
