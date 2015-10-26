@@ -8,7 +8,7 @@ It is partly adapted based on the techniques proposed for extracting domain-spec
   Trouble Tickets,” in NSDI, 2013.
 - T. Mohamed, E.R. Hruschka, T.M. Mitchell: Discovering Relations between Noun Categories, EMNLP, pp. 1447-1455, 2011.
 
-Copyright (C) 2015 University of Illinois Board of Trustees, DEPEND Research Group, Homa Alemzadeh
+Copyright (C) 2015 University of Illinois Board of Trustees, DEPEND Research Group, Homa Alemzadeh and Raymond Hoagland
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
