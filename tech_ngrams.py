@@ -20,6 +20,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 import nltk
 from nltk.collocations import *
 from nltk.tokenize import word_tokenize
+from nltk.tokenize import sent_tokenize
 from nltk.stem.wordnet import WordNetLemmatizer
 from nltk.corpus import stopwords
 from nltk import bigrams

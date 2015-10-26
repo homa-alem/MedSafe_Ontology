@@ -33,7 +33,7 @@ import math
 import operator
 
 # 1: da Vinci data, 0: IBM data
-da_Vinci = 0;
+da_Vinci = 1;
 
 bigram_measures = nltk.collocations.BigramAssocMeasures()
 trigram_measures = nltk.collocations.TrigramAssocMeasures()
@@ -41,28 +41,34 @@ pos = POSTagger('./stanford-postagger-2013-06-20/models/english-left3words-dists
                 './stanford-postagger-2013-06-20/stanford-postagger.jar')
 
 # N-gram patterns for technical terms
-patterns = [['NN'],['JJ'], ['JJ', 'NN'], ['NN','NN'], ['JJ', 'JJ', 'NN'], ['JJ', 'NN', 'NN'], 
-            ['NN', 'JJ', 'NN'], ['NN', 'NN', 'NN'],['NN', 'IN', 'NN'],
-			['JJ', 'JJ', 'JJ','NN'], ['JJ', 'JJ', 'NN','NN'], ['JJ', 'NN', 'NN','NN'], 
+patterns = [['NN'],['JJ'], ['JJ','JJ'],['JJ', 'NN'], ['NN','NN'], ['JJ', 'JJ', 'NN'], ['JJ', 'NN', 'NN'], 
+            ['NN', 'JJ', 'NN'], ['NN', 'NN', 'NN'],['NN', 'IN', 'NN'],['JJ','JJ','JJ'],
+			['JJ', 'JJ', 'JJ','NN'], ['JJ', 'JJ', 'NN','NN'], ['JJ', 'NN', 'NN','NN'],['JJ', 'NN', 'JJ','NN'],['NN', 'JJ', 'JJ','NN'], 
 			['NN', 'NN', 'NN','NN'],['NN','JJ', 'NN','NN'], ['NN', 'NN','JJ', 'NN']]
 non_tech_words = ['explanation','this','that','following','previous','next',
 				 'those','these','if','determination','other','additional','parent','topic','back']
 
-training_set = []
+device_train_set = []
+operator_train_set = []
 # Input and Output files
 if da_Vinci:
 	CSV_In = './Data/davinci.csv'
 	# Training data (seeds)
 	CSV_In2 = './Data/Instruments.csv'
+	CSV_In3 = './Data/Operators.csv'
 	f1 = open(CSV_In, 'rU')
-	f1t = open(CSV_In2, 'rU')	
+	f1t = open(CSV_In2, 'rU')
+	f2t = open(CSV_In3, 'rU')	
 	csv_rd = csv.reader(f1, dialect='excel', delimiter=',')
-	csv_rdt = csv.reader(f1t, dialect='excel', delimiter=',')
+	csv_rdt1 = csv.reader(f1t, dialect='excel', delimiter=',')
+	csv_rdt2 = csv.reader(f2t, dialect='excel', delimiter=',')
 	# Skip headers 
 	csv_rdt.next();
 	# Get all the training phrases
-	for line in csv_rdt:
-		training_set.append(line[0])
+	for line in csv_rdt1:
+		device_train_set.append(line[0])
+	for line in csv_rdt2:
+		operator_train_set.append(line[0])
 	# Skip headers 
 	csv_rd.next();
 	csv_rd.next();
@@ -74,8 +80,10 @@ else:
 	
 Out_file = './Data/n_grams.txt';
 Out_file2 = './Data/n_grams_filtered.txt';
+Out_file3 = './Data/operators.txt';
 f2 = open(Out_file,'wb')
 f3 = open(Out_file2,'wb')
+f4 = open(Out_file3,'wb')
 
 # da_Vinci data or IBM data?
 if da_Vinci:
@@ -99,14 +107,17 @@ def entropy_filter(phrase_list, docs, text):
     # Dictionary of n-grams with their RIDFs and TFs
 	RIDF = {'WORD': [0,0,0]};
 	filtered_list = {'WORD':-1};
+	df = 0;
 	for phrase in phrase_list:
 		#print phrase
-		for d in docs:
-			try:
+		try:
+			for d in docs:
 				if phrase in d:
-					df = df + 1
-			except:
-				print phrase
+					df = df+1;	
+		except:
+			print 'WORD = '+phrase
+			print 'DOC = '+d
+			
 		#df = sum(1 for d in docs if phrase in d);
 		IDF = math.log(len(docs)/(0.5+df))
 		# Calculate term frequency
@@ -127,7 +138,6 @@ def entropy_filter(phrase_list, docs, text):
 	filtered_list.pop("WORD", None)
 	#print filtered_list
 	print "\nFiltered n-grams"
-
 	return filtered_list
 
 # Main code starts here
@@ -138,7 +148,6 @@ docs = [];
 All_Text = '';
 sentences = [];
 words = [];
-results = {'ngram':0};
 stops = set(stopwords.words('english'))
 regex = re.compile('[%s]' % re.escape('!"#$%&\'()*+,./:;<=>?@[\\]^_`{|}~'))
 
@@ -149,9 +158,8 @@ if da_Vinci:
 		Text = ''
 		for i in range(start_col,end_col+1):
 			Text = Text + ' ' + line[i].rstrip('\n\r').lower()
-			Text = regex.sub(' ',Text)
 		if not (Text == ''):
-			docs.append(Text);
+			docs.append(regex.sub(' ',Text));
 			All_Text = All_Text + Text;
 		#if (cnt == 10):
 		#	break;
@@ -159,9 +167,8 @@ else:
 	for line in input_file:
 		cnt = cnt + 1
 		Text = line.rstrip('\n\r').lower()
-		Text = regex.sub(' ',Text)
 		if not (Text == ''):
-			docs.append(Text);
+			docs.append(regex.sub(' ',Text));
 			All_Text = All_Text + Text;
 		#if (cnt == 10):
 		#	break;
@@ -171,7 +178,7 @@ print str(len(docs))+" Reports"
 #print All_Text;
 
 # Get the sentences
-Text = All_Text
+Text = regex.sub(' ',All_Text)
 
 # Get the words
 raw_tokens = list(set(word_tokenize(unicode(Text, errors='ignore'))))
@@ -206,64 +213,67 @@ for tag in tags:
 #print '\n'
 print Tag_set
 
-
 # Look for longest n-gram appearing in each sentence with the patterns of technical terms			
 # Normalization and Punctuation filtering=> keep sentence separators
 Text = All_Text.lower()
-sentences = re.split('[;,.:]', Text)
+sentences = re.split('\.(?!\d)', Text)
 #print sentences
+results = {'ngram':'tags'};
 n_gram = []
 tags = []
 n_gram_str = ''
+tag_str = ''
+#sentences = ['the pulley still rotated freely and the grip cables were not affected by the damaged pulley']
 for s in sentences:
-	#regex = re.compile('[%s]' % re.escape('!"#$%&\'()*+/:<=>?@[\\]^_`{|}~-'))
-	#Text = regex.sub(' ',s)
+	regex = re.compile('[%s]' % re.escape('!"#$%&\'()*+/:<=>?@[\\]^_`{|}~-'))
+	Text = regex.sub(' ',s)
     # Get the words
 	words = word_tokenize(unicode(s, errors='ignore'))
-	#print raw_tokens
+	w_i = -1;
 	# Filter numbers 
 	#words= [str(t) for t in raw_tokens if not str(t).isdigit() and len(str(t))>1]
 	
 	#print '--->' + Text + '\n'
 	s_result = []
 	for w in words:
+		w_i = w_i + 1;
 		if (Tag_set.has_key(w)):
 			n_gram.append(w)
 			tags.append(Tag_set[w])
 			#print "n-gram = "+n_gram[-1]
+		#print w+'-'+str(words.index(w))
 		# If this is the last word in the list or a non-NJ word, we finalize the n-gram
-		if not(Tag_set.has_key(w)) or (words.index(w) == len(words)-1):
+		if not(Tag_set.has_key(w)) or (w_i == len(words)-1):
 			# Only if we found something
 			if (len(n_gram) > 1):
 				#print "long n-gram = "+n_gram[0]
 				# If the pattern of tags is of interest, save it
 				if (cleanseNN(tags) in patterns):
-					for n in n_gram:
-					    if (n_gram_str == ''):
-					    	n_gram_str = n
-					    else:
-							n_gram_str = n_gram_str + ' ' + n 
-					if not(n_gram_str in s_result):
+					n_gram_str = ' '.join(n_gram)
+					tag_str = ', '.join(tags)
+					if not(n_gram_str in s_result) :
 					    s_result.append(n_gram_str)
 						#print n_gram_str
-					#print '===' + n_gram_str + '\n'
-			for n in s_result:
-				if (results.has_key(n)):
-					results[n] = results[n]+1
-				else:						
-					results[n] = 1
+			
+			if (n_gram_str in Text):
+				if not(results.has_key(n_gram_str)):
+					results[n_gram_str] = tag_str
+			else:
+				print 'ngram not found in text: '+n_gram_str
 			# Restart searching for next n-gram
 			n_gram = []
 			tags = []
 			n_gram_str = ''
+			tag_str = ''
+
 print "\n"+str(len(results.keys()))+" n-grams found.."	
 print results.keys()
 
 # Write alphabetically sorted n-grams to n_grams.txt
-f2.write('Technical Phrase, Sentence Frequency\n')
+f2.write('Technical Phrase, Parts of Speech Tags\n')
 sorted_results = sorted(results.items(), key=operator.itemgetter(0), reverse=True)
 for key, value in sorted_results:
-	f2.write(key+', '+str(key)+'\n')
+	f2.write(key+', '+str(value)+'\n')
 
 # Filtering n-grams	
 filtered_result = entropy_filter(results.keys(), docs, Text)
@@ -277,11 +287,16 @@ f3.write('Technical Phrase, Term Frequency\n')
 for key, value in sorted_filtered:
 	#print f
 	if da_Vinci:
-		for t in training_set[0:50]:
+		for t in device_train_set:
 			if (t in key):
 				f3.write(key+', '+str(value)+'\n')
 				data_set.append(value)
 				n_cnt = n_cnt + 1;
+				break;
+		for t in operator_train_set:
+			if (t in key):
+				f4.write(key+', '+str(value)+'\n')
+				data_set.append(value)
 				break;
 	else:
 		f3.write(key+', '+str(value)+'\n')
@@ -291,10 +306,12 @@ for key, value in sorted_filtered:
 if da_Vinci:
 	f1.close()
 	f1t.close()
+	f2t.close()
 else:
 	input_file.close()
 f2.close();
 f3.close();
+f4.close();
 t1 = time()
 
 print "\n\nProcessed a total of:"

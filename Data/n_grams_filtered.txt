@@ -1,0 +1,2452 @@
+Technical Phrase, Term Frequency
+cautery dissection, -9.96775268835
+flat flex cable, -9.97289721377
+distal hub, -9.97299050606
+trocar mound, -9.97355007707
+cable piece, -9.97410933513
+insulation segment, -9.97420251441
+upper left pin, -9.9766221331
+conductor wire interface, -9.99175087514
+multiple uterine leiomyoma, -9.99339749308
+maint tube, -9.9934888924
+same loose cable, -9.99795725658
+intuitive surgical endowrist instrument, -10.0021339549
+cable sheath, -10.0028585598
+instrument cautery piece, -10.0036731132
+mega suturecut needle instrument, -10.0065639413
+vessel seal instrument, -10.0084565158
+rectangular tube, -10.0089965941
+fenestrated bipolar forcep, -10.0782623943
+crooked bipolar connector pin, -10.0785142623
+applicable staff, -10.0790178081
+right distal ureter, -10.0796888083
+camera head sterile adaptor, -10.0822010568
+high gripping, -10.0823683159
+suspension arm, -10.0867072605
+broken angulation wire, -10.0868737676
+permanent cautery hook, -10.1161597585
+defective cable, -10.1197105834
+power cable, -10.1216420958
+psmc component, -10.1223654522
+unbroken wire, -10.1236501286
+distal area, -10.1285328726
+monopolar cautery foot pedal, -10.1297299041
+internal electrical cable harness, -10.1310051603
+broken composite video cable, -10.131562574
+instrument grip base, -10.1318013704
+permenant cautery hook instrument, -10.1320401099
+mega suture cut instrument, -10.1321992379
+trocar injury, -10.1325969471
+dull blade, -10.1333124253
+small insulation failure, -10.1334713509
+patient recovery information, -10.1383064903
+surgeon side cart cable, -10.1390178966
+green arm surgeon, -10.1391759182
+blade break, -10.1394129037
+multiple instrument installation, -10.1398077548
+pot cable, -10.1409125093
+instrument ear, -10.1428822547
+visible wire, -10.149785055
+outer tube surface, -10.1505664576
+severe instrument collision, -10.1509569301
+component failure, -10.1511130764
+small plastic piece, -10.1515813691
+instrument surface, -10.1558638642
+cap coupling tube, -10.156252274
+multiple dense, -10.1564852476
+mtmr arm, -10.1574941728
+intact grip, -10.1646053138
+wireless microphone, -10.1647593436
+thick vinyl insulation, -10.1648363496
+black tube insulation damage, -10.1652982612
+main tube damage, -10.1909056174
+metal spatula, -10.1912806549
+new disposable cautery, -10.193527931
+instrument axis, -10.1964418602
+monopolar cautery instrument coating, -10.2048371547
+yaw pulley grip base, -10.2462138727
+harmonic scalpel machine, -10.2462848551
+broken distal clevis pin, -10.2467815908
+broken hook, -10.2486952635
+gastric tube placement, -10.2488368715
+replacement camera head, -10.2506759524
+paddle blade, -10.2513117702
+cautery hook instrument accessory, -10.2513823917
+large needle driver, -10.2740051055
+blade breakage, -10.2744882639
+vision cable, -10.2761430373
+undetermined amount, -10.2768317188
+isi field device engineering, -10.2770382309
+recoverable system error code, -10.2853321985
+device operator service, -10.2918639448
+touchscreen monitor issue, -10.292609657
+complaint wire, -10.2934902369
+main link tube, -10.293896397
+black fragment, -10.2972072108
+sheath coating, -10.3008432112
+broken proximal clevis piece, -10.3011120193
+dark tube reinforcement ring, -10.3023207627
+fenestration blade portion, -10.3025891741
+heavy needle driver articulink, -10.3027904353
+instrument energy cable, -10.3037961344
+instrument insert, -10.3139969029
+positioner cable, -10.3142621988
+surgical thoracic grasper instrument, -10.3147925797
+grip axis bearing, -10.3153226795
+recoverable system error, -10.3220569339
+instrument head, -10.3223858813
+round cautery, -10.3238319656
+distal idler hub, -10.3253415485
+replacement energy cable, -10.3254071309
+main tube scratch, -10.3357803971
+located surgical instrument, -10.3362346182
+multiple organ failure, -10.34089467
+single use disposable accessory, -10.3419917982
+plastic piece, -10.3457259084
+bovie cautery unit, -10.350342041
+percutaneous nephrostomy tube, -10.3511732431
+lumbar spine, -10.3512371531
+instrument sterilization, -10.3517482862
+main tube wall, -10.3519398938
+cautery cable stud, -10.3520037549
+arm assembly, -10.3528335775
+same instrument, -10.3637484302
+instrument chase, -10.3638115416
+retractor tool, -10.3639377525
+blue vision cable, -10.3640639474
+connected instrument, -10.3642532099
+bilateral salpingo oophorectomy, -10.3648838263
+broken wire issue, -10.3693498043
+white insulation, -10.3695380691
+excess cable slack, -10.3697262985
+bladeless endopath xcel trocar, -10.372420367
+non recoverable safe state, -10.3727957071
+electrocautery hook, -10.3728582501
+suprapubic tube, -10.3741082893
+flank piece, -10.3746702976
+entire arm, -10.3759180751
+percutaneous left nephrostomy tube, -10.3764167506
+needle driver, -10.4600650488
+cable friction, -10.460695349
+multiple system error, -10.4690805445
+conductor wire hole, -10.4697051896
+small black piece, -10.4704996286
+side grip alignment, -10.4710100062
+new design grip, -10.4718034097
+laboratory device, -10.47372763
+coag cautery, -10.4767197849
+applicable surgical staff, -10.4768325213
+robotic bowel grasper, -10.4793095119
+time monopolar scissor, -10.4794219567
+cautery injury, -10.4804895525
+head nurse, -10.4805457102
+bipolar cautery activation, -10.4812754733
+megasuturecut needledriver instrument, -10.4875964654
+dirty vessel seal instrument, -10.4892122447
+cable groove, -10.4906586581
+mbf instrument, -10.4913255286
+new cable, -10.4916032601
+instrument sterilization process, -10.4916587971
+metallic fragment, -10.4933789174
+endowrist bipolar maryland instrument, -10.4934343559
+snake instrument wrist, -10.4934897914
+specific arm, -10.5288878621
+ventilation tube, -10.5289948684
+distal clevis breakage, -10.530331481
+monopolar spatula instrument, -10.5308656263
+damaged distal, -10.5313461132
+moderate amount, -10.5328394866
+instrument arm clutch button, -10.5329460709
+quick recovery, -10.5621444588
+distal clevis idler, -10.5625584196
+distal point, -10.563282439
+external monitor, -10.5711609556
+scissor piece, -10.5712635328
+flush tube inner surface, -10.5713148175
+medical device field action, -10.5724936398
+system camera cable, -10.5739268548
+multiple deep scratch, -10.5751026039
+nephrostom tube, -10.5786215794
+endoscopic camera arm, -10.5789269928
+pt harm, -10.6309389133
+gastrostomy tube, -10.6351335099
+accessory package, -10.6353259425
+left ureter cautery injury, -10.6359030182
+harmonic insert jaw, -10.6380161178
+blade issue, -10.6383039221
+left master arm, -10.6383518814
+mm cautery hook accessory, -10.6386875323
+introducer instrument, -10.6387354733
+complaint cable, -10.638927214
+spare camera cable, -10.6390230706
+device evaluation, -10.6395980173
+blade garage, -10.6396459146
+robotic monopolar cautery instrument, -10.6398374809
+harmonic instrument, -10.6402205035
+bullet nose dissector instrument, -10.6403162362
+bowel grasper instrument coating, -10.6404598181
+insulation defect, -10.6405076741
+broken conductor wire segment, -10.6405555279
+backup energy control cable, -10.6406512285
+black rubber sheath, -10.64074692
+side opposite conductor wire, -10.6423722759
+instrument input, -10.6424678029
+steel wire, -10.6428020754
+poor conductor wire continuity, -10.6429453008
+maryland bipolar instrument autofiring, -10.6434225708
+cautery spatula accessory, -10.6447100633
+wire protrusion, -10.6462814173
+protractor instrument, -10.6463765716
+instrument accessory, -10.649084669
+robotic spatula instrument, -10.7342221431
+shertel grasper instrument, -10.7342657161
+touchscreen display, -10.7343528563
+pull blade, -10.7348755386
+conductor cable connection point, -10.7349190831
+second broken piece, -10.7350932422
+great amount, -10.7351803104
+left salpingectomy, -10.7353108985
+cable fray, -10.7371807895
+scissor blade, -10.741213053
+urgent medical device notification, -10.74129959
+various cautery, -10.7416024106
+insulation sheath, -10.7417321627
+grey piece, -10.7419051395
+bipolar energy activation cable, -10.7420348524
+control instrument, -10.7423806712
+scalpel instrument, -10.7434605849
+fiber optic cable, -10.7438059111
+forcep cable, -10.746521196
+main tube shaft, -10.7481983993
+grip blade, -10.7496582849
+monopolar cautery instrument hit, -10.7500014779
+bowel grasper instrument cable, -10.7517584957
+pt side cart monitor, -10.7518013113
+complaint instrument, -10.7520153615
+heavy cautery use, -10.7546230921
+grey wire, -10.7553059628
+same blade, -10.7553486267
+second arm, -10.7567555164
+minimal amount, -10.7570962827
+spatula movement, -10.8159343491
+large suturecut needle driver, -10.8205415445
+recoverable error, -10.8221390846
+hook base, -10.8223385978
+black insulation, -10.8238137596
+broken wire segment, -10.8240129389
+robotic device, -10.8256844813
+bipolar dissector instrument, -10.8265589373
+instrument detection, -10.826916449
+megasuturecurt needle driver instrument, -10.8269958787
+permanent hook instument, -10.8277104622
+insulation piece white piece, -10.8281865677
+tube interface, -10.8343553992
+black tube, -10.8393887359
+accessory insulation, -10.8406039458
+tube longitudinal axis, -10.8416220166
+adjacent pin, -10.8465411154
+robotic monopolar scissor, -10.8466190015
+instrument plastic part, -10.8468526236
+arm numbness, -10.8501952235
+multiple hairline, -10.8508158717
+suj wire harness assembly, -10.85190108
+multiple severe, -10.8519398157
+broken pin, -10.8530238057
+instrument cut, -10.8534106603
+wire breakage, -10.8537587016
+maryland grasper, -10.8537973654
+bipolar cable, -10.8544157827
+device single use, -10.9592332711
+microjoint micro needle driver, -10.959337648
+patient harm, -11.1593122918
+reinforcement tube extension, -11.1599672266
+harmonic cautery activation, -11.1600241572
+spine surgery, -11.1600810846
+cautery seal, -11.160109547
+maryland instrument, -11.1602518472
+maryland dissector instrument, -11.1619010506
+isi scalpel cautery instrument, -11.162213524
+reusable instrument, -11.1624123199
+large amount, -11.1634340748
+instrument recognition test, -11.1636042659
+maximum cautery, -11.1686401358
+applier groove, -11.1700219747
+new blade, -11.1710922918
+proper cautery functionality, -11.1784128866
+spinal cord show, -11.1788040519
+scalpel electrocautery, -11.1805624045
+insulation break, -11.1808133455
+damage insulation, -11.181092095
+fractured grip, -11.1813429032
+broken instrument fragment, -11.1817050706
+cystic right salpingo oophorectomy, -11.1823176707
+dual blade retractor instrument, -11.1824846784
+distal wrist, -11.1825125103
+same grip, -11.1837641445
+instrument insertion, -11.1838753251
+instrument grey wire, -11.1839309108
+instrument movement, -11.1841254363
+gauge pin, -11.1843199239
+atrium retraction instrument, -11.1856802795
+conductor wire installation, -11.1860686129
+fragment retrieval, -11.1861795376
+initial needle count, -11.1866231133
+broken spatula piece, -11.1866508303
+surgeon head, -11.1867339766
+cable issue, -11.189916049
+megasuturcut needle driver instrument, -11.1901094138
+left percutaneous nephrostomy tube, -11.190164654
+main insulation tube interface, -11.1902751253
+multiple deep, -11.1908272988
+distal esophagus, -11.1929227819
+instrument information system fund, -11.1929503248
+initial camera cable, -11.1932807804
+functional cautery test, -11.1936111269
+cable hook, -11.1937762592
+balloon port accessory, -11.198498494
+distal idler, -11.228421944
+electrocautery head, -11.2284751079
+mega needle, -11.2341473781
+instrument programming chip, -11.2341738086
+mega suturecut needle driver, -11.2449257524
+tube length, -11.245370162
+distal articulation, -11.2468588016
+green cable, -11.2470153717
+broken needle driver cable, -11.2470675562
+insulation failure, -11.2499335223
+possible instrument, -11.2500635985
+grip base, -11.252946942
+energy instrument, -11.2535692761
+yellow distal portion, -11.2539321255
+tenaculum instrument, -11.2546574296
+blade material, -11.2547610015
+long trocar, -11.255071653
+replacement single hook cautery, -11.257863182
+instrument driver, -11.2579148035
+grip movement, -11.2579664224
+right side hrsv monitor, -11.258095458
+wide angle camera head, -11.25850826
+tissue fragment, -11.2593591264
+single site hook cautery, -11.2608528364
+shear insert accessory, -11.2652950057
+distal clevis ear, -11.2669077854
+damaged cable, -11.2690796441
+mega needle holder, -11.2691306899
+vision cable fiber contact, -11.2708392202
+instrument orange cap, -11.2710685021
+broken scissor blade complaint, -11.2718069417
+ligasure device, -11.2721886794
+noticed cable, -11.2725448364
+instrument grip surface, -11.2725957057
+scissor instrument, -11.2748313938
+camera cable, -11.2787318609
+suturecut needle driver instrument, -11.2947556748
+mtml grip, -11.2950541488
+cautery activation, -11.2958247947
+grip fracture, -11.2962223152
+broken insert accessory piece, -11.2964706853
+instrument loose cable, -11.2964955189
+instrument knife blade, -11.296570016
+instrument bipolar cable, -11.2969672404
+emergency grip release, -11.2971657935
+internal roll pulley tube, -11.2974139294
+making cautery, -11.2975875878
+retraction device, -11.2979348144
+multiple intestinal, -11.2979596117
+broken ceramic piece, -11.2981579678
+bent connector pin, -11.3000898809
+broken main tube, -11.3003620301
+diameter piece, -11.3007824787
+blue energy cable, -11.3009061065
+many cable, -11.3009555533
+scissor endowrist, -11.3013016125
+instrument proximal clevis ear, -11.3014004646
+camera head lense, -11.339702142
+instrument tool exchange, -11.3412231091
+cautery connection, -11.341270602
+tube extension connection point, -11.3412943477
+open instrument, -11.3417216727
+grip open cable derailment, -11.3422437111
+replacement harmonic ace insert, -11.3423860379
+small pinhole, -11.3629048754
+mega suture needle driver, -11.3630675262
+device assembly, -11.3630907598
+bowel instrument, -11.3632766097
+third arm, -11.3635088735
+subject instrument, -11.363671426
+scissor grasper, -11.3643677806
+improper scissor, -11.3645765925
+second permanent hook instrument, -11.3646693837
+fractured blade, -11.3647853607
+bipolar cautery, -11.3652723173
+accessory breakage, -11.3728474987
+robotic grasper, -11.3734455229
+cautery machine, -11.3735374949
+permanent cautery hook instrment, -11.3735604866
+silver metallic piece, -11.373652448
+hot shear instrument, -11.3756964053
+main tube interface, -11.3789717925
+bipolar cable connector, -11.3793147437
+instrument pogo, -11.3794290346
+pin connector, -11.3795204579
+right monitor, -11.3798403739
+instrument energy, -11.3802972191
+instrument interface, -11.4025871081
+system alarm, -11.4103513296
+instrument sterile adapter, -11.4121889956
+harmonic device, -11.4122111155
+axis pin, -11.4134269615
+instrument teflon, -11.4135374197
+bottom piece, -11.4139349681
+damaged component, -11.4140012108
+conductor wire, -11.4250681529
+instrument fall, -11.4251336623
+large suturecut needledriver instrument, -11.4253956567
+bipolar pin, -11.4288606183
+separated component, -11.4299042895
+double insulation, -11.4299694828
+scissor function, -11.430251938
+reportedthe spatula blade, -11.4303171087
+distal insulation, -11.432790451
+fenestrated bipolar instrument, -11.4338733233
+wire segment, -11.4342845075
+unintentional superficial cautery injury, -11.4344359538
+head doctor, -11.4346090073
+multiple power, -11.4346955228
+instrument release, -11.4348036566
+small round plastic piece, -11.4350198892
+banana pin, -11.4380422461
+instrument blade damage, -11.4380638015
+multiple ct, -11.4383224306
+known patient harm, -11.4385594485
+retractor cable, -11.4396145735
+loose cable, -11.4403890585
+broken component, -11.4406040868
+fractured wire, -11.4406255871
+maximum monopolar cautery, -11.4407115837
+setup joint cable harness, -11.4407975728
+broken grip piece, -11.440819069
+remote arm controller board, -11.4409910214
+arm attachment, -11.4411629442
+scissor instrument version, -11.4412488946
+yellow piece, -11.4416785355
+device usage, -11.4426016389
+richardson retractor, -11.4446380375
+outer tube, -11.4481864525
+right instrument, -11.4489330077
+instrument making, -11.4492954192
+grip input, -11.4495724689
+tungstent cable, -11.4496576995
+cable location, -11.4502966976
+arm pin area, -11.4503392829
+left instrument arm, -11.4508076022
+main tube scratch issue, -11.4515309372
+left distal ureteral injury, -11.4515522039
+visible broken cable, -11.4516160011
+distal part, -11.4517648454
+lab instrument, -11.4517861071
+bowel grasper, -11.4529760395
+first camera head, -11.4530185109
+distal ureteric leakage, -11.4534431259
+cm metalic piece, -11.4540584974
+instrument distal clevis ear, -11.4545038751
+instrument insulation, -11.455330479
+spatula shaft, -11.455881169
+change new instrument, -11.4560717218
+robotic harmonic scalpel metal, -11.456114062
+grip broken surface, -11.4564950426
+second cable, -11.4567066358
+dissector malfunction, -11.456748949
+endoscopic instrument control system, -11.4577639307
+incorrect instrument count, -11.4577850652
+braided wire cable, -11.4578061992
+main tube peak feature, -11.4580809013
+metal tube reinforcement feature, -11.4583344054
+arm swap function, -11.4594743796
+blue valley lab cable, -11.4597486239
+melted insulation, -11.4603390484
+unpowered arm, -11.4604233664
+noticed tube damage, -11.4604444447
+electrocautery function, -11.4606341301
+replacement cable, -11.4608027091
+prograsp instrument, -11.4630547252
+electrocautery probe, -11.4631388145
+obvious patient harm, -11.4634330712
+multiple damage, -11.4635801672
+error message arm, -11.4641053331
+protective sheath, -11.4642943254
+tube extension connection, -11.4643363188
+idler pulley spin, -11.4694045517
+arm hinge, -11.4696343167
+instrument cautery flow, -11.4701980617
+significant amount, -11.4706363103
+endowrist grasper, -11.4707197645
+endowrist prograsp instrument, -11.4723665588
+energy activation cable, -11.4726164677
+tube abrasion, -11.5125189062
+black wire, -11.5127989875
+instrument introducer, -11.5134188883
+zeus instrument control system, -11.5136187744
+instrument arm, -11.5178867878
+check device, -11.5200338418
+distal side, -11.5211849896
+broken steel wire, -11.5213634973
+blade area, -11.5215023146
+aka cable, -11.5217204171
+harmonic ace insert, -11.5223150005
+singlesite monopolar cautery instrument, -11.5265461372
+trocar port incision location, -11.526920935
+permanent harm, -11.5269603793
+distal clevis post, -11.5288125053
+instrument cautery hook, -11.5295799349
+megasuture needle driver instrument, -11.5295996048
+robotic spatula, -11.5323299685
+blade wrench, -11.5328006444
+excessive amount, -11.5331143053
+broken cable segment, -11.5358937432
+instrument model, -11.5359523805
+further patient harm, -11.5360305582
+degree blade, -11.5366557597
+grip strength, -11.536987739
+loose system cable, -11.5370267882
+energy cable, -11.5375538026
+system camera head, -11.5383145556
+bent bipolar pin, -11.5390942143
+grip hub breakage location, -11.5391526642
+mm robotic sheath, -11.5399122023
+monitoring sensor, -11.5400679337
+art medical device, -11.5401263267
+trocar placement, -11.5401847163
+response forcover, -11.5403987824
+electrocautery cable, -11.5794013124
+grip piece, -11.57943874
+antipruritic medication, -11.5794574533
+scissor wrist instrument, -11.5797942323
+assistant monitor, -11.5883810938
+uncommanded cautery activation, -11.5971706547
+uninstalled multiple, -11.5972809559
+spatula installation, -11.5972993383
+damaged pin, -11.5973177203
+prograsp instrument malfunction, -11.597336102
+distal inner diameter, -11.5974463849
+instrument electrical conductor, -11.5986403382
+instrument processing, -11.5986586956
+metal pin, -11.5987137657
+robotic percision bipolar instrument, -11.5987321217
+complaint loose wire, -11.5987871878
+uncomplicated recovery, -11.5990624727
+instrument fragmentation, -11.5993560265
+damage main tube, -11.599961209
+permanent cauter spatula instrument, -11.6001078648
+metal hook, -11.6120610332
+right salpingo oophorectomy, -11.6124413302
+pin holding, -11.6128395815
+conductor wire insulation, -11.613382396
+distal right ureter injury, -11.6134366613
+pivot pin, -11.6135994394
+multiple da, -11.6138887572
+pk instrument, -11.6147381446
+mm cautery spatula, -11.6147923364
+inch long piece, -11.6151535395
+instrument chassis, -11.6153160384
+permanent hook cautery instrument, -11.6156229087
+several recoverable system, -11.6497936464
+mtmr spring guide component, -11.6500203682
+broken carbide piece, -11.6502470386
+instrument main tube insulation, -11.6503342059
+cautery blade, -11.6511532067
+apparent harm, -11.6512054606
+miswired cable, -11.651240295
+touchscreen failure mode, -11.6535019325
+third instrument, -11.653536687
+dorsal supine position, -11.6535540638
+cautery conductor wire, -11.6553769494
+microjoint heavy needle driver, -11.6560011745
+sharp scissor technique, -11.6560358423
+bipolar accessory, -11.6561571699
+spatula shank, -11.6562611534
+right distal injury, -11.656313141
+unrecoverable system error, -11.6564517616
+unspecified laparoscopic instrument, -11.6580791153
+fenestrated grasper, -11.659531109
+audible alarm, -11.659582927
+traditional laparoscopic instrumentation, -11.6596865548
+conductor wire segment, -11.6610499874
+rep instrument, -11.6612051973
+inner tube, -11.6613086572
+bilateral salpingectomy, -11.6617396248
+instrument inspection, -11.6620498065
+fenestrated grasper articulink, -11.6620842652
+pathway device, -11.6621014941
+device model, -11.6622048613
+instrument damage, -11.6647340255
+base grip, -11.6648371209
+patient arm position, -11.6648886646
+broken cautery connector, -11.6649058453
+multiple subserosal, -11.6649402057
+broken jaw piece, -11.6649745649
+bare grip, -11.665008923
+psc touchscreen monitor, -11.6658159978
+left side monitor, -11.6659876319
+multiple painful, -11.6660905982
+instrument intuitive motion, -11.6662107121
+main cable harness, -11.6723345242
+tube extension pad printing, -11.6724709417
+direct entry trocar injury, -11.6729141702
+third driver, -11.6729823417
+extension main tube, -11.6730164257
+forcep material, -11.6745319904
+monopolar cautery instrument lock, -11.6747531728
+blue blade accessory, -11.6755014277
+endo wrist instrument, -11.6756204166
+electrical wire, -11.6756884039
+actual device, -11.6760452615
+outer grip close cable, -11.6812476932
+premature blade failure, -11.6821430996
+intuitive surgical instrument, -11.6824976616
+unspecified instrument, -11.6827002121
+instrument control box, -11.6828352229
+prograsp forcep instrument, -11.6829364691
+schertel grasper instrument, -11.6831895397
+tongue retractor, -11.6988059652
+tube abrasion damage, -11.6990550519
+scalpel hook, -11.6991546692
+left distal ureter, -11.6994036691
+loose pin, -11.6995032517
+intuitive mega suturecut driver, -11.6995530392
+distal clevis socket, -11.6996194188
+multiple bowel, -11.7000341914
+psm arm, -11.7007140461
+main tube reinforcement, -11.7009129406
+instrument gooseneck, -11.7014265683
+assistant instrument, -11.7014596965
+cable strand, -11.7028666321
+cable failure, -11.703742897
+video cable, -11.703974235
+left monitor, -11.7045028068
+laparoscopic instrument, -11.7047339692
+light amount, -11.7066143045
+monopolar cautery, -11.7088528965
+distal hermetic, -11.7089351022
+repairable piece, -11.7089515426
+fiber cable, -11.7094281948
+grasper instrument, -11.7141168433
+accessory collision, -11.7141659086
+modest amount, -11.7145256473
+loop wire, -11.7145910405
+cautery effect, -11.7147708495
+grip shank, -11.7218232257
+harness cable, -11.7220179661
+clear plastic insulation, -11.7220341928
+footswitch cable, -11.722147772
+cut cable, -11.7222288921
+shaped piece, -11.7224073332
+distal scissor, -11.7241090337
+occulator device, -11.7241252264
+irrigated multiple, -11.7241738031
+small dark piece, -11.7241899948
+distal left ureteral stricture, -11.7244652138
+medical device regulatory agency, -11.7247889039
+harmonic generator, -11.7253065901
+emergency grip release mechanism, -11.7253227635
+left instrument port, -11.7254521411
+revocable fault, -11.7255168237
+yaw pulley cable, -11.7265996346
+instrument fragment, -11.728326472
+undocked arm, -11.7283587209
+incorrect headset, -11.728374845
+pt side manipulator arm, -11.7286650342
+rear grip input, -11.7289873679
+replacement monopolar cautery instrument, -11.7291323842
+double fenestrated bipolar instrument, -11.7291484958
+instrument light, -11.7299376474
+broken scissor, -11.7300342355
+malfunction device, -11.7300503325
+device outcome, -11.7301147183
+needle driver instrument grip, -11.7301469097
+instrument connection, -11.7307744339
+patient side manipulator arm, -11.7312729544
+harmonic da, -11.7318676376
+chronic constipation, -11.7371080343
+grib cable, -11.7371719673
+blade travel, -11.737858989
+distal clevis wire, -11.7379388446
+monopolar cautery hook, -11.7391518656
+wire cable, -11.7399969181
+multiple peripancreatic, -11.7402359543
+driver cable, -11.74039528
+house hook adapter, -11.740634221
+main tube scratch damage, -11.7410323292
+cautery functionality, -11.7410800915
+main tube breakage, -11.7411915281
+mtml grip axis, -11.7416212386
+separated wire, -11.7424006123
+new light guide cable, -11.7424165116
+harmonica ace, -11.7459557484
+robotic arm attachment, -11.7459715912
+broken distal clevis ear, -11.7462567194
+instrument change, -11.7463359073
+bifurcated light guide cable, -11.7465417663
+cautery hook hit, -11.746652596
+instrument knife blade cut, -11.7491982934
+poor instrument articulation, -11.7492140849
+top riser pin, -11.7496877155
+grip cable groove, -11.7497824148
+multiple blood, -11.7499244468
+distal portion, -11.7500822364
+pt cautery, -11.750098014
+monopolar electrosurgical instrument, -11.7518635317
+tube outer diameter, -11.7522571953
+right side nephrostomy tube, -11.7522729387
+time use device, -11.7529496671
+thoracic grasper instrument, -11.7552753775
+vc monitor, -11.7557932113
+camera component, -11.7571257924
+customer main tube damage, -11.7572197898
+fragmented peice, -11.7575173902
+distal shaft, -11.7591135223
+multiple system error code, -11.7592855021
+instrument luer plate, -11.7595356018
+instrument port, -11.759629373
+melted instrument, -11.7608319908
+arm movement, -11.7693957894
+bipolar instrument cable, -11.76970526
+use arm, -11.769720731
+corresponding hinge pin, -11.7697362018
+damaged wire, -11.7699373001
+left grip blade, -11.7701074286
+instrument range, -11.7715446323
+arm hyperextension, -11.7715755173
+yellow insulation, -11.7716372843
+monopolar cautery spatula instrument, -11.7727792861
+mm monopolar cautery hook, -11.7882067074
+grip staple, -11.7882674557
+instrument black wire, -11.7883585712
+electrical insulation, -11.7885711417
+cautery aspect, -11.7886015052
+conductor wire break, -11.788753309
+endowrist needle driver instrument, -11.7887684881
+indigo carmine, -11.7892540981
+mm monopolar cautery instrument, -11.7897849642
+accessory material, -11.790270081
+blade pressure, -11.7905428558
+plastic component, -11.7906034623
+permanant cautery hook instrument, -11.7906337642
+camera head button, -11.7906489148
+entire grip assembly, -11.7907701113
+mtm grip angle, -11.791542394
+hrsv monitor, -11.7919056149
+multiple system power, -11.7922535778
+veress needle injury, -11.7924048282
+arm groove, -11.7927828543
+multiple emergency power, -11.7934780492
+system arm retraction issue, -11.7935989033
+large intact piece, -11.7940670752
+grip action, -11.8022921907
+new monopolar instrument, -11.8024419306
+defective fiber cable, -11.8025317637
+port accessory, -11.802591648
+spatula metal rod, -11.8026814677
+needle biopsy, -11.8027114058
+right tube, -11.8031902936
+instrument housing, -11.8037287684
+top pin, -11.8043566227
+same maryland bipolar instrument, -11.8046853415
+instrument engineering, -11.805864851
+grip problem, -11.805924536
+cable assembly, -11.8060289762
+device arc, -11.8060588143
+disposable instrument accessory, -11.8061334055
+monopolar device, -11.8078176855
+multiple subsequent, -11.8083834437
+bowel grasper instrument, -11.8097369862
+cautery issue, -11.8111926013
+right head, -11.8112519692
+patient cart cable, -11.8112668106
+monopolar power cable, -11.8114597291
+ovarian tube, -11.8115487558
+mm needle driver instrument, -11.8120086009
+trocar removal, -11.8120679204
+instrument yaw, -11.8159309291
+spatula portion, -11.8163149339
+distal jejunum, -11.8163297003
+small black component, -11.8163444666
+component separation, -11.816506881
+multiple axis, -11.8165954595
+replacement insert accessory, -11.816772593
+robotic instrumentation, -11.8169201803
+instrument count, -11.8173480604
+related tube abrasion, -11.8182032717
+small wire, -11.8183359114
+new spatula, -11.8195877525
+accessory slot, -11.8196613415
+broken device, -11.8197054922
+instrument failure mode, -11.819734925
+camera arm holder, -11.8197643569
+gynecare device, -11.8202057313
+hospital recovery, -11.8202204404
+left salpingoophorectomy, -11.8469109443
+conductor wire jacket, -11.8470398306
+cannla accessory, -11.8472259704
+distal pancreatectomy, -11.8472975534
+pin point, -11.8473548161
+third scalpel cautery instrument, -11.8473691312
+wire damage, -11.8491140453
+trocar closure, -11.8491426251
+adverse harm, -11.8491854933
+carbide insert component, -11.8492712241
+inch broken piece, -11.8494140925
+main tube damaged section, -11.8496569219
+fragmented piece, -11.8497426123
+pt harm adverse outcome, -11.8498854133
+robotic harmonic scalpel instrument, -11.8508987148
+remote arm controller hardware, -11.8580198751
+blade crossover, -11.8590532694
+incorrect cable, -11.8590674181
+instrument cautery port, -11.8593786383
+distal edge, -11.8594069262
+fenestrated bipolar maryland instrument, -11.8594352134
+cable movement, -11.8621329551
+entire piece, -11.8638241564
+endoscopic stapler instrument, -11.8645279803
+tube installation, -11.8645420517
+visible main tube damage, -11.872195633
+indigo carmen, -11.8724190328
+medical device surveillance system, -11.8724888349
+broken cable issue, -11.8730331248
+hard grip, -11.8731028841
+ace instrument, -11.8732981844
+distal small bowel, -11.8733958202
+instrument cable fragment, -11.8734097674
+prograsp endowrist instrument, -11.8734795004
+fenestrated bipolar cautery, -11.8734934465
+needle driver grip, -11.873618952
+main tube feature, -11.8737583841
+inch piece, -11.8743577206
+pink tint, -11.8749427726
+damaged instrument, -11.8761535781
+arm instrument, -11.876445622
+device investigation, -11.8780850464
+cable diameter, -11.8781128101
+new cautery spatula accessory, -11.8784042824
+insulator accessory part, -11.8785846751
+intuitive device, -11.879014711
+mbf instrument jump, -11.87916726
+instrument plug riser, -11.8794306988
+instrument setup, -11.8798187981
+tube insulation issue, -11.8798603712
+spatula accessory, -11.8802205993
+broken clevis piece, -11.8802483037
+third system arm, -11.8803175616
+instrument internal cable, -11.8803452634
+robotic surgical instrument, -11.8804422136
+thoracic grasper instrument insulation, -11.8813973631
+right mtm bumping, -11.8814111992
+bottom pin, -11.8819783122
+main tube hole, -11.8825451037
+broken pitch cable, -11.88660003
+grip hub cable groove, -11.8866826127
+pulley cable groove, -11.8867651885
+blade fall, -11.8867789505
+insert instrument, -11.8872605002
+broken insert piece, -11.8872880104
+related cable, -11.8874255496
+laparoscopic suction irrigator instrument, -11.8874943122
+colostomy tube, -11.887576821
+black coating main insulation, -11.8889784303
+instrument grip cable, -11.8895961634
+broken metal piece, -11.8905974528
+arm axis, -11.8913100891
+clevis piece, -11.8914059822
+endowrist grasper instrument, -11.8915977407
+insert accessory jaw, -11.8917346885
+robotic instrument arm, -11.8957389578
+scissor guard, -11.8958344271
+grip close assembly, -11.8960798777
+grip surface, -11.8963934215
+instrument engineer, -11.8972108992
+mtm component, -11.8978916205
+blade jam, -11.8980957466
+cautery activation issue, -11.8981637793
+instrument drape, -11.8982318075
+damaged wire section, -11.9011390825
+small fragment, -11.9012747299
+inconsistent cautery energy functionality, -11.9012882937
+main tube orientation, -11.9014781667
+articulation cable, -11.9017222361
+fair amount, -11.9017357938
+connector pin, -11.9019798004
+hook insulation, -11.9020204623
+fenestrated bipolar wrist instrument, -11.9021966451
+instrument cable shard, -11.9022779498
+instrument failed recognition testing, -11.9028468975
+precise bipolar instrument, -11.9030093945
+mm cautery hook, -11.9031583269
+flex cable connector, -11.9055787516
+jaw grip, -11.9057137983
+large suturecut needledriver, -11.9063077868
+camera head, -11.9081145817
+severe physical harm, -11.9084513092
+corresponding system arm, -11.9084782425
+cc indigo carmine, -11.9084917089
+incorrect instrument change, -11.9086263628
+mega suturecut needle, -11.9141717876
+broken tube extension, -11.9143726177
+black main tube insulation, -11.9145734074
+cardiac probe grasper instrument, -11.9147340102
+multiple recoverable system error, -11.9150150031
+training instrument, -11.9150685166
+grip hub, -11.9156569761
+grip pad, -11.915683716
+mechanical arm, -11.9159510761
+unspecified grasper instrument, -11.9163787035
+maryland dissector instrument coating, -11.916432144
+finding piece, -11.918274097
+new instrument, -11.9186607431
+left hand instrument, -11.918674073
+mating main tube feature, -11.9188206908
+metal grip insert, -11.9201525948
+long roll pin, -11.9205119049
+cautery usage, -11.9205385153
+backend cable, -11.9214295558
+splintered insulation, -11.9214428489
+several arm, -11.9214561418
+misaligned wire, -11.9214827271
+microjoint fenestrated grasper, -11.9217086738
+little metallic piece, -11.9217352524
+multiple surgical, -11.9217884075
+instrument spring, -11.9222135465
+left atrial retractor, -11.9222932399
+side piece, -11.9444391647
+pricise bipolar accessory, -11.9445041166
+multiple physical, -11.9445300962
+new hook, -11.9446080309
+sequential cautery, -11.944646996
+insulation fragment, -11.9449067245
+unrecoverable system fault, -11.9449326936
+replacement instrument, -11.9501000948
+distal pulley indentation, -11.9501259295
+mm trocar, -11.9512619925
+cuttery spatula instrument, -11.9513136011
+device sequence, -11.9514813105
+scalpel cautery insturment, -11.9567818922
+unused spatula, -11.9571026271
+indigo carmine iv, -11.9833587955
+distal idler location, -11.9834087739
+multiple abdominal, -11.984145666
+harmonic ace insert accessory, -11.9844078187
+instrument recognition, -11.9854931481
+actual instrument, -11.9856302898
+instrument orange part, -11.9871998458
+bipolar cautery energy, -11.9872247395
+twisted cable, -11.9878344425
+pk dissector notice, -11.9878468815
+intact piece, -11.9879463884
+defective instrument sterile adapter, -11.9880458853
+electrosurgical device, -11.988132937
+return instrument, -11.9881826774
+camera cable malfunction, -11.9882448494
+instrument performance, -11.9883070176
+wire snap, -11.9885929414
+tube breakage, -11.9887048024
+robotic trocar, -11.9887420867
+snap fit blue blade, -11.9889284869
+plastic tube, -11.9893260247
+instrument insert accessory, -11.9894874792
+patietn harm, -12.0284934712
+lap grasper, -12.0285173579
+intact blade, -12.0298063947
+dirty vision cable, -12.0298302501
+disposable blade, -12.0298660321
+robot permanent cautery hook, -12.0300329979
+robotic sheath, -12.0300687727
+spatula blade, -12.0303072384
+broken grip, -12.0325222502
+entire distal, -12.0325817258
+double fenestrated grasper, -12.0330692929
+camera arm, -12.0341268528
+bilateral salpingoopherectomy, -12.0341743573
+grip axis input, -12.0342574848
+camera cable issue, -12.0342693596
+cautery pin, -12.0351595674
+harmonic hand piece, -12.0351714314
+regular main tube, -12.0351951592
+initial blade accessory, -12.0353612377
+broken hook piece, -12.0445121068
+right instrument port, -12.045722007
+robotic surgery instrument, -12.0457454857
+arm grip closure, -12.0457689639
+scissor crossover, -12.0457807027
+cautery leak, -12.045991979
+particular device, -12.0460037153
+suj cable harness, -12.0461445397
+accessory port, -12.046250145
+new harmonic, -12.0462736113
+remote arm controller, -12.0470945861
+red system cable, -12.1173250731
+spatula fragment, -12.1173469294
+spatula instrument, -12.1196828053
+cautery energy, -12.1199771313
+cautery adapter, -12.1200643224
+post anesthesia recovery, -12.1201841977
+instrument removal, -12.1204783763
+applicable team member, -12.1204892701
+stiff guidewire, -12.1205764166
+ball grid array component, -12.1206090945
+distal ileum, -12.1206962305
+fep insulation, -12.1208051398
+main tube extension, -12.1214474636
+new blade accessory, -12.1215562911
+prograsp grasper, -12.1219588501
+shield wire, -12.1220132375
+main tube surface, -12.1223177525
+instrument lever, -12.1235457466
+monopolar electrocautery, -12.1237629337
+multiple laparoscopic, -12.123838938
+hand piece, -12.1240669164
+knife blade, -12.1241537516
+outer grip surface, -12.1241646055
+instrument grasper, -12.1244142121
+wrist cable, -12.1245986639
+splinter size piece, -12.1251951867
+multiple pedal, -12.1255204129
+reusable hand piece, -12.1255854454
+potential fragment, -12.1257805177
+camera arm board, -12.1258780396
+single site instrument, -12.1259647177
+flush tube issue, -12.1262463697
+instrument manufacture date, -12.1264088251
+psm cable tension, -12.1266253914
+instrument spatula, -12.1266903521
+pin size hole, -12.1267228309
+system component, -12.1267877853
+harm patient, -12.1268743846
+applier endowrist, -12.127036738
+drainage tube, -12.1283778515
+psm instrument carriage, -12.1284426985
+cystic right fallopian tube, -12.1284535059
+camera manipulator arm, -12.1286480195
+tube extension shoulder, -12.1287560663
+left grip spring, -12.1288424953
+robotic needle holder, -12.1291557379
+same scalpel cautery instrument, -12.1292853269
+same grip cable, -12.1304293004
+contact instrument accessory, -12.1316581527
+personality module energy device, -12.1317120151
+blue optic cable, -12.1794390132
+instrument failed electrical testing, -12.1799421243
+left salpingo oophorectomy procedure, -12.1800447689
+unattached wire, -12.1800550328
+cautery function issue, -12.1812244256
+instrument proximal clevis, -12.1815729273
+inadvertent bumping, -12.1817778716
+non recoverable, -12.1820339929
+damaged wire insulation, -12.1820749663
+tube diameter, -12.1825767532
+grip link, -12.1827917277
+vinyl insulation, -12.1829145496
+cautery probe, -12.1829964224
+jaw piece, -12.1830475895
+pulley type wire, -12.1830680557
+warm normal saline, -12.1830782886
+possible broken wire, -12.1830885214
+piece plastic, -12.1831908436
+unexpected amount, -12.1832522319
+loose piece, -12.1834363741
+bowel grasper instrument insulation, -12.1838556828
+wire hole, -12.1839579265
+instrument issue, -12.1841317169
+protective cautery sheath, -12.1847652848
+megasuture cut needle, -12.1848980788
+damaged hook, -12.184928721
+monopolar scissor, -12.1856128203
+nasogastric tube, -12.1856638538
+entire broken fragment, -12.1856740601
+laparoscopic grasper instrument, -12.1857659128
+grip input disc, -12.1857863234
+grip damage, -12.185857757
+pink image, -12.1858883699
+endowrist instrument, -12.2002239716
+instrument banana plug, -12.2002642063
+time use accessory, -12.2007670044
+place guidewire, -12.2007871111
+insulation main tube, -12.2023240738
+pinion gear, -12.2040691262
+harmonic insert piece, -12.2044398083
+suprapubic cystostomy tube, -12.2044698575
+isi suction irrigator instrument, -12.2049104766
+pk cautery, -12.2050506329
+instrument control cable, -12.2054109446
+scalpel cautery, -12.2059611702
+left distal ureteroscopy, -12.2059911738
+visible loose wire, -12.2060111757
+forcep grasper portion, -12.2060411778
+multiple leiomyomata uteri, -12.2062811622
+valley lab device, -12.2063011583
+spring piece, -12.2063611442
+thoracic grasper instrument housing, -12.2064911013
+superficial cautery injury, -12.2081590501
+spatula insulation, -12.2083486406
+orange insulation, -12.2090667627
+plastic sheath, -12.2091764304
+defective instrument, -12.2092960542
+metal wire, -12.2114169986
+peek main tube, -12.2114567855
+tube material, -12.2118446253
+small piece, -12.2126496583
+instrument grip issue, -12.2127589338
+instrument assembly, -12.2128086005
+large needle, -12.2160514606
+monopolar cautery activation issue, -12.2165661771
+round tube, -12.2165859686
+instrument blue housing, -12.2266485255
+accessory component, -12.2266975071
+scalpel cautery wrist, -12.2270501044
+instrument patient side manipulator, -12.2270696895
+pk dissector instrument, -12.2271088585
+drivetrain cable, -12.2271186505
+kinked pitch cable, -12.2271382342
+bipolar cautery issue, -12.2271871919
+alternative replacement instrument, -12.2922417649
+broken grip close cable, -12.2925628246
+left tube, -12.2925995106
+distal yaw pulley assembly, -12.2926820491
+instrument orange peel, -12.2927003901
+second camera arm, -12.2927095604
+main insulation tube axis, -12.2927737506
+blue fiber cable, -12.2929021185
+duodenal fistula tube, -12.292911287
+residual harm, -12.2930029675
+grip edge, -12.2931129729
+instrument function, -12.2937727516
+tube adapter wrist edge, -12.293800233
+distal damage, -12.2939467874
+noticed piece, -12.2948988676
+surgical instrument, -12.2954477326
+proximal pin, -12.2958591837
+spare arm, -12.2964988826
+backup camera head, -12.2966176387
+small grasper retractor instrument, -12.2966633104
+composite video cable, -12.2966815785
+tube extensin, -12.2968733733
+representative instrument, -12.2972751099
+third pin, -12.2975032975
+pk instrument cord, -12.2975854323
+robotic maryland bipolar dissector, -12.2977770538
+robotic cautery spatula, -12.2979230266
+damaged conductor wire, -12.2991173777
+instrument articulation issue, -12.2996275051
+insertable cautery hook, -12.3001191674
+mtm arm, -12.300674273
+grip assembly, -12.3007925344
+specific instrument, -12.3008016308
+sterile adapter accessory, -12.3009107818
+single broken piece, -12.3012381631
+component fragment, -12.3015472582
+gray energy cable, -12.3016290616
+retractor instrument, -12.3033181668
+uneven piece, -12.3033635335
+light cable, -12.3033816796
+diameter cylindrical piece, -12.3034724052
+ceramic piece, -12.3036810428
+black sheath, -12.3038080182
+cautery unit, -12.3038624314
+spatula insertion, -12.3055658781
+connection pin, -12.3059460391
+outer black sheath, -12.3059550888
+zeus instrument driver, -12.3059641384
+broken cable section, -12.3060727274
+left grip, -12.3064707859
+traditional laparoscopic instrument, -12.3065160098
+multiple pitch, -12.3067149707
+psm arm insertion path, -12.310685898
+clevis fragment, -12.3127823159
+red cable, -12.3128362429
+pubic tubercle, -12.3128811799
+double fenestrated grasper instrument, -12.3132585706
+applicable user, -12.3148295006
+second small fragment, -12.3148833174
+cm dark gray piece, -12.3149460999
+grip close cable, -12.3226651449
+bent polar pin, -12.3227363399
+discrepant instrument, -12.3237769875
+patient harm adverse outcome, -12.3238925482
+right side monitor, -12.3241058559
+instrument wrist fracture, -12.32518059
+plastic insulation seal, -12.4054673944
+blade error, -12.4056967569
+instrument distal articulation, -12.4057458992
+sterile arm drape, -12.4062699331
+holding needle, -12.4072354013
+blue fiber cable connection, -12.4074316537
+second piece, -12.4077668292
+spatula separation, -12.4078076965
+instrument failed multiple cautery, -12.4078894263
+salpingectomy procedure, -12.4081917682
+replacement instrumentation, -12.4081999383
+needle holder jaw, -12.4082081084
+permanent cautery spatula instrument, -12.4098815645
+broken wire complaint, -12.4100772983
+bowel recovery, -12.4100936078
+epoxy tube coating, -12.4103463698
+instrument wire, -12.411747632
+multiple installation, -12.4121708831
+instrument error message, -12.4129517995
+cable malfunction, -12.4129924555
+isi device malfunction, -12.4130005865
+atrial retractor instrument, -12.4130331099
+monopolar cable, -12.4131388035
+instrument coordinator assistant, -12.4133176443
+cautery function, -12.413488326
+insulation coating, -12.41355334
+gage pin test, -12.413943335
+hook area, -12.4139839507
+insert fragment, -12.4139920737
+monopolar spatula, -12.4141220319
+apparent patient harm, -12.41518543
+cable fragment, -12.4152341082
+hook shank, -12.4153963517
+bipolar energy cable, -12.4158829243
+tube damage, -12.4207033996
+cable tension, -12.4213728678
+insertable hook, -12.4215260566
+representative instrument sample, -12.4216792218
+second alarm, -12.4231049513
+bilateral neosalpingostomy, -12.4232820186
+instrument main tube, -12.4250108013
+distal clevis grip base, -12.4250188351
+right arm, -12.4251313026
+broken piece, -12.4288436522
+blade making contact, -12.4290517129
+cautery spatula, -12.4317685305
+tube area, -12.4318323668
+essj cable harness, -12.4318403461
+single use cautery spatula, -12.4319680055
+blue blade, -12.4320158735
+spatula base, -12.4320796941
+arm attachment area, -12.4321116028
+device mfg process, -12.4322551796
+applier instrument jaw, -12.4322950583
+cautery feature, -12.4323668361
+retractor instrument black shaft, -12.4324226597
+needle driver jaw, -12.4324864543
+stapler instrument, -12.4325263238
+potential patient harm situation, -12.4325342975
+spare pk instrument cord, -12.4325502448
+second instrument breakage, -12.4331879262
+instrument return, -12.4334269519
+loose camera cable, -12.4336977787
+forcep instrument, -12.4340083427
+instrument mdr number, -12.4340163046
+broken grip open cable, -12.4350667207
+robotic arm system, -12.4351223938
+term blade, -12.4352575869
+particular instrument, -12.4354007127
+monopolar cautery singlesite instrument, -12.435424565
+instrument thread, -12.4354325157
+instrument sheath, -12.4356074138
+round cautery hook, -12.4362749255
+pin head, -12.4362908132
+instrument collision, -12.4592760887
+making instrument installation, -12.4594080558
+damaged light guide cable, -12.4613080028
+composite cable, -12.4615558929
+distal inner pulley, -12.461571384
+instrument tube extension, -12.4620901967
+video monitor, -12.4621289033
+head sensor beam, -12.4621366445
+robotic monopolar cautery, -12.4621521266
+distal right ureter, -12.4622450141
+robotic instrument, -12.4631424823
+main tube insulation, -12.463737771
+instrument performance tester, -12.4642013868
+single site port accessory, -12.4643249814
+hot shear monopolar instrument, -12.4647574422
+grip brazing surface, -12.4649350059
+right arm instrument trocar, -12.4649427254
+metal tube, -12.4649890408
+electrosurgical instrument, -12.465035354
+guide wire, -12.4650507913
+abraded cable, -12.4654906537
+balloon trocar, -12.4655060839
+close cable, -12.4739491991
+camera head issue, -12.4739644994
+bad vision cable connection, -12.4739950992
+new scissor, -12.4740256982
+msc instrument, -12.4740868932
+instrument recognition issue, -12.4818132052
+instrument control system, -12.4821015941
+needle holder, -12.482215409
+grasper instrument cable, -12.482382314
+broken axis cable, -12.4824202431
+return electrode monitor, -12.4824278287
+instrument bipolar connection, -12.4824505853
+instrument shot, -12.4825416064
+arm insertion axis, -12.4825643604
+medical device report, -12.4826098669
+broken instrument, -12.4837771571
+unintended cautery, -12.4838301834
+noticed small wire, -12.4838529081
+pk wire, -12.4839513758
+explanted device, -12.4842921506
+conductor wire cap, -12.4845495479
+cable break site, -12.4846403782
+counterweight cable, -12.4851322324
+idler pulley pin, -12.4852457029
+third piece, -12.4875576941
+tube extension axial, -12.4875803343
+grip function, -12.487851976
+cable tp, -12.4879802256
+multiple abd, -12.4880254863
+vision cart monitor, -12.4888398278
+alternate instrument, -12.4891412675
+brown circumferential plastic piece, -12.4951810174
+defective camera cable, -12.4953457725
+arm malfunction, -12.4955404482
+cautery cord, -12.4957500564
+endowrist prograsp instrument shaft, -12.4957725119
+tube midpoint, -12.4958398751
+entire tube extension wall, -12.4960718694
+tan piece, -12.4961018002
+spatula surface, -12.4961167653
+electrical cable, -12.497798908
+distal pulley damage, -12.4981051273
+cable fray site, -12.4981125949
+main tube malfunction, -12.500856889
+crocodile grasper instrument, -12.5015120189
+cautery testing, -12.5015417873
+initial instrument, -12.5015715549
+curly wire, -12.5040094837
+fiber glass fragment, -12.5040169074
+instrument cable tension, -12.5090300987
+distal clevis wire hole, -12.5091187326
+instrument cord exterior, -12.5091261184
+silver cable, -12.5091925881
+instrument pouch, -12.5092590534
+multiple incomplete cut, -12.5096503706
+psc connection cable, -12.5096651343
+spatula cautery, -12.509672516
+broken instrument piece, -12.5107717902
+broken jawpiece, -12.5108381506
+permanent cautery hook intstrument, -12.5109708582
+arm attachment hinge feature, -12.5113246592
+console vision cable, -12.5114278276
+copious amount, -12.511508881
+head hurt, -12.5115309853
+fault alarm, -12.5115530892
+flex cable, -12.516382099
+intuitive surgical robotic instrument, -12.516602046
+blade tract, -12.5166606904
+surgical procedure insulation, -12.5167193313
+permanent cautery hook instruement, -12.5168805761
+grip open angle, -12.5169318758
+disposable cautery, -12.5169905008
+multiple clinical, -12.5172322927
+cable segment, -12.5305862007
+instrument fracture, -12.5315905216
+grip axis input shaft, -12.5315977432
+same grip close cable, -12.5337330704
+active instrument, -12.5338195416
+instrument blade, -12.5429790459
+mtml arm, -12.5429861858
+instrument orange sheath, -12.5432503262
+monopolar cautery plug, -12.543350253
+system camera arm, -12.5434501699
+insertable cautery hook accessory, -12.5435072608
+conductor wire breakage, -12.543535805
+bent grip cable, -12.5442491455
+massive amount, -12.5442634072
+multiple pelvic fluid, -12.5442705379
+tube extension break, -12.5445129526
+axis tube, -12.5446198816
+mega suturecut instrument cable, -12.544769563
+grasper instrument port, -12.5448194518
+cautery hook accessory, -12.5450617336
+tube extension, -12.5476234747
+distal fistula formation, -12.547644795
+bipolar fenestrated cautery instrument, -12.5478650781
+intuitive surgical needle driver, -12.5478721832
+visiport trocar, -12.5483978204
+cautery system, -12.5484546295
+instrument pitch cable, -12.5487670219
+damaged main tube, -12.5488947907
+cautery related injury, -12.5491077024
+particular slave arm, -12.5491360872
+proximal fallopian tube, -12.5491573752
+instrument piece, -12.549958896
+tube extension seal, -12.5501503148
+distal window, -12.550277907
+replacement blade accessory, -12.5502920829
+instrument component, -12.5528263374
+device rep, -12.5529323811
+grip open cable, -12.5532504451
+resultant spatula retention issue, -12.5533493776
+setup joint wire harness, -12.5535825372
+gimbal grip, -12.5536319883
+little wire, -12.5537026284
+left cable, -12.553893332
+cautery spatula instrument, -12.5553894455
+new camera cable, -12.5554529103
+loose conductor wire, -12.5555939287
+broken cable wire, -12.5561789425
+nephrostomy tube drainiage, -12.5562705401
+large piece, -12.556333949
+instrument failed midway, -12.5563550844
+normal instrument, -12.5564537103
+valve hook instrument, -12.5564748432
+bent tube, -12.5565734573
+ceramic insulation, -12.5565875442
+reusable instrument housing caution, -12.5566227607
+white sheath, -12.6038348485
+broken grip cable, -12.6046877184
+angulation wire, -12.6047145687
+damaged footswitch cable, -12.6047548427
+broken needle, -12.6051038161
+monopolar cautery instrument insulation, -12.6051306551
+atrial retractor, -12.6051776217
+proximal clevis wire hole, -12.6052245862
+audio cable, -12.6060293477
+entire instrument, -12.6060762722
+left ovarian fallopian tube, -12.6062170323
+black component, -12.6062237346
+laparoscopic multiple myomectomy, -12.6062371392
+instrument snake wrist, -12.6064046816
+multiple scratch, -12.6066257945
+debakey instrument, -12.6067798746
+endopass delivery instrument, -12.6068535567
+monopolar instrument, -12.6069272334
+multiple main tube, -12.6077573951
+direct vision trocar, -12.6077640871
+needle count, -12.6077908549
+metal fragment, -12.6078376968
+instrument failed continuity testing, -12.6079581372
+arm network, -12.6108843917
+instrument carbide, -12.610897734
+instrument hook, -12.6114379464
+instrument engagement problem, -12.6114446139
+faculty component, -12.6115179531
+new cautery spatula, -12.6116046198
+spring tube, -12.6116112861
+instrument insulator, -12.6116179524
+monopolar cautery energy functionality, -12.6128371398
+bipolar cautery instrument, -12.6133629967
+warm bacitracin saline, -12.6133829605
+cable fillament, -12.6139484359
+bent pin, -12.6140348922
+polymer grip section, -12.614121341
+accessory installation, -12.614241027
+nonrecoverable error, -12.6143141614
+ccu cable, -12.6143341062
+conductor cap wire, -12.6143540507
+instruement fragment, -12.6145933527
+yaw pulley piece, -12.6146598153
+pk cable, -12.6285921029
+traditional laparoscopic grasper, -12.6286248728
+mega needle driver instrument, -12.6298693343
+sentinel lymph node mapping, -12.6300591423
+first joint cable, -12.6301180409
+small amount fluid, -12.630137673
+main tube fiber, -12.630242371
+forcep grip, -12.6303012588
+instrument break, -12.6304713596
+same scissor instrument, -12.630504068
+main tube coating, -12.6305694816
+further harm, -12.6306675939
+tube extension interface, -12.6311710856
+right cystic fallopian tube, -12.631216845
+distal pivot, -12.6312560657
+entire tube extension, -12.6315305675
+suture cut needle driver, -12.6327257321
+robotic arm, -12.6330128812
+broken cable complaint, -12.6330259315
+electrical cautery, -12.6330324565
+nephrostomy tube placement procedure, -12.6331564248
+damaged grip, -12.6332086174
+broken accessory piece, -12.6333325639
+camera cable connector, -12.6333717017
+prostatectomy device usage problem, -12.6333847472
+robotic needle, -12.6334173605
+small needle, -12.633456495
+blade jam error, -12.6334630172
+instrument shaft, -12.6348447776
+multiple servo, -12.6349880585
+large needle driver cable, -12.635001083
+main tube interface wall, -12.6352550273
+main instrument, -12.6352745588
+plastic flush tube, -12.6354633437
+separated cable, -12.6355414511
+red fiber cable error, -12.6356455849
+new needle driver, -12.6361791004
+microassist debakey grasper, -12.6362961755
+second fragment, -12.6364197399
+flush tube, -12.6367643388
+backup camera cable, -12.6425139398
+cut wire, -12.6428112155
+cable break location, -12.6428499841
+instrument main tube abrasion, -12.6428564454
+pin gage, -12.6429856623
+test instrument, -12.6431277816
+site exercise arm, -12.6433602969
+fenestrated bipolar grasper, -12.6433667549
+pk dissector, -12.6441994858
+entire blade length, -12.6443607876
+original camera head, -12.6443672391
+permenent cautery spatula instrument, -12.6443736906
+head sensor, -12.6444059474
+orange sheath, -12.6444898103
+mm hook cautery, -12.6446381658
+instrument metal grip, -12.6449863922
+fiber wire, -12.6450637594
+suction irrigator instrument, -12.6451669064
+device manufacture date, -12.6451733527
+gold piece, -12.6451862453
+harmonic ace instrument, -12.645263597
+crocodile grasper instrument insulation, -12.6453731684
+operative component, -12.6453925033
+distalmost disk, -12.6454311719
+main tube connection, -12.6454956163
+conductor cable, -12.6455536127
+tube damage issue, -12.6463587709
+camera head assembly, -12.6466677795
+insert accessory, -12.6475749403
+broken head, -12.6476521075
+yellow cable, -12.6478257119
+pin pk connector, -12.6548282904
+loose grip, -12.6550900154
+proximal distal, -12.6551027807
+bipolar energy device, -12.6551474581
+spare cable, -12.65590029
+grip motion, -12.6559831944
+megasuturecut needle, -12.6566589283
+pk endowrist dissector, -12.6567035362
+cautery test, -12.6568373478
+small amount, -12.6571622445
+bowel grasper instrument shaft, -12.657321469
+accessory pouch label, -12.6573342058
+postoperative recovery, -12.6573469425
+metal instrument component, -12.6573851517
+manipulator arm, -12.6576780399
+distal rectal thermal injury, -12.6577480657
+mild amount, -12.657779894
+broken distal idler pin, -12.6579199264
+camera head cable connection, -12.6579772067
+instrument conductor wire, -12.658110848
+bilateral salpingoophorectomy procedure, -12.6581872065
+second opinion, -12.6582190208
+recoverable fault, -12.6583271819
+broken ear piece, -12.6584989431
+arm control system, -12.6586833945
+nonrecoverable fault error code, -12.6587406311
+thoracis grasper instrument, -12.6588487357
+intuitive endowrist monopolar spatula, -12.6588614532
+scalpel blade accessory, -12.6589250379
+permanent hook cautery, -12.6590903392
+instrument wrist cable, -12.6591094107
+outer mechanical cable, -12.6592174755
+corresponding cautery spatula accessory, -12.6594145048
+manual atrial retractor system, -12.659452635
+hardware fault monitoring, -12.6595098277
+bilateral salpingo oopherectomy, -12.6595352455
+right fallopian tube, -12.6595924334
+instrument monopolar connection, -12.6596051414
+permanent hook cautery device, -12.6596623253
+intuitive surgical harmonic, -12.6596813858
+arm pivot pin, -12.6597703304
+medical device, -12.6598338573
+migraine headache, -12.6598656193
+new endowrist prograsp instrument, -12.6598973802
+psm arm articulation, -12.6601704828
+mm main tube, -12.6602847827
+ultrasonic probe accessory, -12.6602974818
+deficient instrument, -12.6603101809
+corba grasper instrument, -12.6603419277
+serious harm, -12.6604117672
+permanent hook instrument, -12.6691538662
+loose wire issue, -12.6757716297
+mm monopolar cautery, -12.6759966782
+cautery connector plug, -12.6760091794
+broken left blade, -12.67601543
+traditional laparoscopic grasper instrument, -12.676602807
+brand new instrument, -12.6769088562
+metal rod pin, -12.6773958433
+complaint insulation part, -12.6774020852
+instrument cautery post, -12.6777078899
+orange plastic piece, -12.6786995513
+multiple location, -12.6794846983
+monitor screen, -12.6794909272
+immediate diversionary nephrostomy tube, -12.6795033848
+conductor wire connection, -12.6796653195
+blade portion, -12.679677775
+wire issue, -12.6797400498
+unspecified cable, -12.6800015618
+scalpel electrocautery instrument, -12.6804994907
+bipolar device, -12.6806799287
+same loose grip cable, -12.6806923715
+instrument ifu, -12.6807172567
+robotic instrument insulation failure, -12.6808354526
+broken needle driver, -12.6809722937
+tube insulation damage, -12.681196175
+scissor portion, -12.6812583553
+suture needle, -12.6813018793
+high cautery, -12.6813143143
+worn black sheath, -12.6814200061
+camera arm sterile adapter, -12.6815132544
+blunt cautery, -12.6815878467
+right blade, -12.6816686487
+mega needle driver, -12.6829109351
+top instrument, -12.6829295576
+insulation complaint, -12.6829854232
+suprapubic tube placement, -12.6833019358
+harmonic ace insert instrument, -12.6833577806
+fast recovery, -12.6834632567
+insulation cut, -12.6835935353
+accessory tube, -12.6836431608
+distal pin, -12.6837424043
+megasuture cut needle driver, -12.6838106286
+insulation damage, -12.6842570724
+tube axis, -12.6900119592
+orange plastic sheath, -12.6900920835
+conductor wire tube, -12.6901044097
+crocodile grasper instrument shaft, -12.6901475503
+graptor instrument, -12.6902399883
+multiple test, -12.690264637
+insulation tube damage, -12.6905357324
+plastic insulation, -12.6906096547
+melted hook, -12.6906219746
+wire loop, -12.6906342943
+noticed wire, -12.6906527736
+schertel grasper instrument shaft, -12.6906897311
+grip failure, -12.6907266873
+right hand instrument, -12.6925297203
+accessory failure, -12.6926711178
+proximal clevis fragment, -12.6926772651
+main tube, -12.7093804383
+instrument clutch button, -12.7093925291
+instrument interface board, -12.7094106649
+low cable tension, -12.7094348456
+tube transition, -12.7097974853
+multiple incomplete, -12.7098156138
+multiple chest, -12.7098216566
+disposable cautery hook, -12.7098639549
+main tube reinforcement ring, -12.7099666721
+instrument fray, -12.7175026343
+motor servo driver, -12.7175566015
+accessory damage, -12.717580586
+sterile instrument, -12.7176045699
+defective device, -12.7178084099
+monopolar scissor wire, -12.7178503718
+right nephrostomy tube, -12.7178923319
+pin gage tool, -12.7179043202
+left system arm, -12.7179582657
+cable damage, -12.7186892402
+instrument jaw grip, -12.7187131975
+inadvertent harm, -12.7269325281
+multiple omental, -12.7269800489
+active blade, -12.7270453862
+blue system cable, -12.7271107193
+camera head cable, -12.7275560584
+monopolar cautery cord, -12.7277875564
+entire device, -12.7278172317
+multiple small, -12.7280130669
+prograsp grasper instrument, -12.7280249345
+first alarm, -12.7280368019
+bipolar wire, -12.7282503916
+triangular shaped piece, -12.7282681887
+yaw pulley cable groove, -12.7283690328
+known instrument, -12.7283927593
+loose grip cable, -12.7291694929
+bipolar instrument, -12.7299337789
+paddle blade accessory, -12.7299515461
+instrument recognition testing, -12.7299574684
+right salpingo oophorectomy procedure, -12.7303305033
+entire main tube length, -12.7303364233
+corresponding electrocautery, -12.7303660232
+instrument motion, -12.730371943
+different instrument type, -12.730413381
+pogo pin, -12.734684115
+housing pin, -12.7348314633
+psm arm problem, -12.7351850107
+multiple mechanical, -12.7352144674
+insulation flap, -12.7352439232
+black cable, -12.7353087228
+proper instrument wrist movement, -12.7354500893
+grip scissor, -12.7360683328
+robot cautery hook, -12.7360977634
+multiple intraoperative hemoglobin, -12.7361683934
+contact pin, -12.7362566739
+trocar site hernia, -12.7363743691
+surgical fenestrated bipolar instrument, -12.7364743991
+left hrsv monitor, -12.736515585
+spatula shape, -12.7365391191
+dvi cable, -12.7365508859
+black plastic piece, -12.7365685358
+internal wire, -12.7366038348
+black tube insulation, -12.7370684888
+coblator device, -12.7371331703
+same cable, -12.7372684
+recoverable error message, -12.7375505596
+dowel pin, -12.7375917012
+distal idler area, -12.7379736497
+instrument tray, -12.738490517
+recovery room, -12.7393181226
+entire robotic arm, -12.7393239897
+endowrist cautery, -12.7394178586
+arm difficulty, -12.7394237251
+indigo carmine efflux, -12.7394941206
+controller cable, -12.7399750238
+ecm arm, -12.7400219288
+broken electrical cable, -12.7406021962
+right robotic instrument, -12.7407076632
+cautery instrument, -12.7427445085
+first instrument, -12.742785437
+cable wiring, -12.7429199046
+servo driver pca board, -12.7429315966
+multiple radiological, -12.7429374425
+unknown amount, -12.7429491343
+cable connection, -12.7433757903
+instrument inventory, -12.7433816337
+small black wire, -12.7433933203
+outer wire, -12.7434400652
+grip axis, -12.7435802869
+microjoint instrument, -12.7436153393
+clevis pin, -12.743720489
+cable snap, -12.7439949944
+broken head failure, -12.7440241927
+right percutaneous nephrostomy tube, -12.7440767475
+long piece, -12.744152655
+degenerative spinal condition, -12.7441701713
+left arm, -12.7441993645
+entire tube length, -12.7442635864
+device return, -12.7443161286
+pulley cable, -12.7444270419
+loose wire, -12.7466194306
+forearm link, -12.746666025
+spatula assembly, -12.7468756729
+broken cable piece, -12.7469106099
+blade accessory, -12.746974658
+instrument jump, -12.7469921249
+scope warming thermo solution, -12.747126028
+mm piece, -12.7472831957
+applier instrument, -12.748004686
+camera head stage, -12.748057032
+scissor grip, -12.7483361642
+arm camera drape, -12.7483419787
+tube crack, -12.7484873283
+multiple informational, -12.7484931419
+conductor wire damage, -12.7485105823
+damaged tube insulation, -12.7486210314
+multiple instrument, -12.7491440455
+broken scissor blade, -12.7493706
+possible wire, -12.7493880251
+grasper portion, -12.7495506452
+damage wire, -12.7495680672
+monopolar cautery energy function, -12.7521779369
+arm collision, -12.7522648153
+tube surface, -12.7526933053
+applier grip, -12.7533009829
+date device, -12.7538678156
+maryland robotic instrument, -12.7538909449
+laparoscopic accessory port, -12.7695986898
+touchscreen monitor, -12.7697978942
+yellow plastic piece, -12.7698092761
+undocked instrument, -12.7702701344
+pin breakage, -12.7702758227
+intact protective sheath, -12.7704521434
+reinforcement ring tube damage, -12.7707478373
+non recoverable system error, -12.7708558576
+different unspecified instrument, -12.7708615425
+instrument tube insulation, -12.7709468129
+corresponding scalpel accessory, -12.770980919
+instrument wrist fragment, -12.7709866033
+vsc monitor, -12.771071863
+cautery attachment, -12.7711230153
+endowrist needle driver, -12.7711343822
+excessive cautery, -12.7715207776
+instrumentation set, -12.7715435021
+wide piece, -12.7715946304
+instrument warning label, -12.7716514365
+broken cautery cable, -12.7717820782
+isi instrument, -12.7720830572
+mayo instrument stand, -12.7720887352
+robot arm, -12.7722533826
+ria cable, -12.7722760904
+instrument knuckle, -12.7723271812
+gyrus device, -12.7723442109
+controller arm, -12.7724463829
+same device, -12.7725201673
+original instrument, -12.7725428691
+full area coverage, -12.7725485445
+cut insulation, -12.7727074417
+tungsten cable, -12.7727187906
+remote arm, -12.7730421783
+tube extension wall, -12.7735979339
+instrument tube abrasion, -12.7740060475
+device mfr date, -12.7740343825
+recovery time, -12.7741193828
+pink hue, -12.7742327053
+monopolar cautery instrument, -12.7748557494
+fenestrated bipolar device, -12.775302969
+grip issue, -12.7753652242
+broken fragment, -12.7755745997
+intuitive harmonic, -12.7755859161
+poor insulation, -12.7756085484
+loose pitch cable, -12.7758687831
+potential fragment reinforcement ring, -12.7761289501
+psm cable, -12.7761798445
+mega suturecut instrument, -12.776801677
+direct harm, -12.7768242818
+kit accessory, -12.7768694899
+new instrument insertion, -12.7769429487
+continued monitoring, -12.7770333521
+hook cautery, -12.7772254322
+same instrument arm, -12.7772649735
+new cautery, -12.7773553478
+mm instrument, -12.7775021886
+intuitive cautery spatula, -12.7775360719
+instrument wrist, -12.7780724042
+bottom plug riser pin, -12.7781062681
+instrument jaw, -12.7787889467
+distal pulley right, -12.7788397059
+small green plastic piece, -12.7788509853
+arm drape pack, -12.7788735439
+tube extension char mark, -12.7788791834
+connector wire, -12.7789524947
+grasper instrument shaft, -12.7790201619
+severe blade damage, -12.7790314393
+adherent fallopian tube, -12.779037078
+instrument information system, -12.7790483552
+distal right iliac artery, -12.7799106866
+harmonic energy, -12.7799332213
+trace amount, -12.7799613888
+mm maryland dissector, -12.7800853168
+multiple mosquito, -12.7800909495
+reposable instrument, -12.7801585397
+instrument plastic coating, -12.7803500205
+adequate insulation, -12.7806484322
+such tube placement, -12.7807553883
+instrument pitch, -12.7809861493
+instrument instrument, -12.7810424244
+loose video cable connection, -12.7811774717
+new camera head, -12.7813068749
+silver wire, -12.78140251
+instrument shaft surface, -12.7814081353
+broken cable, -12.7862454198
+engineer reconfigured multiple psm, -12.786290204
+right camera input cable, -12.8050398175
+main tube right, -12.8051112359
+multiple fluid, -12.8051332097
+main tube insulation damage, -12.805177156
+needle instrument, -12.8051936353
+right grip, -12.8052540573
+cautery damage, -12.8054188259
+nephrostomy tube, -12.8056878896
+undamaged light guide cable, -12.80569338
+cable grove, -12.8056988703
+broken distal clevis, -12.8058086702
+robotic forcep device, -12.8078706679
+related instrument, -12.8079473624
+left nephrostomy tube, -12.8082540815
+camera trocar, -12.8082759864
+bilateral salpingooophorectomy, -12.8083088428
+complaint insulation cut, -12.8085607065
+fractured distal, -12.8088508186
+bare wire, -12.8090204678
+electrical wire insulation, -12.8090314119
+instrument conductor, -12.8092119727
+veress needle, -12.8092995055
+nonrecoverable system error code, -12.8093979708
+faulty camera head, -12.8094198507
+second device, -12.8095018959
+shear instrument, -12.8095292428
+harmonic scalpel, -12.8096331543
+electrocautery instrument, -12.809890152
+damage instrument, -12.8103110481
+cautery leakage, -12.8103165131
+top plug riser pin, -12.8103875557
+wide trocar, -12.8104749857
+harmonic cup, -12.81050777
+electrocautery cord, -12.8105569444
+noticed multiple, -12.8106935273
+fragmented component, -12.812271073
+arm number, -12.8122928901
+bowl grasper instrument, -12.8124183291
+pitch cable, -12.8191471091
+instrument arm drape, -12.8191687767
+partial recovery, -12.8192933562
+appropriate instrument tool, -12.8192987724
+black instrument, -12.8193800111
+cable shard, -12.819683244
+instrument engagement issue, -12.8198023461
+fault recovery logic, -12.819878131
+various distal, -12.820018859
+entire main tube, -12.8202082694
+unpowered configurable arm, -12.8207654689
+electric cautery wire, -12.8207816933
+grip spring, -12.8207925095
+hypotube issue, -12.8213764085
+instrument distal clevis, -12.8214412651
+camera cable connection, -12.8215385422
+psm arm cable, -12.8215439462
+fraying cable, -12.8215871771
+precise bipolar cautery instrument, -12.8215979846
+instrument wa, -12.8567454826
+broken blade, -12.8570375959
+damaged tube extension, -12.8628568266
+pt contact component, -12.8628620119
+instrument orange piece, -12.8628879378
+extensive amount, -12.863084953
+red arm, -12.8631212411
+cautery plug, -12.8631419765
+micro joint fenestrated grasper, -12.8645199188
+instrument insertion issue, -12.8645302721
+permanent cautery hook instrument, -12.8662164256
+cautery post, -12.8737332257
+instrument engagement, -12.8738204181
+entire hook, -12.8739691406
+dull hook complaint, -12.8739793966
+different damaged tube insulation, -12.8739845245
+distal clevis idler pin, -12.8740563125
+white piece, -12.8741947464
+cautery cable inventory, -12.874205
+bent spatula, -12.8742408867
+mm pin, -12.8746458052
+insulator accessory, -12.8749378598
+defective headset, -12.8749481058
+yaw cable, -12.8750454374
+endowrist instrumentation, -12.8751325155
+spatula removal, -12.8751632471
+alternative instrument pouch, -12.8752247076
+intuitive surgical instrumentation, -12.8753168912
+permanent cautery spatula, -12.8768418083
+bottom bipolar pin, -12.8777413394
+device malfunction, -12.8789156447
+instrument breakage, -12.8790023865
+arm slot, -12.8790381015
+main insulation damage, -12.8790534075
+robotic large needle driver, -12.8791452389
+backup instrument, -12.8793900813
+trocar entry, -12.8795022807
+system cable, -12.8796858525
+single use spatula, -12.8797113459
+energy source cable, -12.8797929205
+tube extension breakage location, -12.879808215
+accessory silicone, -12.8803688517
+grip hub crack, -12.880373947
+small cable, -12.880435088
+unknown endowrist instrument, -12.8809138969
+distal clevis, -12.8891652458
+high amount, -12.8891753471
+ssc footrest cautery cable, -12.8892056502
+uterine tube, -12.8895894101
+partial piece, -12.889680279
+recoverable system, -12.8901294541
+main insulation tube extension, -12.8901445913
+main broken cable, -12.8901698195
+surgeon console armrest, -12.8902000925
+ethicon bladeless trocar, -12.8918183626
+distal clevis pin, -12.8920903379
+thoracic grasper, -12.8928404046
+internal cable, -12.8930467001
+distal level, -12.8932026514
+cable measure, -12.8932982225
+blue video cable, -12.8934390474
+monopolar cautery instrument spatula, -12.8934641926
+fiberoptic cable, -12.8934692215
+grip wire, -12.8934893372
+instrument tube reinforcement ring, -12.8935094524
+entire trocar, -12.8935144811
+laparoscopic grasper, -12.8936854432
+insulation issue, -12.8937005267
+shear piece, -12.893851349
+metal piece, -12.893977017
+isi endowrist instrument, -12.8939971224
+megasuturecut needle driver instrument, -12.8957698341
+grip close cable breakage, -12.8958149897
+distal pulley, -12.8992658596
+instrument error, -12.8993708517
+tube reinforcement, -12.8995358171
+paddle blade instrument accessory, -12.8995957977
+device operator, -12.8996157905
+same general distal, -12.8997057529
+black shaft insulation, -12.8997757181
+broken grip jaw, -12.8998356844
+multiple pelvic, -12.9000105655
+microjoint debakey grasper, -12.9000205577
+same broken grip cable, -12.9004651132
+maryland dissector, -12.9206549861
+grip mode, -12.9208311575
+harmonic insert, -12.9209143387
+complete mtm arm, -12.9209681582
+touchscreen left input, -12.9211393827
+mtml grip assembly, -12.9211491661
+instrument metal, -12.9250207497
+alternate device, -12.9251035832
+system psm arm, -12.9253471713
+unrecoverable fault, -12.9254348486
+permanet cautery spatula instrument, -12.9254494607
+different arm, -12.9254738137
+broken grip cable making, -12.9254884253
+harmonic energy activation, -12.9265204347
+device removal, -12.926535031
+unintended cautery activation, -12.926705305
+instrument flush tube, -12.9268852775
+broken bipolar conductor wire, -12.9279838662
+supine position, -12.9282558964
+fourth harmonic, -12.9283044654
+small instrument fragment, -12.9283918838
+kinked flush tube, -12.9284792944
+complaint broken cable, -12.928717207
+cautery pedal, -12.9291685998
+arm pin, -12.9294111999
+harmonic scalpel jaw, -12.9294160513
+brown plastic piece, -12.929425754
+orange tube extension, -12.9294451592
+robot device, -12.929551881
+mega driver, -12.9295567317
+retention component, -12.9295809849
+second harmonic ace, -12.9296246393
+bent main tube, -12.9297070923
+insert blade, -12.9299544106
+inch diameter piece, -12.9300998634
+distal clevis conductor cable, -12.9301531908
+instrument electrical continuity, -12.9302937675
+tube extension breakage, -12.9303567783
+cautery hook base, -12.9303616251
+pitch cable tract, -12.9303810121
+accessory inner radius, -12.9303955522
+retractor instrument wire, -12.9304585565
+different system arm, -12.9304924803
+instrument orange seal, -12.9305021726
+resultant instrument removal, -12.930603936
+orange piece, -12.9310447911
+replacement maryland bipolar instrument, -12.9310835383
+laparoscopic trocar, -12.9311852426
+instrument conductor cap, -12.9312191417
+recovery phase, -12.9313063056
+alarming unrecoverable fault, -12.9313450427
+accessory vein, -12.9313498848
+surgeon side console monitor, -12.9313547268
+sp tube replacement, -12.9314467204
+pinion system, -12.9314515619
+poor surface coverage, -12.9315241822
+robotic harmonic scalpel, -12.9315580698
+distal pulley mechanical, -12.9316113195
+subsequent nephrostomy tube removal, -12.9316452042
+maryland bipolar instrument, -12.9319114011
+distal left ureter, -12.9319355973
+multiple small brown, -12.9319404364
+cautery spatula separated form, -12.9319839879
+cautery incident, -12.9319985046
+anterior rectus sheath, -12.9321194693
+bilateral salpingo oophorectomy procedure, -12.9322307438
+control instrument closure, -12.9323371687
+bent main tube shaft, -12.9323468431
+dislocated grip, -12.9323661917
+damaged blade, -12.9324145615
+distal ileal perforation repair, -12.9324193984
+much insulation, -12.9324339088
+applier instrument silver, -12.9324387456
+pk device, -12.9324774388
+fragment break, -12.9326321968
+grey cable, -12.9326757181
+grip base area, -12.93275792
+different robotic arm, -12.9328062709
+fallopian tube, -12.9329126345
+distal window assembly, -12.9331349948
+instrument failed recognition, -12.9331543281
+instrument exchange, -12.9338114393
+intuitive surgical gauge pin, -12.9338259296
+right nephroureteral tube, -12.9338307596
+main insulation, -12.9341784606
+distal clevis char, -12.934443984
+appropriate alarm, -12.9344632921
+accessory malfunction, -12.9345598267
+loop cable, -12.934675656
+original camera cable, -12.9347673447
+right system arm, -12.9348397245
+interface adapter cable, -12.9348493748
+double fenestrated instrument, -12.935211192
+iv indigo carmine, -12.9352256619
+bent cautery connector, -12.9352353084
+outer distal pulley, -12.9352546012
+instrument hook shank, -12.9353848177
+dull hook, -12.9353896402
+instrument grip, -12.9381058358
+broken conductor wire, -12.9489783156
+seal accessory, -12.9490354029
+reusable instrument housing, -12.9490544313
+cautery connector, -12.9491400544
+broken grasper, -12.9491448111
+psc fiber cable, -12.9491590808
+permanent cautery hook instrujent, -12.9491971325
+distal anastomosis, -12.9492018888
+suturecut needledriver instrument, -12.9503617639
+second instrument, -12.9505517791
+bipolar instrument lifespan, -12.9510029205
+robot arm adaptor, -12.9626382585
+cable section, -12.9634919952
+applicable dance, -12.9659225568
+device model number, -12.9659365892
+degree scalpel blade, -12.965959976
+example instrument, -12.9659973937
+degree blade accessory, -12.96603481
+device bearing serial number, -12.9660394869
+spring guide component, -12.9660581945
+robotic scissor, -12.9661002852
+blade piece, -12.9661236681
+grip broken cable, -12.9661564033
+metal trocar, -12.9661704324
+wire section, -12.9662592784
+system arm, -12.9666613251
+tube adapter, -12.9666940428
+tube pressure, -12.9667080643
+monopolar cautery instrument shaft, -12.9667220856
+similar amount, -12.9669230361
+life instrument, -12.9670258324
+instrument grip close cable, -12.9673201452
+arm position, -12.96762838
+wire insulation damage, -12.9695084217
+wire insulation, -12.9697274522
+extension tube, -12.9698299607
+surgical instrument fiber, -12.9698532566
+needle driver grip jaw, -12.9762020862
+distal pulley area, -12.9762067158
+distal hinge, -12.976447427
+diameter gage pin, -12.976493711
+control cable, -12.9768546525
+monopolar hook, -12.9769656852
+gripping problem, -12.9769749374
+suturecut instrument, -12.9801480036
+grip area, -12.9802079501
+bipolar pin damage, -12.9802632822
+distal clevis hub, -12.9863586898
+instrument trocar, -12.9863724382
+cable harness, -12.9867160887
+instrument black insulation, -12.9867206699
+endotracheal tube, -12.9868947403
+arm connector, -12.9883822637
+support arm, -12.9884600118
+inner grip close cable, -12.9884783045
+mm tenaculum instrument, -12.9884874508
+proximal clevis cable hole, -12.9888349469
+instrument failed dielectric strength, -12.9888395184
+main insulation tube damage, -12.9891046304
+patient side arm, -12.9891092006
+left nephrostomy tube placement, -12.989141192
+lst thoracic grasper instrument, -12.9893285495
+bad camera cable, -12.9894656181
+same arm, -12.9894975981
+insulation piece, -12.9895752595
+trocar system product information, -12.9895843957
+main tube crack, -12.9896757535
+instrument arm grasper, -12.989694024
+insulation degradation, -12.9897579683
+incomplete surface area coverage, -12.9897671029
+bent instrument, -12.9902100293
+monopolar cautery instrument malfunction, -12.9902282901
+roll cable, -12.9902419855
+cautery foot pedal, -12.9902602457
+first instrument breakage, -12.9902648107
+long recovery, -12.9986519479
+grip exit, -12.9986564747
+second maryland bipolar instrument, -12.9986700552
+timely monitor, -12.9986745819
+insulation barrier, -12.9987017421
+second scalpel cautery instrument, -12.9987153219
+multiple uterine, -12.9987877446
+tube extension surface, -12.9998327618
+broken piece emd, -12.9999051035
+insulation integrity, -13.0000271683
+rectosigmoid cautery injury, -13.0000362096
+distal ureter, -13.0001944181
+surrounding robot arm, -13.0002124975
+fenestrated grasper instrument, -13.000415868
+trocar site, -13.0004565372
+surgeon eye piece, -13.0005062417
+instrument tube, -13.0006914821
+proximal clevis cable, -13.0010844395
+round plastic piece, -13.0011160501
+multiple servo driver, -13.0013688986
+third harmonic, -13.0015133548
+cautery device, -13.0016984087
+irrecoverable fault, -13.0018112297
+grip axis pin, -13.0021090159
+multiple laboratory, -13.0021225496
+multiple cable, -13.0021541273
+disposable harmonic blade insert, -13.0025284733
+abnormal amount, -13.0025961113
+left fallopian tube, -13.0026457095
+indigo carmaine, -13.0026502184
+red fiber cable, -13.002708831
+triangular piece, -13.0029973357
+first harmonic, -13.0030829695
+crocodile grasper, -13.0031370502
+little piece, -13.0031550765
+internal cable harness, -13.003294769
+insulation material, -13.0033263098
+hook accessory, -13.0041280123
+mechanical wire, -13.0041370165
+accessory fragment, -13.0041910403
+instrument cautery cable, -13.0042135493
+ng tube, -13.0043350894
+multiple attemtps, -13.0046231253
+hard pin, -13.0046636237
+broken steelwire, -13.0046816225
+device information, -13.004749115
+kinked cable, -13.0047626129
+hook assembly, -13.0048570934
+pin hole, -13.0049605619
+clevis pin swaging, -13.0051089979
+accessory issue, -13.0051404815
+last piece, -13.0051674667
+wire pertruding, -13.0051719641
+contact system component, -13.0052529148
+post operative recovery, -13.0053023815
+alternative instrument, -13.0053293623
+instrument failure, -13.0054417744
+distal aorta, -13.0054597591
+blade surface, -13.0059676951
+same endowrist prograsp instrument, -13.0059766828
+roll pin, -13.0061069952
+percutaneous spinal cord stimulator, -13.0061249681
+pin damage, -13.0079564992
+defective positioner cable, -13.0079744388
+broken motor wire, -13.0081358806
+incorrect instrument, -13.008171753
+camera head sterile adapter, -13.008230043
+cable connector, -13.008265912
+instrument malfunction, -13.0085348889
+bowel harm, -13.008570747
+broken separated cable, -13.0085841935
+footrest cautery cable, -13.0087096851
+close grip cable, -13.0087276112
+plastic fragment, -13.0087500184
+fenestrated maryland bipolar instrument, -13.0088037935
+grip connection, -13.0088217179
+complaint broken wire, -13.0088575657
+longitudinal tube axis, -13.0088889315
+instrument clevis, -13.0089247769
+cautery hook, -13.0106841034
+check red cable, -13.0107243571
+right camera cable, -13.0107869707
+needle driver instrument, -13.0166063073
+hook section, -13.0166685537
+monopolar cautery function, -13.0167041213
+intraoperative instrument, -13.0167619161
+high cable tension, -13.0167663617
+insert instrument accessory, -13.0167885894
+permanent spatula instrument, -13.0168019259
+bent grip, -13.0174507499
+proper instrument, -13.0175307128
+mm tube, -13.0250408604
+blade edge, -13.0254375887
+cautery cable connection, -13.0254419959
+full recovery, -13.0274848481
+instrument storage, -13.0275068388
+small cable piece, -13.0276299783
+bipolar precise instrument, -13.0276695556
+multiple irrigations, -13.0304974739
+endowrist monopolar cautery instrument, -13.0305062438
+spare vision cable, -13.0305150137
+pin gage test, -13.0306947783
+nonrecoverable safe state, -13.0308262929
+main tube damage issue, -13.0309358753
+instrument main tube damage, -13.0310103844
+backup cable, -13.031360941
+metal tube reinforcement ring, -13.0314266567
+insert disposable accessory, -13.031466084
+hook breakage, -13.0315274124
+damaged distal idler, -13.0315405537
+left blade, -13.0317113748
+spring guide tube, -13.0317683087
+grip cable close cable, -13.0318296185
+suture cut control cable, -13.0318383767
+multiple system, -13.031904061
+distal pulley surface, -13.0319215761
+link pin, -13.0319741195
+viewer head, -13.0319828765
+accessory vessel, -13.0320266602
+prox clevis cable hole, -13.032109844
+pharmacomedical treatment, -13.0321142219
+faulty instrument, -13.0321229776
+type instrument, -13.0325431632
+broken instrument component, -13.0330331566
+ultrasound device, -13.0330419043
+adjacent grip open cable, -13.0330725206
+quadrant trocar site hernia, -13.0336103408
+bilateral salpingectomy procedure, -13.0336321973
+instrument scissor, -13.0337108767
+tiny piece, -13.0339643571
+mm inferior trocar, -13.0355187966
+scissor fragment, -13.0356409535
+camera head lens, -13.0360029736
+fenestrated bipolar instrument cable, -13.0360116954
+microjoint heavy debakey grasper, -13.0360596637
+conductor insulation, -13.0362035549
+ear piece, -13.0362689531
+cable breakage, -13.0368747734
+intuitive large suturecut needledriver, -13.037175368
+unspecified scissor instrument, -13.0372407027
+iv indigo carminie, -13.0372799015
+distal clevis area, -13.0383246358
+snap fit blade, -13.0384464504
+bipolar forcep, -13.0449506371
+damaged insulation, -13.045054361
+damaged instrument component, -13.0453222647
+incompatible electrocautery surgical unit, -13.0453265851
+mm blunt bladeless obturator, -13.0453697884
+green cable cable, -13.0453741087
+bent hook, -13.0454907479
+defective camera head, -13.0458276293
+recoverable safe state, -13.04686779
+pin connector damage, -13.0468979859
+top pitch cable, -13.0469152404
+grip calibration, -13.0486822423
+damaged insulation conductor wire, -13.0486908542
+gripping tissue, -13.048699466
+reusable robotic instrument, -13.0487339124
+distal peritoneum, -13.0491557852
+grip layer, -13.0491945197
+spatula face, -13.0492117346
+broken separated wire, -13.0492160382
+permanent cautery spatula element, -13.0492676808
+unspecified fragment, -13.0493580489
+broken wire, -13.0519365495
+main tube axis, -13.0520567173
+harmonic shear, -13.0521597068
+distal ileal mesentery, -13.0521854525
+brown piece, -13.0521897434
+left camera input cable, -13.0524385834
+lso device usage problem, -13.0524471629
+scissor arm, -13.0524814806
+device sequence number, -13.0525544016
+tube extension piece, -13.0526187392
+light guide cable, -13.0527688443
+normal housekeeping, -13.0528674725
+broken yaw cable, -13.0528717604
+broken tungsten cable, -13.0530218275
+endoscopic camera manipulator arm, -13.0530389766
+percutaneous nephrostomy tube drain, -13.0530646997
+multiple lab, -13.0530904222
+main tube material removal, -13.0531032831
+high blade closing, -13.0667579154
+black insulation portion, -13.0670496615
+instrument bipolar pin, -13.0670750267
+new device, -13.0671130733
+instrument analysis, -13.0671468913
+defective freyed cable, -13.067168027
+conductor wire exit, -13.0672187507
+cut metal wire, -13.069300431
+sufficient amount, -13.0693130852
+instrument failed cut testing, -13.0693383931
+tube insulation, -13.0700593979
+week recovery, -13.0700636128
+instrument shear, -13.0704175988
+permanent cautery instrument, -13.0705482049
+fault monitoring, -13.0708893854
+unrecoverable system error code, -13.0709483431
+camera head adapter, -13.0709525542
+setup joint arm, -13.0709609764
+device usage problem, -13.0717102687
+unspecified amount, -13.0717481394
+blade failure, -13.0718154614
+cautery cable, -13.0718954005
+main tube connection point, -13.0720468465
+tube extension damage, -13.0720678789
+distal pancreatectomy procedure, -13.072105736
+grip tissue, -13.0721856519
+idler pin, -13.0722192987
+grip arm, -13.0722613557
+third cable, -13.0723076164
+electronic component, -13.0723580802
+outer piece, -13.0724085413
+severe migraine headache, -13.0726313812
+nonrecoverable fault, -13.0727322734
+intuitive permanent cautery hook, -13.0727659019
+robotic arm failure, -13.0727785123
+damaged tube, -13.0728331555
+related tube, -13.0730516985
+assistance monitor, -13.0731903644
+instrument cable, -13.0743367731
+bare metal tube, -13.0744123143
+correct instrument, -13.0745549877
+cable break, -13.074886415
+new needle driver replacement, -13.07492836
+blade fracture, -13.0752554705
+setup arm, -13.0756160069
+indigo carmine solution, -13.0756201984
+right scissor blade, -13.0756453472
+unstated instrument, -13.0763869507
+device error, -13.0764581493
+instrument flush port, -13.0764749011
+damaged distal clevis, -13.0764874648
+successful cautery function, -13.0765125918
+second harmonic, -13.0766214679
+gage pin, -13.0769480252
+replacement trocar, -13.076956397
+grip cable, -13.0799865884
+non isi device, -13.0800742228
+grip jaw, -13.0801535044
+instrument coordinator, -13.0801827118
+appropriate backup instrument, -13.0803454234
+robotic monopolar device, -13.0803579385
+hysterectomy device usage problem, -13.0805498183
+minimal cautery, -13.0805623309
+device failure, -13.0806165504
+harmonic ace, -13.0812252756
+black piece, -13.0812627877
+correct energy activation cable, -13.0813002983
+distal clevis hub location, -13.0815378329
+arm breakage, -13.0815461665
+instrument coating, -13.0815711666
+surgical endoscopic instrument, -13.0838103105
+cable derailment, -13.0842342674
+device cable, -13.084238423
+retractor instrument cable, -13.0842799775
+tracheostomy tube, -13.0842924435
+pulley main tube, -13.0842965989
+fractured device, -13.0843090647
+silent alarm button, -13.0916369398
+axis cable, -13.0917441817
+faulty camera cable, -13.0918761559
+harmonic scalpel instrument, -13.0919833722
+insulation chip, -13.0919957426
+arm fault, -13.0920163595
+cautery use, -13.0920740847
+tube reinforcement ring, -13.0923750263
+ng tube placement, -13.0924286091
+blue cable, -13.0924533387
+multiple redundant, -13.0924780677
+multiple error, -13.0925852194
+procedure endowrist prograsp instrument, -13.092655274
+main insulation tube, -13.0929024861
+disposable cautery spatula, -13.0932361257
+top bipolar pin, -13.093372021
+motorized arm, -13.0934502553
+different instrument, -13.0935902384
+inch long cable segment, -13.0935943553
+blade damage, -13.0936972711
+instrument nothing, -13.0976494476
+whole trocar, -13.0979815073
+original blade, -13.0980224947
+large needle driver instrument, -13.099300458
+bipolar cautery cable, -13.0993577642
+instrument arm insertion axis, -13.0994150672
+scalpel cautery instrument, -13.0996237859
+endowrist needle holder, -13.099713808
+insulation testing, -13.1003846264
+use instrument, -13.1005072884
+hook instrument, -13.1206033215
+monopolar cautery device, -13.1206914747
+broken insulation, -13.120703495
+monopolar hot shear instrument, -13.1207115085
+arm clutch, -13.1207515747
+initial camera cable exchange, -13.1208317024
+mm bowel grasper instrument, -13.12087577
+check instrument engagement, -13.120883782
+possible broken cable, -13.120891794
+fenestrated maryland bipolst instrument, -13.1209078178
+intuitive harmonic scalpel, -13.1211681688
+monopolar cautery instrument copper, -13.1211962025
+grip closing, -13.1212282402
+left scissor blade, -13.1212843035
